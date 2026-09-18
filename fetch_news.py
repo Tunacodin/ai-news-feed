@@ -80,12 +80,20 @@ for i in items:
 if items:
     with open("NEWS.md", "a", encoding="utf-8") as fp:
         fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
-    # Telegram 4096 karakter siniri: 10'arli gruplar halinde yolla
-    for k in range(0, len(items), 10):
-        chunk = items[k:k + 10]
-        msg = "\n\n".join(f"<b>{html.escape(i['title'])}</b>\n{i['url']} - {i['src']}" for i in chunk)
+    # Telegram 4096 karakter siniri: karaktere gore grupla (uzun linkler tasmasin)
+    buf = ""
+    for i in items:
+        line = f"<b>{html.escape(i['title'])}</b>\n{i['url']} - {i['src']}"
+        if buf and len(buf) + len(line) + 2 > 3500:
+            try:
+                tg_send(buf)
+            except Exception as e:
+                print("Telegram hata:", e)
+            buf = ""
+        buf = buf + "\n\n" + line if buf else line
+    if buf:
         try:
-            tg_send(msg)
+            tg_send(buf)
         except Exception as e:
             print("Telegram hata:", e)
     print(f"{len(items)} yeni haber")
