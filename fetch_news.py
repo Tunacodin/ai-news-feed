@@ -1,6 +1,6 @@
 # Ne yapar: RSS + Hacker News + Google News'ten AI haberi ceker, gorulenleri eler,
 # yenileri Telegram'a yollar ve NEWS.md'ye ekler. Sadece feedparser harici bagimlilik yok.
-import json, os, re, urllib.request, urllib.parse, pathlib, html, feedparser
+import json, os, re, time, urllib.request, urllib.parse, pathlib, html, feedparser
 
 FEEDS = [
     "https://techcrunch.com/tag/artificial-intelligence/feed/",
@@ -39,9 +39,18 @@ def translate(text):
 
 def tg_call(method, params):
     if not (TG_TOKEN and TG_CHAT):
-        return
+        return {"ok": False, "description": "no token"}
     data = urllib.parse.urlencode(params).encode("utf-8")
-    urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/{method}", data=data, timeout=25)
+    try:
+        r = urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/{method}", data=data, timeout=25).read()
+        return json.loads(r)
+    except urllib.error.HTTPError as e:
+        try:
+            return json.loads(e.read())
+        except Exception:
+            return {"ok": False, "description": str(e)}
+    except Exception as e:
+        return {"ok": False, "description": str(e)}
 
 
 def find_media(url, entry):
@@ -84,57 +93,60 @@ def send_item(i):
     btn = json.dumps({"inline_keyboard": [[{"text": "→", "url": i["url"]}]]})
     base = {"chat_id": TG_CHAT, "parse_mode": "HTML", "reply_markup": btn}
     kind, media = find_media(i["url"], i.get("entry"))
+    r = {"ok": False}
+    if kind == "photo":
+        r = tg_call("sendPhoto", {**base, "photo": media, "caption": cap})
+    elif kind == "video":
+        r = tg_call("sendVideo", {**base, "video": media, "caption": cap})
+    if not r.get("ok"):
+        # Medya yoksa ya da Telegram reddettiyse (gecersiz/buyuk/erisilemez) duz metne dus.
+        if kind in ("photo", "video"):
+            print("medya reddedildi:", r.get("description"), "|", (media or "")[:70])
+        tg_call("sendMessage", {**base, "text": cap, "disable_web_page_preview": "true"})
+    time.sleep(0.4)  # Telegram hiz sinirina takilmamak icin
+
+
+def main():
+    seen_path = pathlib.Path("seen.json")
+    seen = set(json.loads(seen_path.read_text())) if seen_path.exists() else set()
+    items = []
+
+    # Hacker News (JSON)
     try:
-        if kind == "photo":
-            tg_call("sendPhoto", {**base, "photo": media, "caption": cap})
-        elif kind == "video":
-            tg_call("sendVideo", {**base, "video": media, "caption": cap})
-        else:
-            tg_call("sendMessage", {**base, "text": cap, "disable_web_page_preview": "true"})
+        for h in json.loads(get(HN))["hits"]:
+            if h.get("url") and h["objectID"] not in seen:
+                items.append({"title": h["title"], "url": h["url"], "src": "HN"})
+                seen.add(h["objectID"])
     except Exception as e:
-        # Medya gonderimi basarisizsa (gecersiz/buyuk dosya) duz metne dus.
+        print("HN hata:", e)
+
+    # RSS / Google News
+    for f in FEEDS:
         try:
-            tg_call("sendMessage", {**base, "text": cap, "disable_web_page_preview": "true"})
-        except Exception as e2:
-            print("Telegram hata:", e, e2)
+            for e in feedparser.parse(get(f)).entries[:20]:
+                key = e.get("id", e.get("link", ""))
+                if key and key not in seen:
+                    items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS", "entry": e})
+                    seen.add(key)
+        except Exception as e:
+            print("RSS hata:", f, e)
 
+    seen_path.write_text(json.dumps(list(seen)))
 
-seen_path = pathlib.Path("seen.json")
-seen = set(json.loads(seen_path.read_text())) if seen_path.exists() else set()
-items = []
-
-# Hacker News (JSON)
-try:
-    for h in json.loads(get(HN))["hits"]:
-        if h.get("url") and h["objectID"] not in seen:
-            items.append({"title": h["title"], "url": h["url"], "src": "HN"})
-            seen.add(h["objectID"])
-except Exception as e:
-    print("HN hata:", e)
-
-# RSS / Google News
-for f in FEEDS:
-    try:
-        for e in feedparser.parse(get(f)).entries[:20]:
-            key = e.get("id", e.get("link", ""))
-            if key and key not in seen:
-                items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS", "entry": e})
-                seen.add(key)
-    except Exception as e:
-        print("RSS hata:", f, e)
-
-seen_path.write_text(json.dumps(list(seen)))
-
-# Basliklari Turkce'ye cevir (sadece yeni haberler)
-for i in items:
-    i["title"] = translate(i["title"])
-
-if items:
-    with open("NEWS.md", "a", encoding="utf-8") as fp:
-        fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
-    # Her habere ayri mesaj: kalin baslik + saga ok butonu + (varsa) gorsel/video.
+    # Basliklari Turkce'ye cevir (sadece yeni haberler)
     for i in items:
-        send_item(i)
-    print(f"{len(items)} yeni haber")
-else:
-    print("yeni haber yok")
+        i["title"] = translate(i["title"])
+
+    if items:
+        with open("NEWS.md", "a", encoding="utf-8") as fp:
+            fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
+        # Her habere ayri mesaj: kalin baslik + saga ok butonu + (varsa) gorsel/video.
+        for i in items:
+            send_item(i)
+        print(f"{len(items)} yeni haber")
+    else:
+        print("yeni haber yok")
+
+
+if __name__ == "__main__":
+    main()
