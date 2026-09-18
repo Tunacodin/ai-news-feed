@@ -1,0 +1,67 @@
+# Ne yapar: RSS + Hacker News + Google News'ten AI haberi ceker, gorulenleri eler,
+# yenileri Telegram'a yollar ve NEWS.md'ye ekler. Sadece feedparser harici bagimlilik yok.
+import json, os, urllib.request, urllib.parse, pathlib, html, feedparser
+
+FEEDS = [
+    "https://techcrunch.com/tag/artificial-intelligence/feed/",
+    "https://news.google.com/rss/search?q=AI+model+launch&hl=en-US",
+]
+HN = "https://hn.algolia.com/api/v1/search_by_date?query=AI&tags=story&hitsPerPage=30"
+TG_TOKEN, TG_CHAT = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+
+
+def get(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "news-bot/1.0"})
+    return urllib.request.urlopen(req, timeout=20).read()
+
+
+def tg_send(text):
+    if not (TG_TOKEN and TG_CHAT):
+        return
+    data = urllib.parse.urlencode({
+        "chat_id": TG_CHAT, "text": text,
+        "parse_mode": "HTML", "disable_web_page_preview": "true",
+    }).encode()
+    urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=data, timeout=20)
+
+
+seen_path = pathlib.Path("seen.json")
+seen = set(json.loads(seen_path.read_text())) if seen_path.exists() else set()
+items = []
+
+# Hacker News (JSON)
+try:
+    for h in json.loads(get(HN))["hits"]:
+        if h.get("url") and h["objectID"] not in seen:
+            items.append({"title": h["title"], "url": h["url"], "src": "HN"})
+            seen.add(h["objectID"])
+except Exception as e:
+    print("HN hata:", e)
+
+# RSS / Google News
+for f in FEEDS:
+    try:
+        for e in feedparser.parse(get(f)).entries[:20]:
+            key = e.get("id", e.get("link", ""))
+            if key and key not in seen:
+                items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS"})
+                seen.add(key)
+    except Exception as e:
+        print("RSS hata:", f, e)
+
+seen_path.write_text(json.dumps(list(seen)))
+
+if items:
+    with open("NEWS.md", "a", encoding="utf-8") as fp:
+        fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
+    # Telegram 4096 karakter siniri: 10'arli gruplar halinde yolla
+    for k in range(0, len(items), 10):
+        chunk = items[k:k + 10]
+        msg = "\n\n".join(f"<b>{html.escape(i['title'])}</b>\n{i['url']} - {i['src']}" for i in chunk)
+        try:
+            tg_send(msg)
+        except Exception as e:
+            print("Telegram hata:", e)
+    print(f"{len(items)} yeni haber")
+else:
+    print("yeni haber yok")
