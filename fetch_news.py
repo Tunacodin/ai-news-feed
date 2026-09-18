@@ -16,7 +16,18 @@ def get(url):
 
 
 def translate(text):
-    # Ucretsiz, anahtarsiz Google ceviri ucu. Basarisiz olursa orijinali dondurur.
+    # Once MyMemory (ucretsiz, anahtarsiz, sunucudan calisir), olmazsa Google gtx yedek.
+    if not text:
+        return text
+    try:
+        q = urllib.parse.quote(text)
+        url = f"https://api.mymemory.translated.net/get?q={q}&langpair=en|tr"
+        data = json.loads(get(url))
+        t = data.get("responseData", {}).get("translatedText", "") or ""
+        if t and "MYMEMORY WARNING" not in t.upper():
+            return html.unescape(t)
+    except Exception:
+        pass
     try:
         q = urllib.parse.quote(text)
         url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=tr&dt=t&q={q}"
