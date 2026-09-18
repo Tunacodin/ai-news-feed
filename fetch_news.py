@@ -1,6 +1,6 @@
 # Ne yapar: RSS + Hacker News + Google News'ten AI haberi ceker, gorulenleri eler,
 # yenileri Telegram'a yollar ve NEWS.md'ye ekler. Sadece feedparser harici bagimlilik yok.
-import json, os, urllib.request, urllib.parse, pathlib, html, feedparser
+import json, os, re, urllib.request, urllib.parse, pathlib, html, feedparser
 
 FEEDS = [
     "https://techcrunch.com/tag/artificial-intelligence/feed/",
@@ -37,14 +37,66 @@ def translate(text):
         return text
 
 
-def tg_send(text):
+def tg_call(method, params):
     if not (TG_TOKEN and TG_CHAT):
         return
-    data = urllib.parse.urlencode({
-        "chat_id": TG_CHAT, "text": text,
-        "parse_mode": "HTML", "disable_web_page_preview": "true",
-    }).encode()
-    urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=data, timeout=20)
+    data = urllib.parse.urlencode(params).encode("utf-8")
+    urllib.request.urlopen(f"https://api.telegram.org/bot{TG_TOKEN}/{method}", data=data, timeout=25)
+
+
+def find_media(url, entry):
+    # Once RSS medya alanlari, sonra sayfanin og:image/og:video etiketi. Bulamazsa (None, None).
+    entry = entry or {}
+    for key in ("media_content", "media_thumbnail"):
+        for m in entry.get(key, []) or []:
+            u = m.get("url")
+            if u:
+                return ("photo", u)
+    for enc in (entry.get("enclosures", []) or []):
+        u = enc.get("href") or enc.get("url")
+        t = (enc.get("type") or "")
+        if u and t.startswith("video"):
+            return ("video", u)
+        if u and t.startswith("image"):
+            return ("photo", u)
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', entry.get("summary", "") or "")
+    if m:
+        return ("photo", m.group(1))
+    try:
+        page = get(url).decode("utf-8", "ignore")
+        v = re.search(r'property=["\']og:video(?::url)?["\'][^>]*content=["\']([^"\']+)', page) \
+            or re.search(r'content=["\']([^"\']+)["\'][^>]*property=["\']og:video', page)
+        if v:
+            return ("video", html.unescape(v.group(1)))
+        og = re.search(r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)', page) \
+            or re.search(r'content=["\']([^"\']+)["\'][^>]*property=["\']og:image', page) \
+            or re.search(r'name=["\']twitter:image["\'][^>]*content=["\']([^"\']+)', page)
+        if og:
+            return ("photo", html.unescape(og.group(1)))
+    except Exception:
+        pass
+    return (None, None)
+
+
+def send_item(i):
+    # Gorunurde sadece kalin baslik + saga ok butonu; ciplak link gorunmez. Gorsel/video varsa ekli.
+    cap = f"<b>{html.escape(i['title'])}</b>"
+    btn = json.dumps({"inline_keyboard": [[{"text": "→", "url": i["url"]}]]})
+    base = {"chat_id": TG_CHAT, "parse_mode": "HTML", "reply_markup": btn}
+    kind, media = find_media(i["url"], i.get("entry"))
+    try:
+        if kind == "photo":
+            tg_call("sendPhoto", {**base, "photo": media, "caption": cap})
+        elif kind == "video":
+            tg_call("sendVideo", {**base, "video": media, "caption": cap})
+        else:
+            tg_call("sendMessage", {**base, "text": cap, "disable_web_page_preview": "true"})
+    except Exception as e:
+        # Medya gonderimi basarisizsa (gecersiz/buyuk dosya) duz metne dus.
+        try:
+            tg_call("sendMessage", {**base, "text": cap, "disable_web_page_preview": "true"})
+        except Exception as e2:
+            print("Telegram hata:", e, e2)
 
 
 seen_path = pathlib.Path("seen.json")
@@ -66,7 +118,7 @@ for f in FEEDS:
         for e in feedparser.parse(get(f)).entries[:20]:
             key = e.get("id", e.get("link", ""))
             if key and key not in seen:
-                items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS"})
+                items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS", "entry": e})
                 seen.add(key)
     except Exception as e:
         print("RSS hata:", f, e)
@@ -80,22 +132,9 @@ for i in items:
 if items:
     with open("NEWS.md", "a", encoding="utf-8") as fp:
         fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
-    # Telegram 4096 karakter siniri: karaktere gore grupla (uzun linkler tasmasin)
-    buf = ""
+    # Her habere ayri mesaj: kalin baslik + saga ok butonu + (varsa) gorsel/video.
     for i in items:
-        line = f"<b>{html.escape(i['title'])}</b>\n{i['url']} - {i['src']}"
-        if buf and len(buf) + len(line) + 2 > 3500:
-            try:
-                tg_send(buf)
-            except Exception as e:
-                print("Telegram hata:", e)
-            buf = ""
-        buf = buf + "\n\n" + line if buf else line
-    if buf:
-        try:
-            tg_send(buf)
-        except Exception as e:
-            print("Telegram hata:", e)
+        send_item(i)
     print(f"{len(items)} yeni haber")
 else:
     print("yeni haber yok")
