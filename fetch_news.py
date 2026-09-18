@@ -15,6 +15,17 @@ def get(url):
     return urllib.request.urlopen(req, timeout=20).read()
 
 
+def translate(text):
+    # Ucretsiz, anahtarsiz Google ceviri ucu. Basarisiz olursa orijinali dondurur.
+    try:
+        q = urllib.parse.quote(text)
+        url = f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=tr&dt=t&q={q}"
+        data = json.loads(get(url))
+        return "".join(seg[0] for seg in data[0] if seg and seg[0])
+    except Exception:
+        return text
+
+
 def tg_send(text):
     if not (TG_TOKEN and TG_CHAT):
         return
@@ -50,6 +61,10 @@ for f in FEEDS:
         print("RSS hata:", f, e)
 
 seen_path.write_text(json.dumps(list(seen)))
+
+# Basliklari Turkce'ye cevir (sadece yeni haberler)
+for i in items:
+    i["title"] = translate(i["title"])
 
 if items:
     with open("NEWS.md", "a", encoding="utf-8") as fp:
