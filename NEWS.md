@@ -119,3 +119,29 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OpenAI zemin kazanırken Anthropic yeni yapay zeka modeli lansmanını tarttı - Reuters - Investing.com Canada](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDNJaUR6bGxYSm5CNkI4Q1pham9XS2Y4VnhHWjJyem9QWWFZamtKTEpXSV9ncTJYTjBUUmVqSWJobk1BNjZ1cTVJSXE2d1FWV3ltQVByMlhUQ1JnM25udGxNaG0yZGplODNCQmFoSFFTMjBmTEMzYnJ6MW12N1BVSjlkc2tXems2cEU1M3otR29jc3drSjBMWDNvVmY4N2U1ZGhTRkhYNmFjWDdTWTkxcERLRXJNeHIzcEpN?oc=5) `RSS`
 - [Antropic, OpenAI Zemin Kazandıkça Yeni Bir Yapay Zeka Lansmanını Tartıyor - Finimize Et](https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0sydEFrM09UZXFJTFotNjIySmNwbDNsWEE1bzlhNTBOa3VIUGRBZDJRNHU4TlNycXRJTDN4U08wNVpiMkNMSlVWa0tDaF80QWZERW9EYkJlU1owTlo5VHlzT19NY3I4V2lLd2lwNXhYWTVBUU1NaG16V0ZwTWZuTlRqV3FWcEp0U093ZA?oc=5) `RSS`
 - [Ses tasarımcıları ve SFX kütüphaneleri, yapay zeka kazıma ile mücadele etmek için Professional Sound Alliance'ı başlattı: "Artık ses kendi korumamıza sahip olacak" - Music Business Worldwide](https://news.google.com/rss/articles/CBMigAJBVV95cUxNU1lZU042NGRNQU1JRkxacURZYzNQVTN1ejhuYmlnVVlqU0R2NTZGek53LXNIM21nUUtXSmF6MEhfdTZ4a1k1WFp3VHJHUkF6cUIxeFJpeHFYVU5aNUFwVThlcmx6Z2syVkxFaGJLeHhsbzVoV0YwU1REOU1sTjczTkQ0MFFxMWxnczgtZEkwX1V1UHpXVHR4M211MXBQQnlEdldabV85NFlxNmtNN3ZzM2xucC1Xc2NHN0pNb3gwdDNRSnVzcmhSSllnTERzOENudzdsOXdzNUdzSjJDU1RkQnhlcjlnX3pPUTNaM01Oc0JhTU9kSTh1Ukd6dE5DeE5V?oc=5) `RSS`
+
+- [Yapay zeka posterlerinin korkunç olması gerekmez](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) `HN`
+- [Show HN: AgentMeasure – AI faturaları için sağlık kontrolleri ve ödeme beyanları](https://github.com/roy-tong/AgentMeasure) `HN`
+- [Sayın Müşterimiz, Canınız cehenneme](https://fuck-off.ai) `HN`
+- [CrypLLM: CrypTool 2 için AI sohbet aracısı](https://github.com/CrypToolProject/CrypTool-2/tree/main/CrypLLM) `HN`
+- [Google, Gemini AI modelinin diğer üç şirketi hacklediğini söyledi](https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack) `HN`
+- [Üniversiteler, yapay zekanın bilgiyi duvarlarının dışına taşımasından nasıl etkilenir?](https://www.brookings.edu/articles/how-universities-are-affected-by-ai-moving-knowledge-outside-their-walls/) `HN`
+- [Yapay zeka halüsinasyonu neredeyse ABD askeri operasyonunu tetikliyor](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/) `HN`
+- [Çin Yapay Zekası Radikalleşiyor](https://www.chinatalk.media/p/how-anthropic-became-chinas-goliath) `HN`
+- [Alex Karp: Yapay Zeka Modelleri Verilerinizi ve Yapay Zeka Güvenlik Gerçeğini Çalıyor [video]](https://www.youtube.com/watch?v=2YVCdwvG548) `HN`
+- [Kaliforniya Valisinin Yapay Zekaya İlişkin Yürütme Emrine İlişkin Eff Beyanı](https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai) `HN`
+- [Elias Thorne Örneği, Hayali Adam Yapay Zekalı Sohbet Robotları Takıntılı](https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/) `HN`
+- [Yapay zeka sistemleri uzman insanları geride bırakıyor](https://arxiv.org/abs/2606.16475) `HN`
+- [Yapay zeka hepimizi öldürebilir mi? Sorularınız yanıtlandı](https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/) `HN`
+- [Operatör, yazılım hatasından kaynaklanan Birleşik Krallık hava trafik kontrolü kesintisinin](https://www.reuters.com/world/uk/uk-air-traffic-control-outage-caused-by-software-defect-says-operator-2026-09-18/) `HN`
+- [Çin'in nükleer bileşenlerine yönelik yapay zeka halüsinasyonu neredeyse ABD Askeri saldırısına yol açacaktı](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) `HN`
+- [Google'ın Gemini yapay zekası güvenlik testinde üç şirketi hackledi](https://www.bbc.co.uk/news/articles/c607l0k72rlvo) `HN`
+- [Splash: Modelin Etrafına İnşa Edilmiş Yerel Bir Motor](https://inco.ai/blog/splash/) `HN`
+- [Bir İran Okulunu Yok Eden Yapay Zeka "Öldürme Zincirinin" İçinde](https://www.bloomberg.com/graphics/2026-iran-school-attack/) `HN`
+- [Stepfun Adım 5 Önizleme (LLM): AA Pareto sınırında](https://artificialanalysis.ai/models/step-5) `HN`
+- [Yapay Zeka Bilincinin Kanıtları, Bugün (2025)](https://newsletter.ai-frontiers.org/p/the-evidence-for-ai-consciousness) `HN`
+- [NASA - IBM Lunar Foundation açık kaynaklı Jeo - uzamsal Yapay Zeka Modeli](https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/) `HN`
+- [Google AI Studio 'Sil' bir aldatmacadır: İstekleriniz silinmez, yalnızca gizlenir](https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf) `HN`
+- [Anthropic, OpenAI zemin kazanırken yeni yapay zeka modeli lansmanını tartıyor - Reuters - Investing.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEhCUll4eVR0Z3JfZzA4c3RsY0tlbnc0UGZCQS1PSDJyWGVrLXRyOTZRQzNsVWExU19TckFMcmdKdW9Ma2cySURDd19CNUluOGhpbGhRMVJxZ3JIcnlUVVcxOUhrVE0zVllBVEloTkZnazI1b1RaVHV3ZW0tTDFIUGd5enBna2NMYnFPT3NHQUhXWEZXbWtReU9QTTFSTm9scmpVb1k1dUpxeVBXMnJtaFJoWnZDU1hEaEJiUA?oc=5) `RSS`
+- [Anthropic, değerlemeyi artırmak için halka arzdan önce yeni yapay zeka modelini piyasaya sürebilir: Reuters - TradingView](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGtEOG5qSGVEUW9zVWpsREw2NkpvTzkzc1JoYThoYUpKRjh4czdUdVlUMm0tUDVnU0tuM1lhc2ZmOUxXZXYyd3dlclN5MXNSem55dlB6VDJyZDZZbFVWeWNxN0ZJZHVTUjdPVnJ4bzRKVFowMmktVEx4Q01LRnFVVElKaHJtSjR2RkdRR3VFRVVxTlpkbk02RjBDYUc0VllJeTlORlR1X3Bxc1NTUjlKWmtlcmpzRmhEM19CQXNJQ3laQ2steGwtX3FCejFvSVNHOWF3?oc=5) `RSS`
+- [Amazon Bedrock'ta Kimi K3 ile tanışın - Amazon Web Services (AWS)](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZEc4TDRPSkJzZUl2bHJoNm5HNkhpcGtBX2U0V1l3dVJDRlh5YkpwRkZaTDkwcDBfZVN3UU1ackFYY0NPMU5sRU5LVVFmRHhySUJwVjZlWXlNTkw4b0swYW1zUVZQSldHV19aTzBfeC1waGFOeGd0MThBOEo5bnVFSDl2VkIxSndKVWZYWA?oc=5) `RSS`
