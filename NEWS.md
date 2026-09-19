@@ -202,3 +202,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: Bir ay boyunca ücretsiz bir AI UGC video yaratıcısı oluşturduk](https://kuvu.ai/marketing/ai-ugc) `HN`
 - [Sizinle Konuşmayacak Yapay Zeka Modeli: Yapay Zeka İş Akışları için Eksik Parça mı?](https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you) `HN`
 - [OpenEvidence yeni AI model ailesini piyasaya sürdü - STAT](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGdpc3FIQ1VrX3Z3aG5WLTFUVDhLcnc0WEpheEZkTmpZRWtaSUpFVnhtM29GNEp3MkFNRGp3ZGdSYlF3aHFQcHRON2thdHFBRFpRZ2I3RUxWMFVHLXo0SXdfZmFncFJWU1VodWpMYUltNWNZVkhwbF9LQklfbVFoWlJSQzVyYnRueUpYSm1sUjRlTjMxSWNuTHlqTQ?oc=5) `RSS`
+
+- [Laik Bir Kıyamet İnanç Sistemi İnşa Ettiler. Şimdi Dini Yetki İstiyorlar](https://www.aipanic.news/p/first-they-built-a-secular-apocalypse) `HN`
+- [JustBot – jeton maliyetinin ~1/10 'unda Grok - Bot tarzı bir AI asistanı](https://justbot.co) `HN`
+- [Yapay Zeka Kıyamet Günü'nün Zayıf Temelleri](https://www.aipanic.news/p/the-weak-foundations-of-ai-doomsday) `HN`
+- [Show HN: OpenWand – Sohbet arayüzünü yapay zeka ile çalışmaktan kaldırma görevi](https://github.com/SunnyLich/OpenWand) `HN`
+- [Piers Morgan'ın röportaj yaptığı yapay zeka oyuncusu [video]](https://www.youtube.com/watch?v=x4yyBWkYSHs) `HN`
+- [Şirketlerden Verilerini Silmelerini İsteyen Yapay Zeka Ajansları Oluşturdum. Çoğu Hiç Cevap Vermedi](https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1) `HN`
+- [OpenAI ve Anthropic yapay zeka güvenlik ihlallerini aştı](https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/) `HN`
+- [KdK Bölüm 5: Aitkenator](https://nealstephenson.substack.com/p/kdk-part-5-the-aitkenator) `HN`
+- [Kurucu Mühendis, Yapay Zeka ve Full - Stack](https://bettrlife.ai/founding-engineer) `HN`
+- [Düzenlenmiş ev sahipliği listesi (VPS, GPU, Infra, AI)](https://github.com/dalisoft/awesome-hosting) `HN`
+- [Yapay zeka çağında yazılım geliştiriciyi nasıl görüyorum?](https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/) `HN`
+- [Eski konsol oyunlarının PC bağlantı noktaları, yeni AI vibe kodlama savaş alanıdır](https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/) `HN`
+- [Çok aşamalı bir AiTM kimlik avı ve Bec kampanyasının tespit edilmesi ve azaltılması (2023)](https://www.microsoft.com/en-us/security/blog/2023/06/08/detecting-and-mitigating-a-multi-stage-aitm-phishing-and-bec-campaign/) `HN`
+- [Docker'ın Hipervizöründen Kaçış](https://accomplish.ai/blog/escaping-dockers-hypervisor/) `HN`
+- [JEV'in ilaç keşif ajanları için bir doğrulama kapısı olarak test edilmesi](https://frederickparsons.substack.com/p/can-a-fast-ai-gate-catch-chemistry) `HN`
+- [Sizce bu fenomenin mevcut yapay zeka söylemindeki yaygınlığı nedir?](https://en.wikipedia.org/wiki/Preference_falsification) `HN`
+- [Show HN: Jev to JSON - Schema](https://github.com/Kiln-AI/jev_jsonschema) `HN`
+- [Uyarı İşaretleri [Yapay Zeka Ekonomisi]](https://newleftreview.org/sidecar/posts/warning-signs) `HN`
+- [ChatGPT mucidinin yeni bir yapay zeka modeli geliştiricileri heyecanlandırıyor](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) `HN`
+- [Facebook'ta yapay zeka tarafından oluşturulan gerici gönderilerin kazançlı işi](https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html) `HN`
+- [Show HN: Stardrift – Keşfetmek ve öğrenmek için tüm müziğin 3D galaksisi](https://stardrift.gerlach.dev/) `HN`
+- [Çinli Bir Bilgisayar Korsanlığı Şirketi, Siber Casusluğu Güçlendirmek İçin Yapay Zekayı Nasıl Kullandı?](https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846) `HN`
+- [Trump Bir "Yapay Zeka Gücü" Duyurdu](https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f) `HN`
+- [Yapay Zeka Bize Ne Zaman İhtiyaç Duymayı Bırakacak?](https://cacm.acm.org/blogcacm/when-does-ai-stop-needing-us/) `HN`
+- [Dava, Anthropic, OpenAI ve diğerlerinin yapay zekanın yavaşlaması konusunda yasa dışı bir anlaşma yaptığını söylüyor](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b) `HN`
+- [AI Is Just Greg – Inside an AI Datacenter [video]](https://www.youtube.com/watch?v=0GofbjETCS4) `HN`
+- [Nowhere Air: Nowhere'e birinci sınıf bilet alın](https://nowhereair.com/) `HN`
+- [Microsoft yöneticisi: Yapay zeka "insanlık tarihindeki en büyük işgücü hırsızlığını" sıyırıyor](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit) `HN`
+- [JEV'e karşı XGBoost ve Bert](https://explainx.ai/blog/jev-vs-xgboost-bert-classifiers-2026) `HN`
+- [Antropik yeni yapay zeka modeli halka arzdan önce gelebilir - tbreak.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE96QlNpVG41cE9lc2lSb01kVnpXazYzbE9sNGoxbkwybzYzRGg2Q2dwbnVuZm9aeU1QWV91b2ppd2JKR2hBNnljS1VTVkFTQVc3SlRWWUN4Z0pvNkkxYl9aRXln?oc=5) `RSS`
+- [YAYIN: Gottheimer, Jersey Ailelerini Korumak için Yapay Zeka Güvenliğine İlişkin Yeni İki Partili Mevzuatı Duyurdu, Ulusal Güvenlik - House.gov](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWmtCMUFDZW03RmRSYmh0RHlVZjBvWGZpMjJSVVdhUHNrdUlueW90TmZhc3hnakpIZ0o3QV9wcFdWcl9tb0JfN1VEZHhxNkdhWHEzYk81bDhFSnR6QVh4MVlENGRNRVdFWXVNSFlOdmxqN3Q0Q0xaTE1YbXM1WVZfd0ZHQUVSV3ZUX212S3llR0pOVl9sYy1Pc29jVEsyNjI4NXBudFoxUzRxSTBkbm5Ja19aMWVDdlR6RXAtNWd2R2RHNFRhcDhWUFRYRDUwaVZndW1HYXUtWGxhTmhJdWx6cnln?oc=5) `RSS`
