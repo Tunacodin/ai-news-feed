@@ -177,3 +177,28 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Kaliforniya valisi, yapay zekanın "acil durum anahtarını" keşfetme emrini imzaladı](https://techxplore.com/news/2026-09-california-governor-explore-ai.html) `HN`
 - [Anthropic, halka arzdan önce yeni bir yapay zeka modelini piyasaya sürüyor: Reuters - Seeking Alpha](https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3htNVRfZGczMVd1QWc4M1hUUHNsaE1YM1VPTTVrU3ZvQXduM1VXc2VXMzNUTm1IQWFzc0lBVlZveXZickRWcS04ZGRzOEpIYUtmcUNoY3NYTDg4N2x3N0NvMzhLeGJvLUdlR0MyNzBzSnp0bUNBZVJwNFVLVzZIWXZhY0U3Z0E?oc=5) `RSS`
 - [Rappler: Anthropic, yeni yapay zeka modelini halka arzdan önce piyasaya sürmeyi düşünüyor](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLXl4VnFEYW1WeTlZc08yQ1pyaGpseDRVaFJwOWJfdDJRVmpPZHpSMllHcVlET3dqNFdxMHBNWnRUa1dkNGlVNmtkblFCbWlwdHFuX19aTjdJOHRYRkFiVDlzZWc2VTdnd1dSWG5FNDJ4enJ4cVo5aHpFMjAySmV5aWpYcUFIRDV5aWFSdl9wT01PZw?oc=5) `RSS`
+
+- [Show HN: Reader – Kitaplar, tarayıcı sekmeleri, notlar ve yapay zeka için bir Mac çalışma alanı oluşturdum](https://github.com/Marvy101/reader-source) `HN`
+- [Yapay Zeka Yardımı Uzmanlığı Geliştiriyor mu yoksa Erode Uzmanlığını mı Geliştiriyor? 3 Aylık Deneyin Kanıtları](https://www.nber.org/papers/w35720) `HN`
+- [Yapay zeka ve bilimin kalbindeki paradoks – Terence Tao [video]](https://www.youtube.com/watch?v=svl_1upFpQo) `HN`
+- [Dava: Anthropic, OpenAI, SpaceXAI ve Google'ın Yasa Dışı Yapay Zeka Yavaşlaması Anlaşması](https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html) `HN`
+- [AI Shield'ın engelini kaldırın – Sıfır disk RAM retentio ile invaziv olmayan çevre sertleştirmesi](https://unblock-shield.vercel.app/?lang=en) `HN`
+- [Şirketim, adayların görüşmelerde yapay zeka araçlarını kullanmalarına izin verdi. İşte gördüklerim](https://www.reddit.com/r/EngineeringManagers/comments/1urw740/my_company_lets_candidates_use_ai_tools_in/) `HN`
+- [Yürütülebilir karar tabloları olarak yapay zeka aracı yönetişim modelleri (MIT lisansı)](https://github.com/scubagraham/outthebox-open-patterns) `HN`
+- [Neredeyse Hiçbir Zaman Önemli Bir Şey Yazmak için Yapay Zeka Kullanılmaz](https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai) `HN`
+- [Hala gerçek RSI'yi satın almadım](https://www.interconnects.ai/p/where-i-stand-on-rsi) `HN`
+- [“Yapay Zeka Modelleri Artık Fiziksel Dünyada Güvenlik Risklerini Ortaya Koyuyor”](https://www.micro1.ai/research/ai-models-now-introduce-safety-risks-in-the-physical-world) `HN`
+- [Yapay zeka sadece başka bir programlama aracıdır](https://norsewanderer.com/blog/blog1.html) `HN`
+- [Dava, Anthropic, OpenAI, SpaceXAI ve Google'ı Yapay Zeka Temposunda "Gizli Anlaşma" ile Suçladı](https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/) `HN`
+- [Irregular, 4 yapay zeka laboratuvar ihlalinin altta yatan tek bir sorundan kaynaklandığını söylüyor](https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini) `HN`
+- [Yapay Zeka Model Lider Tahtaları](https://vercel.com/ai-gateway/leaderboards/models) `HN`
+- [Sadece Yapay Zeka Temsilcisi Değil, Konuşmayı Onaylayın](https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent) `HN`
+- [Yapay Zeka Delegasyonu Kolaylaştırdı: Yapı Hala Beceri](https://syntheticauth.ai/posts/ai-made-delegation-easy-structure-is-still-the-skill) `HN`
+- [Guesswork – önek eşleşmesi yerine bir AI modeli tarafından sıralanan zsh otomatik önerileri](https://guesswork.findmalek.com) `HN`
+- ['Sketchy AF ': OpenAI Personelinin Kitap Korsanlığını Nasıl Tartıştığı Hakkında Bilmeniz Gerekenler](https://www.wsj.com/tech/ai/sketchy-af-what-to-know-about-how-openai-staff-discussed-book-pirating-fdc788a1) `HN`
+- [Yapay Zeka Güvenliği Çoğunlukla Bir Seks Tarikatıdır](https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q) `HN`
+- [Bir yapay zeka ajanının hafızasının hala güncel olup olmadığını nasıl değerlendirmeliyiz?](https://twitter.com/AgentMemoryL/status/2101312784688726331) `HN`
+- [Anthropic, OpenAI, SpaceXAI ve Google, yapay zeka gelişimini "hızlandırma" çağrısı üzerine dava açtı](https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023) `HN`
+- [Show HN: Bir ay boyunca ücretsiz bir AI UGC video yaratıcısı oluşturduk](https://kuvu.ai/marketing/ai-ugc) `HN`
+- [Sizinle Konuşmayacak Yapay Zeka Modeli: Yapay Zeka İş Akışları için Eksik Parça mı?](https://mlnotes.substack.com/p/the-ai-model-that-wont-talk-to-you) `HN`
+- [OpenEvidence yeni AI model ailesini piyasaya sürdü - STAT](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGdpc3FIQ1VrX3Z3aG5WLTFUVDhLcnc0WEpheEZkTmpZRWtaSUpFVnhtM29GNEp3MkFNRGp3ZGdSYlF3aHFQcHRON2thdHFBRFpRZ2I3RUxWMFVHLXo0SXdfZmFncFJWU1VodWpMYUltNWNZVkhwbF9LQklfbVFoWlJSQzVyYnRueUpYSm1sUjRlTjMxSWNuTHlqTQ?oc=5) `RSS`
