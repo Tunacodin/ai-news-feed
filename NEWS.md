@@ -145,3 +145,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Anthropic, OpenAI zemin kazanırken yeni yapay zeka modeli lansmanını tartıyor - Reuters - Investing.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEhCUll4eVR0Z3JfZzA4c3RsY0tlbnc0UGZCQS1PSDJyWGVrLXRyOTZRQzNsVWExU19TckFMcmdKdW9Ma2cySURDd19CNUluOGhpbGhRMVJxZ3JIcnlUVVcxOUhrVE0zVllBVEloTkZnazI1b1RaVHV3ZW0tTDFIUGd5enBna2NMYnFPT3NHQUhXWEZXbWtReU9QTTFSTm9scmpVb1k1dUpxeVBXMnJtaFJoWnZDU1hEaEJiUA?oc=5) `RSS`
 - [Anthropic, değerlemeyi artırmak için halka arzdan önce yeni yapay zeka modelini piyasaya sürebilir: Reuters - TradingView](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGtEOG5qSGVEUW9zVWpsREw2NkpvTzkzc1JoYThoYUpKRjh4czdUdVlUMm0tUDVnU0tuM1lhc2ZmOUxXZXYyd3dlclN5MXNSem55dlB6VDJyZDZZbFVWeWNxN0ZJZHVTUjdPVnJ4bzRKVFowMmktVEx4Q01LRnFVVElKaHJtSjR2RkdRR3VFRVVxTlpkbk02RjBDYUc0VllJeTlORlR1X3Bxc1NTUjlKWmtlcmpzRmhEM19CQXNJQ3laQ2steGwtX3FCejFvSVNHOWF3?oc=5) `RSS`
 - [Amazon Bedrock'ta Kimi K3 ile tanışın - Amazon Web Services (AWS)](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZEc4TDRPSkJzZUl2bHJoNm5HNkhpcGtBX2U0V1l3dVJDRlh5YkpwRkZaTDkwcDBfZVN3UU1ackFYY0NPMU5sRU5LVVFmRHhySUJwVjZlWXlNTkw4b0swYW1zUVZQSldHV19aTzBfeC1waGFOeGd0MThBOEo5bnVFSDl2VkIxSndKVWZYWA?oc=5) `RSS`
+
+- [HN'yi göster](https://superii.site/) `HN`
+- [Yanlış Irk: ABD, Çin ve Yapay Zeka Yarışması [pdf]](https://quincyinst-2.s3.amazonaws.com/wp-content/uploads/2026/09/17163452/QUINCY-BRIEF-NO.-110-SEPT-2026-GRAYLIN.pdf) `HN`
+- [Makine Öğrenimi Bilimi ve Yapay Zeka Dağıtımına Yönelik İtki](https://medium.com/@MirArshadTalpur/the-science-of-machine-learning-vs-the-push-for-ai-deployment-854c659e4a6a) `HN`
+- [Araştırma makalelerini etkileşimli ve güvenilir yapay zeka ajanları olarak yeniden tasarlamak](https://www.nature.com/articles/s41586-026-11044-y) `HN`
+- [Kodu okumalı mısınız, RAG öldü mü ve Skills MCP'yi öldürdü mü?](https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/) `HN`
+- [Yapay zeka kodlama ajanlarının 0 tıklamalı RCE hatası, saldırganların anahtarlarını krallığa verebilir](https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335) `HN`
+- [Yapay zeka silahlanma yarışı durdurulabilir mi?](https://www.economist.com/leaders/2026/09/17/can-the-ai-arms-race-be-stopped) `HN`
+- [Yapay zeka konusunda neden (bir nevi) endişelenmiyorum – Jack Conte - SXSW [VIDEO]](https://www.youtube.com/watch?v=17_HcR95YBc) `HN`
+- [Yoshua Bengio'nun kâr amacı gütmeyen LawZero'su güvenli yapay zeka geliştirecek](https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/) `HN`
+- [Yapay zeka kill switch'i açıkladı: "Çok az değil ama muhtemelen çok geç"](https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html) `HN`
+- [Yapay zeka şirketleri yavaşlamak için "gizli anlaşma" yapmakla suçlandı](https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit) `HN`
+- [Bull, Yeni Nesil Lumi AI Süper Bilgisayarı için HPE'yi Yendi](https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292) `HN`
+- [Yapay zeka güvenliğinin aniden patlayan dünyasının içinde](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic) `HN`
+- [Show HN: Kobblestone – Kubernetes'te Minecraft](https://github.com/kobblestoneio/kobblestone) `HN`
+- [Yüzey seviyesindeki yapay zeka metaforlarını temel gerçekliği tanımlıyormuş gibi ele almayın](https://blog.andymasley.com/p/dont-treat-surface-level-metaphors) `HN`
+- [Next - Token Predictor Bir Yapay Zekanın İşidir, Türünün Değil](https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job) `HN`
+- [Sıçrama Motoru – Apple Silicon'da En Hızlı Yerel Qwen3.8](https://lmstudio.ai/blog/splash-engine) `HN`
+- [Yapay zeka modelleri "otonom olarak" hacklemiyor](https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously) `HN`
+- [Sunshine Coast Havalimanı yer karosu deseni, IMO 2025 'in en zor sorununa ilham verdi](https://petermc.net/blog/2025/07/21/imo-2025/) `HN`
+- [Jev ve AI SDK ile nasıl sınıflandırılır, yönlendirilir ve puanlanır](https://vercel.com/kb/guide/typesafe-jev-and-ai-sdk) `HN`
+- [Google, Yapay Zeka Hacklerini Açıklamak İçin OpenAI, Anthropic ve Meta'ya Katıldı](https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests) `HN`
+- [CodeIO: Daha iyi halkla ilişkiler için yapay zekanıza determinizm serpin](https://nloum.github.io/blog/codeio/) `HN`
+- [Çin üniversitesi yabancı propagandayı şekillendirmek için "sentetik nüfus" inşa ediyor](https://www.aspistrategist.org.au/china-is-building-an-ai-system-for-tailoring-its-foreign-propaganda/) `HN`
+- [SaaS Satın Alımları için Cloudflare AI Agent Diagnostics Kullanan Var mı?](https://blog.cloudflare.com/aeo/) `HN`
+- [OwnNotes: Özel AI Not Defteri](https://apps.apple.com/us/app/ownnotes-private-ai-note/id6805594736) `HN`
+- [Ev sahipliği yapacak misafir: Docker'ın hipervizöründen kaçma](https://accomplish.ai/blog/escaping-dockers-hypervisor/) `HN`
+- [Anthropic, yapay zeka ilaç programını hızlandırırken biyoloji laboratuvarı kurdu](https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/) `HN`
+- [DraftKings, Kaybetmesi En Muhtemel Kumarbazları Hedef Almak İçin YAPAY Zeka Kullanıyor](https://www.nytimes.com/2026/09/19/business/draftkings-ai.html) `HN`
+- [Kaliforniya valisi, yapay zekanın "acil durum anahtarını" keşfetme emrini imzaladı](https://techxplore.com/news/2026-09-california-governor-explore-ai.html) `HN`
+- [Anthropic, halka arzdan önce yeni bir yapay zeka modelini piyasaya sürüyor: Reuters - Seeking Alpha](https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3htNVRfZGczMVd1QWc4M1hUUHNsaE1YM1VPTTVrU3ZvQXduM1VXc2VXMzNUTm1IQWFzc0lBVlZveXZickRWcS04ZGRzOEpIYUtmcUNoY3NYTDg4N2x3N0NvMzhLeGJvLUdlR0MyNzBzSnp0bUNBZVJwNFVLVzZIWXZhY0U3Z0E?oc=5) `RSS`
+- [Rappler: Anthropic, yeni yapay zeka modelini halka arzdan önce piyasaya sürmeyi düşünüyor](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLXl4VnFEYW1WeTlZc08yQ1pyaGpseDRVaFJwOWJfdDJRVmpPZHpSMllHcVlET3dqNFdxMHBNWnRUa1dkNGlVNmtkblFCbWlwdHFuX19aTjdJOHRYRkFiVDlzZWc2VTdnd1dSWG5FNDJ4enJ4cVo5aHpFMjAySmV5aWpYcUFIRDV5aWFSdl9wT01PZw?oc=5) `RSS`
