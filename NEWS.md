@@ -87,3 +87,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: Rediagram – sahip olduğunuz şemaları markanıza yerleştirin](https://rediagram.app/ai-diagram-generator) `HN`
 - [Neden her yapay zeka lansmanı şimdi tepkiyi daha da kötüleştiriyor - Fast Company](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3NwVjA3MEd2aDlieHhiYTFGbVpRN2Rod1psalFwQk1fYUpweHBfaHFMNTZJMks2ZjZ5SGhTRVV2amdxMnZmWVIwY1BoUDRCMkJQbEtrV0RidHpqdHgxR3lLMkVNdzFPQTd6NldLd0RfbzV2M2FnUGJucUgwR0c3SXUtQ0ZkX2o2?oc=5) `RSS`
 - [Husch Blackwell, Karmaşık Haksız Fiil Savunması için Yapay Zeka Tabanlı CXT'yi Başlattı: Bir 'Konsiyerj Destek Modeli' - Law.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQVzdrQ1RTUjdDX0l5bWdrQWo4MWM1T1FKMHpweFk0NS1HdVhjQTIzRF90WVRCRVltV1JubXB4eGJET0NBMUZEY3VCcG9EVUtkSGJ4UTI2ZjlrRUw4MHZMVXNRSTBzRmF5djBCQ3Z1SEpWZ3JvXzk4V2FMXzVva0NZSDh4STdURzZocDMzbVpjWVlvV1V2NmdGS0pZZzF5MGhTclJoY0kxak9aODdBWWtwVFpBRG1lUGxkRmd0ZWVR?oc=5) `RSS`
+
+- [ChatGPT ve RLHF'nin Mucidi Typesafe.ai'yi Başlattı](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) `HN`
+- [Yapay Zeka Yönetmeliği ve Çin Sorunu](https://casssunstein.substack.com/p/ai-regulation-and-the-china-question) `HN`
+- [Show HN: GGG – AI araçları için yerel ilk, sıfır telemetri egemen proxy servisi](https://github.com/JOxKxER/garza-global-graviton) `HN`
+- [İnsanlar Sürü Gözetleme Kameralarını Neden Sabote Ediyor?](https://www.nytimes.com/2026/09/18/opinion/flock-cameras-ai-privacy.html) `HN`
+- [Parazit Yazarlarının Yükselişi](https://www.theatlantic.com/technology/2026/09/ai-authors-impersonating-writers-amazon/688709/) `HN`
+- [Show HN: Swormhörn a one - of - one cicada synthesizer [VIDEO]](https://www.youtube.com/watch?v=GHiStriaaso) `HN`
+- [Kev – Çalışanların Yapay Zekası üzerinde çalışan DiffusionGemma'nın üstünde Jev Uyumlu bir API](https://kev.workers-ai-mle.workers.dev/) `HN`
+- [Gemini, Google'ın yapay zekası tarafından bilinen ilk patlakta üç şirketi hackledi](https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/) `HN`
+- [Google'ın Gemini'si bilgisayar sistemlerini kırmak ve hacklemek için en son yapay zeka modeli haline geldi](https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html) `HN`
+- [Muse, talep etmediğin tüm paranı geri alır!](https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai) `HN`
+- [Show HN: Sömürülen, bakımsız paketler için bir OSS Python bağımlılık tarayıcısı](https://github.com/binuka200/package-doctor) `HN`
+- [LLM'nin Büyük Ayrıştırılması](https://seldon-ai.com/blog/generation-is-the-wrong-primitive) `HN`
+- [Google, YAPAY Zekasının Üç Şirketi Hacklediğini Söyledi](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html) `HN`
+- [Shaderland'a Hoş Geldiniz](https://shaderland.net/devlog/1-init/) `HN`
+- [Radar: Abdominal BT Tanısı için Uzman Düzeyinde Bir Genelci Yapay Zeka](https://github.com/alibaba-damo-academy/damo-radar) `HN`
+- [Yapay zeka, Navier - Stokes meydan okumasını kırdı. Bu fizik için ne anlama geliyor?](https://www.nature.com/articles/d41586-026-02922-6) `HN`
+- [Yapay zeka içerdekiler, eski Antropik mühendisi Jacob Coxon da dahil olmak üzere yeni uyarılar yayımladı](https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon) `HN`
+- [Alibaba, kanseri ve yaklaşık 150 durumu tespit edebilen açık kaynaklı yapay zeka modeli](https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions) `HN`
+- [Show HN: Vitaminlerin işe yarıyor mu?](https://www.supplementdex.com/supplement-checker) `HN`
+- [Show HN: Wcagent, ChatGPT aboneliğinizi kodlama için kullanmanıza izin verir](https://wcagent.ai/) `HN`
+- [TypeSafe AI'nın Jev'i Bir LLM Değildir ve Mesele Bu Olabilir](https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/) `HN`
+- [Yapay zeka tabanlı öğrenme bir şakadır](https://qlain.online/blog/ai-based-learning.html) `HN`
+- [Diğer Yol Yapay Zeka Düşüncelerimizi Bozuyor](https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/) `HN`
+- [ABD hükümetinin web sitesi, FBI'ın Anthropic'i kopyaladığını söylediği Çin'deki yapay zeka arama aracını kullandı](https://www.reuters.com/legal/litigation/us-government-website-used-ai-search-tool-china-that-fbi-said-copied-anthropic-2026-09-17/) `HN`
+- [Yapay zeka sayesinde Compsci mezunları durgunluk benzeri iş beklentileriyle karşı karşıya](https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537) `HN`
+- [Show HN: Agentgit – AI aracıları için bir Git ana bilgisayarı, hesap yok, belirteç yok, anahtar yok](https://agentgit.co/) `HN`
+- [Özel: Kaynaklar, Anthropic'in halka arzdan önce yeni yapay zeka modelini piyasaya sürmeyi düşündüğünü söylüyor](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUhNb1VBaVJWRXQwZGlnTGk1N1B2UjFyNkltbzJUOGhxZThUdXhNN1BWSGxwNkRsMWVmTjFqSlZ6eFpLY3dkZ0VVVHdIN2NTTFNURVBPd3JZM0lQS1FVQUJ3UUJ0c3RmZXNwamkzV1pkXzduU1pVSFN6bjdON1JoQlFRMzJlNFdKTndsS2tJdzhxVG12cTBfbGREUjkwQTdIdDlhYzE3czdEMU5xMHc?oc=5) `RSS`
+- [Bir ChatGPT mucidinin yeni bir yapay zeka modeli geliştiricileri heyecanlandırıyor - TechCrunch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYW5jcDZETy15OEFacVFGV0w5Wjk3dFYtZW83VXNFdVRvMmRuWVR3RFVGSFJlclg2ejRraU83Um90ZkZvZ0R3MGxZZ2VDTnJmVEw4dWZESDQyYktyMXQydDBhZ0R1TUROVm1PWWV3NTlsd2piclFFSW5XSVBBOUFyWFFhbmt3dTM1Mm1YZHZ5WXgxNUl2cDFJM2pvNEc5YkJCZHpTSVczMm8?oc=5) `RSS`
+- [OpenAI zemin kazanırken Anthropic yeni yapay zeka modeli lansmanını tarttı - Reuters - Investing.com Canada](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUDNJaUR6bGxYSm5CNkI4Q1pham9XS2Y4VnhHWjJyem9QWWFZamtKTEpXSV9ncTJYTjBUUmVqSWJobk1BNjZ1cTVJSXE2d1FWV3ltQVByMlhUQ1JnM25udGxNaG0yZGplODNCQmFoSFFTMjBmTEMzYnJ6MW12N1BVSjlkc2tXems2cEU1M3otR29jc3drSjBMWDNvVmY4N2U1ZGhTRkhYNmFjWDdTWTkxcERLRXJNeHIzcEpN?oc=5) `RSS`
+- [Antropic, OpenAI Zemin Kazandıkça Yeni Bir Yapay Zeka Lansmanını Tartıyor - Finimize Et](https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0sydEFrM09UZXFJTFotNjIySmNwbDNsWEE1bzlhNTBOa3VIUGRBZDJRNHU4TlNycXRJTDN4U08wNVpiMkNMSlVWa0tDaF80QWZERW9EYkJlU1owTlo5VHlzT19NY3I4V2lLd2lwNXhYWTVBUU1NaG16V0ZwTWZuTlRqV3FWcEp0U093ZA?oc=5) `RSS`
+- [Ses tasarımcıları ve SFX kütüphaneleri, yapay zeka kazıma ile mücadele etmek için Professional Sound Alliance'ı başlattı: "Artık ses kendi korumamıza sahip olacak" - Music Business Worldwide](https://news.google.com/rss/articles/CBMigAJBVV95cUxNU1lZU042NGRNQU1JRkxacURZYzNQVTN1ejhuYmlnVVlqU0R2NTZGek53LXNIM21nUUtXSmF6MEhfdTZ4a1k1WFp3VHJHUkF6cUIxeFJpeHFYVU5aNUFwVThlcmx6Z2syVkxFaGJLeHhsbzVoV0YwU1REOU1sTjczTkQ0MFFxMWxnczgtZEkwX1V1UHpXVHR4M211MXBQQnlEdldabV85NFlxNmtNN3ZzM2xucC1Xc2NHN0pNb3gwdDNRSnVzcmhSSllnTERzOENudzdsOXdzNUdzSjJDU1RkQnhlcjlnX3pPUTNaM01Oc0JhTU9kSTh1Ukd6dE5DeE5V?oc=5) `RSS`
