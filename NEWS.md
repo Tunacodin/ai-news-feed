@@ -234,3 +234,17 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [JEV'e karşı XGBoost ve Bert](https://explainx.ai/blog/jev-vs-xgboost-bert-classifiers-2026) `HN`
 - [Antropik yeni yapay zeka modeli halka arzdan önce gelebilir - tbreak.com](https://news.google.com/rss/articles/CBMiYkFVX3lxTE96QlNpVG41cE9lc2lSb01kVnpXazYzbE9sNGoxbkwybzYzRGg2Q2dwbnVuZm9aeU1QWV91b2ppd2JKR2hBNnljS1VTVkFTQVc3SlRWWUN4Z0pvNkkxYl9aRXln?oc=5) `RSS`
 - [YAYIN: Gottheimer, Jersey Ailelerini Korumak için Yapay Zeka Güvenliğine İlişkin Yeni İki Partili Mevzuatı Duyurdu, Ulusal Güvenlik - House.gov](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWmtCMUFDZW03RmRSYmh0RHlVZjBvWGZpMjJSVVdhUHNrdUlueW90TmZhc3hnakpIZ0o3QV9wcFdWcl9tb0JfN1VEZHhxNkdhWHEzYk81bDhFSnR6QVh4MVlENGRNRVdFWXVNSFlOdmxqN3Q0Q0xaTE1YbXM1WVZfd0ZHQUVSV3ZUX212S3llR0pOVl9sYy1Pc29jVEsyNjI4NXBudFoxUzRxSTBkbm5Ja19aMWVDdlR6RXAtNWd2R2RHNFRhcDhWUFRYRDUwaVZndW1HYXUtWGxhTmhJdWx6cnln?oc=5) `RSS`
+
+- [Derleyen araştırma: yazılı talepler, çatışma tespiti ve sonraki eylemler](https://grainulator.app/playground/) `HN`
+- [ING, Yapay Zeka İşleri Yeniden Şekillendirirken Hindistan Dış Kaynak Kullanımının Üst Pazarlara Kaydığını Söyledi](https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says) `HN`
+- [Yeni bir yapay zeka bükümüyle ilgili eski bir sistem sorunu: veri hareketi](https://twitter.com/nk_developer1/status/2101028456083677524) `HN`
+- [Show HN: Bir drone kodluyorum](https://ai-eng-design-production.up.railway.app/login) `HN`
+- [Yapay Zeka, Verilerini Anlamayan Bir İşletmeyi Neden Kurtaramaz?](https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317) `HN`
+- [Yapay zekayı düzenlemek ve standartlaştırmak mı istiyorsunuz? Hayır](https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI) `HN`
+- [Amerika Yapay Zeka Liderliğine Sahip. Pekin Yavaşlatmayı İstiyor ve DC Bir Kısıt Oluşturuyor](https://floppingaces.net/most-wanted/america-built-the-worlds-ai-lead-now-beijing-wants-it-slowed-and-washington-is-building-the-chokepoint/) `HN`
+- [Yapay Zeka Güvenliğinde Açık Bilim Çağrısı](https://make-safety-open.github.io/) `HN`
+- [OliverDB: 9,67 kat Snowflake, 8 kat daha az bilgi işlem](https://oliverdb.ai/benchmarks.html) `HN`
+- [Trump yeni bir 'Yapay Zeka Gücü' duyurdu ancak yapay zekayı 'bastırmayacağını' söyledi](https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026) `HN`
+- [Yapay Zekanın Oluşturduğu Film Yıldızı Televizyonda Tam Bir Çöküş Yaşadı](https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total) `HN`
+- [HN'yi göster: Jev, Beni Aya Uçur](https://fly.rahmanyoonus.com) `HN`
+- [HN'yi göster: DSS ve DS2 dikte dosyalarını sesinizi yüklemeden çevrimiçi oynatın](https://speechtext.ai/online-dss-player) `HN`
