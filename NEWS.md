@@ -288,3 +288,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OpenAI, yapay zeka modelleri yanlış davrandığında bunu kamuya bildirmek için bir çerçeve başlatıyor - qz.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9xWmJkdDVfV2c2THVlTThYYnJLWTl5R0d0bHhhLVBsU1VEcmVZU0o5ZFhGRm1fYXdfZjkzeGRzcVFMYVhvUUEwbnAzU1lDYVVzbjBaS1hNV3ZTS2xlRk11QnUwbWowUEZWWHRVQnUzUmFuUQ?oc=5) `RSS`
 - [TypeSafe AI'nın Karar Modeli Jev, Vercel'in En Hızlı Kabul Edilen Lansmanı Oldu - Startup Fortune](https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1RQRlVUeXBPSHotckdUTTBFSkJyRTRJVHdNSmpYTlZwRWJ5bV91eVlVdFhNcXNuZTR4cDAtLXp0OXhDdE1RaWpVSFQ2Rnh6WHJWZjZTelViQ0c2bE5pTHh5Q3dUM3dNZ3NfVWlsVkZkNkowWkZxS0tjVFZZTVRSeTl5Q0JKOEhRa2syN3ZhLWhhcUs5WFp6MW1MT3JTaDA?oc=5) `RSS`
 - [Google DeepMind, AGI tartışmasını genişletmek için enstitüyü başlattı - TechCrunch](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUlsdFN3V3lpNmQ1b0VyLWJsUHQ1VXdOQkVoTmp6dHFzc29fWmJOREs5bjFWMXB5bDUtbEpQc0RtWnc2dXNTbDdLUjRZWlk3LVp1RmFjbWl3TG5yQmEydGloUmFrOXZlY3pvX2xjMU9zYWdRdW9UU1Z2eG0wLWREcVFDbmZPRWxQR2dVU0dmTmdhR0ZOUDRBTA?oc=5) `RSS`
+
+- [Big Tech, 300 milyar $ değerindeki yapay zeka riskini bilanço dışında tutmak için garantiler kullanıyor](https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563) `HN`
+- [Göndermenize yardımcı olan açık kaynaklı AI PR incelemesi](https://nitpicker.dev/) `HN`
+- [Dijital dünyada dokunsal kontroller (2024)](https://jenson.org/airpod/) `HN`
+- [Yapay zeka kodlaması kod kalitenizi düşürüyorsa kaliteyi doğru yönetmiyorsunuz demektir](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code) `HN`
+- [Yapay Zeka Tonundan Bıktım](https://sagivo.com/blog/im-tired-of-the-ai-tone) `HN`
+- [Satırları anlama göre filtreleyen bir MySQL eklentisi (TypeSafe Jev üzerine kurulmuştur)](https://github.com/maayanlevy/mysql-ailike) `HN`
+- [Yapay zeka, bilim insanlarına test edebileceklerinden daha fazla fikir veriyor](https://www.scientificamerican.com/article/why-ai-is-speeding-up-scientific-research-but-not-lab-experiments/) `HN`
+- [Sarılan Yüz Olayı, Yapay Zekanın Mevcut Durumunu Nasıl Gördüğümde Ne Değiştirdi?](https://chrhenning.com/blog/2026/hugging-face-incident/) `HN`
+- [Yapay zeka düzenlemesi baskısı henüz bitmedi](https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over) `HN`
+- [İnsanlara Karşı Otomatik: Okuma, Yazma ve Yapay Zeka](http://www.unemployednegativity.com/2024/09/automatic-against-people-reading.html) `HN`
+- [Yapay Zeka ve Creative Commons'ın Yıkımı](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/) `HN`
+- [Jev, AI Gateway tarihinde en hızlı benimsenen modeldir](https://vercel.com/blog/ai-gateway-jev-model-launch) `HN`
+- [Show HN: Delightful Cells – elektronik tablolar için güvenilir AI toplu işleme](https://delightfulcells.com) `HN`
+- [Kişisel bilgilerinizi yapay zekadan gizleyen bir uzantı oluşturdum](https://github.com/arikchakma/opencloak) `HN`
+- [Çin, hızlı yapay zeka gelişimi konusunda ABD'nin uyarılarını neden geri itiyor?](https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development) `HN`
+- [Gerçek Bir Sanatçının Spotify'ını Yapay Zeka Müziği ile Ele Geçirdim. Rahatsız Edici Derecede Kolaydı](https://www.404media.co/spotify-ai-music-scam/) `HN`
+- [Enjambre – AI ajanlarının sürüleri için dayanıklı bir çekirdek (Python, MCP)](https://github.com/santibccc-sudo/enjambre-os) `HN`
+- [Show HN: İnsan Tercihleriyle Uyumlu Yapay Zeka Yüz Çekiciliği Modeli](https://faceanalysisai.com/) `HN`
+- [Show HN: Panomdaki yapay zeka filigranlarını temizledim](https://www.pastezero.com/) `HN`
+- [Yapay Zeka Dolandırıcı Oldu mu? Trump Yeni Kurallar Değil, 'YAPAY Zeka Gücü' Öneriyor.](https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html) `HN`
+- [Show HN: Jev tramvay probleminde kolu çekecek mi?](https://gpu.studio/trolley) `HN`
+- [Popüler CLI ürünleri için AI CLI Insights](https://libraries.io/pypi/codex-stats) `HN`
+- [Pluto AI, StarCraft BroodWar rekabet sahnesinde en üst sırada yer alıyor](https://www.youtube.com/watch?v=1vsTqNwHquE) `HN`
+- [Electrif - AI Her şey](https://energyandstuff.substack.com/p/electrif-ai-everything-nycw-edition) `HN`
+- [OpenAI ve Microsoft, web için bir "kıyamet döngüsü" başlattıklarını biliyorlardı](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) `HN`
+- [Göster HN: ManifestGo – MV3 uzatma kazan plakası ve kenar muhafazası için ayarlanmış yapay zeka](https://manifestgo.app/) `HN`
+- [İşlevsiz Bir Sistemin Üstünde Yapay Zeka: Ürün İş Listesi](https://age-of-product.com/ai-dysfunctional-system-product-backlog/) `HN`
+- [KDE 30 yaşına girdi ve biri yapay zeka tabanlı bir masaüstü teklifi getirdi](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282) `HN`
+- [Anthropic, CEO'nun yavaşlama çağrısından günler sonra yeni yapay zeka modelini düşünüyor](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VanNLclQ2aFpwTk1qdU1Vd3UyM2NMRWEwczdCRUU2Vm1TVlUyc3hZbTUwUnBIOU9LSmJMZnY0RDJrdGVUb2Vzd0xPaFVaeTVucW0zTXZJY2ZyMGdOZGxaaWRoMA?oc=5) `RSS`
