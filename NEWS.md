@@ -318,3 +318,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [İşlevsiz Bir Sistemin Üstünde Yapay Zeka: Ürün İş Listesi](https://age-of-product.com/ai-dysfunctional-system-product-backlog/) `HN`
 - [KDE 30 yaşına girdi ve biri yapay zeka tabanlı bir masaüstü teklifi getirdi](https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282) `HN`
 - [Anthropic, CEO'nun yavaşlama çağrısından günler sonra yeni yapay zeka modelini düşünüyor](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VanNLclQ2aFpwTk1qdU1Vd3UyM2NMRWEwczdCRUU2Vm1TVlUyc3hZbTUwUnBIOU9LSmJMZnY0RDJrdGVUb2Vzd0xPaFVaeTVucW0zTXZJY2ZyMGdOZGxaaWRoMA?oc=5) `RSS`
+
+- [Politika Yapıcıların ve Halkın Yapay Zeka Kültü Hakkında Bilmesi Gerekenler](https://www.techpolicy.press/what-policymakers-and-the-public-need-to-know-about-the-cult-of-ai/) `HN`
+- [Ada ve Pandalar: Yapay zeka ile bile resimli kitap yapmak çocuk oyuncağı değildi](https://fazy.medium.com/ada-and-the-panda-even-with-ai-making-a-picture-book-was-no-childs-play-d8811e4346cf) `HN`
+- [Show HN: Autopoiesis: Concept for AI platforms shipped with repos HN: Autopoiesis: Repo](https://jakobbr.eu/2026/09/20/autopoiesis-concept-for-repos-bringing-their-own-preconfigured-ai-frontend/) `HN`
+- [Show HN: OpenensourceDB Tamper - evident, checksum - backed decision and session replay](https://github.com/ZIZKA-AI-SL/ZizkaDB) `HN`
+- [Tükenmiş ve İşsiz, Çin'deki Gençler Yapay Zeka Girişimleri Başlatıyor](https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3) `HN`
+- [Show HN: Swarm, macOS için çevrimdışı bir aile ağacı uygulaması](https://github.com/samoilev/swarm) `HN`
+- [Havadaki Demomuz Uzay Güneş Enerjisini Gerçekleştiriyor](https://www.overviewenergy.com/updates/airborne) `HN`
+- [Derin karşılıklı güvensizlik, yapay zeka konusunda ABD - Çin işbirliğini baltalayacak](https://www.economist.com/china/2026/09/17/deep-mutual-distrust-will-scupper-us-china-co-operation-on-ai) `HN`
+- [ESP32 ile ilgili bir Over - The - Air güncellemesini bilerek kırdık](https://groundrun.io/blog/we-broke-an-over-the-air-update-on-the-esp32-on-purpose/) `HN`
+- [HN: StoreReady'yi göster, hangi yapay zeka uygulama oluşturucuları App Store incelemesini temizler?](https://storeready.thecompound.tech) `HN`
+- [Jev Koleksiyonu](https://academy.dair.ai/resources/jev-field-notes) `HN`
+- [Show HN: AI Hack Watch - hack olaylarının zaman çizelgesi ve veri kümesi (JSON/RSS)](https://aihackwatch.com) `HN`
+- [Katalan sabiti mantıksızdır (yapay zekanın yardımıyla kanıtlanır)](https://arxiv.org/abs/2609.04176) `HN`
+- [Show HN: Simüle edilmiş bir robot filosunda gerçek Jev kararları – milyonda 24,57 $](https://github.com/robokrunch/jev-physical-ai) `HN`
+- [Makedonya'daki Eski Yerleri Yapay Zeka ile Canlandırmak](https://www.gocemitevski.com/reviving-old-places-in-macedonia-with-ai/) `HN`
+- [İlk yapay zeka botu Starcraft Ladder'da göründü, progamer'a karşı kazandı](https://tl.net/forum/brood-war/646339-bot-on-ladder) `HN`
+- [Google sizi tanıyor mu? Yapay zeka sizi tanıyor mu?](https://www.scanora.ai) `HN`
+- [RetinaFace: Açık kaynaklı hassas yapay zeka yüz algılama ve analizi](https://retinaface.com/) `HN`
+- [Antlaşma Odasındaki Teknoloji Kardeşi](https://www.politico.com/news/magazine/2026/09/18/jacob-helberg-state-china-ai-profile-01082572?category=fascinating_stories&scheduled_corpus_item_id=3b99c88a-3878-43a5-8313-24427cd2cef2&url=https://www.politico.com/news/magazine/2026/09/18/jacob-helberg-state-china-ai-profile-01082572&utm_campaign=position=6&utm_medium=email&utm_source=ten_tabs) `HN`
+- [Show HN: Preuve AI, stress - test your startup idea before you build](https://preuve.ai) `HN`
+- [Axel, kullanıcıları hakkında dedikodu yapan yapay zeka](https://talktoaxel.com) `HN`
+- [Fraktal kaya ve 150k yağmur damlalarından prosedür adaları](https://ilands.ai/content/359897434698027008) `HN`
+- [Dava: Anthropic, OpenAI, SpaceXAI ve Google yasa dışı yavaşlama anlaşması yaptı](https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown) `HN`
+- [Show HN: Sosyal medyanızı her gün yayınlamadan aktif tutun](https://post.buzz/) `HN`
+- [Qwen-Image-2.1: Kompakt, verimli ve birleştirilmiş görüntü oluşturma](https://qwen.ai/blog?id=qwen-image-2.1) `HN`
+- [BragJack saldırıları, AI tarayıcı ajanlarını kötü amaçlı uzantılar aracılığıyla ele geçiriyor](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/) `HN`
+- [Gösteri HN: Airmash – HTML5 Çok Oyunculu Füze Savaşı](https://airma.sh/) `HN`
