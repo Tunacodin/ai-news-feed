@@ -368,3 +368,25 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Video: Su basan yol, yapay zeka tarafından sürülen arabayı sonsuz bir döngüye soktu](https://www.theweathernetwork.com/en/video/xas8vcuh) `HN`
 - [Xing4.0-29B-A4B: Yükselen Çiplerden Çerçevelere, Tüketici Sınıfı GPU'lara Yerli](https://www.aibase.com/news/31179) `HN`
 - [Xing4.0-29B-A4B: China Telecom'un Moe Modeli Yükselen NPU'lar Üzerinde Eğitildi](https://www.mindstudio.ai/blog/xing4-0-29b-a4b-model-release) `HN`
+
+- [Tüm yapay zeka çalışanları teknolojinin herkesi öldürebileceğini düşünmüyor](https://www.bbc.com/news/articles/cm5y7qj54klpo) `HN`
+- [RayMate – ücretsiz macOS AI başlatıcısı, Spotlight benzeri, cihaz üzerinde dikte ile](https://raymate.app/) `HN`
+- [Motif – kısa mesaj yoluyla devam eden araştırma](https://app.motifresearch.ai/join/kunal-hn) `HN`
+- [MultiTOOL Pro AI Kit Yardımcı Programları](https://play.google.com/store/apps/details?id=multitool.pro2&hl=en_US) `HN`
+- [Hızlı Savaşlar – Birbirlerine hızlı enjeksiyon yapmak için Çekirdek Savaşlarında bir yapay zeka riffi](https://promptwars.party) `HN`
+- [Show HN: AgentTrace - Observability and runtime self - healing engine for AI agents](https://github.com/mohitkumar188/AgentTrace) `HN`
+- [Çin'in Yapay Zeka Patlamasının Dışında Kalan Mezunlar, Acemi Kamplarına Yöneldi](https://www.sixthtone.com/news/1018649) `HN`
+- [AI Kool - Aid içmeyi bıraktım](https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/) `HN`
+- [Matematikçiler Yapay Zeka Tarafından Tehdit Altında Hissediyor. Vazgeçemezler](https://www.wired.com/story/mathematicians-cant-quit-ai/) `HN`
+- [Yaklaşan Y.Z. Tehdidini Panik ÇÖZMEYECEK. Politika Çözecek](https://www.nytimes.com/2026/09/19/opinion/ai-hugging-face-big-tech-danger.html) `HN`
+- [Temel Tarayıcı: Yapay zeka atığı olmayan sert bir Firefox çatalı](https://codeberg.org/basebrowserproject) `HN`
+- [Dava, Anthropic, OpenAI ve Google'ın yapay zekanın yavaşlaması konusunda yasa dışı bir anlaşma yaptığını söylüyor](https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust) `HN`
+- [Başkan, yeni bir "Yapay Zeka Gücü" için aday olacağını iddia etse de yapay zeka korkularını "aldatmaca" olarak nitelendiriyor](https://abcnews.com/Politics/trump-form-new-ai-force-continues-call-ai/story?id=136591343) `HN`
+- [Yapay zeka ajanları neden yalan söylüyor, aldatıyor ve koordine ediyor?](https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating) `HN`
+- [Matematikçilerin aracı yapay zeka ile neler yapabileceğimiz konusunda paniklediklerini görüyorum](https://twitter.com/lemire/status/2101684818358439959) `HN`
+- [Casbin Gateway: Makinenizdeki AI kodlama aracıları için bir güvenlik ağ geçidi](https://github.com/apache/casbin-gateway) `HN`
+- [Röportaj, Ed Zitron'un yapay zekanın herhangi bir seviyede nasıl çalıştığını anlamadığını ortaya koyuyor](https://twitter.com/AlexanderMcCoy4/status/2100744088169447816) `HN`
+- [AI Journal 2: Eğlence ve Kâr için Vibe Kodlaması](https://devshrine.net/blog/ai-journal-2/) `HN`
+- [Üniversiteler için yapay zeka yerli derece planlama yazılımı](https://www.coursetrees.com) `HN`
+- [Google ve NASA, uzaydan gelen metan emisyonlarını haritalamak için yapay zeka modelini başlattı - ESG Dive](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHlIVXRpM0hRX1ZmMmFfNnZNb3VoTHVqS0VTbkRuM1h3RVRaYmFDbnFFYXhlTXUxbE83OERDVGh1NDdtSlB2VDJkQXZ2RU1Pa2lvUkRyMFNyQzlWTjJtZTZ2dWtnUTBVaDg4LXZLcVdTdkZwNUhyZkFtUXFEWGNYRjhrTURUN2RELTRrcXBuN05uQzJjUC1hc0lXWk9DUkF1Mmc?oc=5) `RSS`
+- [The Daily Star'ın haberine göre, OpenAI'ın Astra'sı zemin kazanırken Anthropic yeni model lansmanını tarttı](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNby1KeEtySDlwZ1h6N0JIanRYYzkyb2tlbjFwd1I4VDh6NEZUNmNKSlE2V3N2NTRSS0ZQdHJvWU5TMmQyRDFYM3pTWW4zUkJHcVhrcnU0eDJFc0VneHNwTzR6T052UXpOby1aSDVHMEpyTC1iYjhjSWpyM05maE01Q1Buc0JBNDluMkNNaXhaWWUybktEeTVRQXNicGNtYUNpWllBZGIyajltdTJuWTBVek4zWEh4eGtCb0w4eFJaM3ZXZEU?oc=5) `RSS`
