@@ -261,3 +261,30 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka güvenlik konuşmaları inanılmaz hale geldi](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) `HN`
 - [Hangi görüntülerin yapay zeka tarafından oluşturulduğunu söyleyebilir misiniz?](https://slop-sense.labtoagi.com/games/is-this-image-ai/) `HN`
 - [Okullarda yapay zeka – Yapmaya devam ettiğimiz seçim](https://friendsschoolboulder.org/the-choice-we-keep-making/) `HN`
+
+- [Yapay zeka sanatı hırsızlıktır – sanatçılar ve matematikçilerin yapay zeka üzerindeki etkisi](https://twitter.com/wordgrammer/status/2101429761528455669) `HN`
+- [Phylo, Havai Fişeklerle ilgili açık modellerle sınırdaki yapay zekayı daha fazla bilim insanına getiriyor](https://fireworks.ai/blog/phylo-brings-frontier-ai-to-more-scientists-with-open-models-on-fireworks) `HN`
+- [VoltGrid AI: Yazılımdaki GPU kümesi dI/dt güç dalgalanmalarını azaltmak](https://zenodo.org/records/22824778) `HN`
+- [A Man Who Named AI: John McCarthy and the End of the Code - Data Divide (Yapay Zekayı Adlandıran Adam: John McCar](https://nirmalutwani.substack.com/p/week-06-john-mccarthy-the-man-who) `HN`
+- [Anthropic yapay zeka destekli wetlab yarattı](https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/) `HN`
+- [Google AI Studio veri silmeyi taklit eder. VRP 60 'lı yıllarda bunu bildirdiğim için beni otomatik olarak yasakladı](https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2) `HN`
+- [JEV: 6K+ emsal şirket adaylarını ~40 saniyede sıralama](https://twitter.com/Alex_aic5/status/2101523309158343137) `HN`
+- [Yapay zeka aracı iş akışı için bir platform olarak Fosil - smc'nin uyarlanması](https://github.com/BenSiv/fossil-scm) `HN`
+- [Gösteri HN: Yapay zeka yerel gelişimi için mimari korkuluklar](https://github.com/cxgrd/cli) `HN`
+- [Volt Aktif Verilerini AI Ajanları ve Sohbet Robotları ile Entegre Etme](https://docs.voltdb.com/UsingVoltDB/ChapAI.php) `HN`
+- [Hava boşlukları arasında termal yan kanallar aracılığıyla iletişim kuran yapay zeka üzerine OpenAI araştırmacısı [video]](https://www.youtube.com/watch?v=6AgOfiZOWiY) `HN`
+- [Başka bir terminal/Shell AI asistanı (Shell native)](https://github.com/TheR1D/aty) `HN`
+- [Nscale S -1, yapay zekanın kârsızlığını gösteriyor](https://www.reddit.com/r/BetterOffline/comments/1wl3kkf/nscale_s1_demonstrates_unprofitability_of_ai/) `HN`
+- [Çin'in ABD yapay zekasını yenmesine gerek yok [video]](https://www.youtube.com/watch?v=sXA77wLF678) `HN`
+- [Yapay Zeka Destekli Yaratımın Etik Sorunu](https://im.not.ci/ai-creator-ethic/) `HN`
+- [Yüksek verimli veri boru hatlarında sistem bir modellerinin kullanılması](https://www.southbridge.ai/blog/jev-entity-resolution) `HN`
+- [AI Bubble: 'Bunun sonuna geliyorlar' – Bilgisayarcı Eli [video]](https://www.youtube.com/watch?v=0YIczZDCgsM) `HN`
+- [Yapay zeka liderleri neden yavaşlama çağrısında bulunuyor? [audio]](https://www.cbc.ca/listen/cbc-podcasts/209-front-burner/episode/16237327-why-are-ai-leaders-calling-for-a-slow-down) `HN`
+- [A2E AI – metin, resim ve avatarlar için hepsi bir arada yapay zeka video üreteci](https://textideo.com/model/a2e-ai) `HN`
+- [AI ajanları ve insanlar için uygun, açık kaynaklı ücretsiz meme oluşturucu](https://github.com/terryds/memegenscript) `HN`
+- [Pure Code: Yapay zeka kodu yazdıktan sonra geliştiricilerde ne kalır?](https://pure-code-essay.vercel.app/) `HN`
+- [Berkeley Overmind 2010 StarCraft AI yarışmasını nasıl kazandı (2011)](https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition/) `HN`
+- [Trump, Güvenlik Risklerini Reddederken Yapay Zeka Çarını Bir Aldatmaca Olarak Adlandıracak](https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax) `HN`
+- [OpenAI, yapay zeka modelleri yanlış davrandığında bunu kamuya bildirmek için bir çerçeve başlatıyor - qz.com](https://news.google.com/rss/articles/CBMickFVX3lxTE9xWmJkdDVfV2c2THVlTThYYnJLWTl5R0d0bHhhLVBsU1VEcmVZU0o5ZFhGRm1fYXdfZjkzeGRzcVFMYVhvUUEwbnAzU1lDYVVzbjBaS1hNV3ZTS2xlRk11QnUwbWowUEZWWHRVQnUzUmFuUQ?oc=5) `RSS`
+- [TypeSafe AI'nın Karar Modeli Jev, Vercel'in En Hızlı Kabul Edilen Lansmanı Oldu - Startup Fortune](https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1RQRlVUeXBPSHotckdUTTBFSkJyRTRJVHdNSmpYTlZwRWJ5bV91eVlVdFhNcXNuZTR4cDAtLXp0OXhDdE1RaWpVSFQ2Rnh6WHJWZjZTelViQ0c2bE5pTHh5Q3dUM3dNZ3NfVWlsVkZkNkowWkZxS0tjVFZZTVRSeTl5Q0JKOEhRa2syN3ZhLWhhcUs5WFp6MW1MT3JTaDA?oc=5) `RSS`
+- [Google DeepMind, AGI tartışmasını genişletmek için enstitüyü başlattı - TechCrunch](https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUlsdFN3V3lpNmQ1b0VyLWJsUHQ1VXdOQkVoTmp6dHFzc29fWmJOREs5bjFWMXB5bDUtbEpQc0RtWnc2dXNTbDdLUjRZWlk3LVp1RmFjbWl3TG5yQmEydGloUmFrOXZlY3pvX2xjMU9zYWdRdW9UU1Z2eG0wLWREcVFDbmZPRWxQR2dVU0dmTmdhR0ZOUDRBTA?oc=5) `RSS`
