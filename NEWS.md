@@ -346,3 +346,25 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Qwen-Image-2.1: Kompakt, verimli ve birleştirilmiş görüntü oluşturma](https://qwen.ai/blog?id=qwen-image-2.1) `HN`
 - [BragJack saldırıları, AI tarayıcı ajanlarını kötü amaçlı uzantılar aracılığıyla ele geçiriyor](https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/) `HN`
 - [Gösteri HN: Airmash – HTML5 Çok Oyunculu Füze Savaşı](https://airma.sh/) `HN`
+
+- [AI Journal 1: Yapay Zekaya Yavaş Teslim](https://devshrine.net/blog/ai-journal-1/) `HN`
+- [Doğal Genel Zeka](https://naturalgeneralintelligence.ai/) `HN`
+- [Koddaki Kanıt: Bir Doğruluk Makinesi Matematiği ve Yapay Zekayı Nasıl Dönüştürüyor?](https://www.publishersweekly.com:443/9780374620059) `HN`
+- [Ölü Kovboy](https://smithery.ai/servers/wolfendentheo/Dead-Cowboy) `HN`
+- [Yapay zeka, insanların boş sayfayı geçmesine yardımcı oluyor](https://greyenlightenment.com/2026/08/24/ai-assisted-writing-is-common-because-writing-is-hard/) `HN`
+- [Yapay zeka dalgasının Tesler Yasası'na göre bir yere inmesi gerekiyor](https://moonspell.fm/tesler) `HN`
+- [Lego Tuğla Ayırma Makinesi, Çöp Sahasından Milyonları Kurtarmak için Yapay Zeka Kullanıyor [video]](https://www.youtube.com/watch?v=M0cWcAIeOyU) `HN`
+- [C64 Yapay Zeka ile Programlama](https://www.dreisechzig.net/c64-programming-with-ai.html) `HN`
+- [Andrew Ng: Yapay Zeka'nın Neslinin Tükenmesinden Korkması "Bilim Kurgu"](https://www.youtube.com/watch?v=KnckQp-c388) `HN`
+- [Jensen Huang: Yapay zeka kıyametiyle ilgili uyarıların "gizli nedenleri var"](https://www.youtube.com/watch?v=XlY7DI5v4ZU) `HN`
+- [Çin Neden Yapay Zeka Konusunda Varoluşçu Olmuyor?](https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai) `HN`
+- [Doğrulanmış ve Verimli Long - Horizon LLM Görev Planlaması için Graph World Modelleri](https://academy.dair.ai/papers/gavel-graph-world-models-for-verified-and-efficient-long-horizon-llm-task-planni-2609.19315) `HN`
+- [Tek bir görüntü olarak bir tasarım özeti: 27B vizyon modeli animasyonu oluşturabilir mi?](https://automationoptimization.github.io/brief-card-eval/) `HN`
+- [Beyaz Saray yapay zekanın altına hücumunu korurken, Trump ailesi ve diğer müttefikler saldırıyor...](https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest) `HN`
+- [Avrupa için Dönüştürücü Bir Yapay Zeka Stratejisi](https://transformative-ai.eu/) `HN`
+- [Otonom saldırı dronu, hedefleri seçmek ve bombalamak için Nvidia Jetson Orin Nano'yu kullanıyor](https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms) `HN`
+- [Yapay zeka matematikte güçlü ama sorunlu yeni bir işbirlikçidir](https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203) `HN`
+- [Yanlışlıkla banka hırsızlığıyla suçlanan kadın, yapay zeka yüz tanıma nedeniyle 10 milyon $ tazminat davası açtı](https://abcnews.com/US/grandmother-falsely-accused-bank-theft-after-alleged-ai/story?id=136536444) `HN`
+- [Video: Su basan yol, yapay zeka tarafından sürülen arabayı sonsuz bir döngüye soktu](https://www.theweathernetwork.com/en/video/xas8vcuh) `HN`
+- [Xing4.0-29B-A4B: Yükselen Çiplerden Çerçevelere, Tüketici Sınıfı GPU'lara Yerli](https://www.aibase.com/news/31179) `HN`
+- [Xing4.0-29B-A4B: China Telecom'un Moe Modeli Yükselen NPU'lar Üzerinde Eğitildi](https://www.mindstudio.ai/blog/xing4-0-29b-a4b-model-release) `HN`
