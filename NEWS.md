@@ -248,3 +248,16 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zekanın Oluşturduğu Film Yıldızı Televizyonda Tam Bir Çöküş Yaşadı](https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total) `HN`
 - [HN'yi göster: Jev, Beni Aya Uçur](https://fly.rahmanyoonus.com) `HN`
 - [HN'yi göster: DSS ve DS2 dikte dosyalarını sesinizi yüklemeden çevrimiçi oynatın](https://speechtext.ai/online-dss-player) `HN`
+
+- [Goldman Sachs: Yapay zeka yatırımı, hükümet borçlanması küresel sermaye maliyetini artırıyor](https://www.tribuneindia.com/news/business/ai-investment-government-borrowing-drive-global-cost-of-capital-higher-goldman-sachs/) `HN`
+- [Yapay zekanın seyrini değiştiren on gün](https://www.reuters.com/business/media-telecom/ten-days-that-changed-course-ai-2026-09-19/) `HN`
+- [Yapay Zeka, Spotify'ın Oluşturma Şeklini Değiştirdi. Yüksek Hızda Kalite Hakkında Öğrendiklerimiz](https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity) `HN`
+- [Show HN: Text - me: hızınızı öğrenen kişisel bir aracı](https://aiworthusing.com/agent-index/text-me) `HN`
+- [Hızla gelişen teknolojiyle ilgili endişeler sürerken Trump bir yapay zeka çarı atadı](https://www.nbcnews.com/politics/white-house/artificial-intelligence-task-force-czar-technology-trump-rcna598688) `HN`
+- [HN'yi göster: Yerel olarak kullanılabilen açık kaynaklı bir tam teşekküllü AI platformu oluşturdum](https://github.com/theguysudo/ENZO) `HN`
+- [Bir yapay zeka kıyamet günü neye benzeyebilir? Uzmanlar üzerinde biraz düşündüler](https://www.nbcnews.com/tech/tech-news/ai-doomers-human-extinction-rcna597950) `HN`
+- [Gemini, Google'ın yapay zekası tarafından bilinen ilk patlakta üç şirketi hackledi](https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet) `HN`
+- [Bio için Yapay Zekanın Daha Fazla Veriye İhtiyacı Yok](https://amplesa.substack.com/p/ai-for-bio-doesnt-need-more-data) `HN`
+- [Yapay zeka güvenlik konuşmaları inanılmaz hale geldi](https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/) `HN`
+- [Hangi görüntülerin yapay zeka tarafından oluşturulduğunu söyleyebilir misiniz?](https://slop-sense.labtoagi.com/games/is-this-image-ai/) `HN`
+- [Okullarda yapay zeka – Yapmaya devam ettiğimiz seçim](https://friendsschoolboulder.org/the-choice-we-keep-making/) `HN`
