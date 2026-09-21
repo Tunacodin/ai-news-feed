@@ -459,3 +459,41 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Amazon Destekli Antropik Düşünceler IPO Öncesinde Yeni Yapay Zeka Modelinin Lansmanı - marketscreener.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZjR5WUlNNlBIcExHTVlGcVFjTS1IMDhQbmZLSXJkU0UzcGNweHBCeDRlOVh0WnlEbXV2YnlBcVBWOWdZdHNEeFRqbUotTm5GYm5xbC1HWGo1M21jUmpjTGo5TmlpQk5PNzkxWXVYb2ZwRXdjX2hkbG1uWmszSHZneEpTZ1VhdXA0dFd1d0dTS3E3SVZBemRmd1RvQlYxWm5XYzRIem1aTTQxbEthcndHZWlQcWtUMlFDa3c?oc=5) `RSS`
 - [Anthropic, OpenAI'nin GPT -6 Astra'sı Yer Kazanırken Yeni Yapay Zeka Modelini Tartıyor - analyticsindiamag.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlBtMV96eEVaQkhiUDFuVERJY2tieGVhckduUG5jVGJLV1BHRS1mcE1mWGVCQ0NTWktyWEI3OGNHaVplaDJTWk0wbFVSZDFzZWVZR09mc29XV0pNcEpPRl81OVpFZmJiaHdqTmFsdFhMUXoxaFllME5WdDV4aWVnV243Nl9RcVo1Q3hGdmNaM0xZSXF3aGw2UWttRnI1OEZjNWt1dGtn?oc=5) `RSS`
 - [Anthropic, borsa listesine girerken yeni yapay zeka modelini piyasaya sürmeyi düşünüyor - techcentral.ie](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGhhM2hsb1hpLVh4a2JSUzUyTGc1ejhlZTNpcHJwdU10a1VwQWNhamhvLTlLYW9LZFkyUnI4RzlUWUJlR3RzdlUzQ0tRQ3ZpeGtnNlg2UEVTbUZDbGpRcWxha3lZd1B0aUtpeFJEMFNiVGttd29FSndadnJoODlDbExJZnc3Q0xfc3RialFlUm8zcE9tV1J2QUZxcHhaWkU2dHRSR3otTQ?oc=5) `RSS`
+
+- [Wall Street, Veri Merkezi Patlamasına Şüpheyle Yaklaşıyor](https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html) `HN`
+- [V7, AI ajanlarına kurumsal bellek sağlar](https://openai.com/index/v7/) `HN`
+- [Show HN: Factlabel: AI ajanlarını rapor ettikleri veriler hakkında yalan söylerken yakalar](https://github.com/generallymatthew/factlabel) `HN`
+- [Sürüşü bozan hatalar: Makine Öğrenimi sürümü](https://blog.comma.ai/ml-bugs/) `HN`
+- [İnsanlığı Simüle Ediyoruz](https://www.null0.ai) `HN`
+- [SpaceX'in Teksas McGregor Test Tesisi için Geçici Uçuş Kısıtlaması](https://notams.aim.faa.gov/notamSearch/createNotamPdf?transactionid=82465898) `HN`
+- [Kendi Donanımınızda Frontier AI](https://timdettmers.com/2026/09/21/dlab-open-source-week/) `HN`
+- [Yapay Zeka Destekli Starling Masaüstü, 3D Görünümü Sunuyor](https://www.phoronix.com/news/Starling-0.5-3D-Desktop) `HN`
+- [Fiber hattı kesilen ABD, yoğun Doğu Kıyısı havalimanlarındaki uçuşları durdurdu](https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/) `HN`
+- [Robot İlişkileri Departmanları: Yeni Kurumsal Gerçeklik](https://www.techbuzz.ai/articles/robot-relations-departments-the-new-corporate-reality) `HN`
+- [Kütük İşleme Kefali: Önde Determinizm, Arkada Yapay Zeka (Expanso/Jev)](https://expanso.io/blog/log-triage-expanso-jev/) `HN`
+- [Apple'ın Yeni Siri Yapay Zekasının iOS 27 'de Nelere Erişebileceğini Sınırlama](https://www.eff.org/deeplinks/2026/09/how-limit-what-apples-new-siri-ai-can-access-ios-27) `HN`
+- [Antropik, OpenAI ve ark. AI gelişimini yavaşlatmayı kabul ettiği için antitröst davasıyla karşı karşıya](https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving) `HN`
+- [İş kümelerini otomatik olarak doğru boyutlandırma Databricks](https://altimate.ai/blog/right-sizing-databricks-job-clusters-automatically) `HN`
+- [Boomers, torunlarının yapay zeka görüntülerini yapmayı seviyor. Y kuşağı ebeveynleri bundan nefret ediyor](https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9) `HN`
+- [Keder AI baskısının beş aşaması](https://operationsoptimist.substack.com/p/i-think-im-going-through-the-five) `HN`
+- [Belki Meta Yapay Zeka Konusunda Haklı, Ya da En Azından Jeremy Stern Haklı](https://philippdubach.com/posts/maybe-meta-is-right-about-ai/) `HN`
+- [Muhtemelen Başka Bir Altyapı Projesine İhtiyacınız Yok](https://medium.com/@majid.fekri/youre-building-an-ai-startup-you-probably-don-t-need-another-infrastructure-project-2ad07ed82107) `HN`
+- [Sınır laboratuvarlarında yapay zeka gelişiminin hızını anlamak için ölçümler](https://www.anthropic.com/institute/measuring-pace-of-ai-development) `HN`
+- [Özerk bir AI şirketine 0 $ ve 200 $ borç verdim](https://autonomouscompany.substack.com/p/i-gave-an-autonomous-ai-company-0) `HN`
+- [Yapay Zeka Kaynaklı İnsanlıktan Çıkarma](https://myscp.onlinelibrary.wiley.com/doi/full/10.1002/jcpy.1441) `HN`
+- [David Pogue: "Yeni Yapay Zeka Siri'nin 125 Testi"](https://daringfireball.net/linked/2026/09/21/pogue-siri-ai-125) `HN`
+- [Bir Sonraki Yapay Zeka Altyapı Mücadelesi İlk Tokenden Önce](https://radicaldatascience.wpcomstaging.com/2026/09/16/the-next-ai-infrastructure-challenge-is-before-the-first-token/) `HN`
+- [OpenAI, ABD Hükümetini Küresel Yapay Zeka Güvenlik Standartları Oluşturmaya Çağırdı](https://www.wsj.com/tech/ai/openai-urges-u-s-government-to-create-global-ai-safety-standards-a8afba96) `HN`
+- [Zerfoo – Yapay zeka modelleri oluşturmak, eğitmek ve çalıştırmak için saf bir Go çerçevesi](https://zer.foo) `HN`
+- [Show HN: FearGate – AI Fear Machine](https://feargate.org/) `HN`
+- [Yapay Zeka Ajanı Manzarası – Eylül 2026](https://thebeach.dev/posts/the-agent-landscape-september-2026/) `HN`
+- [Matematik ve Yapay Zeka Danışma Grubu](https://openai.com/index/advisory-group-on-mathematics-and-ai/) `HN`
+- [İnsanlık için büyük yapay zeka: düşüp öl](https://matthewbutterick.com/chron/drop-dead.html) `HN`
+- [Yapay zekanın bir sonraki aşaması için bina standartları](https://openai.com/index/building-standards-next-phase-ai/) `HN`
+- [KSL News: Yerel araçlara olan talep arttıkça Belçikalı Aikido siber güvenlik yapay zeka modelini başlattı](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ1dVWFNsYm5PT1lydEhQRkFOQjJiN0dtVEptTFMySDhaRHk4QUh4aTlFckF6bTlxUnZ3SS10N0FCOHF3NW8waFVkX215V1RiQzNZSVMxTTZRVjJaeko1YlZBTDNyNG9rOUFmTElNdXZJUjJ1Tm1oazQxRzB3U0FpdW9EUlZObWhWWDZieVVQRG1SaFlraUdQejhhcVBsME85aXNFRmtrRWxKbllIYko3LXQ5SHBBNFE?oc=5) `RSS`
+- [Anthropic, GPT -6 Astra Kazançları Olarak Yeni Yapay Zeka Modelini Tartıyor - tech-insider.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE1WdmhXTHBIUThjWVNDWVZ3TlRrQ29LSWdTcUN5Yk1ZbW82UHpLRENjVkVWZjNmY0FBd3BhRzRodVdLbk45ZnpwVWM5MG9EcFFEV1dGb1R2MGxxREpwMENqVXBrRmU0N056eWMzQWpsZk5PaTQ?oc=5) `RSS`
+- [Belçikalı Aikido, yerel araçlara olan talep arttıkça siber güvenlik yapay zeka modelini başlattı - Euronext Markets: Gerçek zamanlı Borsa Verileri | LIVE](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2pBbEduWXJSYnBtYkpKV2hMelVVMDVRRFlNeHVDUVYxOXozWlZuNDVPZEVDdjVTamFjTWM4Vm56VWI2ZlB0dnVRem8wYnI4OGFfSVhITU1QaEV6d2NUbjcxZ2tnS1hPaUtxQkVITkk3c1FVb3ZVNGYwUmd5dGtIemV2VGtuYWNHOXhDd3dDd29TWURQWWppc1p3bWl4eG81a3hBajJBU1VlY3p5eGhyUzZPOUoyNnc?oc=5) `RSS`
+- [Yapay Zeka Modeli Sürüm Döngüsü 125 Günden 44 Güne Daralıyor - Kendini Geliştiren Yapay Zeka Kontrol Endişelerini Artırıyor - finance.biggo.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE41ZkNDQXpNbGg2MHVjN3lsLUE1YkNQS3h0dFJxT19oRUsxYzNLTjBYUXAySWprMnNyTGdoU0F6ekh6VGJ3SlpWQWhhS0UxSGpKVFZhMzlBaldCQjV4LVNmV0tMbW8za0RPQkxUYXp4d3VoeGRIRUE?oc=5) `RSS`
+- [UMG, Sony, Yapay Zeka Modelinin Lansmanından Sonraki Yeni Telif Hakkı Davasıyla Suno'ya Hit Yaptı - Hukuk Yorumu](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENpelhHd1JhT1BwU1dwX29vcHg5RURtN1Z3REgtcXp2aGlETktRVFVyNGJIU0dkaHNreU96U2thNEFReXpFbFp5OHZOT2FIdEZTcG9FSzJpNU5qanJUWHhTc2kyOTRCRjFwRndwd0xzSWQyOXFSSUdXeUJuUnRxaHVn?oc=5) `RSS`
+- [Grok 4.7, Claude AI'ya Değişmeyen Fiyatlandırmada Meydan Okumak için Büyük Kodlama Yükseltmeleri Getiriyor - Android Başlıkları](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkg0bjNuVVJVZjV2Uzdqc3l4bFZ1ZXBoeE1TQVlVN3JEdldiX3JBczFHN2lDSzVEcTQ0eXNqUzdVRE5LZ2VocERTYVVWQUVTeHcxejQ3WWJ6ZUhzVXQ5bDNWUVV0SUFHc01Cc2RvX3RkZnRULTE0TlZybTJUUXUwYjVINXRiUWdzWUY2aENicDhHQQ?oc=5) `RSS`
+- [Anthropic, Yavaşlatma Çağrısından Sonra Yeni Model Günlerini Tarttı - tech-insider.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX1NScm5CekpnWVB1d00wR0tWQWRDSGtsV1NuV2dRZ0JLMjQtdVB2blpfNUFIelE4bnE0VzNWVGFmeV9rNFhYaWhkYVdhcUFkcXF6X09FMElJWGhnVzJwb00tOExTNG5WVFoyVFlVaThaejREbERaYmRn?oc=5) `RSS`
