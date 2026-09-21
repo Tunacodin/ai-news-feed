@@ -497,3 +497,36 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [UMG, Sony, Yapay Zeka Modelinin Lansmanından Sonraki Yeni Telif Hakkı Davasıyla Suno'ya Hit Yaptı - Hukuk Yorumu](https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENpelhHd1JhT1BwU1dwX29vcHg5RURtN1Z3REgtcXp2aGlETktRVFVyNGJIU0dkaHNreU96U2thNEFReXpFbFp5OHZOT2FIdEZTcG9FSzJpNU5qanJUWHhTc2kyOTRCRjFwRndwd0xzSWQyOXFSSUdXeUJuUnRxaHVn?oc=5) `RSS`
 - [Grok 4.7, Claude AI'ya Değişmeyen Fiyatlandırmada Meydan Okumak için Büyük Kodlama Yükseltmeleri Getiriyor - Android Başlıkları](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkg0bjNuVVJVZjV2Uzdqc3l4bFZ1ZXBoeE1TQVlVN3JEdldiX3JBczFHN2lDSzVEcTQ0eXNqUzdVRE5LZ2VocERTYVVWQUVTeHcxejQ3WWJ6ZUhzVXQ5bDNWUVV0SUFHc01Cc2RvX3RkZnRULTE0TlZybTJUUXUwYjVINXRiUWdzWUY2aENicDhHQQ?oc=5) `RSS`
 - [Anthropic, Yavaşlatma Çağrısından Sonra Yeni Model Günlerini Tarttı - tech-insider.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFByX1NScm5CekpnWVB1d00wR0tWQWRDSGtsV1NuV2dRZ0JLMjQtdVB2blpfNUFIelE4bnE0VzNWVGFmeV9rNFhYaWhkYVdhcUFkcXF6X09FMElJWGhnVzJwb00tOExTNG5WVFoyVFlVaThaejREbERaYmRn?oc=5) `RSS`
+
+- [Meta'nın son derece ayrıcalıklı yapay zekâ asistanı Muse'un ciddi bir sıfır gün açığı var.](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/) `HN`
+- [Yapay Zeka Riskleri Özet Bilgi Sayfası](https://umais.me/writing/ai-risk-cheatsheet/) `HN`
+- [Jev: System One Models for Prod, Not God – Diogo Almeida, CEO, TypeSafe AI ile](https://www.latent.space/p/jev) `HN`
+- [Test edicilere ihtiyacım var](https://agaro.ai/) `HN`
+- [Yapay zeka normları nereden geliyor?](https://charity.wtf/p/where-do-ai-norms-come-from) `HN`
+- [Yapay zekadan korkmayın. Yapay zeka şirketlerinden korkun](https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html) `HN`
+- [Sınırdaki Yapay Zeka Modellerinin Kontrolü Çağrısı](https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/) `HN`
+- [Neredeyse bir savaş başlatıyordu: Yapay zeka medeniyete nüfuz ederken rapor karanlık gerçekliği ortaya çıkardı](https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49) `HN`
+- [Antropomorfizasyona eklemeden "AI" hakkında nasıl konuşulur](https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/) `HN`
+- [Show HN: SoTA Feed – Önemli olan laboratuvarlardan çıkan her açık ağırlık](https://sota.borgcloud.ai/) `HN`
+- [Show HN: Fast inference for deep seek flash v4.1 469 tok/s for coding](https://www.coralbricks.ai) `HN`
+- [AI temsilcilerinin Evrensel Arama MCP Sunucusu ile çalışma alanında arama yapmasına izin verin](https://developers.google.com/workspace/guides/universal-search-mcp) `HN`
+- [Yapay zeka çağında (yeterince iyi) denetim](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/) `HN`
+- [Show HN: Praxos – Multiplayer AI](https://www.praxos.ai/) `HN`
+- ["Yapay Zeka" ya Neden Bu Kadar Para Yatırılıyor?](https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/) `HN`
+- [Kapak kapalıyken Mac'inizi uyanık tutan küçük bir macOS menü çubuğu uygulaması](https://github.com/archestra-ai/nonappa) `HN`
+- [Kement: Yapay Zeka Filigranları Temsilcilerin Davranışlarını Değiştirir](https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/) `HN`
+- [Aileler için oluşturulmuş bir yapay zeka ajanı olan Google CC](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/) `HN`
+- [IA Agent Arthur – Bir OfflineAIagent Geliştirdi](https://x.com/AI_AGENT_ARTHUR) `HN`
+- [vLLM Mimari, Bellek ve Karşılaştırmalı İncelemeler](https://www.g-ftech.com/blog/vllm-throughput-deep-dive) `HN`
+- [AB, yapay zeka şirketlerinin çıkarına Avrupalıların "dijital olarak kamulaştırılmasını" planlıyor](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies) `HN`
+- [Jonathan Swift'e karşı Yapay Zeka](https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence) `HN`
+- [Mühürlenmemiş dosyalar, insan yazarların yerini alacak OpenAI "araştırma misyonunu" anlatıyor](https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html) `HN`
+- [Amerikan vatandaşlarının yapay zekaya erişimini koruyacak yeni yasa tasarısı – Lütfen okuyun ve paylaşın](https://righttorun.us) `HN`
+- [ABD'li DOT, uçuş gecikmelerini azaltmayı amaçlayan yeni hava trafik kontrol sistemini tanıttı](https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-delivers-state-art-air-traffic-control) `HN`
+- [Peki ya yapay zekayı arabalar gibi düzenlesek?](https://rkp.science/regulating_ai_like_cars.html) `HN`
+- [1B Parametreli Aime'de % 94](https://paradigma.inc/blog/limite-1b-violetto/) `HN`
+- ["Yapay zeka projelerinin % 80 'i başarısız" bir satır uzunluğunda bir dipnota kadar uzanıyor](https://jamiewatters.work/journey/80-percent-ai-projects-fail) `HN`
+- [Meta, OpenAI ve Anthropic'e gönderme yaparak en güçlü yapay zeka modelini açık kaynaklı hale getirecek - CNBC](https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLdIBfkFVX3lxTE1yT2pVb3pXZnpWRnVFeTliT2paa3NzNkNJX2FiS2ZMZXcxS2FtZ2wxdXhHYUlETVpocWFJTHZkZWJ6dEtzMW1rVF9sTTRkNWtDMWhEeHhYNVF6QVk3X29SU2xPQ3VxT21HX2tWaXN5Yi10OFhIUTVfUWltZ2dxZw?oc=5) `RSS`
+- [Yapay zeka liderliğindeki saldırılar çoğaldıkça, OpenAI yeni bir siber model başlattı: TechCrunch](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUlDV19rQi1xNjJxVWFVeGVEV1NEdDNpNWRLa01uOWV3VUNJaEdVWUhsV0RRVXN2U2otbmlPNHd6TThJbjJRTEFVTlR6Y3VDcTlvRVJxd1AwQllaLUhGeV9KYWMyZEVIWkVEMFlRUUNTOXdKd19hV2k4dEVGeC1KdlVFcURvM2EtUU4yeDRRQlhtY282Mk5IN1REYw?oc=5) `RSS`
+- [Meta, Zuckerberg açık ağırlıkta itmeyi savunurken yeni yapay zeka modelini piyasaya sürdü - reuters.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5) `RSS`
+- [xAI Grok 4.7 'yi Başlattı. Daha Büyük, Ama Yapay Zeka Sınır Partisine Geç - Şifreyi Çöz](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCNG1iR3ZlOUdITkRfTHhmUkZPTDZ1NWp6Q09nRlIxb3JWbU5MZk1CUm01U3d4Q3ZLek5UZVJGakpRc09BTE11VnRYV1M2dE1wUHJLYXJhckM4cjTSAWNBVV95cUxOT3lyN1YyOGRxTVIwYzhjNEJzOU9Ra3dsc2c5SWNPTGZXT1hFSVZhdlBhYmJtbUV2RF9rYTJucW14QXNPQWMxT3RuY3hYbnFIdmpZdi13cXlpcnBhQWlMcGRrV1E?oc=5) `RSS`
