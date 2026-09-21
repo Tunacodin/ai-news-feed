@@ -390,3 +390,19 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Üniversiteler için yapay zeka yerli derece planlama yazılımı](https://www.coursetrees.com) `HN`
 - [Google ve NASA, uzaydan gelen metan emisyonlarını haritalamak için yapay zeka modelini başlattı - ESG Dive](https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHlIVXRpM0hRX1ZmMmFfNnZNb3VoTHVqS0VTbkRuM1h3RVRaYmFDbnFFYXhlTXUxbE83OERDVGh1NDdtSlB2VDJkQXZ2RU1Pa2lvUkRyMFNyQzlWTjJtZTZ2dWtnUTBVaDg4LXZLcVdTdkZwNUhyZkFtUXFEWGNYRjhrTURUN2RELTRrcXBuN05uQzJjUC1hc0lXWk9DUkF1Mmc?oc=5) `RSS`
 - [The Daily Star'ın haberine göre, OpenAI'ın Astra'sı zemin kazanırken Anthropic yeni model lansmanını tarttı](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNby1KeEtySDlwZ1h6N0JIanRYYzkyb2tlbjFwd1I4VDh6NEZUNmNKSlE2V3N2NTRSS0ZQdHJvWU5TMmQyRDFYM3pTWW4zUkJHcVhrcnU0eDJFc0VneHNwTzR6T052UXpOby1aSDVHMEpyTC1iYjhjSWpyM05maE01Q1Buc0JBNDluMkNNaXhaWWUybktEeTVRQXNicGNtYUNpWllBZGIyajltdTJuWTBVek4zWEh4eGtCb0w4eFJaM3ZXZEU?oc=5) `RSS`
+
+- [Show HN: Gdocs - me - up: yüksek kaliteli bir Google Dokümanlar ihracatçısı](https://github.com/behdad/gdocs-me-up) `HN`
+- [OpenPrompt – birden fazla AI kodlama aracı kullanan geliştiriciler için tek bir çalışma alanı](https://openprompt.tech) `HN`
+- [Trump, yapay zekayı yeni bir isimle yeniden markalaştırmanın zamanının geldiğini söyledi](https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/) `HN`
+- [hesabın temel teoremi](https://www.proofatlas.ai/library-theorems/fundamental-theorem-calculus/) `HN`
+- [Benzer iki yapay zeka hakimi, bağımsızlığın öngördüğünden 7,7 kat daha sık birlikte başarısız oluyor](https://github.com/LAWLESS1987/covenant) `HN`
+- [Yapay zeka destekli bilim için bir CERN](https://terrytao.wordpress.com/2026/09/17/a-cern-for-ai-assisted-science/) `HN`
+- [Veri merkezlerine ve donanımlara yapılan harcamalar artık konut yatırımını aşıyor](https://fortune.com/2026/09/20/us-economy-milestone-spending-data-centers-ai-boom-housing-residential-investment/) `HN`
+- [Merakı keşfedebileceğiniz bir haritaya dönüştürün](https://www.echohive.ai/experiments/drift) `HN`
+- [AI Netscape – 1997 Chrome, 2026 AI](https://ainetscape.com/) `HN`
+- [Anthropic CEO'su Dario Amodei'nin Yazıları YAPAY Zeka Korkularını Açıklamaya Nasıl Yardımcı Oluyor?](https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html) `HN`
+- [DAPO: ByteDance Seed ve Tsinghua Air'den Açık Kaynaklı Bir RL Sistemi](https://github.com/BytedTsinghua-SIA/DAPO) `HN`
+- [Yapay zekam beni göndermeye zorladı, ben de nedenini sordum](https://www.oreilly.com/radar/my-ai-kept-pushing-me-to-ship-so-i-asked-it-why/) `HN`
+- [Navier - Stokes, AI, Martin Hairer ile Matematiğin Geleceği (2014 Fields Madalyası) [video]](https://www.youtube.com/watch?v=G8HMa_tgM34) `HN`
+- [Show HN: Yapay Zeka Kabul Anketi (Census)](https://www.crawlspider.com/pages/ai-adoption-rate) `HN`
+- [HN'yi göster: JEVALS – LLM hakemlerinin yazılı JEV kararlarıyla değiştirilmesi](https://github.com/openlayer-ai/jevals) `HN`
