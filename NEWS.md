@@ -406,3 +406,25 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Navier - Stokes, AI, Martin Hairer ile Matematiğin Geleceği (2014 Fields Madalyası) [video]](https://www.youtube.com/watch?v=G8HMa_tgM34) `HN`
 - [Show HN: Yapay Zeka Kabul Anketi (Census)](https://www.crawlspider.com/pages/ai-adoption-rate) `HN`
 - [HN'yi göster: JEVALS – LLM hakemlerinin yazılı JEV kararlarıyla değiştirilmesi](https://github.com/openlayer-ai/jevals) `HN`
+
+- [Bull, Yeni Nesil Lumi AI Süper Bilgisayarı için HPE'yi Yendi](https://www.nextplatform.com/hpc/2026/09/17/bull-beats-out-hpe-for-next-gen-lumi-ai-supercomputer/5297292) `HN`
+- [Jev'i inşa edebilirdin](https://sgnt.ai/p/jev/) `HN`
+- [Yapay zeka sayesinde Compsci mezunları durgunluk benzeri iş beklentileriyle karşı karşıya](https://www.theregister.com/ai-and-ml/2026/09/18/compsci-grads-facing-recession-like-job-prospects-thanks-to-ai/5297537) `HN`
+- [Yatırım Kâhini: Ajan Yapay Zeka Destekli Hisse Senedi ve Kripto Analisti](https://investmentseer.com/) `HN`
+- [Yapay zeka sohbet robotları finansal sorulara "çoğu zaman" yanlış cevaplar veriyor](https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666) `HN`
+- [Neden Artık İnsan Matematikçilere İhtiyacımız Var?](https://poshenloh.com/posts/20260919-math-ai) `HN`
+- [Ardışık, Örtüşen Krizlerden Sonra Üniversite Dağılıyor](https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/) `HN`
+- [Başkan yapay zekayı serbest bırakmak istedi. Sonra Anthropic geldi](https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212) `HN`
+- [Bir Yapımcının İş Piyasasının Geleceğine Basit Bir Bakış Açısı](https://wenbo.site/blog/a-builder-s-simple-perspective-on-how-ai-will-shape-the-job-market) `HN`
+- [Bir Silikon Vadisi radikali: Trump'ın yapay zeka fısıldayıcısı sınırlı düzenleme için bastırıyor](https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar) `HN`
+- [AI Weekly, Google AI Studio Veri Saklama Dolandırıcılığı Konusunda Firmaları Uyardı](https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google) `HN`
+- [Art of the Problem 99 $ AI botunu piyasaya sürdü](https://artoftheproblem.com/pages/growbot-preview) `HN`
+- [Yapay zeka akademik ayıklama makinesini bozuyor](https://lemire.me/blog/2026/09/20/ai-is-breaking-the-academic-sorting-machine/) `HN`
+- [Yapay Zeka Temsilcimin Şabat'ta Çalışmasına İzin Verebilir miyim?](https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm) `HN`
+- [Kodu Yapay Zeka Yazıyorsa Neden Tüy Bırakma Kurallarıyla Başa Çıkalım?](https://allstead.dev/blog/why-lint-when-ai-writes-the-code) `HN`
+- [ZCode: Z.ai'nin kodlama aracı kablo demeti. Güçlü, akıllı, genişletilebilir](https://github.com/zai-org/ZCode) `HN`
+- [Flock, Halkın Desteğini Toplamak İçin Yapay Zekayı Kullanan Kâr Amacı Gütmeyen Kuruluşla Ortaklık Kur](https://theintercept.com/2026/09/17/flock-cameras-ai-astroturf-support/) `HN`
+- [Google, ülke genelinde yapay zeka sohbet botu yasalarını nasıl hazırlıyor?](https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google) `HN`
+- [Nvidia'dan Jensen Huang, yapay zeka yok olma uyarılarını "kıyamet günü anlatıları" olarak reddediyor](https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/) `HN`
+- [Anthropic, Yatırımcıların IPO Öncesi Endişelerine Rağmen Yeni Yapay Zeka Modelini Düşünüyor - PYMNTS.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWp5cTZXc0VwMGkzZWNRM29aQ09xbG0ta1BvaEVxT3AxLW1PdHZzMEV4MEZBemgyVFNjVEpEMHUtUTg3TVZwcElQNkJtUDhybzNTdFh2Sk5iTjM1a3pUUkNyTVBBbDl2dTR5U2t0MTJxN3NWbzZaX0p4UzB1RTJiRklSeno3WUtRdk5IUWxMZ1hQb05RUjJ5cVFhVFE5Y0IxOVdfTEdkemhMRVRpMnp1LUJPQVJaWFNk?oc=5) `RSS`
+- [CEO'su AI gelişimini yavaşlatmaya çağıran Anthropic, halka arz öncesinde yeni bir model yayınlayabilir - The Times of India](https://news.google.com/rss/articles/CBMihAJBVV95cUxON1c3WF8wNlB2QWhqWngzWTJoWXdlc0swTS1IeGlBdzg5SEl0RlFZdkNyNGx5VHVwcVZqbzlCQldzbG9jT2QxNUcwYUEycEZGYUVrSUI4UGttTjg1M1dCWkxfU3h0TUdLSXlNcGF6TXpoT0tsa2JEV0IyMHNpaVFoRkVsVXFTMXdEY040MnZjYU9GSzdGOVpiNThjcUdiVWZrSTNTaVR1LVhJbWlTYWNOSHY3dGNkNHl4a01JNFVvMER1TGR2RXA5Zkh5NjNKS0NPMkVWR3NtNG1fYUVPNnlkTWk4Ymgta1dvZnFkd3J2VUlPcFBNVlJxUHU0NzRXZVE5RVJGeNIBigJBVV95cUxNaHlFb2JtUU43WG1UNXVJZmc2WjdoNjJzMTJzbkFPMEFrSUo2LUdOSVl6eDlTU2xSbUktVmhpQWRHNFZKRXA5ZmpfRHNYWXplRXRFRXdTa3JLMm1HZ3Z4SDctV3JLdGx1bmlZQmFmbGhVdDVNS0NfMmUtQmpoZ0w2RjJVSlo2Uy1RYVNNWDhvVnNSem5OU0RwLUk1RDNlVDdIUE5fcU9ZOHZ1UWZqNFdTVmZSdWdybWJiU2xsYVhIWmk1OFoxUjdOZjRJd3pENkpaanJ4ZzlCVFVjRkkxY3JoY0xiX3EyZXFmbHBLdFJPZ2RINzhCN0Y5b3paMGV1c1ZHQkNKV2dsUHhCQQ?oc=5) `RSS`
