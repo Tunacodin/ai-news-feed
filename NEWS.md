@@ -561,3 +561,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Google, ülke genelinde yapay zeka sohbet botu yasalarını nasıl hazırlıyor?](https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google) `HN`
 - [Grok 4.7 'nin Tanıtımı - xAI](https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5) `RSS`
 - [Sahara AI, Finansal AI Altyapısını Merkeziyetsizleştirmek için TaaS ve AaaS'yi Başlattı - ffnews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVltQlVyNXlhbXA0XzdPNERQeDRUTDhnems3ZklleGktc0puWl84eTFobXpEWU80WS1jMnF1czBHTnlOeVVjWVdBdHFjYmZBNXZ0ZnZmbkhMMG9lV2NFMTJ1c19Jd1c2T2ZJYkZFVHlvVnRVSHhKU2VJWEFvbTBDb3B4M2ZoeDJJR2t5eUtubjJvRkZGR0VDYVFiNk13RkwxSkdWa19sQ1YzSENnVDZvaTk5WQ?oc=5) `RSS`
+
+- [Nvidia'nın patronu yapay zekanın 2030 'a kadar dünyayı yok etme ihtimalinin "% 0 "olduğunu söyledi](https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic) `HN`
+- [StarCraft merdiveninde bir yapay zeka botu ortaya çıktı. Kimin çaldığını söyleyebilir misin?](https://marianogappa.github.io/software/2026/09/22/player-fingerprinting-in-the-age-of-ai-bots/) `HN`
+- [Aynı komut istemi, aynı son nokta, farklı puan](https://codecut.ai/prompt-tweak-score-gain/) `HN`
+- [FAA, uçuş trafiğini yönetmek için yapay zeka destekli aracını tanıttı](https://www.politico.com/news/2026/09/21/faa-ai-tool-flight-traffic-01086258) `HN`
+- [Çalışma: Genç kullanıcılar (9 ila 18 yaş arası) sonuçları bilinmeyen yapay zeka için Google'ı terk ediyor](https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/) `HN`
+- [Bayes ile Organize Etme](https://heat-shield.space/organizing_with_bayes.html) `HN`
+- [Yapay zeka, sınırları kimlerin geçeceğini nasıl etkiliyor?](https://newsroom.taylorandfrancisgroup.com/how-ai-is-impacting-who-gets-to-cross-borders/) `HN`
+- [Emacs için AI Modu](https://github.com/ai-mode/ai-mode) `HN`
+- [Et Tu, Brute? Economic Misalignment in Personal AI Agents](https://arxiv.org/abs/2609.24927) `HN`
+- [Polis yapay zekaya o kadar sıkı sarılıyor ki yakında hepimiz suç öncesi şüpheliler olacağız](https://responsiblestatecraft.org/pentagon-artificial-intelligence/) `HN`
+- [KeiroLabs – Yapay zeka temsilcileri için web araştırma altyapısı](https://keirolabs.cloud/) `HN`
+- [Show HN: Z8Log – Yapay zeka kodlama aracınızın sorgulayabileceği yapılandırılmış günlük kaydı](https://z8log.com/welcome) `HN`
+- [Yapay Zeka Görselini Ücretsiz Oluşturun – Kaydolmaya Gerek Yok](https://www.createaiimage.net/) `HN`
+- [Devam et – AI sohbetlerinizi dışa aktarın, GDPR silmeyi dosyalayın, göz ardı edilirse ilerletin](https://github.com/ur-grue/move-on) `HN`
+- [Yapay zeka personeli, topluma yönelik tehdit korkusuyla zihinsel zarar vermekten şikayetçi](https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7) `HN`
+- [Bağlamın Ötesinde Pencereler: Yapay Zeka Ajanları için Uzun Süreli Belleğin Değerlendirilmesi](https://twitter.com/AgentMemoryL/status/2101312784688726331) `HN`
+- [Yapay Zeka Optimizasyonu Yazı](https://lemire.me/blog/2026/09/22/a-summer-of-ai-optimization/) `HN`
+- [TypeSafe AI Jev ile neler oluşturabilirsiniz?](https://vercel.com/i/jev-use-cases) `HN`
+- [Yapay Zeka Yetenek Serabını Nasıl Yaratır?](https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/) `HN`
+- [Yapay Zeka Zamanlarında Pedagoji [video]](https://www.youtube.com/watch?v=N2a1J0UPeL4) `HN`
+- [Yapay zeka neden karizmatik bir dini lidere benziyor?](https://theconversation.com/why-ai-resembles-a-charismatic-religious-leader-291831) `HN`
+- [JP Morgan CEO'su, aşırı ölçeklendirici yapay zeka harcamalarının 2027 'de $ 1T'ye ulaşabileceğini söyledi](https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html) `HN`
+- [Raporda, gençlerin neredeyse yarısının doğrulama için bir insan yerine yapay zekaya güvendiği belirtiliyor](https://news.sky.com/story/nearly-half-of-young-people-trust-ai-over-a-human-for-fact-checking-report-says-13590558) `HN`
+- [StepFun, 5. Adım Önizleme, 600B/27B MOE'Yİ tanıttı, açık ağırlıklar 15 Ekim'de geliyor](https://twitter.com/StepFun_ai/status/2101510462685003786) `HN`
+- [OpenAI, yapay zekası 100 'den fazla açık problemi çözdüğü için matematik danışma grubu oluşturuyor](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) `HN`
+- [Küçük girişimler yapay zekanın yardımıyla daha da küçülüyor](https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75) `HN`
+- [Alibaba, yeni çip, daha büyük modelle yapay zeka girişimini derinleştiriyor; hisseler % 5 arttı - WKZO](https://news.google.com/rss/articles/CBMirwFBVV95cUxONGRweGZyQWo5Rkhna3Y3NjVWZHZDc2JoUzhaMzRyN0xGVEktSTZUWUxHeG5sd1lkWWNnTlBmUGRJUlR1Vko2dnRZeWR5RWk4b0tyMzVMRGRHbERHeXQxVDRMLVNTSDlKLXZmclRJTHdDTi1RZk9VVnoyelFJU0FYWGtpVXN4cHJkZTJ1bnhVSEZXMUtqRDZLNGJhLXV2VW52Q2VVYkFBS3NseDVfUkJF?oc=5) `RSS`
