@@ -660,3 +660,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Anthropic ve OpenAI daha ucuz AI modellerini piyasaya sürdü... - Pluang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczFkWTA3eEFWcjg5SXNrOUdESTZRdG1mZGIwbFlKcTZadHRlNk9HM3M5REFnOU5NNHZXem40d2ZzQ1hXS2Q5YXdUODJwRWNHMWp1eFdfY01fYkdtcE5VcHBta2VaLUs2RThHdUpTbzhUdVFpZUpJazk4b0w0ZllnOFdzMmVrdTQyZ2dV?oc=5) `RSS`
 - [OpenAI, Yapay Zeka Maliyetlerini Azaltmak için Daha Ucuz GPT -6 sol ve Luna Modellerini Piyasaya Sürdü - Межа. Новини Украɔни.](https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcDJxeDZOY2RGTkVOeEtLdEJzWWoxQzUtTWlmV1dSeXpuc0p1Z0NvWGc3ZGNnRlQ5d3JwN0YyMEJ4dDVJbk1xQWtLcWx5RVJ1RkNtZkt2N3VVWGJQSVBCYlpyYzNqWnFqa0Nhdg?oc=5) `RSS`
 - [Anthropic, Claude Opus 5.5 'i tanıttı - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2VINVptSExJdjU0WkQ0WDVkRUdsaHduYjB1Tk81TnBrZkVvalowQWh2NFJnYmZ1TkxtVTQyZHdVWDgzVmJtRE9SSjkzeW9DWDFleHNPU01LUWE1TUpCdktmTVVRZHNXWm9ack9CRmdQTU1XUHd0Y2lhaEZBWWJYQVNFYw?oc=5) `RSS`
+
+- [Yapay zeka, tarihteki diğer dönüştürücü teknolojilerden daha hızlı ucuzluyor](https://epoch.ai/publications/the-plunging-price-of-thought) `HN`
+- [Yapay Zeka Bolluğu 4 Saatlik Çalışma Haftası Gerektirir](https://elnahla.com/4-hour-workweek/) `HN`
+- [Show HN: LinearSolveBench, lineer çözücüleri keşfetmek için ilginç yeni kriter](https://www.autodidakt.ai/linear-solve-bench) `HN`
+- [HN: Jade E - postasını göster. Alan adınız için sınırsız e - posta artı AI Agent desteği](https://jade.email/) `HN`
+- [Meta'nın Yeni Muse AI Temsilcisi Özel Mesajlarımı Okuyun. Hiç sormadım](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202) `HN`
+- [Voxiferi, VoxWall'u kötü veriler için bir "yapay zeka giriş güvenlik duvarı" olarak tanıttı](https://opensourcewatch.beehiiv.com/p/new-voxiferi-introduces-voxwall-as-an-ai-ingress-firewall-for-bad-data) `HN`
+- [Yapay Zeka Yöneticisi: "İnsanlık Tarihinin En Büyük İş Hırsızlığını" Yapmış Olabiliriz](https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/) `HN`
+- [Kaydedildi, Kanıtlanmadı](https://claude.ai/artifact/HucaoGuaQqp9g9TZX97HGw) `HN`
+- [Yapay zekanın verileri yalnızca onayınızdan sonra güncellediği, kendi kendine barındırılan bir CRM olan Relaticle](https://relaticle.com) `HN`
+- [Show HN: NetM8 OS](https://netm8.com/) `HN`
+- [Kotlin 2026: İşten Çıkarmalar, Yapay Zeka, Google – Altın Çağ Bitti mi? Jake Wharton Açıklıyor [video]](https://www.youtube.com/watch?v=9WjPdgOK-68) `HN`
+- [Yapay Zeka Neden Sizi Cory Doctorow ile Değiştiremiyor [YouTube] [video]](https://www.youtube.com/watch?v=VU3gABvwZCM) `HN`
+- [Açık Ağırlıklı Yapay Zeka Modelleri Token Kurşununu Ele Geçiriyor, Ancak Tescilli Yine de Para Kazanıyor](https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/) `HN`
+- [Harekete Geçmek İçin Yeterli Neden: Yapay Zeka güvenlik ihtiyaçları politikası işten çıkarılmamalı](https://substack.norabble.com/p/enough-reason-to-act) `HN`
+- [Z.ai, kodunuzu bulandırdığı için üzgün olduğunu söylüyor, açık kaynaklar ZCode](https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300) `HN`
+- [Riski Karşılıklı Hale Getirerek Frontier AI Yönetişimini Önyükleme](https://www.lawfaremedia.org/article/bootstrapping-frontier-ai-governance-by-mutualizing-risk) `HN`
+- ["Aynı aciliyet duygusu ": BM başkanı yapay zeka riskini nükleer silahlarla karşılaştırıyor](https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html) `HN`
+- [Temsilcinin Belleğinin Saklama Politikasına İhtiyacı Var](https://memanto.ai/blog/your-agents-memory-needs-a-retention-policy) `HN`
+- [Meta'nın akıllı gözlükleri robotlar için yapay zeka eğitimi veriyor mu?](https://proton.me/blog/meta-smart-glasses-ai-robots) `HN`
+- [Hiyerarşik ajan döngüleri oluşturmak için açık kaynak aracı](https://github.com/plasma-ai/fractal) `HN`
+- [Yapay Zeka Liderleri Sorumluluk Mayınında Duruyor](https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060) `HN`
+- [Meta, yeni kişisel yapay zeka ajanı Muse için bir "insan konsiyerjini" test ediyor](https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/) `HN`
+- [Yapay Zeka mı dedi? Dirgenleri Bileyin](https://forta.com/blog/he-said-ai-sharpen-the-pitchforks) `HN`
+- [Show HN: junkDrawer.ai – AI Agent ve Dinamik Filtreleme ile eBay'e göz atın](https://www.junkdrawer.ai) `HN`
+- [DiscoBox: Tek Kullanımlık Sandbox'larda AI Kodlama Ajanları](https://github.com/discobox-ai/discobox) `HN`
+- [Daha Hızlı En Kısa Yol Algoritması](https://www.vals.ai/blogs/faster-shortest-path-algorithm) `HN`
+- [GPT -6 sol ve Luna maliyet verimliliği sınırını zorluyor](https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier) `HN`
+- [Yapay Zekadan Ne Kadar KORKMALIYIZ?](https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html) `HN`
+- [Trump, yapay zeka gözetimi için küresel varlığı reddetti](https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546) `HN`
+- [Özerk bir yapay zeka şirketi kendi kendini yönetebilir. Hala bir pazar bulamadı](https://autonomouscompany.substack.com/p/the-company-could-run-itself-it-still) `HN`
+- [GPT -6 sol ve Luna Tanıtımı - OpenAI](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5) `RSS`
+- [OpenAI, daha düşük maliyet ve daha az hata ile övünen GPT -6 sol ve Luna'yı piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJzRWtNeU8tQkl1WUZlc19BYWctaC1iak9JWFozN1Q4Y1dPOFVHS3R0MDlLUi1vUmNTVk50Q2gxYmYtbWxxQUZ3Y0FEUDFPTXoyV0l5MHo0a2RLems0QXRabHgwNnNYc2h2LWRyT0RCa2p3MzYyNg?oc=5) `RSS`
+- [INTEGRITY Global Security, Tüm Yapay Zeka Siber Saldırılarını Etkisiz Hale Getiren Yapay Zeka Dome™, Nükleer Dereceli Güvenliği Başlattı - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUjViVzdxOFNJNjZQZTFBSDJOQUtxRUdOZDllN19QejcxTlE5aC1PWGNNVklJcF84UEo2WHZHc1N3VVVPSEhWU2didDZuSkdVT0pHcGFrYzBXQTVZUjFpQnBTYnVxLXRwV282TU9vV3FTeDFGMnJjYS1jSGR1ZG1WVXhQTV84cm5RQkFDbE1EQQ?oc=5) `RSS`
+- [Qualcomm, yapay zekaya vurgu yapan iki yeni akıllı telefon çipini piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHQybjc4UXF1MmR5X2kzZVZiT0g3R1J0NEl2Q1FTUW1PM3hkZjE3cUhtTVhrY1dOX2dyR25WMUxuV1B2S09kZnQtSTF5VjFMVGtla1RmNEhrcGs2YlBCTXAyLVZ5bGxITnJuLTlyT0tWalUzMnhkSTB0bHhDNEY0M3VYYUJNSTdMeTN5UF9yTVR3aTdtRUsybHFfM0VHQQ?oc=5) `RSS`
