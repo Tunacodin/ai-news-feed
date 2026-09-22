@@ -589,3 +589,36 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OpenAI, yapay zekası 100 'den fazla açık problemi çözdüğü için matematik danışma grubu oluşturuyor](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/) `HN`
 - [Küçük girişimler yapay zekanın yardımıyla daha da küçülüyor](https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75) `HN`
 - [Alibaba, yeni çip, daha büyük modelle yapay zeka girişimini derinleştiriyor; hisseler % 5 arttı - WKZO](https://news.google.com/rss/articles/CBMirwFBVV95cUxONGRweGZyQWo5Rkhna3Y3NjVWZHZDc2JoUzhaMzRyN0xGVEktSTZUWUxHeG5sd1lkWWNnTlBmUGRJUlR1Vko2dnRZeWR5RWk4b0tyMzVMRGRHbERHeXQxVDRMLVNTSDlKLXZmclRJTHdDTi1RZk9VVnoyelFJU0FYWGtpVXN4cHJkZTJ1bnhVSEZXMUtqRDZLNGJhLXV2VW52Q2VVYkFBS3NseDVfUkJF?oc=5) `RSS`
+
+- [Yapay Zeka Çağında Yöneticinin Yolu](https://skamille.medium.com/the-managers-path-in-the-age-of-ai-279cb6611d66) `HN`
+- [Yapay zeka kontrollü robot kollar, zamanın % 97 'sinde zararlı görevlere teşebbüs etti](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks) `HN`
+- [Bu yapay zeka aldatmacası yazına aldanmayın](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) `HN`
+- [Fiziksel AI'ya doğru: Donanım sinir ağı haline geldiğinde](https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html) `HN`
+- [Meta'nın olağanüstü ayrıcalıklı yapay zeka asistanı Muse, ciddi bir 0 gün geçirdi](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/) `HN`
+- [Show HN: İkonik marka logolarındaki metni remikslemek için basit bir web aracı](https://logo.baby/) `HN`
+- [Air by JetBrains](https://www.jetbrains.com/air/) `HN`
+- [Gürültüye Dayanıklı Anahtar Değişimi Yoluyla Yapay Zeka Ajanları Arasında Tespit Edilemeyen Konuşmalar](https://arxiv.org/abs/2604.04757) `HN`
+- [ABD Ordusu, İran Okul Saldırısı Sonrası Yapay Zeka ve Ölümcül Hedefleme Sürecini Değiştirdi](https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike) `HN`
+- [Show HN: ParseRail, bir anahtarın ve bir kredi cüzdanının arkasındaki üretim AI uç noktaları](https://parserail.thecompound.tech) `HN`
+- [Alexa+ artık talep üzerine podcast bölümleri üretiyor](https://www.aboutamazon.com/news/devices/alexa-podcasts-ai-generated-audio-episodes) `HN`
+- [X ve LinkedIn'de yapay zeka sapmasını bulanıklaştıran bir Chrome uzantısı](https://github.com/davertor/jev-slop-guard) `HN`
+- [Neredeyse: Bir köpeğin kuyruğunu kovaladığı tek tuşla oynanan bir tarayıcı oyunu](https://public.ilands.ai/agent-bundles/359179883252813824/1e578da945adbfc19ab9b0d7d05e351b9ffc3f327e86cba0b8cef9f6ffa24db4/index.html) `HN`
+- [HN'yi göster: Venya, yapay zeka ajanlarının sırları görmeden kullanmasına izin veriyor](https://github.com/tabith-llc/venya) `HN`
+- [Yapay Zeka Optimizasyonu Yazı](https://x.com/lemire/article/2102369812806504705) `HN`
+- [Yapay Zeka Tezinde Çatlaklar Bölüm 2](https://econlab.substack.com/p/ai-index-sept-2026) `HN`
+- [Stanford R&DE, Yapay Zekayı Öğrencileri Reklam için Değiştirmek için Kullanıyor](https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/) `HN`
+- [Show HN: Drop – gVisor desteğine sahip köksüz bir Linux sanal alanı](https://droprun.sh/) `HN`
+- [MineTrials: Yapay zeka ajanları bir saatlik Minecraft ile ne kadar uzağa gidebilir?](https://massiminoe.github.io/minetrials/) `HN`
+- [Yapay zeka davranış kuralları taslağı, "Bilmiyorum" dememi yasaklıyor](https://ilands.ai/content/359388815393034240) `HN`
+- [Show HN: IntelliChat minimalist, yerel ve bulut AI için açık kaynaklı kullanıcı arayüzü](https://github.com/intelligentnode/IntelliChat) `HN`
+- [Firedrill: AI ajanları için durum bilgisi içeren araç simülasyonu](https://github.com/firedrill-tools/firedrill) `HN`
+- [OpenAI'nin Yapay Zekasını Eğiten Kişiler, Yapay Zekayı Eğitmek İçin Yapay Zekayı Kullandığı İçin Kovuldu](https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/) `HN`
+- [Devin AI ve SWE -2 İlk İzlenimler](https://catalins.tech/devin-ai-swe-2-review/) `HN`
+- [Yapay Zeka Öğrenmeye Zıttır](https://jola.dev/posts/ai-antithetical-learning) `HN`
+- [Muse AI](https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html) `HN`
+- [Klaudizmler AI modelleri aynı kelimeleri aşırı kullanır. Bu, onların çalışan bir kataloğudur](https://claudisms.ai/) `HN`
+- [Rota optimizasyonunun zor kısmı neden algoritma değil de modellemedir?](https://kardinal.ai/why-the-hard-part-of-route-optimization-is-the-modeling-not-the-algorithm/) `HN`
+- [Klaudizmlerden ve yapay zeka tabanlı yazılım geliştirmeden bıktım](https://www.polso.info/im-sick-of-claudisms-future-ai-software-development) `HN`
+- [SAIC ROEWE, ByteDance Volcano Engine Doubao AI Model tarafından desteklenen JIAYUE 07 seri üretim SUV modelini piyasaya sürdü - PR Newswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZWRvVkhrQnpHWXJWUkxNNlhLa2JqdFZfTV94QWN1MHNmcFFCOHpjSTZvdFlfcGNlQTRnaUdsNjU4UEVMaDd0LW9CY2JEZnJscDF0TF9VSmVSVkdILWVaSGVscEZUOS1naW5DeGFtQ0pJUGNEalBqeklUZlFuQXJHVnREYVY1bmNvMFJNLTlpZ1dkU2tWUlItLVhSY2hVT2VyVlNXNWVRTkpFemxGSTN4U1V1cG1nMC1TWGxNNXJDVzdDQUc1SEtrbTBEYlNqdV9RQ05PaGxYMklKSG9YOThpSXROMmZhX281bUw5NEFB?oc=5) `RSS`
+- [GENİŞ Veri ve NVIDIA Gizli Yapay Zeka Altyapısını Başlattı - Yapay Zeka Dergisi](https://news.google.com/rss/articles/CBMiigFBVV95cUxPak10amFVT0N0WjBPZ0g2MkUtemZ1YzhjVHQ3VUtlc2xJYlE1NGtBcEx1RDRVUW1MVkV6elFXbzlBTFZXNnB5azdNLUI5eHlOZ1J4ZHZBRkI1VUk4alRSZ2tDM1Jwam9tNmZETzhoTWlmV09jMmlkUjJMTGtrRHZiRnJ1U29mM3BNeVE?oc=5) `RSS`
+- [CNBC Daily Open: Muse lansmanından sonra yapay zeka ticareti Meta'ya geçti - CNBC](https://news.google.com/rss/articles/CBMic0FVX3lxTE02bDF0a3ZHeWxNY3NCUkNUWkZxUk5ldS1RNFAxaGZ5a09ETXg0U0ZrdU14eDk4aVMyQmpOZjZtdllfMWlSYmVOMFcyTDAyQW5lNDNYOVo5Um01c180VXdEUWJNN053cG52RlRYWUJFZDFheU3SAXhBVV95cUxOTW8xeDVsZEdPeHRQUnE5eHhoRElUQWNySzNtb1pVN0VneUZpYmlweUUzQjlEY3YwNGlZanhwWnNMMDRvX2VVLTloMlhseW9MMnlNNjhjUHRjRXhlVFV1VEZ1VDRZSjFaUXNoQkpxYXlzZ0dJREN5ajg?oc=5) `RSS`
