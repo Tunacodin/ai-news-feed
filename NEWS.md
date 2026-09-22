@@ -530,3 +530,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka liderliğindeki saldırılar çoğaldıkça, OpenAI yeni bir siber model başlattı: TechCrunch](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUlDV19rQi1xNjJxVWFVeGVEV1NEdDNpNWRLa01uOWV3VUNJaEdVWUhsV0RRVXN2U2otbmlPNHd6TThJbjJRTEFVTlR6Y3VDcTlvRVJxd1AwQllaLUhGeV9KYWMyZEVIWkVEMFlRUUNTOXdKd19hV2k4dEVGeC1KdlVFcURvM2EtUU4yeDRRQlhtY282Mk5IN1REYw?oc=5) `RSS`
 - [Meta, Zuckerberg açık ağırlıkta itmeyi savunurken yeni yapay zeka modelini piyasaya sürdü - reuters.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5) `RSS`
 - [xAI Grok 4.7 'yi Başlattı. Daha Büyük, Ama Yapay Zeka Sınır Partisine Geç - Şifreyi Çöz](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCNG1iR3ZlOUdITkRfTHhmUkZPTDZ1NWp6Q09nRlIxb3JWbU5MZk1CUm01U3d4Q3ZLek5UZVJGakpRc09BTE11VnRYV1M2dE1wUHJLYXJhckM4cjTSAWNBVV95cUxOT3lyN1YyOGRxTVIwYzhjNEJzOU9Ra3dsc2c5SWNPTGZXT1hFSVZhdlBhYmJtbUV2RF9rYTJucW14QXNPQWMxT3RuY3hYbnFIdmpZdi13cXlpcnBhQWlMcGRrV1E?oc=5) `RSS`
+
+- [Pangram, büyük ölçüde yapay zeka tarafından yazılan ödüllü romanı yayımladı](https://twitter.com/Pangramed/status/2102045146674053162) `HN`
+- [iPhone sahipleri artık Apple'ın 250 MİLYON $ Siri AI ödemesinde hak talebinde bulunabilirler](https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement) `HN`
+- [2 günde 6 Jev klonu](https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in) `HN`
+- [Yapay zekada daha fazla temsili dil veri seti için Gates Vakfı koalisyonu](https://abcnews.com/Technology/wireStory/gates-foundation-launches-coalition-build-representative-language-data-136622214) `HN`
+- [XGrammar -2: Araç Çağırma ve Aracılar için Hızlı, Özelleştirilebilir Yapılandırılmış Üretim](https://blog.mlc.ai/2026/05/04/xgrammar-2-fast-customizable-structured-generation) `HN`
+- [Show HN: aSPARK – Claude Code için çevik bir yapay zeka ürün ekibi](https://github.com/a-lottes/aSPARK) `HN`
+- [MiMo-v2.6-Pro: İstihbarat, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/mimo-v2-6-pro) `HN`
+- [Yapay Zeka Güvenliğinde Açık Bilim Çağrısı](https://make-safety-open.github.io/) `HN`
+- [Kaydırma İstatistiksel Olarak Verimsiz Olduğundan Bir Yapay Zekalı Arkadaşlık Asistanı Oluşturdum](https://medium.com/@mgcblee/i-built-an-ai-dating-assistant-because-swiping-is-statistically-inefficient-bdafd31c0738) `HN`
+- [ArtifactBench: Yapay Zeka Müzik Dedektörlerini Dağıtım Kayması Altında Değerlendirme](https://arxiv.org/abs/2609.23550) `HN`
+- [Amazon, Meta'nın Muse yapay zeka asistanını engelledi](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/) `HN`
+- [Çin'in Yapay Zeka Gerçekçiliği Komplo Değildir](https://www.fredgao.com/p/chinas-ai-realism-is-not-conspiracy) `HN`
+- [Francis Fukuyama: Yapay Zeka Riski Hakkındaki Fikrimi Neden Değiştirdim?](https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk) `HN`
+- [Ottawa to build sovereign AI ecosystem for Canadian defence operations](https://www.theglobeandmail.com/business/economy/article-ottawa-building-sovereign-ai-ecosystem-for-canadian-defence-operations/) `HN`
+- [Geçici alt temsilcileri dayanıklı, hesap verebilir yapay zeka ekiplerine dönüştürün](https://github.com/ringlochid/oh-my-subagents) `HN`
+- [Titreşimler ve Kanıtlar: Yapay zeka kod inceleme kalitesini ne sağlar?](https://dsifry.github.io/harnesseval/) `HN`
+- [AGI AI LLM hakkında beni rahatsız eden bir şey var, ya 1000 yıl geriye gidersek?](https://shatteringtheabyss.substack.com/p/llm-agi-god-congratulations-humanity) `HN`
+- [Büyük hava trafik kontrolörü kesintisi uçuş kaosunu tetikliyor [video]](https://www.youtube.com/watch?v=gHUZ9W025lA) `HN`
+- [Yapay zekanın vergilerimi ödemesine izin vermek için özerk bir muhasebe aracı oluşturdum](https://github.com/CodeGameDev29/KFAutonomousAccounting) `HN`
+- [Yapay Zekayı Yanlış Kullanıyoruz. Sohbet Penceresi Berbat](https://www.stclair.ai/blog/the-chat-window.html) `HN`
+- [ABD, çarşamba gününden itibaren İran havayollarını dünya çapında karaya oturt](https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday) `HN`
+- [OpenAI Codex kum havuzundan kaçma, iki kez](https://accomplish.ai/blog/escaping-the-openai-codex-sandbox-twice/) `HN`
+- [API, Grok.com ve Grok Build genelinde kesintiler – API (us-east-1.api.x.ai) Durumu](https://status.x.ai/api-us-east-1/INC578e0bc8) `HN`
+- [Robin Williams'ın Yapay Zeka Videoları Oluşturan Hayranlarının Kızı: "Biraz Utan"](https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/) `HN`
+- [25 Ekim'de San Francisco'daki NewKid Günleri – ailelere ne inşa ettiğinizi gösterin](https://newkid.ai/p/calling-startups-show-us-the-ai-products) `HN`
+- [Networking'in Karanlık Tarafının Olduğu YAPAY Zeka Parti Evi](https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html) `HN`
+- [Bessent, CNBC'ye verdiği demeçte Trump yöneticisinin yapay zeka liderlerine "sorumluluk kalkanı" vermeyeceğini söyledi](https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html) `HN`
+- [Google, ülke genelinde yapay zeka sohbet botu yasalarını nasıl hazırlıyor?](https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google) `HN`
+- [Grok 4.7 'nin Tanıtımı - xAI](https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5) `RSS`
+- [Sahara AI, Finansal AI Altyapısını Merkeziyetsizleştirmek için TaaS ve AaaS'yi Başlattı - ffnews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVltQlVyNXlhbXA0XzdPNERQeDRUTDhnems3ZklleGktc0puWl84eTFobXpEWU80WS1jMnF1czBHTnlOeVVjWVdBdHFjYmZBNXZ0ZnZmbkhMMG9lV2NFMTJ1c19Jd1c2T2ZJYkZFVHlvVnRVSHhKU2VJWEFvbTBDb3B4M2ZoeDJJR2t5eUtubjJvRkZGR0VDYVFiNk13RkwxSkdWa19sQ1YzSENnVDZvaTk5WQ?oc=5) `RSS`
