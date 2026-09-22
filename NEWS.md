@@ -622,3 +622,41 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [SAIC ROEWE, ByteDance Volcano Engine Doubao AI Model tarafından desteklenen JIAYUE 07 seri üretim SUV modelini piyasaya sürdü - PR Newswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZWRvVkhrQnpHWXJWUkxNNlhLa2JqdFZfTV94QWN1MHNmcFFCOHpjSTZvdFlfcGNlQTRnaUdsNjU4UEVMaDd0LW9CY2JEZnJscDF0TF9VSmVSVkdILWVaSGVscEZUOS1naW5DeGFtQ0pJUGNEalBqeklUZlFuQXJHVnREYVY1bmNvMFJNLTlpZ1dkU2tWUlItLVhSY2hVT2VyVlNXNWVRTkpFemxGSTN4U1V1cG1nMC1TWGxNNXJDVzdDQUc1SEtrbTBEYlNqdV9RQ05PaGxYMklKSG9YOThpSXROMmZhX281bUw5NEFB?oc=5) `RSS`
 - [GENİŞ Veri ve NVIDIA Gizli Yapay Zeka Altyapısını Başlattı - Yapay Zeka Dergisi](https://news.google.com/rss/articles/CBMiigFBVV95cUxPak10amFVT0N0WjBPZ0g2MkUtemZ1YzhjVHQ3VUtlc2xJYlE1NGtBcEx1RDRVUW1MVkV6elFXbzlBTFZXNnB5azdNLUI5eHlOZ1J4ZHZBRkI1VUk4alRSZ2tDM1Jwam9tNmZETzhoTWlmV09jMmlkUjJMTGtrRHZiRnJ1U29mM3BNeVE?oc=5) `RSS`
 - [CNBC Daily Open: Muse lansmanından sonra yapay zeka ticareti Meta'ya geçti - CNBC](https://news.google.com/rss/articles/CBMic0FVX3lxTE02bDF0a3ZHeWxNY3NCUkNUWkZxUk5ldS1RNFAxaGZ5a09ETXg0U0ZrdU14eDk4aVMyQmpOZjZtdllfMWlSYmVOMFcyTDAyQW5lNDNYOVo5Um01c180VXdEUWJNN053cG52RlRYWUJFZDFheU3SAXhBVV95cUxOTW8xeDVsZEdPeHRQUnE5eHhoRElUQWNySzNtb1pVN0VneUZpYmlweUUzQjlEY3YwNGlZanhwWnNMMDRvX2VVLTloMlhseW9MMnlNNjhjUHRjRXhlVFV1VEZ1VDRZSjFaUXNoQkpxYXlzZ0dJREN5ajg?oc=5) `RSS`
+
+- [Sınırdaki Yapay Zeka Modellerinin Kontrolü Çağrısı](https://www.government.nl/documents/2026/09/22/a-call-for-control-of-frontier-ai-models) `HN`
+- [Sınıfta yapay zekayı yasaklamak neden yeterli olmayacak?](https://theconversation.com/why-banning-ai-in-the-classroom-will-not-be-enough-to-remedy-poor-reading-skills-in-a-post-literary-society-292326) `HN`
+- [Show HN: a0flow — AI aracıları için ücretli mikro API'ler, x402/USDC, kayıt yok](https://a0flow.com) `HN`
+- [Claude Opus 5.5 (Yüksek Çaba) Zeka, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/claude-opus-5-5-high) `HN`
+- [Show HN: Notes on Agentic AI – A text - first guide for practicing engineers](https://github.com/mrsachindixit/agentixit) `HN`
+- [Meta, Çağrı Merkezinde İnsanlar Tarafından Yapılan Yapay Zeka Temsilcisi Çağrılarını Test Ediyor](https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center/) `HN`
+- [Yapay Zeka Riski Hakkındaki Fikrimi Değiştirdim](https://www.persuasion.community/p/why-i-changed-my-mind-about-ai-risk) `HN`
+- [LiveCrew – (makbuzlarla) tartışan ısrarcı bir AI yönetici ekibi](https://www.livecrew.tech/) `HN`
+- [Nano Banana 2.5: Daha Hızlı, Daha İyi Yapay Zeka Görüntüleri](https://nanobanana25ai.net) `HN`
+- [Vice, Forbes ve diğerlerinin alıntıladığı önde gelen sanat terapisti yapay zeka tarafından üretildi](https://pressgazette.co.uk/news/prominent-art-therapist-quoted-by-vice-forbes-and-others-is-ai-generated/) `HN`
+- [Parayı basan titreşim kodu](https://buildradar.leapd.ai) `HN`
+- [Bozulmaya Mezun Olmak: Yapay Zekaya Maruz Kalan Üniversite Öğrencileri için İşgücü Piyasası Sonuçları](https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html) `HN`
+- [GitLab kurucusundan yapay zeka tasarım aracı](https://pixelcrew.ai/) `HN`
+- [Shopify CEO'su: Çalışanların "çöp bombaları" herkes için daha fazla iş yapıyor](https://fortune.com/2026/09/17/shopify-tobias-lutke-ai-slop-grenades/) `HN`
+- [Trump, yapay zekanın tüm ABD belgelerinde "süper zeka" olarak yeniden adlandırılacağını söyledi](https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/) `HN`
+- [Küçük girişimler yapay zekanın yardımıyla daha da küçülüyor](https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75) `HN`
+- [Lansman HN: Teminat Kedisi (YC S22) – Kişisel temsilciniz aracılığıyla şemsiye sigortası](https://www.coveragecat.com/) `HN`
+- [Hükümetin Yapay Zeka ile Konuşmaları Kamu Kayıtları Yasaları Kapsamında Erişilebilir mi? [pdf]](https://reason.com/wp-content/uploads/2026/09/Are-the-Goverments-AI-Conversations-Accessible.pdf) `HN`
+- [Kclaw, ekipler için K8s tabanlı BT tarafından yönetilen, çok kiracılı bir yapay zeka asistan platformudur](https://github.com/info-struct/kclaw) `HN`
+- [Yapay Zeka Endeksinde 46 Puan Alan Grok 4.7, SpaceXAI'yi İlk 4 Laboratuvara Yerleştirdi](https://artificialanalysis.ai/articles/benchmarking-grok-4-7) `HN`
+- [Anthropic, siber güvenlik için daha sıkı önlemlerle Claude Opus 5.5 'i piyasaya sürdü](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) `HN`
+- [Kod incelemesi için Claude Opus 5.5: Daha fazla yakalama, farklı ıskalama](https://www.coderabbit.ai/blog/opus-5-5-model-review) `HN`
+- [Cal Newport ile birlikte The Myth of AI Doom](https://www.youtube.com/watch?v=-HiIgV9ecAg) `HN`
+- [Ayda 60 € karşılığında bir üretim yapay zeka uygulaması çalıştırıyorum. İşte gerçek fatura.](https://tailstory-app.com/en/blog/what-production-ai-actually-costs) `HN`
+- [Show HN: WebMCP Registry of Websites That Agents Can Use](https://www.wmcp.ai/) `HN`
+- [ES Arşivi – Mac'te yerel olarak çalışan AI için yeni bir bellek sistemi](https://github.com/apocryphx/ES-Archive) `HN`
+- [Claude Opus 5.5 İstihbarat, Performans ve Fiyat Analizi (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) `HN`
+- [Siri AI Yerleşim Web Sitesi Artık Yayında](https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/) `HN`
+- [Jev'in API'sini Açık Bir Modelde Yeniden Oluşturduk ve Doom Oynamak için Kullandık](https://blocks.ai/blog/jev-open-model-doom) `HN`
+- [Ermenistan, ABD yapay zeka altyapısının önde gelen merkezlerinden biri olma yolunda ilerliyor](https://armenpress.am/en/article/1261009) `HN`
+- [Anthropic ve OpenAI, yavaşlama çağrısından bu yana ilk sürümde daha ucuz modelleri piyasaya sürdü: CNBC](https://news.google.com/rss/articles/CBMie0FVX3lxTE1sZVdROFlLTUpZMmZPb0lWNWUtenNWaDhjX2JqeVZQM19lM2JVMmNYSHllQXczQWN5VVFHejNVOGFVU2NpVXdHQnJiWEU0eENSTmxaZGFBaTNQNXd3Vi1WM25wTVg3bjI1TEFsX2x3VlVHYzZWLWRvVW5vUdIBgAFBVV95cUxNWlZ6cE5mOEo5cUFESnpnbEFnU3h6OEhFU2hRWVFUNVVMR1FTUXk4cnR0b2Vjb3V2LVRUQXR3dl9sZDRKamNnYkhpQ3hMM3ZsckdaTlk5a2p2NDRud25uMWtUV1E0Ny1NblVMWTlGNTdYdTF6Q0JsZ3l5V3hOaHQ1cA?oc=5) `RSS`
+- [Anthropic, daha düşük bir fiyata Fable düzeyinde performans vaat eden Claude Opus 5.5 'i piyasaya sürdü - Mashable](https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5) `RSS`
+- [Anthropic, daha düşük fiyatlar ve Masal düzeyinde performansla Opus 5.5 'i piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTlYeWZ3SHNvN2l6UTNLNmNKRGcydDZDNUNmZjBCMVVVRlV1RUFxSnl1WVc5a0J0eFhhQll3RC1ReHp6OEpOcUtYbElSeHFIQ2lDOWhDbi1VbDQzTW5vQy1fS05oVTczT3VMcWlLTWZBYWhHTFVYV2pDWmZOQW5NVjhxVG00Q1JYZXFTTlVUQXRNbU9XcFBYRGoxNkNwSmkzYnVvb0xNOFowdS1l?oc=5) `RSS`
+- [Çin Telekom AI, Xing4.0-29B-A4B açık modelini piyasaya sürdü - telecomstechnews.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9aNVFlYmlVTHBIcGpMYU12MTcxOC1oMUNENmdqUHRTOXdaS2pINUkycUotLXAwZ3BaX3FaLXBjdlBScmtWcERkQXJ6eW1lUkZQV3V2U3JoYnA3YkpVVVhId09OU3J5R1hwZVZ1YnlXWUVpdW5JMVIzaHhKeUdVRjhLQ3pJUXhvdnc?oc=5) `RSS`
+- [Anthropic ve OpenAI daha ucuz AI modellerini piyasaya sürdü... - Pluang](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczFkWTA3eEFWcjg5SXNrOUdESTZRdG1mZGIwbFlKcTZadHRlNk9HM3M5REFnOU5NNHZXem40d2ZzQ1hXS2Q5YXdUODJwRWNHMWp1eFdfY01fYkdtcE5VcHBta2VaLUs2RThHdUpTbzhUdVFpZUpJazk4b0w0ZllnOFdzMmVrdTQyZ2dV?oc=5) `RSS`
+- [OpenAI, Yapay Zeka Maliyetlerini Azaltmak için Daha Ucuz GPT -6 sol ve Luna Modellerini Piyasaya Sürdü - Межа. Новини Украɔни.](https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcDJxeDZOY2RGTkVOeEtLdEJzWWoxQzUtTWlmV1dSeXpuc0p1Z0NvWGc3ZGNnRlQ5d3JwN0YyMEJ4dDVJbk1xQWtLcWx5RVJ1RkNtZkt2N3VVWGJQSVBCYlpyYzNqWnFqa0Nhdg?oc=5) `RSS`
+- [Anthropic, Claude Opus 5.5 'i tanıttı - Reuters](https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2VINVptSExJdjU0WkQ0WDVkRUdsaHduYjB1Tk81TnBrZkVvalowQWh2NFJnYmZ1TkxtVTQyZHdVWDgzVmJtRE9SSjkzeW9DWDFleHNPU01LUWE1TUpCdktmTVVRZHNXWm9ack9CRmdQTU1XUHd0Y2lhaEZBWWJYQVNFYw?oc=5) `RSS`
