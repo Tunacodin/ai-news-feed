@@ -813,3 +813,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Antropik, OpenAI, güvenlik korkuları arttıkça bile daha ucuz yapay zeka piyasaya sürüyor - Tech Xplore](https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlRXd2RCS1JJNXVkbUc2OGVXaVNtMWd6NFpsQ3d6Y0xrYTJ4OEI3MmxfZXBmVVdLbGxHbU8zMGtPYk1vck1adkk3WlJMMlJ4dG1Nd2doOVlQc2Y4UUJuTUQyS01vWWdaTkpHcGF2NzFPcDNabTljc1FidDRYSUNwcw?oc=5) `RSS`
 - [OpenAI, GPT -6 sol ve Luna API fiyatlarını % 50 düşürdü - qz.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMOXNLbmgyak04NnZsdm1rSzEwVkZvRl8yMU1jUFpYelRReThBcjZzVnc5VWd0YUduRDZtOTJtSThmcHZQLWc4dnpUR2t6dXFWdHZJVUNuWVY2WjZHc1gxTTk3WEhCTTZl?oc=5) `RSS`
 - [Pazar Konuşması: Amazon Destekli Antropik Fikirler Halka Arz Öncesi Yeni Yapay Zeka Modelinin Lansmanı - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWE9IcU9sV1lBMzE4ZlZvWmJGUm9mRkpvMnZPR3Z6eVlrZWJDMlFkNGRyNFhieEtFRkJJenl2MTU5VjJTNVR6d1hBOFBlN0hoZU1mNzF0cW5fWXBRcnljY041bGx5S0ZQWUU4ZGFTaGJGYkpXTmNXS3JXMW9lN2ZzT1VRYTVqQnotQ2dHNzBMQjd6Ri1wbnlsR3dMM3VJQjBxSEo1ZA?oc=5) `RSS`
+
+- [KDE ve AI ve Sen ve Ben](https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/) `HN`
+- [Yapay zeka çağında (yeterince iyi) güvenlik denetimi](https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/) `HN`
+- [Sıfırdan Yapay Zeka Görünürlük İzleyicisi Nasıl Oluşturulur](https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/) `HN`
+- [Show HN: Varkos – konuşabilen, etkileşime girebilen ve küçük oyunlar oynayabilen yerel bir yapay zeka evcil hayvanı](https://varkos.party/) `HN`
+- [HN'yi göster: Neuro+ GBrain'e yükselt](https://gemini.google.com/app/b4b90aeb20c60c14) `HN`
+- [Kod Eleştirisi: Ölçekte Yapay Zeka Tarafından Oluşturulan Farklılıklar için Niyet, Sürüklenme ve Öne Çıkma](https://arxiv.org/abs/2607.29516) `HN`
+- [Ajanları İş Akışlarına dönüştürmek için HN:AgentRun:DSL'yi göster](https://github.com/Parcha-ai/agentrun) `HN`
+- [VSArena – Somutlaştırılmış yapay zeka için resmi açık tarayıcı karşılaştırması](https://vsarena.vercel.app) `HN`
+- ["İyi" Yapay Zeka](https://thoughts.wyounas.com/p/what-does-good-ai-mean) `HN`
+- [Antigravity SDK'da Yerel Yapay Zeka Modellerine Destek](https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/) `HN`
+- [Show HN: Suparelay – Tarayıcı sekmesinden dünyadaki herhangi bir telefonu arayın](https://suparelay.app) `HN`
+- [Claude.ai'yi iki haftada nasıl 3 kat daha hızlı hale getirdik?](https://claude.dev/blog/how-we-made-claude-ai-faster/) `HN`
+- [Show HN: Web sonuçlarını AI sohbeti ile birleştiren Ceptile AI Arama platformu](https://www.ceptile.com/) `HN`
+- [HN'yi göster: Yerel Windows x64/x86 çökmeleri için bir ölüm sonrası hata ayıklayıcı oluşturdum](https://www.forensicdbg.com) `HN`
+- [Jensen Huang yapay zeka alarmcıları hakkında konuşuyor – NYT Ezra Klein Show](https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html) `HN`
+- [Google Beam yeni ülkelere açılıyor](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/) `HN`
+- [Yapay zeka ile ilişkim: baştan çıkarıcı, sinir bozucu ve her zaman tetikte olmayı talep eden](https://www.theguardian.com/commentisfree/2026/sep/24/my-complicated-relationship-with-ai-chatgpt-factchecking) `HN`
+- [İş, Refah ve Seçim: Yapay Zeka Geleceği için Ampirik Dersler](https://arxiv.org/abs/2609.11019) `HN`
+- [Yerel Yapay Zeka Haber Kaynağı](https://local-ai-signal.vercel.app/) `HN`
+- [Dahili model şeffaflığı yapay zeka yarışını evcilleştirebilir mi?](https://blog.karthiktadepalli.com/p/internal-model-transparency) `HN`
+- [Solo'yu Keşfedin: Yapay Zekaya Entegre Kontrol Paneli](https://blog.master.dev/introducing-solo/) `HN`
+- [Yapay Zeka Kıdemsiz Çalışanlara Nasıl Yardımcı Oluyor ve Engel Oluyor](https://www.nominalnews.com/p/how-ai-helps-and-hampers-junior-workers) `HN`
+- [Yapay Zeka, onu eğiten kişilere ne ödüyor?](https://blastradius.dpdns.org/) `HN`
+- [Bulut Ajanları Kaçınılmaz Yapay Zeka Hapishaneleridir](https://normanponte.io/19df691f) `HN`
+- [Illinois, Kaliforniya valileri, EO'larla yapay zeka güvenlik önlemlerini hızlı bir şekilde takip ediyor](https://www.transparencycoalition.ai/news/illinois-california-governors-fast-track-ai-safety-measures-with-executive-orders) `HN`
+- [Yapay zeka zorlu son dakika isteklerinde bulunduğunda hiçbir insan müşterinin umurunda olmaz](https://twitter.com/lauren_wilford/status/2102634073848230395) `HN`
+- [Karşınızda HLE – Diamond – İnsanlığın Son Sınavı](https://lastexam.ai/blog/hle-diamond) `HN`
+- [Anthropic, genişletilmiş biyoloji yetenekleriyle Claude Opus 5.5 'i piyasaya sürdü - MobiHealthNews](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkZ3WlVySXByWW1fX1hNaXZYZnMzazZqZ1htQ1lGRWhmQWpFRzY4NUVqMzlUaEJxVDhiTDk1SjRzWXJ5YmlJUnppVWRiMjk4UHBXTXcxMWo0UVZzdjg3bUVCX08xakI3NXJUdlozdUJFZkR6WkZoMzR5OUpERXB6YVdiU0ZJWm0xVnRaMGtEdGUxWHhpS1JCZmp1V0IwejV4?oc=5) `RSS`
+- [OpenAI ve Anthropic GPT -6 ve Claude Opus 5.5 'i piyasaya sürerken yapay zeka yarışı hızlanıyor - ynetnews.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE15OXU0TlpXY3d6eWFOSUhpQ04tSFZQMFVGSlA0REs1VFVUZFgxOEJBQjBjMXZuRW5SSzVtSTR5d2Q4SFd3Qzdmam9wMWVjdFdNY1pRdkdjc3RYZzJtZGwtSnVqSVNMRzR5UW93Rg?oc=5) `RSS`
