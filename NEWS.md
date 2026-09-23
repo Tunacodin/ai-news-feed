@@ -695,3 +695,23 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OpenAI, daha düşük maliyet ve daha az hata ile övünen GPT -6 sol ve Luna'yı piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbkJzRWtNeU8tQkl1WUZlc19BYWctaC1iak9JWFozN1Q4Y1dPOFVHS3R0MDlLUi1vUmNTVk50Q2gxYmYtbWxxQUZ3Y0FEUDFPTXoyV0l5MHo0a2RLems0QXRabHgwNnNYc2h2LWRyT0RCa2p3MzYyNg?oc=5) `RSS`
 - [INTEGRITY Global Security, Tüm Yapay Zeka Siber Saldırılarını Etkisiz Hale Getiren Yapay Zeka Dome™, Nükleer Dereceli Güvenliği Başlattı - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUjViVzdxOFNJNjZQZTFBSDJOQUtxRUdOZDllN19QejcxTlE5aC1PWGNNVklJcF84UEo2WHZHc1N3VVVPSEhWU2didDZuSkdVT0pHcGFrYzBXQTVZUjFpQnBTYnVxLXRwV282TU9vV3FTeDFGMnJjYS1jSGR1ZG1WVXhQTV84cm5RQkFDbE1EQQ?oc=5) `RSS`
 - [Qualcomm, yapay zekaya vurgu yapan iki yeni akıllı telefon çipini piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHQybjc4UXF1MmR5X2kzZVZiT0g3R1J0NEl2Q1FTUW1PM3hkZjE3cUhtTVhrY1dOX2dyR25WMUxuV1B2S09kZnQtSTF5VjFMVGtla1RmNEhrcGs2YlBCTXAyLVZ5bGxITnJuLTlyT0tWalUzMnhkSTB0bHhDNEY0M3VYYUJNSTdMeTN5UF9yTVR3aTdtRUsybHFfM0VHQQ?oc=5) `RSS`
+
+- [Aileler için inşa edilmiş bir yapay zeka ajanı olan yeni CC](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/) `HN`
+- [Yapay zeka tokenlerinde ruble kâr marjı](https://infertrail.com/blog/ruble-markup-ai-tokens/) `HN`
+- [Ant Group, finans odaklı Ling-3.0-flash-Fin'i piyasaya sürdü](https://artificialanalysis.ai/articles/ant-group-releases-finance-focused-ling-3-0-flash-fin) `HN`
+- ['Yapay Zeka Güvenliği' Hareketi Yapay Zekayı Daha Az Güvenli Hale Getir](https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/) `HN`
+- [Jev 1.13 'ün Pürüzlü Sınırı](https://docs.typesafe.ai/model-jaggedness/jev-1.13) `HN`
+- [Show HN: Palet, bir rengi bütün bir UI sistemine dönüştüren bir Figma eklentisi](https://www.figma.com/community/plugin/1682163756621093164) `HN`
+- [Yapay Zeka Yönetmeliğinin Küresel Peyzajında Gezinmek için Bir Taksonomi (2025)](https://dl.acm.org/doi/10.1145/3715275.3732059) `HN`
+- [BM Genel Kurulu: Trump yapay zekayı Süper İstihbarat olarak yeniden adlandırdı](https://www.washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence/) `HN`
+- [Show HN: Swift'te yerleşik macOS için hızlı, çevrimdışı bir Markdown görüntüleyici](https://github.com/temir-dev/tims-markdown-reader) `HN`
+- [Trump, yapay zekanın "süper zeka" olarak yeniden adlandırılmasını emretti](https://www.axios.com/2026/09/22/trump-ai-super-intelligence-rebrand) `HN`
+- [Neo - Median Seçmen Modeli](https://www.betonit.ai/p/the-neo-median-voter-model) `HN`
+- [Tüysüz AI ile basit – jev – Bağlamı net kararlara dönüştürün](https://simple-jev.featherless.ai/) `HN`
+- [Claude Opus 5.5 ve GPT -6 sol: Doğru görev başına maliyet, token başına fiyat değil](https://www.aipricing.guru/blog/claude-opus-5-5-vs-gpt-6-sol-pricing-2026/) `HN`
+- [Yapay zeka personeli, topluma yönelik tehdit korkusuyla zihinsel zarar vermekten şikayetçi](https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7) `HN`
+- [Açık modellerde mevcut güç dengesi](https://www.interconnects.ai/p/the-current-balance-of-power-in-open) `HN`
+- [2070 'te Yapay Zeka Senaryosu](https://docs.google.com/document/d/1tFyIuZKXpWwZwQq5a1Vaa9Dr-MiO2RXmT14yOvRb5uA/edit?tab=t.0) `HN`
+- [Otonom Yapay Zeka Ajanları Çevrimiçi Perakendecilere Giriyor](https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company) `HN`
+- [The Biological Computing Partners with AWS to Launch AI Video Model With 5x Faster Generation And 80% Lower Costs - Pulse 2.0](https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFgzcmx6cmJDQkNBWUl5R2MwQkM0dGxreWRCTjdKLW91dVFOMmstYm1kcUJpS3NGOW5jZ0l1elNBTG9MazdiZ05TQ2dLX0E5eHhIa3ViRldqUEFvdFo4alh2dXJkcmtmNHVYaE5tVEM4SEd3ZGRFNmNxcE9iXzFaZkx4WkJYd1RMZGxueW8yNV9jRU9yRko5MWN6SS1xNTdyY2JQSXJLcmZaSmVkNFdpZ0ZudnViRWYtNlNJeW52d3lCVC1HUTNEYUJYbULSAdIBQVVfeXFMT0wxcGNGU2xra1pqUjNYa1h2bFhYNWpwWmtsUWNVRVYzVXVVZDFaQ29FOF9IY0NWUnpnd0VBaE1Uc292QURoWktOOGdjM3piNHFRdVVjcHZkU0lfbGs1OWpydVdwbDlYaVFiZTVQOGl3M29YVy1QRjYtTFFZQTc1NDBQYm5ka01URi1EcmtSNURyQ0p4X1hDdW9LOEZsNU1GTWVnNEc3R24yaEVxaFd6RUt2azQ5RnBlNXFDc2tXSEtSWGNmYlQwWXAzZEpWQlhIeFVB?oc=5) `RSS`
+- [Meta'nın viral Muse uygulaması şirketin ChatGPT anı olabilir mi? - MarketWatch](https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0pEN0RNSWJPSW1OMmd3cGFHNlllWDhOZG00dHdUX0xoTEd2OG85c3MxUVByMHZMNG8wc1hDR1lTWmZyMXA1bUV5bXVRNnB4cmYzTW5MNUk1eTVJZnNiZnIwOHRhdFVSY09FWDlxXzh4QzdfZnBwajFuU0hiWktWQy1YZnRGVDJqUnU1aTk0TlJEOERRWDFQS2h4NDl2b1FOeWc?oc=5) `RSS`
