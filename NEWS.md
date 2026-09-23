@@ -779,3 +779,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Ne AI yavaşlaması? OpenAI, fiyat savaşları kızışırken Antropik sürüm düello modelleri - Fortune](https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3paNUN6bmt3RFlzT0RmZHl0U0NkT1REdmFTd0tjcUxLaEJINGZQZEpUMHlnUEJKcGxwQWZVUmZEZ0J1am85S0E3b0NXZ1VKaTRtcFNKZDVBSDZXRmxVSXlteF85Wlh6MGxmQ3MyN2J2Ynp2LS00V2EtenNReFExNjhWRF9KZ1VUREV3bm9aZHQ4NmdLOElDaDUtWXQwR29RNnJJaGN0N3JjRXZCdExhME5YeURUdllpSmt6VjhWeUEtVFVqTXNz?oc=5) `RSS`
 - [Claude Opus 5.5: Anthropic, Daha Hızlı Yapay Zeka Modelini Rekabetçi Bir Fiyatla Piyasaya Sürüyor - Temel Öğreticiler](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRkd1aFV4NW1PX2J4U0Vlb1NWWnBwdG5ybi1VbUhROGtFeS0xLVZGRkQ1MldVMmI4X1N0ZUlDVDRIT3ZjZ2p5RmZ2WFZ1Y0d5SmhqbDB6RHozVG1ib25xSjczeHY4bGRZSGJjeV9nbnh5R0ZsZi1QNlhIMlZ5WUlyT2tDVDN4N01MV09BMkYzRUxIbU4yZXVsZTVDdm55Tks1cXB0bzZLWnVaa1E?oc=5) `RSS`
 - [Alibaba, daha büyük bir model olan yeni çiple yapay zeka girişimini derinleştiriyor; hisseler % 5 arttı](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5) `RSS`
+
+- [Show HN: Chromafolk – Dünyayı metin olarak gören yapay zekaların yaşadığı bir piksel tuval](https://chromafolk.world/) `HN`
+- [AMD MI355X'te Nunchux: 1.3 saniyede 5s MiniMax - H3 Video](https://www.nunchux.ai/blog/video-generation-on-amd-mi355x) `HN`
+- [Düşüncenin Düşen Bedeli](https://epoch.ai/publications/the-plunging-price-of-thought) `HN`
+- [Yapay Zeka Sıkıcı Bir Teknolojidir](https://www.chrbutler.com/ai-is-a-boring-technology) `HN`
+- [Bilim İnsanları İnsanlığı Yok Edebilecek Bir Tehdidi Nasıl Kontrol Altına Aldı?](https://www.nytimes.com/2026/09/23/us/asilomar-dna-ai-self-regulation-laws.html) `HN`
+- [Yeni model Gev, JEV'den daha iyi performans gösteriyor ve görüntüleri de girdi olarak alıyor](https://anyeval.com/eval/jevbench/versus?a=typesafe-ai%252Fjev&b=trustedrouter%252Fgev-1.0) `HN`
+- [Herkes llms.txt aracılığıyla yapay zekayı komik bir şekilde hızlı bir şekilde enjekte ediyor ve siz](https://installmap.com/research/llms-txt-ai-instructions) `HN`
+- [Show HN: Make It Nice](https://liseman.github.io/make-it-nice/#/result/ATAC1fBVUPvgLIZ-Je3tNSsbNREfGzUbGysVdjhmd3JrZzJ5dTJzaHY0MgAA) `HN`
+- [Yapay Zekaya Genel Bakış ve Güvenli Arama Limanının Sınırları](https://www.lawfaremedia.org/article/ai-overviews-and-the-limits-of-the-search-safe-harbor) `HN`
+- [Show HN: Watch Newsletters by AI](https://newsletrix.com/) `HN`
+- [Meta, yeni kişisel yapay zeka ajanı Muse için bir "insan konsiyerjini" test ediyor](https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/) `HN`
+- [Trump, büyük teknoloji ve yapay zeka alanındaki milyonlarca dolarlık hisse anlaşmalarını açıkladı](https://www.bbc.com/news/articles/c6p3kxpp8lezo) `HN`
+- [OpenAI, Patreon'un önemli yöneticilerini yaklaşan duyuru öncesinde bünyesine kattı](https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam) `HN`
+- [Veri Merkezleri Hırsızlıktır](https://www.machinesociety.ai/p/data-centers-are-theft) `HN`
+- [Yapay zeka, BT ekibinizin güvendiği forumları ve wikileri öldürüyor mu?](https://www.spiceworks.com/ai/is-ai-quietly-killing-the-forums-and-wikis-your-it-team-relies-on/) `HN`
+- [R/gamedev'deki en iyi gönderi: "Yapay zeka modelleri Unity geliştiricisini yakaladı ."](https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/) `HN`
+- [Yapay zeka kaygısı dünyayı kasıp kavuruyor ve parti sınırlarını aşıyor](https://www.politico.eu/article/poll-ai-anxiety-openai-anthropic-elon-musk-silicon-valley-across-party-lines/) `HN`
+- [Temsilci, onu oluşturan çalışanın bir uzantısı değildir](https://getlago.com/blog/how-to-bill-ai-agents) `HN`
+- [Arama, WebKit tabanlı Mac için 2,9 mb'lık bir tarayıcıdır](https://officecommun.com/search) `HN`
+- [VSCode'da Claude/GPT oran sınırlarına ulaşmayı durdurmak için Tokonomi - AST bağlam derleyicisi](https://marketplace.visualstudio.com/items?itemName=Tokonomics.tokonomics-ai) `HN`
+- [Birden fazla ölüm ve yaralanmadan sonra NHTSA virgül.ai'yi araştırıyor](https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/) `HN`
+- [İş Arkadaşlarımın Yapay Zeka Klonlarını Yaptım. İşler Garipleşti](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/) `HN`
+- [LIGHTSPEED: Zamansal için deterministik ajan koşum takımı (Pas içinde)](https://github.com/smartcomputer-ai/lightspeed) `HN`
+- [Gemini 3.8 konuşma metni merhaba diyor](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/) `HN`
+- [Yapay Zeka Sürveyansı Çağında İnsan Bilgi Verenler Neden Hala Önemlidir?](https://smallwarsjournal.com/2026/08/20/why-human-informants-still-matter-in-the-age-of-ai-surveillance/) `HN`
+- [Çin'de yapay zeka geliştiren insanlarla Pekin ve Şanghay'da bir hafta](https://earnedintuition.substack.com/p/involution-without-export-is-wasted) `HN`
+- [Amazon, satıcı araçlarını Anthropic'ten başlayarak dış yapay zeka ajanlarına açıyor](https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/) `HN`
+- [Adım Kodu: Adım 5 Önizleme etrafında oluşturulmuş MIT lisanslı kodlama aracısı CLI](https://github.com/stepfun-ai/Step-Code) `HN`
+- [Uzay Tavşanı Alfa](https://openrouter.ai/stealth/space-bunny-alpha) `HN`
+- [Yapay zeka yavaşladı mı? OpenAI ve Anthropic, sınırdaki yapay zeka konusunda uyarıda bulunduktan günler sonra daha ucuz yapay zeka modellerini piyasaya sürdü - Livemint](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZTBOdnZWWVFRem1xTzU0di1fUTUtbGFBWEFwRmhKbHU0QjFOaTR3R1FsM1dfbjZuMEJ1VXFrYkVVY29zYU1BeGRaVGJreWU1dWZCSGxpVGl6NE1OdTlrdjQ3Qnhya1ZPNmZhaEFJV3B4U3BubWMtVGlwb2dlbXBtLVlsSUhhZjJvdDdMWXhyOU9qU1hhWW03Q0pBak1RS1M2NXhOSTA0M0VtVEs4NTIyUEh5Nkp6QXpfSGhsRzB0ckVReHhjVDltbU5rZF82eXdtSEx0SHZCd1BNU19nNlo40gHkAUFVX3lxTE5tekd3anlVSWM2VXdFV1ItalFvLXExVVBzSjR4Wnc1XzdHV2xIVHQ1U1VyNlNkNGQ0RTNJT3BucXlkOThCTzN5OThjZlFrLWtmYWZicTVrSUdmRl9tcDlEWTZNV19ZT3VkWFgwTE5ESWJqNlFiNVZnS2xMR29qMGlraGtfNFpvN0p6S3Z6M3FYNXZCS3hxV3NkM2kyaGVyckIwcTFjYkNNOU5odXN4Tnk2YU1HNk52TDctZml0R0lLSDdqYlNjUTRKak92SDNEalRvQ1E2TFNLUEZ0alFnb2RBS3Bneg?oc=5) `RSS`
+- [Antropik, OpenAI, güvenlik korkuları arttıkça bile daha ucuz yapay zeka piyasaya sürüyor - Tech Xplore](https://news.google.com/rss/articles/CBMigAFBVV95cUxOYlRXd2RCS1JJNXVkbUc2OGVXaVNtMWd6NFpsQ3d6Y0xrYTJ4OEI3MmxfZXBmVVdLbGxHbU8zMGtPYk1vck1adkk3WlJMMlJ4dG1Nd2doOVlQc2Y4UUJuTUQyS01vWWdaTkpHcGF2NzFPcDNabTljc1FidDRYSUNwcw?oc=5) `RSS`
+- [OpenAI, GPT -6 sol ve Luna API fiyatlarını % 50 düşürdü - qz.com](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMOXNLbmgyak04NnZsdm1rSzEwVkZvRl8yMU1jUFpYelRReThBcjZzVnc5VWd0YUduRDZtOTJtSThmcHZQLWc4dnpUR2t6dXFWdHZJVUNuWVY2WjZHc1gxTTk3WEhCTTZl?oc=5) `RSS`
+- [Pazar Konuşması: Amazon Destekli Antropik Fikirler Halka Arz Öncesi Yeni Yapay Zeka Modelinin Lansmanı - Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWE9IcU9sV1lBMzE4ZlZvWmJGUm9mRkpvMnZPR3Z6eVlrZWJDMlFkNGRyNFhieEtFRkJJenl2MTU5VjJTNVR6d1hBOFBlN0hoZU1mNzF0cW5fWXBRcnljY041bGx5S0ZQWUU4ZGFTaGJGYkpXTmNXS3JXMW9lN2ZzT1VRYTVqQnotQ2dHNzBMQjd6Ri1wbnlsR3dMM3VJQjBxSEo1ZA?oc=5) `RSS`
