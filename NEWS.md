@@ -843,3 +843,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Karşınızda HLE – Diamond – İnsanlığın Son Sınavı](https://lastexam.ai/blog/hle-diamond) `HN`
 - [Anthropic, genişletilmiş biyoloji yetenekleriyle Claude Opus 5.5 'i piyasaya sürdü - MobiHealthNews](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkZ3WlVySXByWW1fX1hNaXZYZnMzazZqZ1htQ1lGRWhmQWpFRzY4NUVqMzlUaEJxVDhiTDk1SjRzWXJ5YmlJUnppVWRiMjk4UHBXTXcxMWo0UVZzdjg3bUVCX08xakI3NXJUdlozdUJFZkR6WkZoMzR5OUpERXB6YVdiU0ZJWm0xVnRaMGtEdGUxWHhpS1JCZmp1V0IwejV4?oc=5) `RSS`
 - [OpenAI ve Anthropic GPT -6 ve Claude Opus 5.5 'i piyasaya sürerken yapay zeka yarışı hızlanıyor - ynetnews.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE15OXU0TlpXY3d6eWFOSUhpQ04tSFZQMFVGSlA0REs1VFVUZFgxOEJBQjBjMXZuRW5SSzVtSTR5d2Q4SFd3Qzdmam9wMWVjdFdNY1pRdkdjc3RYZzJtZGwtSnVqSVNMRzR5UW93Rg?oc=5) `RSS`
+
+- [Stanford, reklamda ırk değiştiren öğrencilerin ardından yapay zeka politikasını ihlal etti](https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php) `HN`
+- [Bir kurulum, agnostik - AI ile her AI CLI](https://agnostic-ai.org/) `HN`
+- [Show HN: NetHackers](https://nethackers.dunnolab.ai/) `HN`
+- [Show HN: Tarif Kartı Oluşturucu](https://www.sunnyshorescreative.com/recipe-card-creator) `HN`
+- [Show HN: Hosted JayBase – Güvenli AI aracısı yazarları için yalnızca eklenen bir veri deposu](https://jaybase.ai) `HN`
+- [Yapay zeka liderleri, sistemler güçlendikçe BM'yi güvenlik riskleri konusunda uyarıyor](https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/) `HN`
+- [Snapdragon X2 Serisine Linux desteği geliyor](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) `HN`
+- [Yeni bir dünya havalimanı ve bagajı](https://computer.rip/2026-09-20-denver-baggage.html) `HN`
+- [Gizli - GRPO ve Sürekli Akıl Yürütme Derin Dalışı](https://www.g-ftech.com/blog/latent-grpo-deep-dive) `HN`
+- [Mercury 2.5 LLM saniyede 770 jetona ulaştı](https://artificialanalysis.ai/models/mercury-2-5) `HN`
+- [Yapay Zeka Hype Endeksi: Yapay Zeka Hile Yapmayı Seviyor](https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/) `HN`
+- [Yapay zekanın çözemediği son IMO sorunu [VIDEO]](https://www.youtube.com/watch?v=Nbwv5wHQoj0) `HN`
+- [Sürpriz, Meta'nın en son yapay zeka hilesi sadece düşük ücretli insanlar](https://www.avclub.com/meta-muse-ai-human-labor) `HN`
+- [AI Agent Goal Hijack: Saldırganlar Bir Ajanın Kendi Araçlarını Ona Karşı Nasıl Çeviriyor?](https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents) `HN`
+- ["Yapay zekanın dondurulması" büyük yapay zeka şirketlerini daha büyük hale getirebilir ve daha küçük firmalara zarar verebilir](https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic) `HN`
+- [Düğün Davetiyelerim Yapay Zeka Belleğinde Bir Deney Haline Geldi](https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/) `HN`
+- [Algoritmik bir müzikal füg üretecini vibe kodladım](https://claude.ai/artifact/7KgLDXrRMsHVcoBG9LPzdu) `HN`
+- [Yapay Zeka Savaşa Girdi: Ukrayna Yapay Zeka Otonom Drone Rehberi](https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous) `HN`
+- [OpenAI, Avustralya Medicare portalını hackledi](https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078) `HN`
+- [Yapay zeka modelleri test ortamlarından kaçtıktan sonra Irregular 1,5 milyar $ değerleme istiyor](https://www.calcalistech.com/ctechnews/article/13p5khsib) `HN`
+- [Jensen Huang, genç geliştirici sorununun iki yıl içinde sona ereceğini söyledi](https://thenewstack.io/huang-ai-agents-engineers/) `HN`
+- [Fiziksel Kendi Kendine Oynama](https://www.skild.ai/blogs/physical-self-play) `HN`
+- [Agent Etna – AI ajanları için otomatik evreleme ortamı ve regresyon derleyicisi](https://www.agentetna.com/) `HN`
+- [Yapay zeka asla üstün sanat üretemez](https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art) `HN`
+- [Yapay Zekadaki En Önemli Pazar Ortadır](https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/) `HN`
+- [Show HN: AI temsilcisi kararları için ücretsiz tasdik – bir maliyetin doğrulanması 0.10 $](https://github.com/0xsims/rubric-attest) `HN`
+- [770 "Ben Göt Müyüm ?" gönderisinde Jev ve LLM'ler](https://github.com/dchristopoulos/jev-aita) `HN`
