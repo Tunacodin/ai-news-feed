@@ -994,3 +994,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka Genellemesinin Gizemleri](https://www.astralcodexten.com/p/mysteries-of-ai-generalization) `HN`
 - [Black Forest Labs, açık bir robotik yapay zeka modeli olan FLUX 3 Action'ı piyasaya sürdü - the-decoder.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGU4UmEtZTZsd0xiNG1SNVVUaUlaYkVXYmVwZHJUNndVRi11QVhRQ0ZtY1NxVHUzMGxabGRucThpQXVuMzUyLWViNzhGWEJwcHlMX1lVa3FyRV9JLWZpeGNNaUMwaE9CMnBwX2ZBRlhFR1ZVd2RMYUtRSGdOV1hiNk1HRkdiN1RCanJFTkRmT3dWd1UyYXc?oc=5) `RSS`
 - [Anthropic, CEO Amodei'nin yapay zeka yavaşlaması çağrısından bu yana ilk modeli olan Opus 5.5 'i piyasaya sürdü](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJxVmZoZEFaUVFjUUV5OC1YZGw3VUdpbDduWERINVQ2cGNySWtScE1MTm1FbnB4ZXZJMkRaZVBmWV9yMHh4dkJhcmQ2OVBERTFsVU1GNHJ4VEVOTTctblpRckdJWWtzbmZwUUhlZHhncGF5U0NITFRnY21nTjM0OXpoOUgtNzFZaDNlOUUyMmphendMVHlLTXhEZ2poNTBvb1NJUlQ0WWFFVmZfeU9rcFFBdWp6ZzNtVVNENWpJSEV0SnpFOXU2X19yMzMxMWJxT1VSY3NTS0FmQQ?oc=5) `RSS`
+
+- [Hangi yapay zeka modeli kodlama için en iyisidir? Uygulamalı bir karşılaştırma](https://flaviocopes.com/ai-coding-models/) `HN`
+- [Adam Conover, YouTube'un her şeyi nasıl mahvettiğini açıklıyor](https://www.theverge.com/podcast/991471/adam-conover-youtube-tv-media-union-labor-ai) `HN`
+- [Askholes ve Düşük Eforlu Yapay Zeka Cevapları](https://dennisforbes.ca/blog/microblog/2026/09/askholes_and_low_effort_ai_answers/) `HN`
+- [CrowdStrike: Siber Güvenlik için Frontier AI](https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity) `HN`
+- [Show HN: Koi.rest – biraz balık izleyin ve dengenizi yeniden kazanın](https://koi.rest) `HN`
+- [Boşluktan Kaçış: Bölüm I](https://www.perplexity.ai/hub/blog/escaping-space-part-i) `HN`
+- [Show HN: Public Browser MCP – +48% speed -33% token/session vs. AgentBrowser](https://github.com/Silbercue/public-browser/releases/tag/v3.0.0) `HN`
+- [Yapay Zeka Dönemi için Yeni STOC Kuralları](https://blog.computationalcomplexity.org/2026/09/the-new-stoc-rules-for-ai-era.html) `HN`
+- [Biyolojik veya Kimyasal Silahlar için Yapay Zeka Yardımı](https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons) `HN`
+- [Show HN: Canary (YC) – AI kodu için bağımsız doğrulama](https://www.runcanary.ai/) `HN`
+- [Yapay zeka tüm ev ödevlerimi yapmayı başardıktan sonra öğretmenliği nasıl değiştirdim?](https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed) `HN`
+- [Show HN: 159 $ AI ses kayıt cihazına $ 25 DIY alternatifi – BYOK veya yerel](https://zephclick.com) `HN`
+- [DDoS Saldırısı, AI Bro'nun Yasaklanmasının Ardından Sevilen Video Oyunu Wiki'sini Kırdı](https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335) `HN`
+- [Anthropic Strikes Akamai ile 12 Milyar $ Değerinde Yapay Zeka Bilişim Anlaşması Yaptı](https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing) `HN`
+- [Show HN: Dunara](https://dunara-studio.com/) `HN`
+- [Restoranlar Yiyeceklerinin Reklamını Yapmak İçin Yapay Zekayı Kullanıyor ve Bu İnsanları Hasta Ediyor](https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9) `HN`
+- [Yapay Zeka Çağında Akıllı Kalmanın Yolları: Eleştirel Düşünme Bilimi](https://www.nature.com/articles/d41586-026-02930-6) `HN`
+- [Yapay zeka şirketlerinin neden yeni yasalara ihtiyacı yok?](https://twitter.com/Paul__Walsh/status/2102801667657748720) `HN`
+- [Alexandr Wang, Yapay Zeka Ajanı Promosyon Savaşında Meta'nın Çok Gizli Olmayan Silahı](https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9) `HN`
+- [BM'ye teknoloji liderleri: İnsanlığın iyiliği için lütfen yarattığımız yapay zeka teknolojisini kontrol edin](https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211) `HN`
+- [Tiny - Vedas: AI Hızlandırıcı Tasarımı için RISC - V Altyapısı [pdf]](https://siliscale.com/papers/tiny-vedas.pdf) `HN`
+- [GizmoSQL, AI analist şirketleri için birim ekonomisini değiştiriyor](https://emms21.github.io/gizmosql-followup/) `HN`
+- [Sana yalvarıyorum: Asla Yapay Zeka ile Yazma](https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html) `HN`
+- [Simyasal bilgiyi izlemek ve 17. yüzyıl harflerinin kodunu çözmek için LLM'leri kullanma](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) `HN`
+- [Yapay zeka neredeyse tüm kodları yazdığında, yazılım mühendisliğine ne olur?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) `HN`
+- [Birden fazla ölüm ve yaralanmadan sonra NHTSA virgül.ai'yi araştırıyor](https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/) `HN`
+- [NAZA'nın Arkasında: IDF görüşmesinde yapay zekanın ikincil hasarı değerlendirmek ve azaltmak için nasıl kullanıldığı](https://www.jpost.com/israel-news/article-909190) `HN`
