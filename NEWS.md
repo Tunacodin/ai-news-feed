@@ -962,3 +962,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Google, yapay zeka model yarışında zeminini yeniden kazanmaya çalışırken Gemini 4 'ün lansmanına hazırlanıyor: InvestingLive](https://news.google.com/rss/articles/CBMitAFBVV95cUxNejcxbXYzRG1QQV9jNzJKSE04c3RWdVR5QWo3QmlvMW51eWVIUmF4d0p3VzVSU1JPVkVYaHZjOW1HdHdVY2loRGNxS3VPZlNIODJ5UU10Wl9udENVdWhvbG1XWmpPcWd5TWU0M3YxbksxcHpkYWFFYzlpRktCdjVxVm1QTlg1MW9rS3NvTjdoVEVlX0dwek1qSlNDYXZQb25CQ2UzYURHaVBIcVYtalFEbXhkYWo?oc=5) `RSS`
 - [Google'ın Gemini 4 'ü, OpenAI - Benzinga ile Yapay Zeka Savaşı Olarak DeepMind Exec'in Yıl Sonundan "Çok Daha Erken" Başlatılabileceğini Söyledi](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSTdXa2d0c2xmV0R0dm92TlhyTjROTEstWnEwMnZCeXM4YjRJdnhHNzZtaE52ekR6OVh6aW9iOVFnOUtVYTIwbTFyZlhJMkdpME00ckx6Z0VtU0daMXg5cU8teTN5Z3hjaC1PZGowX1BPbk44TjhDdWZHaUw5TFNWTWVaNU83c1JIclhKMWd6b3hVcTVDZm54M2VRVkRzSG51R3MxcVpfemtHRnVlWFRJUTQyVDdmdm51LVhQZldwYjNtdFVEU2toczdUSE5vYUZmSlVDQ0dKT3FJdGxQVTFST3BubTJrWnZ6Zzhtd1dqNGowU2V4NHFiU1MtYjh0TnFoMUZmQTdNbUI?oc=5) `RSS`
 - [Google'ın yeni DeepMind şefi: Gemini 4 neredeyse hazır](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjBvcU5MVHoyMUJ4OUYyWkpUdFJMNm1nV0JvbjBQNTJMbFQyUk1QWTdGSVNob1VJdk4tbUNzdmhHVDduQXNubkFYYnBDaFBSanAzN2RzaFdVMmNRUU5aQzdHLU9Ub3JvREFjaXhMcFZPUy1XYVpELXgyVlQyek5nNjhEUEotNVR6ai1DcXZhdy0yZw?oc=5) `RSS`
+
+- [Otonom Alanda Kayıp Katalog Tabanlı Optik Navigasyon (Falcon) [pdf]](https://slab.stanford.edu/sites/g/files/sbiybj25201/files/media/file/aiaa_asc_2025-falcon_paper.pdf) `HN`
+- [Show HN: Ciddi şekilde ayrıntılı bir ücretsiz finansal planlayıcı oluşturdum](https://app.finzot.com/plan/6VXFMte2tRMp81sRKhYgXM/results/net-worth) `HN`
+- [OverfitCheck: İşlem geçmiş testinizin overfit olup olmadığını kontrol edin](https://overfitcheck.com) `HN`
+- [Opus 5.5 'ten 2.5D paralaks interaktif savaş sahnesi](https://www.echohive.ai/experiments/the-golden-ford) `HN`
+- [VLLM'de filigran oluşturma](https://vllm.ai/blog/2026-09-24-watermarking-in-vllm) `HN`
+- [Antropik CEO'lar OpenAI, BM ülkelerini yapay zeka güvenlik standartları konusunda işbirliği yapmaya çağırıyor](https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards) `HN`
+- [Mevcut yasalar zaten her türlü yapay zeka güvenlik olayını kapsıyor](https://paulfwalsh.substack.com/p/existing-laws-already-cover-every) `HN`
+- [Yeni işe başlayanlar için yapay zeka erişimini kapattık](https://www.valon.ai/blog/we-turned-off-ai-access-for-new-hires) `HN`
+- [Komut isteminde değil, yürütme katmanında kontrol AI aracıları](https://github.com/CTRLRun/ctrlrun) `HN`
+- [Yapay zekanın yazarı öldürmesine izin verme](https://www.economist.com/leaders/2026/09/24/dont-let-ai-kill-the-author) `HN`
+- [JEV - as - a - Judge](https://academy.dair.ai/papers/jev-as-a-judge-accept-when-confident-escalate-when-unsure-2609.26550) `HN`
+- [Yapay zeka tehditleri hızlandırıyor ve güçlendiriyor: derhal harekete geçilmesi gerekiyor](https://english.aivd.nl/latest/news/2026/09/24/ai-is-accelerating-and-amplifying-threats-immediate-action-is-necessary) `HN`
+- [Show HN: Rig – AI ajanları için açık kaynaklı bulut masaüstü bilgisayarlar](https://github.com/ShadowWalker2014/rig) `HN`
+- [Çalıştır - onayla - değerlendir: Riski bul, düzelt, kanıtla](https://commandline.microsoft.com/run-assert-eval-responsible-ai-agent-risk-discovery-at-runtime/) `HN`
+- [Show HN: DrawCMS – AI Ajanları için açık kaynaklı animasyonlu bir diyagram oluşturma aracı](https://github.com/drawcms/drawcms) `HN`
+- [Sizin, yapay zekanızın ve cron işlerinizin değiştirilmediğini kanıtlayabileceğiniz kayıtlar](https://freshjots.com/) `HN`
+- [Show HN: Bananabread AI – Müşterilerin ürünlerinizden ne sevdiğini ve istediğini bulun](https://bb-product-api-docs.web.app/) `HN`
+- [Pummelvision Geri](https://www.pummelvision.ai/) `HN`
+- [Yapay Zeka Çalışanlarının Sorgulanması 2026](https://techworkersinquiry.org/ai/) `HN`
+- [.si alan adı kayıtları, Trump'ın "Süper İstihbarat" adını değiştirmesinin ardından .ai'yi geride bıraktı](https://www.netcraft.com/blog/slovenian-si-domain-registrations-rise-trump-super-intelligence) `HN`
+- [Yapay zeka destekli bir barkodla yaşlanan dokudaki "zombi hücrelerinin" maskesini kaldırmak](https://news.mit.edu/2026/unmasking-zombie-cells-aging-tissue-ai-powered-barcode-0921) `HN`
+- [Çin'in Yapay Zeka Konusundaki Zihni](https://www.axios.com/2026/09/24/china-ai-plan-trump-xi-visit) `HN`
+- [Neredeyse Toplam Sıvı Isı Yakalama, Yapay Zeka Raflarını Serin Tutar](https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit) `HN`
+- [Show HN: Critic – Kodu yazan temsilciyle birlikte gözden geçirin](https://www.critic.run/) `HN`
+- [Lazer atama ve makine destekli hedefleme ile ilgili patentler](https://signal-docket.pages.dev/) `HN`
+- [Komik Videolar Yapay Zeka ile Yüzsüz Bir YouTube Kanalı Nasıl Başlatılır: Eksiksiz Bir Kılavuz](https://coursiv.io/blog/how-to-start-a-faceless-youtube-channel-with-ai) `HN`
+- [Merak ettiğim girişimler, siz hangi ERP sistemini kullanıyorsunuz?](https://agaro.ai/) `HN`
+- [Qodo Agentic Toolbox: Kodlama ajanları için CLI destekli bir Kalite muadili](https://docs.qodo.ai/agentic-toolbox) `HN`
+- [Yapay Zeka Genellemesinin Gizemleri](https://www.astralcodexten.com/p/mysteries-of-ai-generalization) `HN`
+- [Black Forest Labs, açık bir robotik yapay zeka modeli olan FLUX 3 Action'ı piyasaya sürdü - the-decoder.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGU4UmEtZTZsd0xiNG1SNVVUaUlaYkVXYmVwZHJUNndVRi11QVhRQ0ZtY1NxVHUzMGxabGRucThpQXVuMzUyLWViNzhGWEJwcHlMX1lVa3FyRV9JLWZpeGNNaUMwaE9CMnBwX2ZBRlhFR1ZVd2RMYUtRSGdOV1hiNk1HRkdiN1RCanJFTkRmT3dWd1UyYXc?oc=5) `RSS`
+- [Anthropic, CEO Amodei'nin yapay zeka yavaşlaması çağrısından bu yana ilk modeli olan Opus 5.5 'i piyasaya sürdü](https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJxVmZoZEFaUVFjUUV5OC1YZGw3VUdpbDduWERINVQ2cGNySWtScE1MTm1FbnB4ZXZJMkRaZVBmWV9yMHh4dkJhcmQ2OVBERTFsVU1GNHJ4VEVOTTctblpRckdJWWtzbmZwUUhlZHhncGF5U0NITFRnY21nTjM0OXpoOUgtNzFZaDNlOUUyMmphendMVHlLTXhEZ2poNTBvb1NJUlQ0WWFFVmZfeU9rcFFBdWp6ZzNtVVNENWpJSEV0SnpFOXU2X19yMzMxMWJxT1VSY3NTS0FmQQ?oc=5) `RSS`
