@@ -898,3 +898,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [DeepMind başkanı The Information'a verdiği demeçte, Google'ın Gemini 4 yapay zeka modelinin piyasaya sürülmesine yaklaştığını söyledi - Investing.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDdDc2FsSkJXcU9QbWkwZ09DVkJXMG9uWU9jWVk1R0dnQ1ZMcy11Um15ajd0LXFGMTRwR2hFV1FSb3FfZ0tYcXFjYkJNNTl1M1BVdm9VOHYwMFpSbzVDVDRiYXlCdlFWN0NfTFNnbFFPclFMcXJ2dGpseGVOVEZOYmgyU0draThsRl9sQ3lnaHpmZ3V5RmZCX1NNZGlmUzIwUUFBVFdwMlFqZHQ3dENKeHd4TmtEWklTY1lEeGJ2Qlgydi1ncXNmY1ZyOWprdTdUUkdxUHJB?oc=5) `RSS`
 - [Gemini 4 'ün Erken Çıkması Bekleniyor: Google OpenAI ve Anthropic'i Yakalayabilir mi? - TradingKey](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3BpaDdmeTVPS00yWkh6STRBYWNvU3JuRDdkQVZLQlp0Q1BKSEpuQUQxY3A0eXpJVUp5SzZMWnp5U3FXUWtrVDAySExLUDg4VE1wVTR4c3dTckpwTmRkSDQ4WmJoanpXVmtQNXoybDVMNWVVLTV1RE9tNmpiOUhtOUVHUG9FMzk3V3BxX3VxdHJXNU5MemozaWh0Ylg5dHhRcHloM3BobDNDUHN0MVFTSnhTeE9VdTc1YUE?oc=5) `RSS`
 - [OpenAI, Dış Güvenlik İncelemelerini Model Eğitimine Genişletiyor - TechRepublic](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGw0RHB5c2JOV0Y4MU5mS2FMOXdVY2hRdW4zUVRwczRnR3F3N3RYSVNGLUF3Q2FTQUp6UDNDaTBmaVM5Z3h1UzdlS2FLcEZGeW93NmpGR3RMS1hUWGhRemd3Q3NVbnRSdUhYNjF3ejdOUHBtUktSWGlHZkZxUXJYd0R6TVpTSDZkSUxHbUxUQXV3QQ?oc=5) `RSS`
+
+- [Yapay zekanın niyeti ve motivasyonu yoktur](https://www.i-programmer.info/news/245-view-point/19164-ai-has-no-motivation.html) `HN`
+- ['Koordinasyon vergisini' kesmek: Aracı yapay zeka iş akışlarını nasıl yeniden şekillendirebilir?](https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows) `HN`
+- [Yapay süper zekayı yasaklamak ve Yapay Zeka Departmanı oluşturmak için önerilen tasarı](https://apnews.com/article/ai-superintelligence-bernie-sanders-d6a6a2cd8e71d7c95bdc394595aa85d1) `HN`
+- [Anthropic CEO'su Amodei, BM Güvenlik Konseyi'ni yapay zeka riskleri konusunda uyardı](https://www.youtube.com/watch?v=u-u8gOgNA9o) `HN`
+- [Meta, Meta'da çekim yaptıktan sonra meta yapay zeka gözlükleriyle ilgili kritik bir videoyu kaldırdı](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/) `HN`
+- [Phyll, tasarımı koruyan yapay zeka ile oluşturulmuş uygulamalar için bir UX incelemesi](https://github.com/carlosphyll/phyll) `HN`
+- [Show HN: CastTake – bir ürün fotoğrafını kısa bir AI UGC reklam videosuna dönüştürün](https://casttake.com/ai-ugc-ad-generator) `HN`
+- [HN: CubeLV'yi gösterin – Otomasyonunuzu oluşturmadan önce tasarlayan yapay zeka](https://app.cubelv.com) `HN`
+- [Nuros – Notlardan, PDF'lerden, videolardan ve bağlantılardan yapay zeka çalışma araçları](https://nuros.app/) `HN`
+- [HN'yi göster: Hava boşluklu dosya şifrelemeyi kendi kendine şifre çözen HTML sayfası olarak göster](https://cms-sfx-demo.apeleg.com/) `HN`
+- [Sunucu tarafı belleğe sahip Google Özel Yapay Zeka Hesaplama](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) `HN`
+- [Sosyal medyayı düzenlemeye başlamak 20 yıl sürdü. Yapay zeka kontrolleri daha erken gelecek mi?](https://www.rnz.co.nz/news/business/1557652/it-took-20-years-to-start-regulating-social-media-will-ai-controls-come-sooner) `HN`
+- [Kendi yapay zeka temsilcinizle insanlığın en önemli sorularını araştırın](https://interworky.com/) `HN`
+- [Açık kaynaklı hızlı enjeksiyon dedektörleri gerçekçi AI ajan saldırılarını yakalayabilir mi?](https://github.com/rudratoshs/buried-injections) `HN`
+- [Vesikalık fotoğraf](https://www.aipassportphoto.org/) `HN`
+- [Bir Yapay Zeka Ajanı Nasıl Denetlenir: Zamanda Yolculuk Hata Ayıklama ve Sapma Ölçümü](https://medium.com/@MirArshadTalpur/how-to-audit-not-observe-an-ai-agent-time-travel-debugging-and-drift-measurement-f755a6f4732e) `HN`
+- [29 AI kodlama modelinde maliyet ve kalite sınırı](https://bito.ai/benchmarks/ai-coding-model-cost/) `HN`
+- [Inferact'ın Kimi K3 Megakernel'i TPU'da 700 tok/s'ye ulaştı, GPU'yu Yendi](https://inferact.ai/blog/tpu-megakernels) `HN`
+- [Meta, bağımsız bir Muse yapay zeka cihazı yapıyor](https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware) `HN`
+- [Yapay Zeka Genellemesinin Gizemleri](https://www.astralcodexten.com/p/mysteries-of-ai-generalization) `HN`
+- [Lysios – LLM kırmızı takım kuruluşu](https://lysios.ai/) `HN`
+- [Voskhod'un Kabusu 2](https://www.smithsonianmag.com/air-space-magazine/the-nightmare-of-voskhod-2-8655378/) `HN`
+- [Urlquery.net'te bulunan ilk hileli yapay zeka aracı etkinliği ve hackleme girişimleri](https://transluce.org/agent-activity) `HN`
+- [Meta'nın Yeni Muse AI Temsilcisi Özel Mesajlarımı Okuyun. Hiç sormadım](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202) `HN`
+- [Google, Amiral Gemisi Gemini 4 Yapay Zeka Modelinin Piyasaya Sürülmesine Yaklaştı - Bilgi](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNXh3OWdvQ3NBQ240aUxVR2NOd0hsMTZITHFpQjFuZlhQMU5ZeWpfaHdNd21lZVlyRzZzcUo5OUhJVEcwVnlFWjkwSENSdkdqb1NMMUFMaWE0a2lwbkw2Z25rMFBUYXZWOTk4VEU0dnRhTWk5YkQ5bkx3VmROWV9pYm5FRVZ0MnlKV0Rqell0LWU?oc=5) `RSS`
+- [Google'ın DeepMind Gemini 4 Yapay Zeka Modelinin Lansmanı Yaklaşıyor - GuruFocus](https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3ozWkdSVU1MYVFPUVpnaG5OenZlT2ZDOEJXQUt1ZEVJaG1veGJlTlV0TTMxVElKZjVsNVVUdGc0cGc0YXBXaVRFNU9mQS1ycG1PVGQ3VzBpYjF1ZXZlNUE2czdnQkptY2RMeWpBVFJYMlk2MUF1RFBUYzM5X203eXV5ekNOOGdZODNZNWZKTl93Vk0?oc=5) `RSS`
+- [Jev AI Modeli, Geliştirici Deneylerini Piyasaya Sürdükten Sonra Günler Sürüyor - x.com](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jYjB6WDB1OHdqRmZLN1RTTzZJR0RJYmZNQmt6VDBfSnhueGQyeS1BNmp1MXgxcVFmX3FIbERpaU43NzlSN0ZOWGNrXzZSRGtrUWk1Z1lvVQ?oc=5) `RSS`
+- [LTM, İşletmelerin Özel Veriler Üzerine İnşa Etmelerine Yardımcı Olmak İçin Bağımsız Yapay Zeka Modellerini Başlattı - analyticsindiamag.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNaHhlVE5VLXRoZXowV1dmZnZnZUZpT2FWMzZfNUpFWUZqb1g2Xy1TRmVXTzJBQ2J3Z0J6dTd6dGF0SVBfRjU3LTcyeFNDQWd3WGZaWEw3aHByZ1V5aWZWdXJUVi1nNF9xQk85YnlHNnNVYkg1eDRDRUtmQkFaTFEwTEYwU3hVYV82M0VBV2tpZlYwQllmTkNnVnZMQnhxbFlzOW5UX0F0MlpvX083YXNTbERQVFJLdXc?oc=5) `RSS`
