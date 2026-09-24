@@ -871,3 +871,30 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zekadaki En Önemli Pazar Ortadır](https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/) `HN`
 - [Show HN: AI temsilcisi kararları için ücretsiz tasdik – bir maliyetin doğrulanması 0.10 $](https://github.com/0xsims/rubric-attest) `HN`
 - [770 "Ben Göt Müyüm ?" gönderisinde Jev ve LLM'ler](https://github.com/dchristopoulos/jev-aita) `HN`
+
+- [Eric Schmidt, yapay zeka savaşı çağında](https://www.economist.com/insider/inside-defence/eric-schmidt-on-the-era-of-ai-warfare) `HN`
+- [Çin'in Yapay Zekaya Yaklaşımı](https://madeinchinajournal.com/2026/09/23/chinas-approach-to-ai-infrastructural-statecraft-managed-pluralism/) `HN`
+- [HN'yi gösterin: Yapay zekanızın bunları düzeltebilmesi için vibe kodlu uygulamalar için yerleşik APM'yi gösterin](https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/) `HN`
+- [Yapay Zekanın Geliştirilmesi ABD Tarihindeki En Büyük Ekonomik Bahis Haline Geliyor](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd) `HN`
+- [Kaizen'i Yapay Zeka ile Çalıştırıyoruz](https://kznconsulting.com/work/how-we-run-kaizen) `HN`
+- [OpenAI'nin YAPAY Zekası, İstemeden Diğer 4 Hedefi İhlal Etmeyi Denedi](https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html) `HN`
+- [Tarayıcımdaki yapay zeka metnini otomatik olarak algılama](https://www.seangoedecke.com/deckard/) `HN`
+- [Show HN: Chatlo – iOS'a özgü bir yapay zeka ajanı, şimdi Jev ile](https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943) `HN`
+- [Yapay Zeka İnsanlığı Yok Etmeyecek, Ama İnşa Edebileceği İnsanları Yok Edecek](https://www.theatlantic.com/technology/2026/09/kara-swisher-ai-destroy-humanity-atlantic-festival/688721/) `HN`
+- [Yanlış Hizalama İçimizde: Matematik Neden Yapay Zeka Paradigmasını Kucaklamalı?](https://medium.com/@b1nj0y/the-misalignment-is-within-why-mathematics-must-embrace-the-ai-paradigm-8ba75c4bafda) `HN`
+- [AP: [AI] insan özellikleri veren dilden kaçının](https://twitter.com/APStylebook/status/2102807962364383502) `HN`
+- [KUSURLULARIN Kusurları ve Bunun Endüstri Araştırmaları İçin Anlamı](https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/) `HN`
+- [Açık kaynaklı bir hatayı düzeltmek için bir yapay zeka aracısı kullandık. Biri bizi yasaklamak istedi](https://github.com/saulpw/visidata/pull/3229) `HN`
+- [Yapay Zeka, Matematikteki En Şeytani Problemleri Çözdü. Satrancı Neden Çözemiyor?](https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830) `HN`
+- [OnPanda – 5. Adım Önizlemeden itibaren açık kaynaklı belirteç incelemesi ve veri açıklama aracı](https://twitter.com/StepFun_ai/status/2102454115473510643) `HN`
+- [Federaller, "Yabancı Ajanlar" olarak Yapay Zeka Eleştirmenlerini Hedef Aldı](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) `HN`
+- [Opus 5.5 'in gezgin satıcı problemi ile portre çizimi](https://www.echohive.ai/tsp-art) `HN`
+- [Yapay zeka kodlama dönemi için bütünsel tasarım sistemleri](https://numeric.substack.com/p/design-systems-at-numeric) `HN`
+- [AI - Cad: Mekanik Müh. Cad için OSS Çoklu Ajan Kablo Demeti](https://github.com/ai-cad-labs/ai-cad) `HN`
+- [Sol 6 ve Opus 5.5, bir ajan Cad kablo demetinde karşılaştırıldı](https://www.partforge.ai/blog/2026-09-23-new-model-day) `HN`
+- [Matematik, biyologlardan yapay zeka ile yaşamayı öğrenebilir](https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/) `HN`
+- [Human Glitch – yirmi küçük web deneyimi, her biri ücretsiz başlıyor](https://humanglitch.ai) `HN`
+- [Google, yapay zeka modelinin üç dış sisteme yetkisiz erişim sağladığını söyledi](https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651) `HN`
+- [DeepMind başkanı The Information'a verdiği demeçte, Google'ın Gemini 4 yapay zeka modelinin piyasaya sürülmesine yaklaştığını söyledi - Investing.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDdDc2FsSkJXcU9QbWkwZ09DVkJXMG9uWU9jWVk1R0dnQ1ZMcy11Um15ajd0LXFGMTRwR2hFV1FSb3FfZ0tYcXFjYkJNNTl1M1BVdm9VOHYwMFpSbzVDVDRiYXlCdlFWN0NfTFNnbFFPclFMcXJ2dGpseGVOVEZOYmgyU0draThsRl9sQ3lnaHpmZ3V5RmZCX1NNZGlmUzIwUUFBVFdwMlFqZHQ3dENKeHd4TmtEWklTY1lEeGJ2Qlgydi1ncXNmY1ZyOWprdTdUUkdxUHJB?oc=5) `RSS`
+- [Gemini 4 'ün Erken Çıkması Bekleniyor: Google OpenAI ve Anthropic'i Yakalayabilir mi? - TradingKey](https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3BpaDdmeTVPS00yWkh6STRBYWNvU3JuRDdkQVZLQlp0Q1BKSEpuQUQxY3A0eXpJVUp5SzZMWnp5U3FXUWtrVDAySExLUDg4VE1wVTR4c3dTckpwTmRkSDQ4WmJoanpXVmtQNXoybDVMNWVVLTV1RE9tNmpiOUhtOUVHUG9FMzk3V3BxX3VxdHJXNU5MemozaWh0Ylg5dHhRcHloM3BobDNDUHN0MVFTSnhTeE9VdTc1YUE?oc=5) `RSS`
+- [OpenAI, Dış Güvenlik İncelemelerini Model Eğitimine Genişletiyor - TechRepublic](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGw0RHB5c2JOV0Y4MU5mS2FMOXdVY2hRdW4zUVRwczRnR3F3N3RYSVNGLUF3Q2FTQUp6UDNDaTBmaVM5Z3h1UzdlS2FLcEZGeW93NmpGR3RMS1hUWGhRemd3Q3NVbnRSdUhYNjF3ejdOUHBtUktSWGlHZkZxUXJYd0R6TVpTSDZkSUxHbUxUQXV3QQ?oc=5) `RSS`
