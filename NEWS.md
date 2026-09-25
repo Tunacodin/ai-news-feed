@@ -1069,3 +1069,97 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Çalışma, GRE öğrenme kazanımları için yapay zekanın insan öğretimi kadar iyi olduğunu gösteriyor](https://arxiv.org/abs/2609.28470) `HN`
 - [Suncatcher Projesi'nin ardında, yapay zekayı uzaya taşımak için çektiğimiz fotoğraf - blog.google](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5) `RSS`
 - [IBM ve NASA, Ay Keşfini Destekleyecek Açık Kaynak Yapay Zeka Modelini Yayınladı - IBM Newsroom](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVnOTlRLU5CdXJ2NG1vZnpXaWJfaktBQ0l4dGlKRF9tVVZST083WGhxTXpUT051X25pNlBYSTlsTG1NOGlsTWIxaE1xS2pJb0gzVmNZeUZ5Ulhzb2FBeHFHSHlvRlh4aE4xWGluVko0Y2xSSl9PeDNpbUJGM1NOQVRSN2ZQd05pdU9sSDBSWWRGZEx5b0JqQ1VKLUt6VzN5b0EzdHBzYTlTUQ?oc=5) `RSS`
+
+- [Yapay Zeka, Bilinç ve Ortaya Çıkan Davranışlar](https://blog.borrego.dev/entries/ai-consciousness-emergent-behaviors.html) `HN`
+- [Sürtünme İyidir, Ajansı Yapay Zekaya Teslim Etmek – Çevik Düşünce için Gıda 563](https://age-of-product.com/food-agile-thought-563-high-impact-ideas/) `HN`
+- [Restoranlar yiyeceklerinin reklamını yapmak için yapay zekayı kullanıyor ve insanlar bundan hoşlanmıyor](https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9) `HN`
+- [Sohbet yanlış kullanıcı arayüzü olduğunda](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/) `HN`
+- [Yardımcı Pilot+ PC markası öldü](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) `HN`
+- [RushShift – Yerel B - roll arşivlerini komut istemine göre aramak için Çevrimdışı AI masaüstü aracı](https://rushshift.vercel.app) `HN`
+- [Üç Çizgi Roman Yapmak için 255 Yapay Zeka Ajanı çalıştırdım. Slop ile Good Is Arasındaki Çizgi](https://thoughts.jock.pl/p/ai-slop-comic-experiment-2026) `HN`
+- [Show HN: Hard Stop: Kernel - level preemption for autonomous AI agents](https://arxiv.org/abs/2609.29808) `HN`
+- [Vücudunuza hava kalitesi sensörü takar mıydınız?](https://www.cbc.ca/news/climate/what-on-earth-bill-air-quality-art-9.7356388) `HN`
+- [Yapay Zeka Altyapısının Finansmanı](https://www.brookings.edu/articles/financing-the-ai-buildout/) `HN`
+- [Çift Bölme Deneyi](https://claude.ai/artifact/RLbDxsWYwyvgxzejRHTGgj) `HN`
+- [Ali Alkhatib: Yabancı otlar kök salamayacakları yerlerde yetişme eğilimindedir](https://ali-alkhatib.com/blog/weeding-out-ai) `HN`
+- [AB Üye Devletleri, yapay zeka şirketlerinin yararına "dijital kamulaştırma" planlıyor](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies) `HN`
+- [Göster HN: Dalga – Three.js ve gölgelendiricileri kullanarak katmanlı gradyan dalga arka planları](https://wave.subworkflow.ai/) `HN`
+- [Show HN: Sistem tasarımı ödünleşimlerinizi geri iten bir yapay zeka görüşmecisi](https://prepd.tech/) `HN`
+- [Y.Z. Beni Daha İyi Bir Doktor Yaptı. Tıp Öğrencilerini Daha Kötü Hale Getirdi](https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html) `HN`
+- [HN: StackReplay'i gösterin – AI kodlama geçmişinizi yerel olarak analiz edin ve yeniden oynatın](https://stackreplay.com) `HN`
+- [Yapay Zeka Kıyameti Artık Sıkıcı](https://martinrobbins.substack.com/p/the-ai-apocalypse-is-extremely-boring) `HN`
+- [Show HN: Ödemeleri ve Dijital Varlıkları Kullanan Yapay Zeka Temsilcileri için Eşik Şifrelemesi](https://github.com/tkeeper-org/tkeeper) `HN`
+- [Yapay zeka çağında bugpocalypse veya raporlama hataları](https://www.qemu.org/2026/09/23/bugs/) `HN`
+- [Araştırma makalelerini etkileşimli ve güvenilir yapay zeka ajanları olarak yeniden tasarlamak](https://www.nature.com/articles/s41586-026-11044-y) `HN`
+- [Yapay Zeka Giyilebilir Cihazların En Büyük Riski Kişisel Gizlilik Değil – İnsan Ajansı](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7498938) `HN`
+- [JetBrains için Kilo artık çoklu ajan kontrol odası](https://blog.kilo.ai/p/kilo-for-jetbrains-a-multi-agent-control-room) `HN`
+- [Meta'nın gizliliğe önem verdiğine inanmanıza ihtiyacı var](https://www.axios.com/2026/09/25/meta-ai-muse-privacy) `HN`
+- [Kodeksli Uzaktan Kumandalı Pelet Sobası Tersine Mühendislik](https://itunsecurity.wordpress.com/2026/09/25/mcz-musa-2-0-air-an-esphome-remote-for-home-assistant/) `HN`
+- [Show HN: Skipper, Ask Gemini ve SponsorBlock kullanan bir YouTube sponsoru kaptanı](https://chromewebstore.google.com/detail/skipper-ai-â-youtube-spon/ncchpipphiigdfbpbjofbhbahcgckaob) `HN`
+- [Pentagon, yapay zeka destekli bir yalan makinesi inşa etmek için 30 MİLYON $ istiyor](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) `HN`
+- [Fransa'da ödüllü yazarın yapay zeka kullanmakla suçlanması üzerine kargaşa](https://www.bbc.com/news/articles/ck7v4y45893go) `HN`
+- [Yapay zeka ile çalıştığım son yıllarda öğrendiğim dört şey](https://www.ssp.sh/brain/what-i-learned-writing-with-ai/) `HN`
+- [Show HN: Agentic Cuda Kernel Optimizer](https://github.com/bertaye/agentic-cuda-optimizer) `HN`
+- [OpenAI ve Anthropic'i hedef alan ucuz yeni yapay zeka modeli - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5) `RSS`
+- [Yapay Zeka Çiplerinde Bu Hafta - GENİŞ DataEnclave Lansmanıyla Güvenli Yapay Zeka Entegrasyonu İlerliyor - Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGJsaEhNM0NyNDYwVTV1MXEydVFwQVM1R0NmWEpYaUJNTUtCTVZNT3JHM01lellubWdseExTMWg5OG9BNGZMLTVvYlJ1d21FMm1rVTZ0TF9VYnVQaTRENVBQU3FKVldSZ3RCTTB1cjc0aTNITDMwMXZzT3NibFJlcUZwT2NYRFl3YTVCbngtWjk?oc=5) `RSS`
+- [OpenAI, Yeni Bir Siber Güvenlik Odaklı GPT -6 Serisi Yapay Zeka Modeli Başlatmayı Planlıyor: Rapor - Gadgets 360](https://news.google.com/rss/articles/CBMirwFBVV95cUxONG5qd0RHenJQbHp5dm5zOV83Vnh0UTY1bWQ3SWNWUlJON1pxcnFWclp5N2k0ZEdSclZwTGNMZEEtODM5NEpLbk9FdGlXQkFYWjFBX0FnRnIyNGk0eWk3OVFTTElPbWxUUkdVTEZNNng4XzVBVm9wRHFMQjRlR3VJRzlVRVZUeVFjdWhyWlF5ZzlmUVN1c2w1eEhjUmZWU3YyVGtFYU1PS3BuYXFCZm5n0gG0AUFVX3lxTFBzZ09pZXVsbnJOWTZFNkpwRE1rZW1nQXl4S1EzNjZ3UElmNi05Ml9BOTAzSVVKSU5HXy1sUXJHRUY3Q21ZWk1TMEJTdmpmUHVwdjV5b0xodzRQYzgwaS1XZW9zQzlSQ1BIdU9YaEFJYmtLNjc5NTNROE5lN25FcmJjNHkzMmVqWGUtU215QTFLS0REMFlPcVZDejR0Y1Jlb05GSE93b0p2T2trcTBFYmpTc21tRQ?oc=5) `RSS`
+- [OpenAI Academy'de iki yıl](https://openai.com/index/two-years-of-openai-academy) `RSS`
+- [OpenAI, sivil savunma için Ukrayna'ya siber erişimi genişletti](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense) `RSS`
+- [Sam Altman'ın Birleşmiş Milletler Güvenlik Konseyi'ndeki sözleri](https://openai.com/index/sam-altman-un-security-council-remarks) `RSS`
+- [Harvey, GPT -6 Astra ile yasal bağlamı daha güçlü taslaklara dönüştürüyor](https://openai.com/index/harvey-from-context-to-confidence-with-astra) `RSS`
+- [INVIDEO, GPT‑6 Astra ile renk derecelendirmesini 3 kat nasıl geliştirir?](https://openai.com/index/invideo-builds-with-gpt-6-astra) `RSS`
+- [Ringg'in yapay zeka temsilcileri, OpenAI ile yapılan müşteri aramalarının % 65 'ine kadarını çözüyor](https://openai.com/index/ringg) `RSS`
+- [Karşınızda MentalHealthBench](https://openai.com/index/introducing-mentalhealthbench) `RSS`
+- [ChatGPT Reklamları Güneydoğu Asya ve Tayvan'a yayılıyor](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan) `RSS`
+- [Airbnb, GPT -6 Astra ve OpenAI sınır modellerine erişimi genişletiyor](https://openai.com/index/airbnb-gpt-6-astra) `RSS`
+- [Grab ve OpenAI, Güneydoğu Asya'ya pratik yapay zeka becerileri getiriyor](https://openai.com/index/grab-openai-ai-skills-southeast-asia) `RSS`
+- [GPT -6 için daha iyi bilgi istemi önbelleğe alma](https://openai.com/index/better-prompt-caching-for-gpt-6) `RSS`
+- [GPT -6 sol ve Luna Tanıtımı](https://openai.com/index/introducing-gpt-6-sol-and-luna) `RSS`
+- [GPT‑6 Astra ile yarı yarıya paralel kesim araştırma süresi ve maliyeti](https://openai.com/index/parallel-cuts-time-and-cost-with-astra) `RSS`
+- [Etkili üçüncü taraf değerlendirmeleri için öncelikler ve ilkeler](https://openai.com/index/priorities-principles-third-party-assessments) `RSS`
+- [Higgsfield AI, GPT -6 Astra ile bir günde yeni video özellikleri yayınladı](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra) `RSS`
+- [Matematik ve Yapay Zeka Danışma Grubu](https://openai.com/index/advisory-group-on-mathematics-and-ai) `RSS`
+- [Yapay zekanın bir sonraki aşaması için bina standartları](https://openai.com/index/building-standards-next-phase-ai) `RSS`
+- [OpenAI Academy'yi yeni öğrenme yollarıyla genişletmek](https://openai.com/index/expanding-openai-academy-with-new-learning-paths) `RSS`
+- [V7, GPT-5.6 Luna ile doğruluğu artırırken maliyetleri % 78 düşürüyor](https://openai.com/index/v7) `RSS`
+- [Avustralya Gençlik Güvenliği Planına Giriş](https://openai.com/index/australian-youth-safety-blueprint) `RSS`
+- [Google Beam yeni bölgeler, ortaklar ve müşterilerle genişliyor](https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/) `RSS`
+- [Google'ın Yapay Zeka ve Ekonomi ekibine yeni uzmanlar katıldı](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) `RSS`
+- [Modanın geleceğini Google ile birlikte yaratmak](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) `RSS`
+- [Küresel verilerin keşfedilmesini kolaylaştırma](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) `RSS`
+- [Toplumsal Etki için Yapay Zeka](https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/) `RSS`
+- [Bilimi hızlandırmak ve yaşamları iyileştirmek için yapay zeka inşa etmek](https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/) `RSS`
+- [Her dilde herkes için yapay zeka](https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/) `RSS`
+- [Google'ın Yapay Zeka ve Ekonomi ATLASI'NDAN yeni bilgiler](https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/) `RSS`
+- [Astronot Christina Koch ve Google'ın James Manyika'sını uzay, teknoloji ve keşif hakkında konuşurken izleyin.](https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/) `RSS`
+- [DevFest geri döndü](https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/) `RSS`
+- [Search ile bir sonraki büyük yarışınıza hazırlanmanın 3 yolu](https://blog.google/products-and-platforms/products/search/running-race-training-tips/) `RSS`
+- [Aramadaki yeni futbol özellikleriyle oyuna hazırlanın](https://blog.google/products-and-platforms/products/search/football-features-google-search/) `RSS`
+- [70 yıllık bir aşk hikayesini kare kare yeniden yaratmak](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/) `RSS`
+- [Hükümetler ve işletmeler için proaktif siber savunma](https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/) `RSS`
+- [Ağustos 2026 'da duyurduğumuz en son yapay zeka haberleri](https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/) `RSS`
+- [Google Pics'i deneyin: Google Workspace'te kolay resim oluşturma ve düzenleme](https://blog.google/products-and-platforms/products/workspace/google-pics/) `RSS`
+- [Arama'da seyahat planlamanın ve rezervasyon yapmanın 3 yeni yolu](https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/) `RSS`
+- [Ev dekorunuzu Google Arama ile yükseltmenin 5 yolu](https://blog.google/products-and-platforms/products/search/home-decor-tips/) `RSS`
+- [Arama ile öğrenmenizi geliştirmenin 5 yeni yolu](https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/) `RSS`
+- [Gemini ve Pixel ile oyuna yaklaş](https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/) `RSS`
+- [LFM2.5-VL-DSpark ile görüş dili modellerinin hızlandırılması](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) `RSS`
+- [Robotik Simülasyon ve Öğrenme İş Akışlarını Hızlandırmak için NVIDIA Warp ve MjWarp Nasıl Kullanılır?](https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp) `RSS`
+- [Birleşik Krallık AISI ve EvalEval, Benchmark Sonuçlarını Nasıl Tekrarlanabilir Hale Getiriyor?](https://huggingface.co/blog/evaleval-aisi) `RSS`
+- [Transformatörler artık llama.cpp kuantlarını çalıştırıyor](https://huggingface.co/blog/transformers-llama-cpp-quants) `RSS`
+- [OMLX'in yaratıcısı ve geliştiricisi Jun Kim, MLX topluluğunu desteklemek için Hugging Face'e katıldı](https://huggingface.co/blog/omlx) `RSS`
+- [LLM'leri Bir Fizikçi Gibi Budama: Bir Varlık Optimizasyon Problemi Olarak Blok Kaldırma](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) `RSS`
+- [belirteçler v1: ölçülen kodlama, kod çözme ve ölçeklendirme](https://huggingface.co/blog/tokenizers-v1) `RSS`
+- [Temsilciniz Görevi Üstlendi. Tekrar Yapacak mı?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency) `RSS`
+- [HF İşlerinde LoRA ile GRPO'yu asenkron edin: bir kova, bir vekil ve NCCL yok](https://huggingface.co/blog/asyncgrpo-lora-hfjobs) `RSS`
+- [AUTOMATIC1111 'i Gradio İş Akışı ile Yeniden Oluşturma](https://huggingface.co/blog/gradio-workflow-1111) `RSS`
+- [NeoMME: verimli bir Multimodal - yerli ve Çok Dilli Kodlayıcı](https://huggingface.co/blog/Hcompany/neomme) `RSS`
+- [100 GRPO Adımında Daha İyi Yapılandırılmış Çıktılar için 350M Modeline İnce Ayar Yapılması](https://huggingface.co/blog/grpo-with-trl-ifstruct) `RSS`
+- [Kodlama Ajanlarınıza Sahip Olduğunuz Bir Hafıza Verin](https://huggingface.co/blog/funes) `RSS`
+- [TRL ve OpenEnv ile suluboya boyamak için bir kodlama modeli eğitimi](https://huggingface.co/blog/train-to-paint-with-code) `RSS`
+- [BenchMIRT: LLM kıyaslamaları gerçekte neyi ölçüyor?](https://huggingface.co/blog/allenai/benchmirt) `RSS`
+- [@ huggingface/kernels ile tanışın: Yerel Yapay Zeka için 200 'den fazla WebGPU Çekirdeği](https://huggingface.co/blog/webgpu-kernels) `RSS`
+- [Açık ASR Liderlik Tablosu İlk Küresel Güney Dilini Ekliyor](https://huggingface.co/blog/open-asr-leaderboard-global-south) `RSS`
+- [Cümle Transformatörlü Çok Vektörlü Gömme Modellerinin Eğitimi ve İnce Ayarı](https://huggingface.co/blog/train-multi-vector-encoder) `RSS`
+- [Granit 4.2 LLM'ler: Nasıl Yapılırlar?](https://huggingface.co/blog/ibm-granite/granite-4-2) `RSS`
+- [Quantization - Aware Healing: Tam hassasiyetli orijinalinden daha iyi performans gösteren sıkıştırılmış, 4 bitlik bir model](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) `RSS`
