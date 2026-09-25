@@ -1039,3 +1039,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [DraftKings, Çevrimiçi Davranışsal Reklamcılığın Zararlarını Güçlendirmek İçin Yapay Zekayı Kullanıyor](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) `HN`
 - [AI Ajanları için Laya "Sistem 1" Kod Zekası](https://github.com/leonardoventurini/scs) `HN`
 - [Vibe Kodlama Üretim Kiti – AI kodlama ajanları için bir üretim iş akışı](https://github.com/Moeeryani/Vibe-Coding-Production-Kit) `HN`
+
+- [Explyt 5.20 – AI aracısı için arka plan görev paneli JetBrains IDE'lerinde çalışır](https://explyt.ai/docs/explyt-test/whats-new-explyt) `HN`
+- [Jensen Huang, AI ile "seni kurtarmak için önce seni incitmeleri gerekiyor" diyor.](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain) `HN`
+- [Show HN: Reteach – İnsanı hisseden yapay zeka öğretmeni](https://www.reteach.study/) `HN`
+- [Google, Suncatcher Projesi kapsamında uzayda Al çiplerinin ilk testini yapmayı planlıyor](https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/) `HN`
+- [Peter Thiel, Papa'nın yapay zekasını Çin Komünist Partisi'ne hediye olarak eleştirdi](https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850) `HN`
+- [Yapay Zeka Temsilcileri, hedef başına 25 $ karşılığında Çevrimiçi Perakendecilere giriyor](https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company) `HN`
+- [Show HN: Knowledge Signal – A JEV – powered DPA assessment tool for study notes (HN'yi göster: Bilgi Sinyali - Çalışma notları](https://github.com/sumant1122/knowledge-signal) `HN`
+- [TileRT, AMD Instinct MI355X GPU'ları ile AgentX'te Zirveye Çıktı](https://www.tilert.ai/blog/tilert-amd-agentx.html) `HN`
+- [Eşsizliğin İzlenmesi – 2026 'nın Ortasından Bu Yana Yapay Zekadaki Önemli Olayların Özel Bir Günlüğü](https://trackingsingularity.com/) `HN`
+- [Stanford, İspanyol öğrenciyi fotoğraftaki siyah kadınla değiştirmek için yapay zekayı kullandı](https://www.msn.com/en-ca/money/general/stanford-used-ai-to-replace-hispanic-student-with-black-woman-in-photo/ar-AA2cVAhf) `HN`
+- [Krakatoa, 1883 patlamasının etkileşimli 2.5D resmi](https://www.echohive.ai/experiments/krakatoa) `HN`
+- [Jev Tabanlı Kod İncelemesi](https://github.com/egma-ai/jev-code-reviewer) `HN`
+- [AI/ML Mühendisi](https://docs.google.com/forms/d/e/1FAIpQLSdrsnW2CpvYDBRZnS91cL4nXgnvi1mwQSYqF6IhvGPImaLKYw/viewform) `HN`
+- [Güvenliği Muse'a Yerleştirdik](https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse) `HN`
+- [Mümessillerinizi güçlendirin: Gemini 3.8 Live with Live Avatar artık genel olarak kullanılabilir](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available) `HN`
+- [10k AI Araştırmacılarından Oluşan Bir Şehir İnşa Ettik](https://lab.cloud/society/) `HN`
+- [AICore: Heterojen PC'ler için uyarlanabilir bir kontrol katmanını keşfetmek](https://github.com/7-hello007/AICore-Showcase) `HN`
+- [Kötü örnekler, temsilci beceri dosyalarını geçersiz kılabilir](https://codecut.ai/agent-skills-bad-session-history/) `HN`
+- [Arama ve Tavsiye Motorları Yapay Zekası](https://github.com/alopatenko/LLMSearchRecommender) `HN`
+- [Açık Kaynağa Katkı Sağlamak için Yapay Zekayı Kullanma](https://www.visidata.org/blog/2026/ai/) `HN`
+- [Yapay Zekadan Kurtulmak için İnsan Yardımı](https://humanityark.cdtglobal.org/) `HN`
+- [Acı siyasi bölünmeleri yönetmek için yapay zekaların atanması](https://spakhm.com/projects/assembly.html) `HN`
+- [Yapay zeka çağında gelişen programlama dilleri](https://dashbit.co/blog/evolving-ai-era) `HN`
+- [Bir yapay zeka temsilcisine ihtiyaç duyamayacak kadar sıkıcı mıyım?](https://www.garbageday.email/p/am-i-too-boring-to-need-an-ai-agent) `HN`
+- [Snowden'dan Yapay Zeka Gözetimi ve İfade Özgürlüğü Üzerine [video]](https://www.youtube.com/watch?v=wytH7dPlCVw) `HN`
+- [ESA ve Mistral, yapay zeka konusunda işbirliğini güçlendiriyor](https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence) `HN`
+- [Çalışma, GRE öğrenme kazanımları için yapay zekanın insan öğretimi kadar iyi olduğunu gösteriyor](https://arxiv.org/abs/2609.28470) `HN`
+- [Suncatcher Projesi'nin ardında, yapay zekayı uzaya taşımak için çektiğimiz fotoğraf - blog.google](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM1BYaU0yYTZra0M4eWktSXVydEJjbTVtM0JLZUtpTlZUNWZPb2RqUHR0V1hEdlczMkZyOU90MW83eDhCWVJMSnhXLWxvcWhJMDdiNkUtZEJLR0ExN0xnMS1YdGJOaWJyRXZmZlJGQnJNVWJKbDl5dG1uMGtsRk9VbVRCcWpKVjlnUnVfMXU2VjNJOGdhOGt4UEZpeGpyNndSTUpodXphZV9jUQ?oc=5) `RSS`
+- [IBM ve NASA, Ay Keşfini Destekleyecek Açık Kaynak Yapay Zeka Modelini Yayınladı - IBM Newsroom](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVnOTlRLU5CdXJ2NG1vZnpXaWJfaktBQ0l4dGlKRF9tVVZST083WGhxTXpUT051X25pNlBYSTlsTG1NOGlsTWIxaE1xS2pJb0gzVmNZeUZ5Ulhzb2FBeHFHSHlvRlh4aE4xWGluVko0Y2xSSl9PeDNpbUJGM1NOQVRSN2ZQd05pdU9sSDBSWWRGZEx5b0JqQ1VKLUt6VzN5b0EzdHBzYTlTUQ?oc=5) `RSS`
