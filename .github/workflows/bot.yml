@@ -1,0 +1,39 @@
+name: bot
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # Telegram buton/komutlarini isler (GitHub bunu gecikmeli calistirabilir)
+  push:
+    branches: [main, "claude/**"]   # rutin main'e yazamazsa claude/ dalina atar
+    paths: ["icerik/**"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: bot
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser
+      - name: claude/oneri-* dallarindaki gunluk oneriyi main'e al
+        run: |
+          git fetch -q origin '+refs/heads/claude/*:refs/remotes/origin/claude/*' || true
+          for b in $(git branch -r --list 'origin/claude/oneri-*' | sed 's#origin/##'); do
+            git checkout "origin/$b" -- icerik/oneriler && echo "$b" >> /tmp/merged
+          done
+      - run: python bot.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - run: |
+          git config user.name "news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A icerik
+          git commit -q -m "bot $(date -u +%FT%TZ)" || echo "degisiklik yok"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+          if [ -f /tmp/merged ]; then while read b; do git push -q origin --delete "$b" || true; done < /tmp/merged; fi

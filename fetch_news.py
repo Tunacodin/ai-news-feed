@@ -1,13 +1,21 @@
 # Ne yapar: RSS + Hacker News + Google News'ten AI haberi ceker, gorulenleri eler,
-# yenileri Telegram'a yollar ve NEWS.md'ye ekler. Sadece feedparser harici bagimlilik yok.
+# yenileri NEWS.md'ye ve data/news.jsonl'e (gunluk oneri adiminin girdisi) ekler.
+# Ham haberleri Telegram'a yollamak artik istege bagli (RAW_TELEGRAM=1). Sadece feedparser harici bagimlilik yok.
 import json, os, re, time, urllib.request, urllib.parse, pathlib, html, feedparser
 
 FEEDS = [
     "https://techcrunch.com/tag/artificial-intelligence/feed/",
     "https://news.google.com/rss/search?q=AI+model+launch&hl=en-US",
+    # Resmi urun bloglari: "bugun deneyebilirsin" turu yeni ozellikler buradan cikar
+    "https://openai.com/news/rss.xml",
+    "https://blog.google/technology/ai/rss/",
+    "https://huggingface.co/blog/feed.xml",
 ]
 HN = "https://hn.algolia.com/api/v1/search_by_date?query=AI&tags=story&hitsPerPage=30"
 TG_TOKEN, TG_CHAT = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
+RAW_TG = os.environ.get("RAW_TELEGRAM") == "1"  # ham akis; varsayilan kapali, yerine gunluk oneri gelir
+LOG = pathlib.Path("data/news.jsonl")
+KEEP_DAYS = 14
 
 
 def get(url):
@@ -106,6 +114,17 @@ def send_item(i):
     time.sleep(0.4)  # Telegram hiz sinirina takilmamak icin
 
 
+def append_log(items, now):
+    # Zaman damgali, makinece okunur kayit (adaylar.py okur). KEEP_DAYS gunden eskisi budanir.
+    LOG.parent.mkdir(exist_ok=True)
+    cutoff = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(time.time() - KEEP_DAYS * 86400))
+    old = [l for l in LOG.read_text(encoding="utf-8").splitlines() if l and json.loads(l)["ts"] >= cutoff] \
+        if LOG.exists() else []
+    new = [json.dumps({"ts": now, "title": i["title"], "title_en": i["title_en"], "url": i["url"],
+                       "src": i["src"], "hn_id": i.get("hn_id"), "pub": i.get("pub")}, ensure_ascii=False) for i in items]
+    LOG.write_text("\n".join(old + new) + "\n", encoding="utf-8")
+
+
 def main():
     seen_path = pathlib.Path("seen.json")
     seen = set(json.loads(seen_path.read_text())) if seen_path.exists() else set()
@@ -115,7 +134,8 @@ def main():
     try:
         for h in json.loads(get(HN))["hits"]:
             if h.get("url") and h["objectID"] not in seen:
-                items.append({"title": h["title"], "url": h["url"], "src": "HN"})
+                items.append({"title": h["title"], "url": h["url"], "src": "HN", "hn_id": h["objectID"],
+                              "pub": (h.get("created_at") or "")[:10]})
                 seen.add(h["objectID"])
     except Exception as e:
         print("HN hata:", e)
@@ -126,23 +146,27 @@ def main():
             for e in feedparser.parse(get(f)).entries[:20]:
                 key = e.get("id", e.get("link", ""))
                 if key and key not in seen:
-                    items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS", "entry": e})
+                    pub = time.strftime("%Y-%m-%d", e.published_parsed) if e.get("published_parsed") else None
+                    items.append({"title": html.unescape(e.title), "url": e.link, "src": "RSS", "entry": e, "pub": pub})
                     seen.add(key)
         except Exception as e:
             print("RSS hata:", f, e)
 
     seen_path.write_text(json.dumps(list(seen)))
 
-    # Basliklari Turkce'ye cevir (sadece yeni haberler)
+    # Basliklari Turkce'ye cevir (sadece yeni haberler); orijinali arastirma icin saklanir
     for i in items:
+        i["title_en"] = i["title"]
         i["title"] = translate(i["title"])
 
     if items:
         with open("NEWS.md", "a", encoding="utf-8") as fp:
             fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
+        append_log(items, time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
         # Her habere ayri mesaj: kalin baslik + saga ok butonu + (varsa) gorsel/video.
-        for i in items:
-            send_item(i)
+        if RAW_TG:
+            for i in items:
+                send_item(i)
         print(f"{len(items)} yeni haber")
     else:
         print("yeni haber yok")
