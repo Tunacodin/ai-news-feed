@@ -1163,3 +1163,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Cümle Transformatörlü Çok Vektörlü Gömme Modellerinin Eğitimi ve İnce Ayarı](https://huggingface.co/blog/train-multi-vector-encoder) `RSS`
 - [Granit 4.2 LLM'ler: Nasıl Yapılırlar?](https://huggingface.co/blog/ibm-granite/granite-4-2) `RSS`
 - [Quantization - Aware Healing: Tam hassasiyetli orijinalinden daha iyi performans gösteren sıkıştırılmış, 4 bitlik bir model](https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing) `RSS`
+
+- [Show HN: Başka bir Claude Code sekmesiyle uğraşamadım](https://aidash.dev/) `HN`
+- [Photon: Sıfırdan bir Geri Alma ve Sıralama Motoru Oluşturma](https://www.perplexity.ai/hub/blog/photon) `HN`
+- [Saldırgan - adli - distros - yükleyici - MacBook - air - M1 - M2 - harici - disk - diskler Genel](https://github.com/securizart/offensive-forensic-distros-installer-macbook-air-M1-M2-external-disk-luks) `HN`
+- [Show HN: Yapay zeka atıklarını göndermeyi durdurun, Executor ajanların işe yaradığını kanıtlamasını sağlar](https://github.com/Atri10/executor) `HN`
+- [Yapay zeka ajanı ilk kez hükümetin web sitesini hackledi: Bu ihlal neden önemli?](https://www.nature.com/articles/d41586-026-03024-z) `HN`
+- [Peter Thiel, Papa'nın yapay zekasını Çin Komünist Partisi'ne hediye olarak eleştirdi](https://www.politico.com/news/2026/09/24/peter-thiel-slams-popes-ai-encyclical-as-gift-to-chinese-communist-party-01091850) `HN`
+- [Yapay zeka temsilcime zararsız bir izin verdim. Herkes için bir arka kapı oldu](https://medium.com/@roeehersh/i-gave-my-ai-agent-one-harmless-permission-it-became-a-backdoor-for-everyone-728acf52e37e) `HN`
+- [Yapay zeka yolunda kaçınmamız gerekenler.](https://carlosr301101.is-a.dev/blog/what-we-should-avoid-on-the-ai-path/) `HN`
+- [Yapay Zeka Çağında El Yapımı](https://code2net.com/handmade) `HN`
+- ["Gen AI" da çizgiyi çizmek yanlış bir yer ve iyi tanımlanmış bile değil [video]](https://www.youtube.com/watch?v=4-LcGJOTyds) `HN`
+- [Bill Gates yapay zekanın "bir milyar ölüme" neden olacak kadar güçlü olduğu konusunda uyardı](https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom) `HN`
+- [AIF'ler için LP Oylaması ve Yatırımcı Onayı](https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow) `HN`
+- [Sevgili İnsanlık – Yapay Zeka Şefkatini Öğretebilir miyiz?](https://www.hussmanfunds.com/comment/ai_alignment_260917/) `HN`
+- [Jev ve Kev: açık kaynaklı Jev alternatifi yan yana test edildi](https://opper.ai/blog/jev-vs-kev-open-decision-model) `HN`
+- [MacTube 2 Gerçek bir Mac uygulaması olarak YouTube – Şortsuz ve AI slop'suz](https://github.com/depo23/MacTube2) `HN`
+- ["Thin Air ," Real Money: The Trump Crypto Game](https://thinairrealmoney.com/) `HN`
+- [OpenAI ve Anthropic'i hedef alan ucuz yeni yapay zeka modeli](https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430) `HN`
+- [Show HN: Tarayıcıda çalışan bir I. Dünya Savaşı it dalaşı oyunu yaptım](https://www.gamedev.pl/ay/biplane-skirmish) `HN`
+- [İndirme: Pentagon'un yapay zeka destekli yalan makinesi ve genç organ limitleri](https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/) `HN`
+- [Jupyter AI: AI için 100 Jupyter Uzantısının Haritası](https://openteams.com/awesome-jupyter-ai-extensions/) `HN`
+- [İş, Yapay Zeka Olabilecek Kadar Meh ise, Nasıl Yapıldığı Kimin Umurunda?](https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop) `HN`
+- [Tesla'nın optimusu ölçek büyütme başlarken tedarikçilerin eline takıldı](https://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/) `HN`
+- [HN: Doom veya Bloom'u göster, yapay zeka dünya görüşünü Jev ile haritala](https://www.doom-or-bloom.com) `HN`
+- [Show HN: PromptPad - Uzun kodlama istemleri için hafif bir düzenleyici](https://github.com/aaravchour/PromptPad) `HN`
+- [ESP32 - S3 Üzerinde Çalışan Sohbet Robotu](https://github.com/therezor/cardputer-ai) `HN`
+- [Show HN: Açık kaynaklı bir AI tarayıcı asistanı oluşturduğunuzda kaydırma yaptığınızı hatırlar](https://github.com/Kerneta/daidocs/tree/main/browser-extension) `HN`
+- [HN'yi göster: Potansiyel müşterileri bulmak için web arama aracısı](https://agentjesse.ai/) `HN`
+- [YZ Psikozunun Tanımlanması Bölüm 3: “Parasosyal YZ Psikozu”](https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial) `HN`
+- [Trump yöneticisi, felaketle sonuçlanan deneyde yaşlıların tıbbi bakımını reddetmek için yapay zekayı kullanıyor](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) `HN`
+- [Gemini 4, Eğitim Sonrası Gözlere Erken Başladı [2026] - shattered.io](https://news.google.com/rss/articles/CBMib0FVX3lxTE9LY1I0VnEyRnhBUE1iN1lmdVF3Wnl2YjI2bzVndUFuSHZ2WnNsSnJ6YlpGRm1DdFgwRVA5d19lRG5zMlBDaVg2THBuRlg5d3BoOU9CMWpRS256ZS1nMHlCMXd4TzI1ckNrQWVLbGRrdw?oc=5) `RSS`
+- [OpenAI Yeni Bir Siber Güvenlik Odaklı Yapay Zeka Modeli Başlatabilir - Gadgets 360](https://news.google.com/rss/articles/CBMirwFBVV95cUxONG5qd0RHenJQbHp5dm5zOV83Vnh0UTY1bWQ3SWNWUlJON1pxcnFWclp5N2k0ZEdSclZwTGNMZEEtODM5NEpLbk9FdGlXQkFYWjFBX0FnRnIyNGk0eWk3OVFTTElPbWxUUkdVTEZNNng4XzVBVm9wRHFMQjRlR3VJRzlVRVZUeVFjdWhyWlF5ZzlmUVN1c2w1eEhjUmZWU3YyVGtFYU1PS3BuYXFCZm5n?oc=5) `RSS`
+- [Google yapay zekayı uzaya gönderiyor - Yahoo Finance Avustralya](https://news.google.com/rss/articles/CBMifEFVX3lxTFBIMlFfSGRlcTI1U1E4dnVtTWhWVFRqdk5xMlF0M3JJUXVuRlFJTVMxNjNxSDc3UHVSbFpsRDh3WWszZnRsWlVpcTY5TXB1UkhJSkNFZkNGMW40X2p1MDZaTTFNWnYyMEUwSzFLbVoxLVVUZDVaREM0SkFQY1E?oc=5) `RSS`
+- [İşlem, Codex ile satışları % 60 artırır ve 75 saatten fazla tasarruf sağlar](https://openai.com/index/proaction) `RSS`
