@@ -1022,3 +1022,20 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka neredeyse tüm kodları yazdığında, yazılım mühendisliğine ne olur?](https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what) `HN`
 - [Birden fazla ölüm ve yaralanmadan sonra NHTSA virgül.ai'yi araştırıyor](https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/) `HN`
 - [NAZA'nın Arkasında: IDF görüşmesinde yapay zekanın ikincil hasarı değerlendirmek ve azaltmak için nasıl kullanıldığı](https://www.jpost.com/israel-news/article-909190) `HN`
+
+- [Yapay Zekanın Geliştirilmesi ABD Tarihindeki En Büyük Ekonomik Bahis Haline Geliyor](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd) `HN`
+- [GitLab'a bir e - posta gönderin, ana](https://www.aikido.dev/blog/gitlab-email-push-to-main) `HN`
+- [OpenAI, Avustralya'nın sağlık sistemine saldırdı ve iki katına çıktı. Harekete geçme zamanı](https://www.theguardian.com/commentisfree/2026/sep/25/open-ai-attacked-australias-health-system-and-then-doubled-down-on-its-negligence-the-time-for-wait-and-see-is-over) `HN`
+- [Peter Thiel: Yapay Zeka Krizi, Avrupa'nın Düşüşü ve Amerika Savaşı [video]](https://www.youtube.com/watch?v=B7yl7fEHeKM) `HN`
+- [Positron, Yapay Zeka Çiplerine Yönelik Artış Talebi Olarak Yeni Fonlamada 5 Milyar $ Değerinde](https://www.wsj.com/tech/ai/positron-valued-at-5-billion-in-new-funding-as-cpu-demand-surges-76dde819) `HN`
+- [HN: Vons'u göster – Tarayıcıda AI ajanları için Jev'den ilham alan yerel kararları göster](https://github.com/inlevel9-com/Vons) `HN`
+- [Yapay zeka, insanların tıbbi bakım alıp almayacağına karar veriyor](https://www.vox.com/good-medicine-newsletter/503932/ai-health-insurance-united-medicare-cigna-humana) `HN`
+- [Raylar ve Yapay Zeka](https://rubyonrails.org/ai) `HN`
+- [İstatistikler: Katılımcıların % 72 'si yapay zeka konusunda meraklı, mutlu veya heyecanlı hissettiklerini söyledi](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html) `HN`
+- [Meta'nın Muse AI maskotunun bu kadar sevimli olması uğursuzluk](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute) `HN`
+- [Ödüllü Fransız Yazar, İlk Romanını Yazmak İçin Yapay Zekayı Kullanmakla Suçlanıyor](https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167) `HN`
+- [Cal Newport: YAPAY Zeka Liderlerine Sorulacak Sorular](https://www.nytimes.com/2026/09/24/opinion/congress-ai-sam-altman.html) `HN`
+- [Ultra Yüksek Verimli AI - SQL Motoru Oluşturma](https://fsdatalab.github.io/blog/introducing-quail/) `HN`
+- [DraftKings, Çevrimiçi Davranışsal Reklamcılığın Zararlarını Güçlendirmek İçin Yapay Zekayı Kullanıyor](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) `HN`
+- [AI Ajanları için Laya "Sistem 1" Kod Zekası](https://github.com/leonardoventurini/scs) `HN`
+- [Vibe Kodlama Üretim Kiti – AI kodlama ajanları için bir üretim iş akışı](https://github.com/Moeeryani/Vibe-Coding-Production-Kit) `HN`
