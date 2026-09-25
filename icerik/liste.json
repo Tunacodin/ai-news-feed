@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "no": 1,
+    "tur": "Dene",
+    "baslik": "Selfie'den 20 saniyede vesikalık: ücretsiz yapay zekâ sitesi",
+    "hook": "Vesikalık için fotoğrafçıya para verme, telefonun yetiyor.",
+    "ozet": "aipassportphoto.org, telefonla çektiğin selfie'yi kırpıp arka planı beyaz yapıyor ve ülkenin kurallarına göre boyutlandırıyor. Türkiye için 50x60 mm biyometrik ölçü var. Hesap istemiyor, fotoğraf tarayıcıdan dışarı gönderilmiyor.",
+    "demo_ani": "Selfie yüklenir, Türkiye seçilir, birkaç saniyede beyaz fonlu 50x60 mm vesikalık ve baskıya hazır sayfa çıkar.",
+    "neden": "Herkesin bir gün ihtiyacı olan bir şeyi bedavaya çözüyor; kaydedilip paylaşılacak türden.",
+    "fikir": "Önce kendi yüzünle bir kez dene: saç, gözlük ve ışıkta kırpma hatası olabilir. 'Ölçü doğru ama resmi kabul garantisi yok, baskı kalitesine dikkat' demeyi unutma. Türkiye seçeneği ana sayfada değil, aşağıdaki linkte.",
+    "zorluk": "Herkes",
+    "maliyet": "Ücretsiz",
+    "puan": 9,
+    "dogrulama": "Kısmen doğrulandı",
+    "dene_url": "https://www.aipassportphoto.org/documents/turkey",
+    "kaynaklar": [
+      "https://www.aipassportphoto.org/"
+    ],
+    "id": "2026-09-25-1",
+    "durum": "hazir",
+    "secildi": "2026-09-25T09:09:03Z",
+    "dosya": "icerik/videolar/2026-09-25-1-vesikalik-foto.md",
+    "bildirildi": false,
+    "hazirlandi": "2026-09-25T09:10:59Z"
+  }
+]
