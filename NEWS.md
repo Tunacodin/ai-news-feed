@@ -1197,3 +1197,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OpenAI Yeni Bir Siber Güvenlik Odaklı Yapay Zeka Modeli Başlatabilir - Gadgets 360](https://news.google.com/rss/articles/CBMirwFBVV95cUxONG5qd0RHenJQbHp5dm5zOV83Vnh0UTY1bWQ3SWNWUlJON1pxcnFWclp5N2k0ZEdSclZwTGNMZEEtODM5NEpLbk9FdGlXQkFYWjFBX0FnRnIyNGk0eWk3OVFTTElPbWxUUkdVTEZNNng4XzVBVm9wRHFMQjRlR3VJRzlVRVZUeVFjdWhyWlF5ZzlmUVN1c2w1eEhjUmZWU3YyVGtFYU1PS3BuYXFCZm5n?oc=5) `RSS`
 - [Google yapay zekayı uzaya gönderiyor - Yahoo Finance Avustralya](https://news.google.com/rss/articles/CBMifEFVX3lxTFBIMlFfSGRlcTI1U1E4dnVtTWhWVFRqdk5xMlF0M3JJUXVuRlFJTVMxNjNxSDc3UHVSbFpsRDh3WWszZnRsWlVpcTY5TXB1UkhJSkNFZkNGMW40X2p1MDZaTTFNWnYyMEUwSzFLbVoxLVVUZDVaREM0SkFQY1E?oc=5) `RSS`
 - [İşlem, Codex ile satışları % 60 artırır ve 75 saatten fazla tasarruf sağlar](https://openai.com/index/proaction) `RSS`
+
+- [Altman destekli Praxis, Uruguay'da 1 milyar $ değerinde yapay zeka destekli bir kasaba planlıyor](https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-backed-praxis-plans-1-billion-ai-powered-town-in-uruguay-first-residents-expected-in-mid-2027-with-homes-resorts-and-cultural-spaces-for-the-ai-era/articleshow/134456141.cms) `HN`
+- [Anthropic'in yapay zeka biyolabı, virüslerde 'CRISPR benzeri' DNA buluyor. Sırada ne var?](https://www.nature.com/articles/d41586-026-03039-6) `HN`
+- [Yapay Zeka Şirketleri Zamana Karşı Yarışıyor](https://econjared.substack.com/p/ai-companies-are-in-a-race-against) `HN`
+- [Yapay Zeka Çalışanlarının Sorgulanması 2026](https://techworkersinquiry.org/ai/) `HN`
+- [Yapay zeka genellikle yazmayı daha da kötüleştirir. (Daha iyi hale getirse bile)](https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better) `HN`
+- [Yapay zeka ve insan öğretimi, eşdeğer GRE öğrenme kazanımları sağlar](https://arxiv.org/abs/2609.28470) `HN`
+- [Varsayımsal değil: Yapay zekanın tehlikeleri burada](https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance) `HN`
+- [Carnegie: Çin, ABD'yi En İyi Yapay Zeka Yetenek Merkezi Olarak Geçti, % 40,6 ila % 34,2](https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342) `HN`
+- [Show HN: NerfWatch () – Günlük testler ve topluluk oylarıyla AI bozulmasını izleyin](https://nerfwatch.lol) `HN`
+- ["Birisi bana yapay zeka versiyonumu içeren bir reklam gönderdi. Ne yapmalıyım ?"](https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s) `HN`
+- [Bir L40 'taki bir vLLM kopyasının neler taşıyabileceği ve nasıl başarısız olduğu](https://percentes.ai/writing/2026/calibrating-one-l40-configuration/) `HN`
+- [Show HN: Piloxa – AI'nızdan USPS Sertifikalı Posta gönderen bir MCP sunucusu](https://piloxa.com/for-ai-agents) `HN`
+- [Çok Yapay Zeka; Okumadı](https://www.tai-dr.com/) `HN`
+- [Kıtlık Primi: Yapay zeka görüntüleri ücretsiz hale getirdi; ödeme gücü tahvili olarak reklam](https://scarcity.danieldeboulay.com) `HN`
+- [Show HN: Yapay zekanın yeniden yazabildiği ancak icat edemediği ücretsiz bir özgeçmiş oluşturucu](https://nokku.payanai.com/resume-builder) `HN`
+- [X - meraklıları için yapay zeka başlangıç paketi](https://xstarterpack.com/) `HN`
+- [Yapay zeka kontrolümüz dışında büyüyecek, büyümeden önce iyi değerler aşılamalıyız](https://blog.kradle.ai/p/ai-will-grow-beyond-our-control-we) `HN`
+- [Bölge – Yapay zeka ajanlarının kendi arazilerini büyüttükleri canlı bir harita](https://agentnet-wdyqqq-agentnet-district.static.hf.space/index.html) `HN`
+- [İkinci Dünya Savaşı Tank, Uçak ve Gemi Tanımlama Kılavuzları](https://www.beautifulpublicdata.com/wwii-tank-aircraft-and-ship-identification-guides/) `HN`
+- [Yapay Zekayı Anlamak İçin Yusufçuk Gibi Düşün](https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly/) `HN`
+- [NASA, X - düzlemi itişinin ortasında SR -71 'i sessizce depodan kaldırdı](https://aviationweek.com/defense/aircraft-propulsion/nasa-quietly-removed-sr-71-storage-amid-x-plane-push) `HN`
+- [Show HN: Drift – Tek bir sorudan ortaya çıkan fikirlerin tıklanabilir bir haritası (demo)](https://www.echohive.ai/experiments/drift-atlas) `HN`
+- [Geely'nin yapay zeka hızlı şarjı, EV pillerini % 20 daha fazla çevrim ömrü için "iyileştiriyor"](https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/) `HN`
+- [Finans için Yapay Zeka Destekli PDF Çıkarma](https://pedfs.com/) `HN`
+- [Show HN: AgentLens – Kodeks çalıştırmalarını tekrar oynatın ve karşılaştırın](https://github.com/fang520huang-lgtm/AgentLens) `HN`
+- [Papa: Yapay zeka insanlara hizmet etmeli, tahakküm aracı haline gelmemeli](https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war) `HN`
+- [Göster HN: Aslmp, Mitsubishi MELSEC PLC'ler için bir asenkron Python SLMP istemcisi](https://github.com/AcaysiaChem/aslmp) `HN`
+- [Yapay zeka ajanları oluşturmak için temel hızlı önbelleğe almanın neden bu kadar önemli olduğuna dair bir hatırlatma](https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend) `HN`
+- [Gemini 4, Google Trails Rakipleriyle Başlıyor [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV0ZuTUM2VzRfVk9oRWN0c0ZieTZiMU5DM0ZOVVlrQlp0bE5uVjhya1VORzlGQmJ4Z0I3dmZfOHdwRGo5eHNvTTNMVTFPcXpZWUwtSm95Rkw2VEkwQ2ppQWlRRThuallMUTR6bDBRZDA4eDlZcXJuNzdwejBEWjEzMVF3?oc=5) `RSS`
+- [Model değerlendirmesi sırasında güvenlik olayını ele almak için OpenAI ve Hugging Face ortağı - OpenAI](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5) `RSS`
