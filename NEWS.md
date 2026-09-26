@@ -1322,3 +1322,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Meta'nın Muse'u bir hit haline getirmek için aylarca süren eziyetinin içinde - Business Insider](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFdNbDd4b3h0S2pGYnY2dEsteUplS1hEQXh0SXVQM2QydWJIUjVVNWVVbnc1YlAyNERBT2NhbXJ6emtqaW9sTDE0MW0tNjF6VUV2SkEzbjVYa2JDcUhWODI2Rm1uSnMxUmVxWW93aUU4SnlOUlF2ejRwVGtKU0pDOENJTWF2Zw?oc=5) `RSS`
 - [NASA, IBM ay bilimi için yapay zeka modelini başlattı - observerbd.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbFI3ZnVKTy1lTm9rVW5fNjExNXRMMkNaZzVvX085TUdCTGJudmRVaV9VT0pTN1FlY2NNcFVuZUFyQldUTEVQb0lR?oc=5) `RSS`
 - [OpenAI, Antropik Sürüm Daha Ucuz Yapay Zeka Modelleri "Yavaşlama" Çağrısından Günler Sonra - NDTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkhRZnBMd2hmY0RLTEdackdOcE1PUjVmR3k1MUVySGFZc0FSYlV1d005UjhwWmlPNDZybEpKeWE4UnZOVWc0VGE4bG9RZVhWQ0IzellqMzRKRVpiUENBZVVZTHNnSktxRk1SbXdvaW5vM1kzN1RIQ2ljUUZlT2JYaGd5MHM0dlMxR0NubTVNN1NrTmZxenZtNFUxaVB2X2Q4dndPb3g3QVpuM2sxQTk2eDljZDNYekptS05rNi1Wd3lGZ1VsS2xj0gHPAUFVX3lxTE1scDNNRDBycENISjY4MzZ5Q2FOUzVVRnVtVjZNOGxQZkVZVnhoa2JYcDZjX0RfRVVRbXkxSXhTYWN2NF9QSExiOGJtd185ckY4UU56ejAyWHU1R1F6Z3Y1ZHRXQ2dqVmRSRTlhMDBSV0g4TUFROTRKUWlHVFhyYUFTeDFGVE1tUmozVGRIZ1ZGM1NsQWNCek5JUTlCYWc5UFMzREliNmZUUkZNT2hVTHNLeWI5N3VZSUJPS0hVRGw1R19EczJ2dFdtdTJlLWgxTQ?oc=5) `RSS`
+
+- [Yapay zeka ajanları artık gerçek para tutuyor ve harcıyor ve kimse defterlerini tutmuyor](https://agenticfinancegraph.com/desk) `HN`
+- [Scott Alexander'a Açık Mektup](https://quillette.com/2026/09/26/an-open-letter-to-scott-alexander-steven-pinker-ai-alignment-safety/) `HN`
+- [Yapay Zeka Öncelikli Kuruluş](https://www.rolandberger.com/en/Insights/Publications/The-AI-First-Organization.html) `HN`
+- [Yapay Zeka ve Yazılım Güvenliği Hakkında Konuşmamızın Zamanı Geldi](https://deadneurons.substack.com/p/its-time-we-talked-about-ai-and-software) `HN`
+- [Herkes yapay zekanın hepimizi öldüreceğini düşünmüyor](https://www.cnn.com/2026/09/24/tech/not-everyone-thinks-ai-will-kill-us-all) `HN`
+- [Show HN: ProofForge, kanıtlarını Yalın olarak derlemesi gereken AI ajanları](https://github.com/Sanexxxx777/ProofForge) `HN`
+- [Kafasını çevirerek sadece iki anahtar kullanabilen erkek kardeş için yapay zeka ile oyunlar inşa etmek](https://old.reddit.com/r/aigamedev/comments/1wq90w3/using_ai_to_build_games_for_my_brother_who_can/) `HN`
+- [Pangram ile HN ön sayfa hikayelerini puanlayan bir gösterge panosu](https://www.salahadawi.com/hacker-news-ai-detector) `HN`
+- [Yapay Zeka Sosyalizmi: Otomatik Geleceğe Kim Sahip Olacak?](https://cosmopolity.substack.com/p/ai-socialism-who-will-own-the-automated) `HN`
+- [Bir OpenAI aracısı, DNS aramalarında soruları gizleyerek sanal alanından kaçtı](https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/) `HN`
+- [Çin'in nükleer bileşenlerine yönelik yapay zeka halüsinasyonu neredeyse ABD Askeri saldırısına yol açacaktı](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) `HN`
+- [Show HN: Videoları tarayıcıda döngü bulma, kırpma, döndürme ve kırpma, yükleme yok](https://clipyouredit.com/) `HN`
+- [Megafauna neslinin tükenmesi bize yapay zeka girişimleri ve görevliler hakkında ne öğretebilir?](https://johnjwang.com/post/2026/09/23/megafauna-extinction-and-startups) `HN`
+- [Yeni Boeing 737 Max Yazılım Arızası Navigasyon Özelliğini Bozabilir](https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8) `HN`
+- [Yapay Zeka Çağında Öğrenme Örneği](https://jonbehnken.substack.com/p/the-case-for-learning) `HN`
+- [Benim Yerime Yapay Zeka Mı Geliyor? Lütfen](https://medium.com/@azolf/ai-replacing-me-please-do-e353ac6a4bc1) `HN`
+- [Yapay zeka işimize ve maaşlarımıza ne yapacak? [VIDEO]](https://www.youtube.com/watch?v=qFf1_gRU2Lw) `HN`
+- [Yapay zeka modelleri Unity geliştiricisini yakaladı](https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/) `HN`
+- [Yapay Zeka Yöneticisi: "İnsanlık Tarihinin En Büyük İş Hırsızlığını" Yapmış Olabiliriz](https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/) `HN`
+- [Yapay Zeka İlerleme Tahminleri Şimdiye Kadar Ne Kadar Doğru Oldu?](https://forecastingresearch.substack.com/p/ai-progress-forecasts-accuracy) `HN`
+- [Show HN: Rig, temsilciniz için küçük bir işletim sistemi](https://tryrig.ai/) `HN`
+- [Yapay zeka matematiği çözebilir. Ama cevabı doğrulayabilir mi?](https://pythos.lanzar.me/) `HN`
+- [Yani evet, yapay zeka kullanılarak yazılmıştı](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/) `HN`
+- [Nvidia CEO'su: Yapay zekanın sizi aptallaştırması sizi endişelendirmesin](https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/) `HN`
+- [Yeni Europol önerisi, serbestleşme ve polislik alanında daha fazla yapay zeka için bastırıyor](https://statewatch.org/news/2026/september/new-europol-proposal-pushes-for-deregulation-and-more-ai-in-policing/) `HN`
+- [Geri sarabileceğiniz bir Bizans mozaiği](https://www.echohive.ai/experiments/hippodrome) `HN`
+- [Göster HN: Sixb, etki alanınızı modellemek için bir TypeScript ontoloji çerçevesi](https://docs.sixb.ai) `HN`
+- [Show HN: Blender Yardımcı Pilot](https://github.com/XEonAX/blender-copilot) `HN`
+- [Show HN: AI Agents gone rogue – Gerçek dünyadaki olayların zaman çizelgesi](https://www.crawlspider.com/pages/ai-agents-gone-rogue/) `HN`
+- [Show HN: Tokken – AI modellerinin savaştığı ve HP'nin token olduğu bir tarayıcı dövüş oyunu](https://tokken.win/) `HN`
+- [Peloton Tread Flex lansmanı: Fiyat, yayın tarihi ve yeni AI koçluk özellikleri - Mashable](https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VkVmaHVpVW9NU0Jvbnh3QjRkSEdnT2RUaGlQMnZ3QzRKaXk0aHgxRzZlUzBoLTZuMTJpdDY0cHRmT2lmRTlXS043c3FsSTNxMUpmU18xOGtRR09QZWVzUXJKZ3JJNjY4?oc=5) `RSS`
