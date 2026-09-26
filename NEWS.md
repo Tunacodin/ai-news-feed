@@ -1354,3 +1354,17 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: AI Agents gone rogue – Gerçek dünyadaki olayların zaman çizelgesi](https://www.crawlspider.com/pages/ai-agents-gone-rogue/) `HN`
 - [Show HN: Tokken – AI modellerinin savaştığı ve HP'nin token olduğu bir tarayıcı dövüş oyunu](https://tokken.win/) `HN`
 - [Peloton Tread Flex lansmanı: Fiyat, yayın tarihi ve yeni AI koçluk özellikleri - Mashable](https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VkVmaHVpVW9NU0Jvbnh3QjRkSEdnT2RUaGlQMnZ3QzRKaXk0aHgxRzZlUzBoLTZuMTJpdDY0cHRmT2lmRTlXS043c3FsSTNxMUpmU18xOGtRR09QZWVzUXJKZ3JJNjY4?oc=5) `RSS`
+
+- [Güvenlik olaylarını araştıran önde gelen yapay zeka şirketleri](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents) `HN`
+- [Sinir Ağları Arasında Enterpolasyon](https://flx.ai/2026/interpolating-between-neural-networks) `HN`
+- [Bay Area AI parti evlerinde cinsel taciz ve tecavüz iddiaları](https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/) `HN`
+- [Show HN: Newt – Apple Core AI'da Jev Tarzı Kararlar için Hızlı Bir Paket](https://github.com/willswire/swift-newt) `HN`
+- [Tyler Cowen: Amerikan Yapay Zekası için Kıyamet Günü Senaryosu](https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for) `HN`
+- [Solus Linux, Resmi AI ve LLM Katkı Politikasını Kabul Etti](https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/) `HN`
+- [Yapay Zeka Siyasi Uyum Testi](https://aipoliticalcube.com/) `HN`
+- [Yapay Zeka Veri Merkezi Maymun İşidir [video]](https://www.youtube.com/watch?v=2g7doI0BGrs) `HN`
+- [Basit Bir Bulmaca, Yapay Zekanın Yeteneklerinin Pürüzlü Kenarını Ortaya Çıkarıyor](https://aatishb.com/blog/2026/ai-jagged-intelligence/) `HN`
+- [Yapay Zeka Yapılandırmasının Finansmanı [pdf]](https://www.brookings.edu/wp-content/uploads/2026/09/4c_Van-Nieuwerburgh.pdf) `HN`
+- [Bilgisayar korsanları, yeni siber suç patlamasını körüklemek için yapay zeka hesaplarını ve sunucularını ele geçirdi](https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32) `HN`
+- [Basit görsel desenler yapay zeka destekli araçları ve robotları kandırabilir](https://news.ufl.edu/2026/09/ai-powered-vehicles/) `HN`
+- [OpenAI, "en yetenekli modellerinin" eğitimini durdurdu](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) `HN`
