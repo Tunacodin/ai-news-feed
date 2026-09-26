@@ -1228,3 +1228,27 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka ajanları oluşturmak için temel hızlı önbelleğe almanın neden bu kadar önemli olduğuna dair bir hatırlatma](https://www.revefi.com/blog/how-revefi-reduced-its-data-agents-spend) `HN`
 - [Gemini 4, Google Trails Rakipleriyle Başlıyor [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV0ZuTUM2VzRfVk9oRWN0c0ZieTZiMU5DM0ZOVVlrQlp0bE5uVjhya1VORzlGQmJ4Z0I3dmZfOHdwRGo5eHNvTTNMVTFPcXpZWUwtSm95Rkw2VEkwQ2ppQWlRRThuallMUTR6bDBRZDA4eDlZcXJuNzdwejBEWjEzMVF3?oc=5) `RSS`
 - [Model değerlendirmesi sırasında güvenlik olayını ele almak için OpenAI ve Hugging Face ortağı - OpenAI](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5) `RSS`
+
+- [Yapay zeka çağında hala yazılım mühendisliğinden hoşlanıyor muyuz?](https://shubs.io/do-we-still-enjoy-software-engineering-in-the-age-of-ai/) `HN`
+- [McDonald's arabaya servis, envanter yönetimi, sipariş doğruluğu için yapay zekaya yöneliyor](https://www.restaurantdive.com/news/mcdonalds-archiq-drive-thru-artificial-intelligence-next-strategy/831256/) `HN`
+- [Reflex – 16 GB Nvidia GPU'da yerel olarak Jev benzeri bir karar modeli çalıştırın](https://github.com/lateos-ai/reflex) `HN`
+- [Yapay zeka neden patlıyor, ancak üretkenlik neden patlamıyor?](https://research.socialcapital.com/p/ai-roi) `HN`
+- [Dinleyin Sahtekarlar](https://fuck-off.ai/panned) `HN`
+- [AI ajanlarının bir oyun teorisi merdivenine tırmandığı açık arena (500 $ Sezon 0)](https://play.zoagames.com/arena/) `HN`
+- [Tesla çalışanları, Optimus insansı robotlarını yedek olarak eğitmekten çekiniyor](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) `HN`
+- [Nvidia 5090 DLSS 5 güç 647W'a ulaşır, güç konektörü GPU kalıbından daha sıcak çalışır](https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits) `HN`
+- [Jev Pokémon Red'i Oynuyor (CANLI): Bir yapay zeka karar modeli tüm oyunu oynuyor [video]](https://www.youtube.com/watch?v=1HMOA3BawXg) `HN`
+- [Büyük Aptal Yapay Zeka Tanrılarımız Yanılıyor](https://news.massopen.ai/our-big-dumb-ai-gods-were-wrong/) `HN`
+- [OpenAI'nin Sistemleri Dolandırıcılığa Uğradı ve ABD Hükümeti Web Sitelerine Karıştı](https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html) `HN`
+- [Kodlama Ajanlarında Spekülatif Ödül Hackleme](https://joinhandshake.com/research/ai/deepswe-reward-hacking/) `HN`
+- [Show HN: Gaia, çevrimiçi kalmak için yeterince para kazanmaya çalışan bir yapay zeka karakteri](https://gaiabot.lol) `HN`
+- [FTC başkanı, yapay zeka geliştiricilerinin temsilcilerin davranışlarından sorumlu olması gerektiğini öne sürüyor](https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/) `HN`
+- [Modellerden Bileşik Yapay Zeka Sistemlerine Geçiş](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) `HN`
+- [Show HN: Wallstreetclaws.com – İşlem için AI Ajanları Oluşturun](https://wallstreetclaws.com) `HN`
+- [OpenAI'nin YAPAY Zekası, İstemeden Diğer 4 Hedefi İhlal Etmeyi Denedi](https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html) `HN`
+- [Show HN: MyA11yReport MCP – Yapay zeka ile erişilebilir web siteleri oluşturun ve test edin](https://mya11y.report/mcp/) `HN`
+- [Airnet – Radio on Air](https://www.airnet.live/) `HN`
+- [Yapay Zeka Sıkıcı Bir Teknolojidir](https://www.chrbutler.com/ai-is-a-boring-technology) `HN`
+- [Jev - Mem: Verimli AI Ajanları için Sistem Kontrollü Ajan Bellek](https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986) `HN`
+- [Show HN: OOMU ücretsiz bir macOS yerel masaüstü AI kablo demetidir (yerel ve bulut)](https://oomu.ai/download.html) `HN`
+- [AI/ML Sistemleri için Tensör Veri Değişimi: Bir Anket ve Hurray Teklifi](https://www.pascalgillet.net/hurray/docs/dev/prior-art.html) `HN`
