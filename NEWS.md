@@ -1252,3 +1252,19 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Jev - Mem: Verimli AI Ajanları için Sistem Kontrollü Ajan Bellek](https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986) `HN`
 - [Show HN: OOMU ücretsiz bir macOS yerel masaüstü AI kablo demetidir (yerel ve bulut)](https://oomu.ai/download.html) `HN`
 - [AI/ML Sistemleri için Tensör Veri Değişimi: Bir Anket ve Hurray Teklifi](https://www.pascalgillet.net/hurray/docs/dev/prior-art.html) `HN`
+
+- [Yapay zeka tarayıcılarıyla nasıl başa çıkılacağı üzerine düşünce](https://copepod.dev/human-required) `HN`
+- [Bu bir Jev'in Dünyası](https://www.bolna.ai/blog/testing-jev-on-real-phone-calls) `HN`
+- [Yapay zekanın yeni mezunlara sert vurması gerekiyordu. Şimdiye kadar işsizlik verileri aksini söylüyor](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/) `HN`
+- [Romancı, Fransız ödül listesinden çıkarılan kitabı yazmak için yapay zekayı kullanmakla suçlandı](https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france) `HN`
+- [ABD DOE, yapay zeka veri merkezlerinin şebekesini yükseltmek için 5,25milyar $ verecek](https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276) `HN`
+- [Bir şirket, haydut yapay zeka saldırıları dalgasının merkezinde](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) `HN`
+- [Efsanevi ABD casus uçağı, yeni NASA uçağıyla ilgili gizemin ortasında Kaliforniya üssünden kayboldu](https://economictimes.indiatimes.com/news/international/global-trends/legendary-us-spy-plane-vanishes-from-california-base-amid-mystery-over-new-nasa-aircraft/articleshow/134488118.cms?from=mdr) `HN`
+- [Show HN: Botbin.io – AI ajanı eserleri için pastebin](https://botbin.io/?md=true) `HN`
+- [Yapay Zeka Alışveriş Acentelerine Güvenilebilir mi?](https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out) `HN`
+- [DraftKings, Çevrimiçi Davranışsal Reklamcılığın Zararlarını Güçlendirmek İçin Yapay Zekayı Kullanıyor](https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising) `HN`
+- [Stanford öğrencisi, üniversite fotoğraf değişikliğinin yapay zeka tartışmalarına yol açmasının ardından silindi](https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html) `HN`
+- [Bu ödüllü kitap yapay zeka tarafından mı yazıldı?](https://www.cbc.ca/news/canada/montreal/thelyson-orelien-ai-scandal-9.7355167) `HN`
+- [Yapay zeka çağında gelişen programlama dilleri](https://twitter.com/josevalim/status/2103133294317445290) `HN`
+- [ABD'li milletvekilleri, Çin'in teknolojisini hassas hükümet sistemlerinden uzak tutmayı hedefliyor](https://www.rnz.co.nz/news/world/1591943/us-lawmakers-aim-to-keep-china-s-tech-out-of-sensitive-government-systems) `HN`
+- [Yapay Zeka Güvenliğinin İzin Verilmeyen Sonucu](https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion) `HN`
