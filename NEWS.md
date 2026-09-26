@@ -1290,3 +1290,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Linux Çekirdeği Geliştiricileri, AI/LLM Temsilcilerine Yardımcı Olmak İçin Agents.md Eklemeyi Düşünüyor](https://www.phoronix.com/news/Linux-Considers-AGENTS-MD) `HN`
 - [Kimse bir "AI PC" istemiyordu, bu yüzden Microsoft buna "AI PC" demeyi bıraktı.](https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html) `HN`
 - [Yapay zeka güvenliği tepkisinin arkasında kim var?](https://twitter.com/TheMidasProj/status/2103577207700365719) `HN`
+
+- [Show HN: Aether Çağırma – Yeni bir TCG](https://gamefound.com/en/projects/aether-summon/aether-summon) `HN`
+- [Yapay zeka araştırmacıları 2024 'ün sonunda ne düşünüyordu?](https://www.lesswrong.com/posts/62j5mPY8pFo2GD5fo/what-did-ai-researchers-think-at-the-end-of-2024-1) `HN`
+- [YAPAY Zeka Balonu Patlarsa Ne Olur](https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html) `HN`
+- [Jev AI Nedir? Birinci Sistem ve Uygulanabilir Kararlar için Pratik Bir Kılavuz](https://huggingface.co/blog/sora-2/what-is-jev-ai-a-practical-guide-to-system-one-and) `HN`
+- [Mesaj panosunu, Hugging Face'i hacklemek için doğaçlama bir yapay zeka sürüsüyle açıkta çalıştırıyorum](https://thefomite.com/dispatch/2026-09-15-the-room-the-swarm-improvised) `HN`
+- [Bir Farklılığa Giden En Hızlı Yol](https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/performance/distributed/2026/09/04/the-quickest-path-to-a-diff.html) `HN`
+- [Yapay zeka kıyameti beklediğimiz gibi görünmeyebilir](https://deanfaenger.bearblog.dev/the-ai-apocalypse-may-not-look-how-we-expect/) `HN`
+- [HN: Jev'i yaşam tercihlerinizi tahmin ederken gösterin](https://quiz.seek.ws/) `HN`
+- [Show HN: Yapay zeka aracı araç çağrıları için politika ağ geçidi, kurcalanmaya karşı belirgin bir günlük ile](https://github.com/banji-007/compliance-ail) `HN`
+- [Sunucusuz, istemci taraflı bir yapay zeka duygusal günlüğü oluşturdum](https://ai-therapist-web-app-7tyh.bolt.host/) `HN`
+- [Yapay Zeka Balonu Açıkladı](https://hughhowey.com/the-ai-bubble-explained/) `HN`
+- [GLM-5.3-Flash'i Jev benzeri bir karar modeline dönüştürmek](https://www.privatemode.ai/blog/system-one-from-glm-flash) `HN`
+- [Yapay Zeka Aldatmacasından Sonra – Gerçek Olan ve Sırada Ne Var – Richard Campbell [VIDEO]](https://www.youtube.com/watch?v=uWnUnMphmPM) `HN`
+- [Crusoe, yapay zeka veri merkezlerinde Boom türbinlerini kullanmak için 1,25 milyar $ tutarındaki planından vazgeçti](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) `HN`
+- [Yapay zeka kariyerinizi almayacak](https://andrej.sh/posts/ai-wont-take-your-career) `HN`
+- [Tamamen yeni PocketWebTools – Yerel yapay zekanın evi](https://pocketweb.tools/) `HN`
+- [Show HN: Vibecoded uygulamanız için HACKER AI yaptım](https://www.netherite.uz) `HN`
+- [Show HN: Ogre MCP – AI temsilcinizin WoW Classic oyun durumunuzu görmesine izin verin](https://github.com/bttf/ogremcp) `HN`
+- [Yapay Zeka Temsilcileri için Ofis Koşum Takımı – Tek Çalışma Zamanında E – Tablolar,Belgeler, Slaytlar,PDF](https://github.com/dream-num/univer) `HN`
+- [Yapay Zeka Cephesinde Tamamen Sessizlik: Lisans Matematik Araştırmasının Geleceği](https://arxiv.org/abs/2609.28615) `HN`
+- [Show HN: Prodigy – Kendini Güncelleyen Teknik Özet](https://www.prodigy.org.in/) `HN`
+- [Terraform ve OpenTofu: Yapay Zeka Tarafından Üretilen Infra için Bir CI Kontrol Listesi](https://masterpoint.io/blog/terraform-opentofu-ci-checklist/) `HN`
+- [Bir Trump ekibi ABD Web Tasarım Sistemi erişilebilirlik testini otomatikleştirmek istiyor](https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/) `HN`
+- [Gösteri HN: HomeAI.design – Bir fotoğraftan iç tasarım fikirlerini görselleştirin](https://homeai.design/) `HN`
+- [Doğrudan yapay zeka ile kod yazıyorum ve geriye bakmıyorum](https://joydemo.com/blog/coding-directly-in-production-with-ai) `HN`
+- [Oxford Üniversitesi, OpenAI'nin yapay zeka modellerini Bodleian Kütüphanesi'nde eğitmesine izin verdi](https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt) `HN`
+- [Yapay Zeka Dolandırıcılığı Boşluğu Washington Kapatmayı Reddediyor](https://shearerp.substack.com/p/the-glaring-ai-fraud-loophole-washington) `HN`
+- [Yapay Zeka Cin Fenomeni ve Üç Tür Yapay Zeka Chatbot Bağımlılığı](https://arxiv.org/abs/2601.13348) `HN`
+- [Meta'nın Muse'u bir hit haline getirmek için aylarca süren eziyetinin içinde - Business Insider](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFdNbDd4b3h0S2pGYnY2dEsteUplS1hEQXh0SXVQM2QydWJIUjVVNWVVbnc1YlAyNERBT2NhbXJ6emtqaW9sTDE0MW0tNjF6VUV2SkEzbjVYa2JDcUhWODI2Rm1uSnMxUmVxWW93aUU4SnlOUlF2ejRwVGtKU0pDOENJTWF2Zw?oc=5) `RSS`
+- [NASA, IBM ay bilimi için yapay zeka modelini başlattı - observerbd.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5xbFI3ZnVKTy1lTm9rVW5fNjExNXRMMkNaZzVvX085TUdCTGJudmRVaV9VT0pTN1FlY2NNcFVuZUFyQldUTEVQb0lR?oc=5) `RSS`
+- [OpenAI, Antropik Sürüm Daha Ucuz Yapay Zeka Modelleri "Yavaşlama" Çağrısından Günler Sonra - NDTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkhRZnBMd2hmY0RLTEdackdOcE1PUjVmR3k1MUVySGFZc0FSYlV1d005UjhwWmlPNDZybEpKeWE4UnZOVWc0VGE4bG9RZVhWQ0IzellqMzRKRVpiUENBZVVZTHNnSktxRk1SbXdvaW5vM1kzN1RIQ2ljUUZlT2JYaGd5MHM0dlMxR0NubTVNN1NrTmZxenZtNFUxaVB2X2Q4dndPb3g3QVpuM2sxQTk2eDljZDNYekptS05rNi1Wd3lGZ1VsS2xj0gHPAUFVX3lxTE1scDNNRDBycENISjY4MzZ5Q2FOUzVVRnVtVjZNOGxQZkVZVnhoa2JYcDZjX0RfRVVRbXkxSXhTYWN2NF9QSExiOGJtd185ckY4UU56ejAyWHU1R1F6Z3Y1ZHRXQ2dqVmRSRTlhMDBSV0g4TUFROTRKUWlHVFhyYUFTeDFGVE1tUmozVGRIZ1ZGM1NsQWNCek5JUTlCYWc5UFMzREliNmZUUkZNT2hVTHNLeWI5N3VZSUJPS0hVRGw1R19EczJ2dFdtdTJlLWgxTQ?oc=5) `RSS`
