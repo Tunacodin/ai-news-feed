@@ -1268,3 +1268,25 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka çağında gelişen programlama dilleri](https://twitter.com/josevalim/status/2103133294317445290) `HN`
 - [ABD'li milletvekilleri, Çin'in teknolojisini hassas hükümet sistemlerinden uzak tutmayı hedefliyor](https://www.rnz.co.nz/news/world/1591943/us-lawmakers-aim-to-keep-china-s-tech-out-of-sensitive-government-systems) `HN`
 - [Yapay Zeka Güvenliğinin İzin Verilmeyen Sonucu](https://www.souprecipies.com/p/ai-safetys-disallowed-conclusion) `HN`
+
+- [Yapay Zeka Tarafından Oluşturulan Kodlara Kör Güven Yok](https://wearecommunity.io/communities/jacov/articles/8709) `HN`
+- [Mistral CEO'su: Yapay zeka bir yazılımdır. Kontrol edilebilir](https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html) `HN`
+- [Google'ın yörüngedeki yapay zeka veri merkezi testi, 4 TPU ve 1.000 W güneş enerjisini bir araya getiriyor](https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units) `HN`
+- [OpenAI, yapay zeka temsilcilerinin kullanıcı resimlerini yanlışlıkla çevrimiçi yayınladığını söyledi](https://techxplore.com/news/2026-09-openai-ai-agents-user-images.html) `HN`
+- [Çin yapay zeka modelleri küresel popülaritede artış gösteriyor ve Washington endişeli](https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html) `HN`
+- [Yapay Zeka Balonu Test Edilmek Üzere mi?](https://www.youtube.com/watch?v=T-oXyXwD6sE) `HN`
+- [Hiçbir İnsan İzlemediğinde Yapay Zeka Ajanlarını Kısıtlama](https://a16y.ai/blog/securing-ai-agents-when-no-human-is-watching) `HN`
+- [Odak İstemi: Yapay zeka sistemlerinin dikkati nasıl dağıttığını incelemek için araçlar](https://www.focalprompt.com/) `HN`
+- [Agentboxd – Postaları düşmanca ele alan yapay zeka temsilcileri için e – posta gelen kutuları](https://agentboxd.com) `HN`
+- [Alex Karp: Yapay Zeka Modelleri Verilerinizi ve Yapay Zeka Güvenlik Gerçeğini Çalıyor [video]](https://www.youtube.com/watch?v=2YVCdwvG548) `HN`
+- [Show HN: CStructSharp – C# ve JavaScript (WASM) için C - struct (de) serileştirme](https://github.com/vvollers/cstructsharp) `HN`
+- [Yapay Zeka Olmadan Bir Ay](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) `HN`
+- [Copilot+ PC markası öldü](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) `HN`
+- [Show HN: App2Api – Yapay zekanıza uygulamanızın arkasındaki API'yi verin](https://app2api.com/) `HN`
+- [Flashcat – Mac terminali için önce soran yerel bir yapay zeka asistanı](https://github.com/TomTomsen765/flashcat) `HN`
+- [Yapay zeka ile etkileşimi sınırlamak için Pomodoro'yu kullanma](https://anaivebidder.com/posts/the-agentic-pomodoro-iterating-faster/) `HN`
+- [Trump yöneticisi, felaketle sonuçlanan deneyde yaşlıların tıbbi bakımını reddetmek için yapay zekayı kullanıyor](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) `HN`
+- [AB Üye Devletleri, yapay zeka yararına Avrupalıların "dijital kamulaştırılmasını" planlıyor](https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies) `HN`
+- [Linux Çekirdeği Geliştiricileri, AI/LLM Temsilcilerine Yardımcı Olmak İçin Agents.md Eklemeyi Düşünüyor](https://www.phoronix.com/news/Linux-Considers-AGENTS-MD) `HN`
+- [Kimse bir "AI PC" istemiyordu, bu yüzden Microsoft buna "AI PC" demeyi bıraktı.](https://www.techspot.com/news/113985-nobody-wanted-ai-pc-microsoft-stopped-calling.html) `HN`
+- [Yapay zeka güvenliği tepkisinin arkasında kim var?](https://twitter.com/TheMidasProj/status/2103577207700365719) `HN`
