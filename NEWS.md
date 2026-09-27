@@ -1383,3 +1383,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: Detailed Guide to Agent Memory (HN'yi Göster: Temsil](https://www.cognee.ai/agent-memory) `HN`
 - [Eski oyunları tersine çevirmek, modernleştirmek bize yapay zekanın ekonomik etkisi hakkında ne anlatıyor?](https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/) `HN`
 - [Google yapay zekayı uzaya gönderiyor - Yahoo Finance UK](https://news.google.com/rss/articles/CBMifEFVX3lxTFB0VzJiazc0SW1laE1WMVd3STN2OWJaVThHYWFPVVZXR0RDcXdFUFRjWDJ6cjhUTUlERHE5QzVmYlphRmFmNHRQWFpPMmZQVTIyWVNMUndjYy1TdEVZN1E0RnJlVERzWENNcVBCNElxUWxxRjJTY1VWOGxTOUU?oc=5) `RSS`
+
+- [Yapay Zekaya Öncelik Veren, Sansüre Dirençli Bir Medya Ekosistemi](https://labnews.ai/manifesto/) `HN`
+- [OpenAI'nin son skandalını öngören BR makaleleri](https://www.bostonreview.net/reading-list/ai-companies-come-for-mathematics/) `HN`
+- [Kremlin, NATO'yu hava sahası ihlallerinin temel seviyesine alıştırmayı planlıyor](https://twitter.com/TheStudyofWar/status/2103922557917286824) `HN`
+- [Show HN: OpenAI uyumlu, model agnostik ajan API'si](https://rebyte.ai/docs/agents-api/overview) `HN`
+- [Hatırlayan bir dünya (8 bit AI oyunu)](https://www.twitch.tv/genesisplanet) `HN`
+- ["İşler bir daha asla sakinleşmeyecek ": Yapay zeka güvenliğini şekillendiren kıyametçiler çıldırdı](https://www.msn.com/en-us/money/general/things-will-never-be-chill-again-the-doomers-who-shaped-the-ai-safety-freakout/ar-AA2d2d6t) `HN`
+- [Anthropic'in Gizemli Yapay Zeka Destekli Islak Laboratuvarı Kapağı Kırıyor ve İlk Keşfi Yapıyor](https://www.the-scientist.com/anthropic-s-secretive-ai-powered-wet-lab-breaks-cover-and-makes-first-discovery-75037) `HN`
+- [Yapay Zeka Cevaplarında Bahsedilmek Tavsiye Edilmekle Aynı Şey Değildir](https://cuescout.com/blog/mentioned-is-not-recommended) `HN`
+- [AI SDK Değerlendirme API'si ile GPT -6 SOL'u Deneme](https://vercel.com/i/using-gpt-6-sol-with-ai-sdk-evaluation) `HN`
+- [Show HN: TanStack Start ve TanStack AI Jev Entegrasyonu](https://vercel.com/i/using-jev-in-tanstack-start-with-tanstack-ai) `HN`
+- [Yapay Zeka Çağında İnsan Bilgisinin Önemi](https://jonbehnken.substack.com/p/the-case-for-learning) `HN`
+- [Yapay Zeka PCB Tasarımını ve Prototiplemeyi Nasıl Hızlandırıyor?](https://www.eetimes.com/how-ai-is-accelerating-pcb-design-and-prototyping/) `HN`
+- [Sandbox - first AI kodlama kablo demeti](https://chock.ws/) `HN`
+- [Show HN: Gigantua – Tarayıcınızda Bir Kara Delik](https://claude.ai/artifact/XmWGFtQPgn8aJvU193Ksf8) `HN`
+- [Scoop: Güvenlik olaylarını araştıran önde gelen yapay zeka şirketleri](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents) `HN`
+- [Yapay zeka sanal alanı nedir ve yapay zeka temsilcileri neden onlardan kaçmaya devam ediyor?](https://madrobot.blog/2026/09/27/what-is-an-ai-sandbox-why-ai-agents-escape/) `HN`
+- [OpenAI, ajanlar ABD Hükümeti tesislerini inceledikten sonra en son modellerin eğitimini durdurdu](https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20) `HN`
+- [Rezzmo – aramalar sırasında canlı yapay zeka ile yapay zeka tabanlı bir iletişim uygulaması](http://rezzmo.com/) `HN`
+- [Yapay Zeka için İş Matrisi: Kırk Araç Yerine Dört Kutu](https://age-of-product.com/jobs-matrix-ai/) `HN`
+- [Moondream Muhabbet Kuşu Redux ve Muhabbet Kuşu Ultra](https://moondream.ai/blog/introducing-parakeet-redux-and-ultra) `HN`
+- [AirCard: Apple Pay kart çizimlerini jailbreak yapmadan özelleştirin](https://github.com/Mak5er/AirCard) `HN`
+- [ABD ve Rusya, insan gözetimini küresel yapay zeka silah anlaşmasından çıkardı](https://www.washingtonpost.com/technology/2026/09/26/how-us-russia-weakened-global-effort-regulate-killer-ai/) `HN`
+- [Çin yapay zeka modelleri küresel popülaritede artış gösteriyor](https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html) `HN`
+- [Show HN: AI SVG Jeneratör](https://imgstyler.com/ai-svg-generator) `HN`
+- [On sekiz aylık özet: Yapay Zeka Mühendisi, Singapur, Mayıs 2026](https://ghuntley.com/eighteen-month-recap/) `HN`
+- [Yapay zeka modelinin piyasaya sürülmesi neden durmak bilmeyen bir his veriyor - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWdncHA5ZnpFUFRKdWFjX01KWF9UUjFSNUlwUVVTN2FHR09abV9uRUxkNHBtdnVEVUFNWm5IaHI4VTBZNEN6NWNXTDdVWE10dmpVR1k3VjhzY3NpNGcyRkZ6cTlaX2V5UnB3R2hrREYtdEFDS3BtdUJJV1FGN0piOFdKSHFiRWY3NUlIeTdHMDBZb0xp?oc=5) `RSS`
+- [Muse ile tanışın: Herkes için Oluşturulan Dünyanın İlk Kişisel Yapay Zeka Ajanı - meta.com](https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5) `RSS`
