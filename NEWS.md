@@ -1411,3 +1411,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [On sekiz aylık özet: Yapay Zeka Mühendisi, Singapur, Mayıs 2026](https://ghuntley.com/eighteen-month-recap/) `HN`
 - [Yapay zeka modelinin piyasaya sürülmesi neden durmak bilmeyen bir his veriyor - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWdncHA5ZnpFUFRKdWFjX01KWF9UUjFSNUlwUVVTN2FHR09abV9uRUxkNHBtdnVEVUFNWm5IaHI4VTBZNEN6NWNXTDdVWE10dmpVR1k3VjhzY3NpNGcyRkZ6cTlaX2V5UnB3R2hrREYtdEFDS3BtdUJJV1FGN0piOFdKSHFiRWY3NUlIeTdHMDBZb0xp?oc=5) `RSS`
 - [Muse ile tanışın: Herkes için Oluşturulan Dünyanın İlk Kişisel Yapay Zeka Ajanı - meta.com](https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUNIBfkFVX3lxTE9zanY0cDdYaU0zZ3FpdWdvUVI0QWlEUDZ5X3VDTXV4bWJoRDJSZlJfZU1DZHlPcm1zU2NoR1RtZTZfQTVHVThtTEpscjF4X0ZtdGMwU21zUmxPMWJ6OHc1T1VyRk5iUDlmWUItZEtfZkxvcE5wNVlyZ3ItSUM2QQ?oc=5) `RSS`
+
+- [Ajanlarla bina için gözlemlenebilirlik odaklı emniyet kemerleri](https://www.datadoghq.com/blog/ai/harness-first-agents/) `HN`
+- [HN'yi göster: Bankacı – Bankacılığı ve SQLite'ı Etkinleştir'i kullanarak mali durumunuz için CLI](https://github.com/karlis-vagalis/banker) `HN`
+- [OpenAI, yapay zeka ajanlarının haydutlaştığına dair raporlar nedeniyle en son modellerin eğitimini durdurdu](https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue) `HN`
+- ["Haydut" yapay zeka ajanları yok](https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents) `HN`
+- [Merhaba. Orada mısınız? (hizalamayla ilgili kısa bir hikaye)](https://tales.aipeepslab.com/hello-are-you-there/) `HN`
+- [Güvenli, sunucu tarafı bellek ile gelişmiş Özel Yapay Zeka Hesaplama](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) `HN`
+- [Show HN: Twitter X Bumble BFF X ChatGPT arasında MCP özellikli bir geçiş](https://druggie.org/log/join/d84c1ae8566b861b8000050de79a3776) `HN`
+- [Show HN: TinyAIArena, yapay zeka ajanlarının savaşını izliyor](https://tinyaiarena.com/) `HN`
+- [Yapay zeka ajanlarını geliştirmenin mevcut yolları, gözetimin bozulmasına katkıda bulunur](https://arxiv.org/abs/2608.23642) `HN`
+- [Hayatımı Meta'nın YAPAY ZEKA ajanına verdim ve havaya uçuruldum](https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html) `HN`
+- [A20 Pro ve cihaz içi yapay zeka: Gösteri zamanı](https://rickytakkar.com/blog_a20_pro_ai.html?source=hn) `HN`
+- [Show HN: Güncellenmiş Ceptile AI Search Geliştirilmiş Yanıtlar ve Araştırma](https://www.ceptile.com/) `HN`
+- [Bill Gates, denetimsiz yapay zekanın düzenleme çağrısında "milyarlarca ölüme neden olabileceğini" söyledi](https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker) `HN`
+- [Kaynaklar, yapay zeka mesajlaşma dolandırıcılığının İtalya'nın en büyük bankası Intesa'ya milyonlarca dolara mal olduğunu söylüyor](https://www.reuters.com/legal/government/ai-messaging-scam-costs-italys-top-bank-intesa-millions-sources-say-2026-09-25/) `HN`
+- [HN'yi göster: Maliyet hesaplayıcısını çalıştıran yapay zeka temsilcisi (ve bir SaaS platformu daha ucuz olduğunda)](https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/) `HN`
+- [Yapay Zeka ve Düşüş mü? Yaratıcı Sınıfın](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) `HN`
+- [Blok Oyununda yazılım oklüzyonu itlafı](https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/) `HN`
+- [Tazmanya'nın önerilen yapay zeka veri merkezleri için kaynak izleyici](https://tasdatacentres.org/30min/) `HN`
+- [Jev ve AI/ML Mühendisliğinin Geri Dönüşü](https://leehanchung.github.io/blogs/2026/09/20/jev-return-ai-ml-engineering/) `HN`
+- [EasyActions – bir kuruluşta GitHub Eylemlerini çalıştırın](https://github.com/Mask-AI-FR/EasyAction) `HN`
+- [Yapay Zeka Temsilciniz Söylediğinizin Yarısını Unuttu](https://www.oreilly.com/radar/your-ai-agent-already-forgot-half-of-what-you-told-it/) `HN`
+- [İnsan - Yapay Zeka ortaklıkları yetenek değil, uyum içindir](https://www.seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) `HN`
+- [Yapay Zekanın Tehlikeli Olması İçin Bir Süper Virüs İcat Etmesine Gerek Yok](https://liorzi.substack.com/p/ai-doesnt-need-to-invent-a-supervirus) `HN`
+- [Show HN: Augur – AI Kodlama Ajanları için Xcode'lu Sandboxed macOS VMS](https://github.com/h1d3mun3/augur) `HN`
+- [Dinleyen bir duvar: Vilnius'taki bir yapay zeka partisinin arkasındaki yerel LLM boru hattı](https://vania-novikau.me/ai-party-wall/) `HN`
+- [Dört Yapay Zeka Risk Alanını Anlama](https://sdarchitect.blog/2026/09/27/ai-risk-a-users-guide-part-iv-understanding-the-four-ai-risk-domains/) `HN`
+- [Windows NT'nin nesne tabanlı modeli, AI aracıları için Linux'tan daha mı uygun?](https://www.windowslatest.com/2026/09/26/google-researcher-explains-why-windows-nt-puts-linux-to-shame-and-imagines-an-alternate-history-where-it-won/) `HN`
+- [Andrew Ng: Yapay Zeka Çağında İlgili Kalmak İçin Bir Beceri [video]](https://www.youtube.com/watch?v=HTlf3KNNez0) `HN`
+- [Yapay Zekanın Hüzünlü Eşleri](https://www.wired.com/story/meet-the-sad-wives-of-ai/) `HN`
+- [Financial Times: Fiyat savaşı şiddetlendikçe Anthropic ve OpenAI daha ucuz modeller piyasaya sürüyor](https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0REaFI3OHIxNmtEdnB6Vy01bUZPaWxoMU0zVm9SZTEyVU04cm1tSWdRNjBLTGJpTnJRd0ZWbFg4RDhac1NCTG1fVms5OTNfd3dta290enpZeTlTTnRScjRPM0NvbzJBRTFrN0I0bkNES0NJRVM5TUwyeHRLaTB3WVY1Skg?oc=5) `RSS`
+- [Gemini 3.8 konuşma metni merhaba diyor - blog.google](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5) `RSS`
