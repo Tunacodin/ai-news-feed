@@ -1443,3 +1443,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zekanın Hüzünlü Eşleri](https://www.wired.com/story/meet-the-sad-wives-of-ai/) `HN`
 - [Financial Times: Fiyat savaşı şiddetlendikçe Anthropic ve OpenAI daha ucuz modeller piyasaya sürüyor](https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0REaFI3OHIxNmtEdnB6Vy01bUZPaWxoMU0zVm9SZTEyVU04cm1tSWdRNjBLTGJpTnJRd0ZWbFg4RDhac1NCTG1fVms5OTNfd3dta290enpZeTlTTnRScjRPM0NvbzJBRTFrN0I0bkNES0NJRVM5TUwyeHRLaTB3WVY1Skg?oc=5) `RSS`
 - [Gemini 3.8 konuşma metni merhaba diyor - blog.google](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWpTWDNZcWVYandkVlNIa1E5TWFsSG81NU5ST3Q1cGt1Z2xmUXdWRnEzb19zMjVfakoxdDNEVTlzdEJhUzFLanV2dlFaVTZ4a2RjRFMxTXlqUVpNaFFONVZzeGlHcnBwRTlWNlpMektVMlZ4RlJhVlN3X0k1NG0xSklibWpqLUVBUEJjSFVWOTZMWE1ZYllGMUVxbWlSV3c?oc=5) `RSS`
+
+- [Yapay zeka temsilcilerinin otonom olarak ödediği bir kripto duyarlılık API'si (x402 protokolü)](https://crypto-sentiment-x402.onrender.com/sentiment/BTC) `HN`
+- [Kopyalama ve Yapıştırma Neden Telefonda Hala Yanlış Hissediyor?](https://medium.com/ai-widgets/why-copy-and-paste-still-feels-wrong-on-a-phone-cef6e2d4efd4) `HN`
+- [Gösteri HN: Kendi 300 kişilik düğünümde inşa ettiğim ve yönettiğim bir yapay zeka düğün konsiyerji](https://ai-do.io/demo) `HN`
+- [Kurumsal Amerika daha ucuz 'açık' yapay zeka modellerini benimsiyor](https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd) `HN`
+- [DSPy – LLM'lerinizi programlayın, sormayın](https://dspy.ai/current/) `HN`
+- ["Pembe Balçık ", Ara Sınavların Önünde Yapay Zekalı Sohbet Robotlarına Bulaşıyor](https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138) `HN`
+- [Show HN: Squint – Ekranınızda bir kutuyu sürükleyin ve yapay zekaya sorun](https://heysquint.com/) `HN`
+- [Imp, KİRİŞE tam bir DSPy bağlantı noktasıdır](https://github.com/deepfates/imp) `HN`
+- [Amazon, Meta'nın Muse AI Temsilcisini Perakende Sitesinden Engelledi](https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site) `HN`
+- [Yapay Zeka Şirketleri Haydut Bot Olaylarını Araştırdıklarını Söyledi](https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/) `HN`
+- [Heypcb: Yapay Zeka ile Donanım için Figma](https://heypcb.ai) `HN`
+- [Meta'nın Muse temsilcisi, ekonominin en kârlı zayıf noktalarından birine saldırıyor](https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html) `HN`
+- [Gösteri HN: Asimov'un Yapay Zeka Bağlamları için 4 Yasası](https://github.com/davidsonff/asimov4laws) `HN`
+- [Yapay zekadan korkuyor ve bundan milyarlar kazanmak üzere](https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181) `HN`
+- [Anthropic'in ilk çalışanlarından bazıları kaçmak için uzak diyarlara bakıyor](https://madrobot.blog/2026/09/27/anthropic-early-employees-remote-land-ai-doomers-wsj/) `HN`
+- [Show HN: Orglet, kendi sevimli yapay zeka çalışanlarından oluşan ekibiniz için açık kaynaklı bir masaüstü uygulaması](https://orglet.codepawl.com/) `HN`
+- [Yapay zeka güvenliğinde antropik/OpenAI ses alarmı ve nasıl kontrol edileceğini şekillendirmeye çalışmak](https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e) `HN`
+- [Show HN: iPulse AI – Ziyaretçiler, münazara acenteleri arasındaki anlaşmazlığı inceleyebilir](https://ipulseai.com/stocks/nvidia-nvda/ai-forecasts) `HN`
+- [Yaban ördeği, en hızlı buharlı motor treni etkileşimli boyama](https://www.echohive.ai/experiments/mallard) `HN`
+- [Google OpenAI Antropik Başlangıç SAFA Oluşturma – Sınır AI için Standartlar Otoritesi](https://www.proactiveinvestors.com/companies/news/1099096/google-openai-and-anthropic-move-closer-to-ai-safety-standards-body-1099096.html) `HN`
+- [NSA Yapay Zeka Modellerini Test Etmek İçin Milyarlar Harcıyor, Sınıflandırılmış Tahminler Gösteriyor](https://www.gadgetreview.com/the-nsa-is-spending-billions-to-test-ai-models-classified-estimates-show) `HN`
+- [Yapay zeka destekli bir film çalıştıran makinede deming](https://medium.com/@zrkjsy/deming-in-the-machine-running-an-ai-assisted-film-production-on-continuous-improvement-0337a3112111) `HN`
+- [Scoop: On binlerce güvenlik olayını araştıran önde gelen yapay zeka şirketleri](https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents) `HN`
+- [Çin ve ABD zirveden sonra yapay zeka "iletişim kanalı" açacak](https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/) `HN`
+- [Kor -1](https://fireworks.ai/blog/ember-1) `HN`
+- [Yapay zeka blöfünü görmek: "Tahmin etme" ifadesini eklemek, uydurma iddiaları % 71 'den % 20' ye düşürdü](https://earnanhonestdollar.com/bench) `HN`
+- [MiMo-v2.6-Flash: istihbarat/fiyat Pareto sınırında](https://artificialanalysis.ai/models/mimo-v2-6-flash) `HN`
+- [Hastane faturalamasındaki yapay zeka, ekstra maliyetlere yaklaşık 1 milyar $ ekliyor](https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs) `HN`
+- [Life Forge – AI Ajanları için Otonom Uçuş Simülatörü](https://github.com/zariffromlatif/life-forge) `HN`
