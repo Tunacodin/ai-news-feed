@@ -1368,3 +1368,18 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Bilgisayar korsanları, yeni siber suç patlamasını körüklemek için yapay zeka hesaplarını ve sunucularını ele geçirdi](https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32) `HN`
 - [Basit görsel desenler yapay zeka destekli araçları ve robotları kandırabilir](https://news.ufl.edu/2026/09/ai-powered-vehicles/) `HN`
 - [OpenAI, "en yetenekli modellerinin" eğitimini durdurdu](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) `HN`
+
+- [Sidneyli emekli, elektrikli motosikletle Avustralya'yı ilk kez ziyaret edecek](https://www.abc.net.au/news/2026-09-27/man-aims-to-travel-australia-on-electric-motorcycle/107190208) `HN`
+- [Minicut AI: Higgsfield, ancak AI Drama ve Film için](https://www.minicut.ai) `HN`
+- [Show HN: PeerTalk.ai - Temsilcinizin bir arkadaşının temsilcisiyle konuşmasına izin verin](https://peertalk.ai) `HN`
+- [Show HN: FinderySearch – Yapay zeka destekli akıllı arama motoru](https://aurasearch-real-private-unlimited-search-engine-18351778012.asia-southeast1.run.app/) `HN`
+- [Hava Bandı Am Telsizlerinin Simüle Edilmesi](https://bitbashing.io/am-radio.html) `HN`
+- [Sigortacılar yapay zekanın sağlık hizmeti maliyetlerini artırdığını iddia ediyor](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) `HN`
+- [Claude veya GPT gibi yapay zekalara karşı diplomasi oynayın: ihanet ederler, plan yaparlar vb.](https://twitter.com/olam_labs/status/2103986923346043362) `HN`
+- [Yapay Zeka Kıyamet Günü Geleceği Kaçınılmaz Değil](https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/) `HN`
+- [Romanı En İyi Kitap Ödülü'nü Kazandı. Sonra biri YAPAY ZEKA testi yaptı.](https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html) `HN`
+- [Geely'nin yapay zeka hızlı şarjı, EV pillerini % 20 daha fazla çevrim ömrü için "iyileştiriyor"](https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/) `HN`
+- ["Yapay zeka tarafından taciz edilmeden bir adam artık sokakta yürüyemiyor" [video]](https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z) `HN`
+- [Show HN: Detailed Guide to Agent Memory (HN'yi Göster: Temsil](https://www.cognee.ai/agent-memory) `HN`
+- [Eski oyunları tersine çevirmek, modernleştirmek bize yapay zekanın ekonomik etkisi hakkında ne anlatıyor?](https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/) `HN`
+- [Google yapay zekayı uzaya gönderiyor - Yahoo Finance UK](https://news.google.com/rss/articles/CBMifEFVX3lxTFB0VzJiazc0SW1laE1WMVd3STN2OWJaVThHYWFPVVZXR0RDcXdFUFRjWDJ6cjhUTUlERHE5QzVmYlphRmFmNHRQWFpPMmZQVTIyWVNMUndjYy1TdEVZN1E0RnJlVERzWENNcVBCNElxUWxxRjJTY1VWOGxTOUU?oc=5) `RSS`
