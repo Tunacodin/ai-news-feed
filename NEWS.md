@@ -1473,3 +1473,20 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [MiMo-v2.6-Flash: istihbarat/fiyat Pareto sınırında](https://artificialanalysis.ai/models/mimo-v2-6-flash) `HN`
 - [Hastane faturalamasındaki yapay zeka, ekstra maliyetlere yaklaşık 1 milyar $ ekliyor](https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs) `HN`
 - [Life Forge – AI Ajanları için Otonom Uçuş Simülatörü](https://github.com/zariffromlatif/life-forge) `HN`
+
+- [Show HN: Fusor – Like Vue, but the logic is Rust](https://fusor.build) `HN`
+- [Yapay Zekadan Sonra Doktor Olmak Asla Aynı Olmayacak](https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html) `HN`
+- [Makine Öğrenimi Sistemleri](https://mlsysbook.ai/) `HN`
+- [George Hotz'un yapay zeka kodlaması hakkındaki görüşü](https://twitter.com/__tinygrad__/status/2044354852663558370) `HN`
+- [Hırsızlar Nvidia etiketli römorkları çaldı: 20 ton kum verdi](https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand) `HN`
+- [Yapay Zeka, Matematikteki En Şeytani Problemleri Çözdü. Satrancı Neden Çözemiyor?](https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830) `HN`
+- [Yapay zeka kodu yazdığında hala öğrenmeye değer temel bilgiler](https://flaviocopes.com/fundamentals-ai-era/) `HN`
+- [NAND -16: 277.248 NAND kapısından yapılmış bir bilgisayar](https://somethingbig.ai/computer) `HN`
+- [T3rnel Tarayıcı – Konuşabileceğiniz DevTools ve yapay zekanızın kullanabileceği bir tarayıcı](https://t3ratech.github.io/t3rnel-browser-plugin/) `HN`
+- [UFO çekirdekli çok oyunculu ajan çevresi](https://github.com/ufo-ai/ufo-core) `HN`
+- [Bill Gates, Trump'ın yapay zeka önlemlerine karşı çıkmasının yanlış olduğunu söyledi](https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards) `HN`
+- [Trump ve Anthropic CEO'su Dario Amodei Beyaz Saray Yemeği İçin Hazır](https://www.wsj.com/tech/ai/trump-and-anthropic-ceo-dario-amodei-set-for-white-house-dinner-32c2d0ab) `HN`
+- [Oliver Beats ClickHouse](https://oliverdb.ai/blog/244-queries.html) `HN`
+- [Tahvil getirileri yükselirken borca aç yapay zeka şirketleri artan riskle karşı karşıya](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) `HN`
+- [Muse ile tanışın: Herkes için Oluşturulan Dünyanın İlk Kişisel Yapay Zeka Ajanı - meta.com](https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUA?oc=5) `RSS`
+- [Karşınızda Gemini 3.8 Live with Live Avatar - blog.google](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVR6bVg0OGpENG9SaWNDa3FnQWVxV2xwSjAxOXRXN09GcWxvbURoaTZVNkl0THIzX01rNnpEWkFuMGtpV2JPZXlJTmpLekZLeUF5Um5qWnlpaVYwNUZfOWdMcFlVd1dkeU1XVTItOEZ5eXRQRDJhWnlZMlVYbjFIV09kdTFEQUtTMU1HMFMxTVdENU5CajZqeTZwblBqd1JJc3Z2bi15amE?oc=5) `RSS`
