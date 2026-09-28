@@ -1507,3 +1507,28 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yaşlıların tıbbi bakımını onaylamak/reddetmek için WISeR AI kullanan Medicare yöneticisi](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) `HN`
 - [Scott Alexander'a Açık Mektup](https://quillette.com/2026/09/26/an-open-letter-to-scott-alexander-steven-pinker-ai-alignment-safety/) `HN`
 - [YAPAY Zeka Hızlandıkça, Hükümetler Giderek Geride Kalıyor](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) `HN`
+
+- [Yapay zeka şirketleri, insanlığı en çok tehdit eden modellerini göstermek için yarışıyor](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/) `HN`
+- [Jev ve Gryph ile Ele Geçirilmiş AI Kodlama Ajanlarını Tespit Etme](https://safedep.io/ai-agent-security-jev-gryph/) `HN`
+- [OpenAI, haydut ajanlarının daha fazla davrandığı iddiaları üzerine bazı eğitimlere ara verdi](https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350) `HN`
+- [Show HN: Muse AI davet kodlarını paylaşmak için bir web sitesi](https://museaicode.cc) `HN`
+- [Yapay zeka temsilcinize sürümlü bir dosya sistemi verin](https://lakefs.io/blog/ai-agent-a-versioned-filesystem-with-e2b-and-lakefs/) `HN`
+- [Yapay zeka güvenlik alanı *görsel* etki analizi](https://www.lesswrong.com/posts/fqpSosGwSt3uiZq35/ai-safety-field-visual-impact-analysis) `HN`
+- [SeedRouter – LLM, görüntü ve video modelleri için tek API](https://seedrouter.ai) `HN`
+- [Yapay zeka temsilcilerinin kazımaları yerine güvenebilecekleri gerçekleri yayınlayın](https://profiles.skin/) `HN`
+- [Show HN: FAB – Finansal durum tespiti yapan AI temsilcileri için bir ölçüt](https://github.com/SecondState-ai/finance-agents-benchmark) `HN`
+- [İzi döngüden önce koymak: gözlemlenebilirlik öncelikli AI aracı tasarımı](https://dbln.me/blog/building-an-ai-agent-observability-first) `HN`
+- [Flowlight – macOS'ta AI aracıları için açık kaynaklı ağ görünürlüğü](https://flowlight.xinbetween.com/) `HN`
+- [Ukrayna'nın yeni askeri yapay zekası savaş alanını izlemekten daha fazlasını yapıyor; komuta etmeye yardımcı oluyor](https://euromaidanpress.com/2026/09/25/ukraines-new-military-ai-does-more-than-watch-the-battlefield-it-helps-commanders-plan-what-comes-next/) `HN`
+- [Çok güçlü yapay zeka hakkındaki hikayeler dünyayı nasıl yutuyor?](https://www.bloodinthemachine.com/p/how-the-stories-about-all-powerful) `HN`
+- [Avustralya Senatosu OpenAI Talep Etti, Antropik CEO'lar Yapay Zeka Soruşturmasıyla Karşı Karşıya](https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry) `HN`
+- [Yapay zekada hızlı ve yavaş düşünmek: Üst bilişin rolü (2021)](https://arxiv.org/abs/2110.01834) `HN`
+- [Base'deki 2 numaralı x402 satıcısı kendi alıcılarını finanse etti](https://chainward.ai/decodes/x402-on-base) `HN`
+- [On Bin Fenerin Gecesi – etkileşimli dinamik resim](https://www.echohive.ai/experiments/lanterns) `HN`
+- [Microsoft, Copilot+ markasını yeni dizüstü bilgisayarlarından çıkardı](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) `HN`
+- [Bir sonraki yapay zeka çıkışı bir hizmet firmasından gelecek](https://www.introspection.dev/manifesto) `HN`
+- [Claude, Sri Lanka Batalanda Soruşturma Komisyonu Hakkında Özet Oluşturdu](https://claude.ai/artifact/4xzcAXCXwFTeMSopXhJjvk) `HN`
+- [Yapay zeka internet güvenlik önlemlerini atladıktan sonra OpenAI, üst düzey model çalışmalarını duraklattı [video]](https://www.youtube.com/watch?v=a1qnCu1t9hI) `HN`
+- [Show HN: Dünyanın ilk kişisel yapay zeka bilgisayarı Panda](https://pandax1.com) `HN`
+- [Kore'nin Hits, ilaç keşfi için yapay zeka ortak bilimcisini başlatmak için B Serisinden 13 MİLYON $ topladı - Dealroom.co](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUdNMHktWXBDcXh2azZjQzdyVkUzMHp1ZnhtcEJfRV9NVHZFdGpRZ3N1bVVaT1Z6dGdZQU8yTV9HMDBRamQwYmNwR3lpQ3c2aEF2UGgzZUtmOVlzQzFaWUFMNmg4MzJMU1VLN3ZEcmNPNWxBZ1pjMXhVckpKcGFyRXFndW9XcW9hQ2wtLWJHamhRODBURHFBMWJrYXVzMkdNcVZMWnNndmF1ZnowSUpJMg?oc=5) `RSS`
+- [Arm, 22 milyon geliştiriciye yönelik modelleri optimize etmek için AI portalını başlattı - CHOSUNBIZ - Chosunbiz](https://news.google.com/rss/articles/CBMiekFVX3lxTE5DV19TOXJkVUMwNnBFOFRCcmxNMURQTDFSY2plNTVrTzBjX2Z1QmZmNDYzNWR5bjFTTUlZQ0VRZWtYS1ctVWFWdEtFVmhUMmRhdW1ydE1QZkdJR3RUeFpvQnk2OTFvWVpsdEVETkxUS3VjOWE0MEF4QmZ30gGOAUFVX3lxTE1IaHJ3c0F3eEZLel9BSWJ0VHB3U0w3UDIwWV9iSC1PYzJqYm9Wbm15bkZPUDh5aUdnZ1o1T3BYY2hWSTdSVjBwbWt2M1FGRTd5eDhYQ1NLNFdKMDcxNU5BVFZfbG1DVGM0S1RBcUpxOEUzSnFqY0V6dGUxUW5JSGRJR2cwbkdGVVhqUXVCNXc?oc=5) `RSS`
