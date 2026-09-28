@@ -1490,3 +1490,20 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Tahvil getirileri yükselirken borca aç yapay zeka şirketleri artan riskle karşı karşıya](https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html) `HN`
 - [Muse ile tanışın: Herkes için Oluşturulan Dünyanın İlk Kişisel Yapay Zeka Ajanı - meta.com](https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUDMxR1V6bFBPZE1YZloyT2RYdlVOMUpsUlB1TzV6NEFuQ3VMbWw1dkE3QTJCRkp1UGllZDBuUzJYd3c4aU42bkdoWWhyQVVKbzlibFhUdFpJd2diVUJNRWhDXzlBM1ROUlA3YXp5TWFiOU9JeE1tUA?oc=5) `RSS`
 - [Karşınızda Gemini 3.8 Live with Live Avatar - blog.google](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVR6bVg0OGpENG9SaWNDa3FnQWVxV2xwSjAxOXRXN09GcWxvbURoaTZVNkl0THIzX01rNnpEWkFuMGtpV2JPZXlJTmpLekZLeUF5Um5qWnlpaVYwNUZfOWdMcFlVd1dkeU1XVTItOEZ5eXRQRDJhWnlZMlVYbjFIV09kdTFEQUtTMU1HMFMxTVdENU5CajZqeTZwblBqd1JJc3Z2bi15amE?oc=5) `RSS`
+
+- [Piyasadaki tüm abonelik iş modellerini öldürdüm](https://vosu.ai/pricing) `HN`
+- [YAPAY Zeka Hukuk Bürolarını Daha Verimli Hale Getirdiği İçin Müvekkiller Soruyor: 'İndirimim Nerede ?'](https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html) `HN`
+- ["Buzdolabı öldü ": Samsung'un yapay zeka buzdolapları güncellemeden sonra kapandı](https://www.notebookcheck.net/The-refrigerator-is-dead-Samsung-s-AI-fridges-shut-down-after-update-causes-outrage.1406447.0.html) `HN`
+- [Yapay zeka bir uzaylı değil, bizim yavrularımız: Uyum sorununu yeniden çerçevelemek](https://sovereignintelligence1313mhz.substack.com/p/the-titan-dilemma) `HN`
+- [OpenAI, ajanlar ABD Hükümeti tesislerini inceledikten sonra en son modellerin eğitimini durdurdu](https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20) `HN`
+- [Sakai Chemical, Geyşa Yüz Boyasından Sunuculara Yapay Zeka Linchpin Olarak Ortaya Çıkıyor](https://www.bloomberg.com/news/articles/2026-09-27/from-geisha-face-paint-to-servers-sakai-chemical-emerges-as-ai-linchpin) `HN`
+- [Dil Olarak Kayış Takımı](https://academy.dair.ai/papers/harness-as-a-language-a-minimalist-agent-framework-with-maximal-expressivity-2609.26891) `HN`
+- [Araştırmacı, tarihi yapay zeka inşasının finansmanının ABD'de sistemik riskleri artırdığını söylüyor](https://www.reuters.com/business/finance/financing-historic-ai-buildout-raises-systemic-risks-us-researcher-says-2026-09-24/) `HN`
+- [Show HN: Ghostfox – Yapay zeka temsilcileri için kendi kendine barındırılan gizli tarayıcı](https://github.com/autokeren/ghostfox) `HN`
+- [Gösteri HN: ParkourNote – Claude ile bir ayda tek başına inşa edilen bir araştırma çalışma alanı](https://note.parkourlabs.io/) `HN`
+- [Show HN: UI/UX tasarımcılarımızı kovmamıza yardımcı olun](https://vosu.ai) `HN`
+- [Yapay Zekanın Kambriyen Patlaması](https://debarshibasak.github.io/readables/blogs/cambrian-explosion) `HN`
+- [Yapay Zeka Patlamasının Patlamak Üzere Olduğunu Nasıl Anlarsınız?](https://www.wsj.com/finance/stocks/how-to-know-when-the-ai-boom-is-about-to-go-bust-61af3d26) `HN`
+- [Yaşlıların tıbbi bakımını onaylamak/reddetmek için WISeR AI kullanan Medicare yöneticisi](https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/) `HN`
+- [Scott Alexander'a Açık Mektup](https://quillette.com/2026/09/26/an-open-letter-to-scott-alexander-steven-pinker-ai-alignment-safety/) `HN`
+- [YAPAY Zeka Hızlandıkça, Hükümetler Giderek Geride Kalıyor](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html) `HN`
