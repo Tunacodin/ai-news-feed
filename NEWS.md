@@ -1731,3 +1731,36 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Karşınızda noktalar](https://openai.com/index/introducing-dots) `RSS`
 - [NVIDIA Kumo Tabular, Tabular Tahmin için Yeni Bir Doğruluk - Verimlilik Sınırı Belirledi](https://huggingface.co/blog/nvidia/kumo-tabular) `RSS`
 - [Sadece Gerçeği Değil, Kaynağı Doğru Anlamak: MHP Temsilcileri için Kaynağa Duyarlı Doğrulama](https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source) `RSS`
+
+- [McDonald's, Burgerlerini Dinamik Olarak Fiyatlandırmak İçin Yapay Zekayı Kullanıyor](https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac) `HN`
+- [Trump, ABD hükümetine yapay zekayı "Süper İstihbarat" olarak adlandırmasını emret](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) `HN`
+- [Önbellek Geçersiz Kılma Simülatörü](https://www.induction.ai/blog/cache-invalidation) `HN`
+- [AMD, World Labs AI girişimini satın alarak Nvidia'ya karşı bahsi artırdı](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/) `HN`
+- [Hava mürettebatında radyasyona bağlı kanser ölümleri diğer mesleklere göre daha yaygın](https://www.abc.net.au/news/health/2026-09-30/pilots-flight-attendants-radiation-cancer-death/107175724) `HN`
+- [Trump ve büyük yapay zeka yöneticileri "ahlaki açıdan bağlayıcı" gönüllü kontroller imzaladı](https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/) `HN`
+- [Yeni ABD Hükümeti yapay zeka sohbet robotu yakında "harekete geçmenize izin verecek"](https://lifehacker.com/tech/what-is-america-dot-gov) `HN`
+- [Show HN: The Activity Monitor for the AI Era (Gösteri HN: Yapay](https://cortexformac.com/) `HN`
+- [NASA, Birkaç Eski SR -71A Personelinden Gizli Yeniden Başlatma – Havacılık Haftası'na Yardım Etmelerini İstedi](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart) `HN`
+- [Kurcalamak İçin Zaman Yok – Yapay Zeka Linux Çekirdeğini Bulup Sömürebilir mi?](https://xbow.com/blog/no-time-to-pwn-cve-2026-72018) `HN`
+- [Yapay Zeka Riski için Çok Kültürlü Çok Modlu, Çok Dilli Bir Kıyaslamaya Doğru Pluralis](https://arxiv.org/abs/2607.06196) `HN`
+- [GPT-6.1 Astra Temellendirildi: OpenAI'nin Güvenlik Kararı Yapay Zeka Yarışını Duyurdu](https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3) `HN`
+- [Drift: Keşfettikçe büyüyen bir yapay zeka fikir haritası. Kullanımı ücretsiz](https://www.echohive.ai/drift) `HN`
+- [Show HN: Raspberry Pi5 'te 4B modeliyle kendi kendini iyileştiren yapay zeka asistanı](https://www.phntmcore.com/) `HN`
+- [CodeCrab – Yapay zeka kod incelemeleri için yerel ilk masaüstü uygulaması](https://www.codecrab.ai/) `HN`
+- [OpenClaw Enterprise](https://openclaw.ai/blog/openclaw-enterprise) `HN`
+- [Güvenilir AI Otomasyonu doğru yapıldı (bu sefer bir model değil)](https://skeptical.io/) `HN`
+- [Yapay zeka aldatmacası ve histerinin durumu hakkında bulduğum en iyi açıklama [video]](https://www.youtube.com/watch?v=claxN4oxDuY) `HN`
+- [Albay JD AI Codec Konuşması [video]](https://www.youtube.com/watch?v=eKl6WjfDqYA) `HN`
+- [Yapay Zeka Çağında Yazılım Yatırımı ve Daha Yavaş Büyüme](https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/) `HN`
+- [AMD, Linux7.4 ile Radeon iGPU'lar için AI/LLM Performansını % 18~23 'e Kadar Artırıyor](https://www.phoronix.com/review/amd-perfopt) `HN`
+- [Yapay Analiz - GPT-6.1 Sol, 7 Gün Sonra 6 Sol'un Yerini Alır](https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence) `HN`
+- [N.L.' deki yapay zeka veri merkezleri? Enerji Bakanı, kapının "iş için açık" olduğunu söyledi](https://www.cbc.ca/news/canada/newfoundland-labrador/ai-data-centres-nl-9.7361381) `HN`
+- [Trump, yapay zekayı "süper istihbarat" olarak yeniden adlandıran emri imzalayacak](https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/) `HN`
+- [Sıçanlar sürekli birbirleriyle konuşurlar. Boston kulak misafiri olmak için yapay zekayı kullanıyor](https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology) `HN`
+- [Show HN: Fab – AI ajanları için hızlı bir tarayıcı CLI](https://github.com/ianks/fast-agentic-browser) `HN`
+- [OpenAI, güvenlik endişeleri nedeniyle yeni yapay zeka modelinin lansmanını iptal ettikten sonra "Dots" aracısını duyurdu](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5) `RSS`
+- [OpenAI, aldatıcı modeli rafa kaldırdıktan sonra sevimli, "yetenekli" yapay zeka ajanlarını piyasaya sürdü: San Francisco Standardı](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zNlB2b0hnX25rZzV3T0lGUDJxNFZxYkh2N01YUll3dzZBUHlGQU15bFNVUEtxRmhVMmlHTEtYeTltUUpmMERIMXc5SGtsU01wMUhicS1ocmNjOTdQdVdkUTRXNnc1QQ?oc=5) `RSS`
+- [İZLEYİN: Trump, yapay zeka destekli hükümet web sitesi America.gov'u başlattı - PBS](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMF9icEh5NWQyS25tazVXcnRRdzlGOTBucFVvZXBJZkRNTjNUZDRYbzVXZ0dRcGZvMGpINFhCNVowYWVNeVhuYWNSSjlVai1PMUFETzdaRU5OT2hkVEotSWxTOXJSSU81ejNCdnc4Q1RuR2x3Uk5NTVVNNEkxQVd1aUxJZ0ZCbEtXVXNqbTUwMEl6ZjJ3SkJoQkdqZ0VCMHAwVFHSAacBQVVfeXFMTmNHazdrbEpHVTZIRmRkeGFXU3RwYU94QnROckpYNkxNSjZobW9zRHd2c1FadlVOUGFCMF9xdFJrSlJKT0RrRFloNnc4ejRRUE44Vlg5eE1YTDJycTVQNXRBd01GUFh3OTBCb0huNkl0Y05oc2VMT2xKelF1TWJTYVcxS3lMeE9hVDByb3U2WnNYMUdGWEhsZzVWd1pHWW1FaDRQVW8tS2s?oc=5) `RSS`
+- [FedScoop: Trump, hükümet hizmetlerini birbirine bağlamak için yapay zeka destekli America.gov'u başlattı](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQlZaYkh1YklXSTY4NG8zS1pyX2ZoSVltVjgwVXo5cGpYYzNLMWJ3TTJCQks2UEU2WlR1aVJsTEVGRWtMMkFuaWo3ekVGeTl3U2o0d2NZT1dENi1EQksxREpOUDBKbms?oc=5) `RSS`
+- [OpenAI, DevDay Konferansı Öncesinde Son Model Sürümünü İptal Etti - Barron's](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKbmNrc19uSEFGdENVbENIeVB1MXNSekpQWWZiTVdpaFVwRjdiSmR1clNkZEVPY1hEVGNZbTJVOWNITXEzT2x2RFZxampLdVNseDFlTVJWMXVoVFQ0dHV6X0xDYmsxMjlGY2ZSSnhubTdNb1A2Tm01QkdR?oc=5) `RSS`
+- [Sam Altman, OpenAI'nin yeni yapay zeka kişisel menajeri "Dots" ı tanıttı: CBS News](https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRjZqS3R6VW1rR1UtMU9raVlfRnR0OFNZV1dGSWhIVDZYelFabjdjWTl3cmxMcEprRDQ0bDQzb2dxQUEzWk9GMS0wNU9SdG8yczRnTzh2WUxNWDdJVkFEaGZBcTZyMVJiOFpZQkFwTlVTY00tancyb25NWlpWc3M?oc=5) `RSS`
