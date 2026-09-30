@@ -1858,3 +1858,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [BBC: OpenAI yapay zeka asistanı 'noktaları' açıklarken, güvenlik endişeleri yeni modeli geciktiriyor](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R0gxZ2RzNURmYjgwTUVuemhuT201TFc5a2FjaFRqMXo2OXUwck8yNTFraEtkY2swOWdIb2liQXZGVTRrTGFhVV82S2JBRFJybExmQ28zcGdaT1U?oc=5) `RSS`
 - [Küçük işletmelerin yapay zekayı çalıştırmasına yardımcı olmak](https://openai.com/index/helping-small-businesses-put-ai-to-work) `RSS`
 - [Açık TTS Liderlik Tablosu: Çok Dilli Metin - Konuşma ve Ses Klonlama için Ölçeklenebilir Değerlendirme](https://huggingface.co/blog/open-tts-leaderboard) `RSS`
+
+- [Yapay zeka kullanımı arttıkça güvenlik açığı açıklamaları ayda iki kattan 10 bine çıkıyor](https://therecord.media/google-vulnerabilities-cyberattacks-ai) `HN`
+- [Numerai: Borsayı tahmin etmek için bir yapay zeka bilimcisi olan mimar](https://numer.ai/) `HN`
+- [Show HN: Perspica – Kodu gözden geçirmek için anlamsal bir fark](https://github.com/sshah03/perspica) `HN`
+- [Yapay zeka temsilcilerinin üretime girmesine izin verir miydiniz?](https://incident-arena.com/) `HN`
+- [Max Tegmark ile yapay zeka için daha iyi bir yol](https://www.youtube.com/watch?v=C-pWm59Oyqg) `HN`
+- [Bir soruyu yapay zeka ile dallanmış bir fikir haritasına dönüştürün](https://www.echohive.ai/drift) `HN`
+- [America.gov AI Paskalya Yumurtası? "minecraft oyna" yazın](https://www.facebook.com/AnthonyDavidAdams/posts/breaking-head-over-to-america-gov-and-type-play-minecraft-in-the-ai-chat-bot-and/10122353973499797/) `HN`
+- [Yapay Zeka Yoluyla Kendinizi Eskimiş Hale Getirmek İçin Pratik Bir Kılavuz](https://ana15.substack.com/p/a-practical-guide-to-making-yourself) `HN`
+- [Yapay zeka tarafından üretilen proteinlerin işlevini koruyan filigranlama](https://www.nature.com/articles/s41586-026-10965-y) `HN`
+- [İkizler 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) `HN`
+- [OpenAPPA: Etmenleri kırmayan deterministik korkuluklar](https://github.com/archestra-ai/OpenAPPA) `HN`
+- [CafeBench: Sol 6.1 çok değerli, ancak Opus seviyesinde değil](https://www.getdot.ai/blog/cafe-bench-gpt-6-1-sol-sonnet-5-5) `HN`
+- [CS240 Yapay Zeka Hile Retrospektifi](https://turkeyland.net/thoughts/ai.php) `HN`
+- [Coop: Gönüllüler tarafından önceden eğitilmiş küçük bir dil modeli](https://github.com/commonsense-ai/coop) `HN`
+- [Fabrika Yapay Zeka ve Biliş (Devin)](https://twitter.com/ScottWu46/status/2105360290993115469) `HN`
+- [Trump'ın Yapay Zekayı Süper Zeka Olarak Yeniden Adlandırma Çabası Daha Büyük Bir Komplonun Parçası mı?](https://gizmodo.com/is-trumps-push-to-rename-ai-to-super-intelligence-part-of-some-bigger-conspiracy-2000819480) `HN`
+- [Devletin Yapay Zekalı Sohbet Robotu, Gerçekleri Kontrol Etmeyi Durdurmak İçin Yeniden Programlandı](https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies) `HN`
+- [Kabul Edilebilir Makineler: belgelenmiş bir yapay zeka destekli sanrı vakası](https://cameronmpalmer.com/blog/agreeable-machines/) `HN`
+- [ABD ticaret düzenleyicisi yapay zeka devleri hakkında soruşturma başlattı](https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai) `HN`
+- [Yapay zeka iş başvurusunu bozdu. Onun yerini ne alır?](https://news.ycombinator.com/submit) `HN`
+- [Show HN: Söve AI - Grup Görüşmeleri için Sesli Temsilciler](https://twitter.com/sharat_sc/status/2100638882341486961) `HN`
+- [UAI – AI temsilcilerinin kimliği ve hesap verebilirliği için açık bir protokol](https://github.com/rodmontiel/uai) `HN`
+- [OpenAI, yapay zeka güvenlik endişeleri nedeniyle halka arzı geciktirdi](https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/) `HN`
+- [Show HN: Halv, JEV kullanarak AI ajan maliyetini % 57,1 azalttı](https://halv.ai/blog/halv-swe-rebench-astra-42-pairs/) `HN`
+- [192 GB Ryzen AI Max 400 ile Framework Masaüstü ön sipariş için piyasaya sürüldü](https://frame.work/de/en/products/desktop-diy-amd-aimax400/configuration/new) `HN`
+- ["İyi" Yapay Zeka](https://thoughts.wyounas.com/p/what-does-good-ai-mean) `HN`
+- [Ajan, ağınız: Meta'nın Muse ajanı Tailscale ile nasıl çalışır?](https://tailscale.com/blog/meta-muse-ai-agent-tailscale) `HN`
+- [Google, en gelişmiş yapay zeka modeli olan Gemini 4 Argon'u piyasaya sürdü: CNBC](https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RWVHRldQeDcwbUo2d1FlaUEza2FnMFJZX0xuRGtGZWFyamU4TTJfM09MWHhVeDB1X0o1Y2d2VzJzeFZiQi0zOThLZkdDX1VvWnNTUkxmLXFWa1U5bHotNEliUm83M1htWWNGcWR30gFzQVVfeXFMUDZ2SVZ0VVhMa01TVnJ4UXN2Yk9VQXBadXlobU5wY0hyUndwNzFBT19kNnVzTzZ6Z3JIa253TmdubVdSYXBoNU9hNHYwNDE4TzRkZXlOdzJ2OXRxc2hNSDB5TzFfRmNIR2tpbXBwb3psTHZ6RQ?oc=5) `RSS`
+- [Google'ın yeni Gemini 4 Argon modeli, şirketi yapay zeka sınırına geri getirebilir - businessinsider.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjhXNFB6ekptRTRrZW1GY0lVRHhBMWZjSzlWeDZGVDJKdjJQczd6YXdHWS0wWDdHNnB4SWh2WUxVZHkxVEZsNngxSlp5WmxvOFV4eHpyYTQ5LWY2NnN1c0xIbVJlLXQtcjZSWWJEOC1sTHZwN3VhTUg2RXQ1TnNjWGlwdU4zWlZ5Ym96bXNSbU5pMDQ5eW9HX1ZxbFpQV0VrV3JUOVZVWVlEOWM1Ui12eQ?oc=5) `RSS`
+- [Eski Genentech, Meta ve AWS AI liderleri, 500 MİLYON $ destekle sağlık AI laboratuvarını başlattı - Fierce Healthcare](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDY1bWJHTFc4REktRWs1Sno5S1FtZGQ0by16WXNoMy1GZDc5OVdhUVR6dkxYb0x1ZEkxSVo2T2cxNDdsaGxZLUpvOE1CcUxzMUt5UVVuZkJyNUd6Q1JiU3NhcTBGWHdVY2RCWFpNaE1rVWJfZ2dNb2NqOWRFaTVHU1oteldjb1ZGaTgwSFNWMVlER0MtYndqMVB3SGNvOWs2UWF5RUdrSjU4UUlqekZseklpV1J2aUstSWo5Vy1BSkU?oc=5) `RSS`
+- [Predactiv, Metin İçin Değil, İnsanlar İçin Oluşturulan İlk Yapay Zeka Vakfı Modellerinden Biri Olan İnsan Modelini Tanıttı - PR Newswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdEpna0NLVUhWN2hIeVhqMXhWWV94Tzd6VjBFNklKOGtRMTBkdVkxWkJMVHMwd05rZ0JaeFMwQ09sTmtiSEM3WmEydmVscVMxOFZkZHBqdkxhNlBzdFBucUQwYTVRRlBKbTJRcGxSeHNrRTVERUdRc1g2SHA4SUZTUkN1bUpFMDZ4bGdrWFVEczgzQ0Nvbm1KTUJsNFpKa1VnSDY1Q3Z4bzM1V19DR2s0Zm9VbHF1OE1fUlFYY2JBbENUd0Q1eUZaX0dKT3QwZ2djd0NTcnMyTHNtVGhDRy1wakdOODFwU0ZvSFdpSGVB?oc=5) `RSS`
+- [Google, aylar süren gecikmelerin ardından Gemini 4 'ün amiral gemisi yapay zeka modelini duyurdu](https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5) `RSS`
+- [Koordineli bir model - damıtma kampanyasını bozmak](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) `RSS`
