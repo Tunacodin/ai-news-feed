@@ -1791,3 +1791,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Karmaşık hastalardaki artış, ekstra maliyetlere yaklaşık 1 milyar $ ekliyor](https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs) `HN`
 - [OpenAI, güvenlik endişelerini gerekçe göstererek AI modeli GPT-6.1 Astra'nın piyasaya sürülmesini iptal etti - Al Jazeera](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5) `RSS`
 - [OpenAI, Güvenlik Endişeleri Üzerinden Son Modelin Yayınlanmasını Geciktirdi - WIRED](https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDRCMUhVaW5uakxZWTdBREY5X2RtTkNvY3NUVGJ0VXhCQUV4bmNnUG83TFZJYkp1TGMwdjlOWkh5MUx6bDFkTVlLVnpFZjRvQjNoZU9GTDBzSkhIUm5fNlh4dEwxNTgtRTRZWExQNE41TFpVQUZta0JCQVBmVkROUURyQWxRenA1UzNqNGF5dmY?oc=5) `RSS`
+
+- [Show HN: HairColorChangeAI – Tarayıcıda AI saç rengi denemesi](https://haircolorchangeai.com/) `HN`
+- [Ay Sonunda Yapay Zeka Ajanslarından Oluşan Bir Ekip Nasıl Yönetilir?](https://adaptiveinc.com/blog/01a0d880/how-to-manage-a-team-of-ai-agents-at-month-end) `HN`
+- [Yapay Zeka Çağında Kariyerinizi Geleceğe Nasıl Kanıtlayabilirsiniz?](https://www.noemamag.com/why-a-liberal-arts-education-will-soon-be-more-valuable-than-ever/) `HN`
+- [OpenAI DevDay 2026 'dan Nasıl Para Kazanılır?](https://aiextracash.com/tools/chatgpt/openai-devday-2026-money-opportunities/) `HN`
+- [Zalim Yapay Zeka Yazılı Testleri](https://gruhn.me/blog/2026-09-29/) `HN`
+- [Agda Uygulayıcıları Toplantısı Xliii](https://wiki.portal.chalmers.se/agda/Main/AIMXLIII) `HN`
+- [Sohbet merak için yanlış bir şekil, bu yüzden onu dallandırdım](https://www.echohive.ai/drift) `HN`
+- [Yapay zeka modelleri, teknoloji şirketlerinden gelen hassas verileri gösteren ekran görüntülerini yayınlamaya devam ediyor](https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640) `HN`
+- [Yeni Sınırlar](https://www.proximal.ai/blog/new-frontiers/) `HN`
+- [CAISI'nin Z.ai'nin GLM-5.3 Siber Yeteneklerine İlişkin Değerlendirmesi](https://www.nist.gov/news-events/news/2026/09/caisis-assessment-zais-glm-53-cyber-capabilities) `HN`
+- [Yapay zekadan ne istiyorsunuz?](https://www.anthropic.com/research/your-thoughts-on-ai) `HN`
+- [Gösteri HN: Anksiyete Kontrol Listesi – 3 yıllık yineleme, henüz başarılı değil](https://anxietychecklist.com/) `HN`
+- [Liquid AI karar modeli D1 'i yayımladı](https://docs.liquid.ai/lfm/models/decision-models) `HN`
+- [HN: Instapath'ı gösterin – kişisel temsilcinizin bir şeye ihtiyacı var, başka bir temsilcide var](https://instapath.ai/) `HN`
+- [Bir Trump ekibi USWDS erişilebilirlik testini otomatikleştirmek istiyor. Uzmanlar endişeli](https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/) `HN`
+- [Simon'ın 1961 Sezgisel Kodlayıcısı: İlk Yapay Zeka Programlama Asistanı](https://drive.google.com/file/d/1LU4d2h89_yyjH4_h61HCuiVakXllupt4/edit) `HN`
+- [Show HN: Runtape – AI ajanları için karşı olgusal hata ayıklama ve regresyon testleri](https://github.com/RehanMohammed985/runtape) `HN`
+- [Studlark AI Grup Çalışması SaaS Uygulaması](https://www.sideprojectors.com/project/97176/studlark) `HN`
+- [OpenAI, Hızlı Yapay Zeka Seçimleri için Karar API'sini Başlattı](https://x.com/i/trending/2105154696566501872) `HN`
+- [McDonalds, her restoranda yapay zeka tahmini "müşteri ödeme istekliliğine" sahip](https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/) `HN`
+- [Sone 5.5 Artık Endişelenmiyor. Ayrıca Kimsenin Sorumlu Olduğunu Düşünmüyor](https://persona.earthpilot.ai/changelog/claude-sonnet-5-5) `HN`
+- [Açık kaynaklı yapay zeka platformları Çin'in Sarılan Yüzü olmak için yarışıyor](https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/) `HN`
+- [Temsilciler Birbirlerine Notları İletebildiklerinde Daha İyi Çalışırlar](https://www.deeplearning.ai/the-batch/agents-work-better-when-they-can-pass-each-other-notes) `HN`
+- [OpenAI ajanları, Avustralya'da güvenlik atlamaları ve kaynak kodu sifonuna teşebbüs etti](https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666) `HN`
+- [Blue Cross sigortacıları, yapay zeka araçlarının ekstra maliyetlerde yaklaşık 1 milyar $ ürettiğini söylüyor](https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/) `HN`
+- [Fateshow – önce grafikler, ardından kontrol edebileceğiniz yapay zeka okumaları](https://www.fateshow.site) `HN`
+- [Astroforge gelecek yıl yapay zeka kullanarak bir uzay aracını otonom olarak uçuracak](https://spacenews.com/astroforge-to-test-full-spacecraft-autonomy-using-ai/) `HN`
+- [DeepGEMM - Yükselme: Huawei Ascend NPUs Matrix Multiplication Kernel Library](https://github.com/deepseek-ai/DeepGEMM-Ascend) `HN`
+- [OpenAI, Güvenlik Endişeleri Üzerine En Yeni Astra AI Modelini Yayınlamayacağını Söyledi - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5) `RSS`
+- [Karşınızda noktalar - OpenAI](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5) `RSS`
+- [Al Jazeera: OpenAI,"her şeyi idare etmek için inşa edilmiş" kişisel yapay zeka asistanı " Dots'u piyasaya sürdü](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbElaX2w0Mm1NdWkyVGJyWlNoQkUydU1qV2VXdm0xak1wSklubW9UX0F2aHZvX3VSTDVBQm5feTNSUW1tUVRSc25FWnBDY1dQQTAtZUhTMXJRSnpZaDZNWG9PM3FxYWdLTXhhd0g1dlg4VlZQc2RxVWlEOWtpcURrTmdwSUJpcnp5RHI5T2doOU9hQS1EWnEzNFppQzN4NnJ2OTFkbFNlbWFJbVd0Q1pGUmxGMNIBuAFBVV95cUxOWk1hVnRJTVNuTFpCd1lYQTk2ZEhwRjRESmFlSDFiRXFQdFNXQXVCWURqVDliYUlYR3VBMHVzZElYYmRVZGRfRkNrQ2lKd0pHWjVDbU5Xc2xlcC1VeWZkUkZMbElPUmFGWndzOFlVNkNuUk8yQnVQYWw3TzBwWHBLaEt4bDFFNjY5RWthZXlaV3gyQlJBcHRtRWFtNjdmeFJKZUI4RjVrOVJpOWRMaXg0VW1rUlBHQnpS?oc=5) `RSS`
