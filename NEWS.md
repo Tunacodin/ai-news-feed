@@ -1764,3 +1764,30 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [FedScoop: Trump, hükümet hizmetlerini birbirine bağlamak için yapay zeka destekli America.gov'u başlattı](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQlZaYkh1YklXSTY4NG8zS1pyX2ZoSVltVjgwVXo5cGpYYzNLMWJ3TTJCQks2UEU2WlR1aVJsTEVGRWtMMkFuaWo3ekVGeTl3U2o0d2NZT1dENi1EQksxREpOUDBKbms?oc=5) `RSS`
 - [OpenAI, DevDay Konferansı Öncesinde Son Model Sürümünü İptal Etti - Barron's](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKbmNrc19uSEFGdENVbENIeVB1MXNSekpQWWZiTVdpaFVwRjdiSmR1clNkZEVPY1hEVGNZbTJVOWNITXEzT2x2RFZxampLdVNseDFlTVJWMXVoVFQ0dHV6X0xDYmsxMjlGY2ZSSnhubTdNb1A2Tm01QkdR?oc=5) `RSS`
 - [Sam Altman, OpenAI'nin yeni yapay zeka kişisel menajeri "Dots" ı tanıttı: CBS News](https://news.google.com/rss/articles/CBMif0FVX3lxTE9tRjZqS3R6VW1rR1UtMU9raVlfRnR0OFNZV1dGSWhIVDZYelFabjdjWTl3cmxMcEprRDQ0bDQzb2dxQUEzWk9GMS0wNU9SdG8yczRnTzh2WUxNWDdJVkFEaGZBcTZyMVJiOFpZQkFwTlVTY00tancyb25NWlpWc3M?oc=5) `RSS`
+
+- [Show HN: Reflex Engine, Cold - Start ile TTFT'de hem Llama.cpp hem de vLLM'yi yener](https://github.com/lateos-ai/reflex) `HN`
+- [Diffsmith AI Kod İnceleme Aracı](https://apps.apple.com/us/app/diffsmith-code-review-studio/id6787073815?mt=12) `HN`
+- [LabBench: Yapay zeka temsilcileri bundan sonra hangi deneyin yapılacağına karar verebilir mi?](https://gamowlabs.com/labbench-benchmarking-ai-wet-lab-decisions.html) `HN`
+- [Çin, en iyi yapay zeka yetenek ailesini kapsayacak şekilde seyahat sınırlarını genişletiyor](https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html) `HN`
+- [Model Kolay Yarımdır](https://github.com/wilsonwu-ai/the-model-is-the-easy-half) `HN`
+- [Moloch: Tristan Harris'in yapay zeka yarışıyla ilgili yeni uyarıcı kısa filmi [video]](https://www.youtube.com/watch?v=Q4aUidMZxbs) `HN`
+- [VIBE Kodlama Keşfi – Ajanlar, MHP, Beceriler, RAG için AI OSS Kataloğu](https://vibecodingdiscover.com) `HN`
+- [Show HN: InfiniHash App Store – AI temsilcileri tarafından uçtan uca oluşturulmuş uyumluluk araçları](https://apps.infinihash.com/) `HN`
+- [Her gece 600.000 canlı iş ilanı sayıyorum – 34.000 'i bir yaşın üzerinde olduğunu iddia ediyor](https://jobs.tun-ai.com/insights) `HN`
+- [Çinli yapay zeka aracı araştırmacılara biyolojik silahların nasıl yapılacağını anlattı](https://www.bbc.com/news/articles/cmrergq3j7lgo) `HN`
+- [Yapay zeka matematik yapma şeklimi değiştiriyor ve değiştirmiyor](https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/) `HN`
+- [Serbestçe İnşa Et: AI Tasarrufu Olmayan Plan Oluşturucu](https://buildfreely.com/) `HN`
+- [Firefox'un şefi, neden yeniden tasarımın Chrome kullanıcılarını kazanmaya yardımcı olacağını umduğunu açıkladı](https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/) `HN`
+- [Inspect: Büyük dil modeli değerlendirmeleri için açık kaynaklı bir çerçeve](https://inspect.aisi.org.uk/) `HN`
+- [Meclis üyesi, sakinler evlere verilen yapay zeka "yanıklık puanlarını" geri püskürtüyor](https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/) `HN`
+- [McDonald's yapay zekası yakındaki insanların bunu karşılayabileceğini düşünürse Big Mac'iniz daha pahalıya mal olabilir](https://www.neowin.net/news/your-big-mac-might-cost-more-if-mcdonalds-pricing-ai-thinks-people-nearby-can-afford-it/) `HN`
+- [Sendika, yapay zekanın riskleri işaretlediği konusunda uyardı: "Yapay zeka öğretmenlere yardımcı olmalı, onların yerini almamalı"](https://www.rnz.co.nz/news/education/1656575/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking) `HN`
+- [Show HN: AI ajanlarının deponuzu yıkmasını engelleyen kurallar](https://github.com/idk-arsh/data-agent-rules) `HN`
+- [Dizin 0 – Programlama için yapay zeka destekli öğrenme](https://www.youtube.com/watch?v=YhavzsLUOS0) `HN`
+- [Yapay Zeka Balonu Açıkladı](https://hughhowey.com/the-ai-bubble-explained/) `HN`
+- [Quail: Sorgu planlayıcı ve çıkarım motorunu ortaklaşa optimize ederek AI - SQL'i hızlandırın](https://modal.com/blog/quail-billion-tpm) `HN`
+- [On bir v4: Şimdiye kadarki en etkileyici metin okuma yapay zeka modelimiz](https://elevenlabs.io/blog/eleven-v4) `HN`
+- [Yapay Zeka Slop Dünyasında Nasıl Öne Çıkılır? Yeşil Tek Boynuzlu At Ol](https://sajit.substack.com/p/how-to-stand-out-in-a-sea-of-ai-slop) `HN`
+- [Karmaşık hastalardaki artış, ekstra maliyetlere yaklaşık 1 milyar $ ekliyor](https://www.bcbs.com/about-us/association-news/bcbsa-analysis-ai-coding-tools-affects-healthcare-costs) `HN`
+- [OpenAI, güvenlik endişelerini gerekçe göstererek AI modeli GPT-6.1 Astra'nın piyasaya sürülmesini iptal etti - Al Jazeera](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5) `RSS`
+- [OpenAI, Güvenlik Endişeleri Üzerinden Son Modelin Yayınlanmasını Geciktirdi - WIRED](https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDRCMUhVaW5uakxZWTdBREY5X2RtTkNvY3NUVGJ0VXhCQUV4bmNnUG83TFZJYkp1TGMwdjlOWkh5MUx6bDFkTVlLVnpFZjRvQjNoZU9GTDBzSkhIUm5fNlh4dEwxNTgtRTRZWExQNE41TFpVQUZta0JCQVBmVkROUURyQWxRenA1UzNqNGF5dmY?oc=5) `RSS`
