@@ -1823,3 +1823,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OpenAI, Güvenlik Endişeleri Üzerine En Yeni Astra AI Modelini Yayınlamayacağını Söyledi - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5) `RSS`
 - [Karşınızda noktalar - OpenAI](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MVUVlaTV5ZFFBUnVJMFZDWTJIRGg5R20zQXpKU0tENk5PMXR0TEZ0N2VqRXpsOHdrazZKYS1QaUFNZ2tzN0c4Tnk0UjBjRmtFX0RjRw?oc=5) `RSS`
 - [Al Jazeera: OpenAI,"her şeyi idare etmek için inşa edilmiş" kişisel yapay zeka asistanı " Dots'u piyasaya sürdü](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbElaX2w0Mm1NdWkyVGJyWlNoQkUydU1qV2VXdm0xak1wSklubW9UX0F2aHZvX3VSTDVBQm5feTNSUW1tUVRSc25FWnBDY1dQQTAtZUhTMXJRSnpZaDZNWG9PM3FxYWdLTXhhd0g1dlg4VlZQc2RxVWlEOWtpcURrTmdwSUJpcnp5RHI5T2doOU9hQS1EWnEzNFppQzN4NnJ2OTFkbFNlbWFJbVd0Q1pGUmxGMNIBuAFBVV95cUxOWk1hVnRJTVNuTFpCd1lYQTk2ZEhwRjRESmFlSDFiRXFQdFNXQXVCWURqVDliYUlYR3VBMHVzZElYYmRVZGRfRkNrQ2lKd0pHWjVDbU5Xc2xlcC1VeWZkUkZMbElPUmFGWndzOFlVNkNuUk8yQnVQYWw3TzBwWHBLaEt4bDFFNjY5RWthZXlaV3gyQlJBcHRtRWFtNjdmeFJKZUI4RjVrOVJpOWRMaXg0VW1rUlBHQnpS?oc=5) `RSS`
+
+- [Yapay Zeka Yarışı Garipleşti](https://insufferable.dev/posts/the-ai-race-just-got-awkward/) `HN`
+- [192 GB RAM'li Framework Masaüstü](https://frame.work/products/desktop-diy-amd-aimax400/configuration/new) `HN`
+- [Yapay Zeka Toplu Bir Felakettir](https://dogdogfish.com/blog/2026/09/30/ai-collective-disaster/) `HN`
+- [Yapay Zeka Üzerine Siyasetçiler](https://cesia.org/en/data/quotes/) `HN`
+- [HN'yi göster: Bakış – Yapay zeka ajanlarını oluşturma, değerlendirme ve izleme](https://github.com/vpanghal/glance-releases/releases/download/v0.2.0/Glance-0.2.0-arm64.dmg) `HN`
+- [Show HN: Karma Compass – Kar amacı gütmeyen kuruluşlar için yönetim kurulu](https://compass.karmahq.org) `HN`
+- [Inspect: Büyük dil modeli değerlendirmeleri için açık kaynaklı bir çerçeve](https://inspect.aisi.org.uk/) `HN`
+- [HN'yi göster: Eksik bellek katmanını oluşturarak web ajanlarını nasıl 3 kat daha hızlı hale getirdik?](https://blog.reduck.ai/browser-action-memory-layer-for-faster-agents/) `HN`
+- [Tüm Boyutlarda Kritik Olasılıkta Perkolasyon Yoktur](https://gilkalai.wordpress.com/2026/09/03/amazing-there-is-no-percolation-at-the-critical-probability-in-all-dimensions-solved-by-ai-via-a-conjecture-of-gady-kozma-and-shahaf-nitzan/) `HN`
+- [DoorDash, yapay zeka sipariş acentesi ve toplu sipariş API'sı için ABD bekleme listelerini açtı](https://about.doordash.com/en-us/news/doordash-ordering-connector) `HN`
+- [Başkan Trump ve üst düzey yapay zeka liderleri tarafından imzalanan taahhüt ABD'yi yanlış heceliyor](https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/) `HN`
+- [Yorumlar](https://claude.ai/anthropic-interviewer/your-thoughts-on-ai) `HN`
+- [Kontrol mühendisliği bana yapay zeka sistemleri oluşturma konusunda ne öğretti?](https://gerbenrijpkema.substack.com/p/what-control-engineering-taught-me) `HN`
+- [Google'ın 120 milyar $ kazançları bile yapay zeka harcamalarını geçemedi](https://mashable.com/tech/google-ai-bill-cash-flow-negative) `HN`
+- [10 işletmeden 7 'sinin satıcı tarafından oluşturulan aracı yapay zekayı 2028 yılına kadar terk etmesi bekleniyor](https://www.theregister.com/ai-and-ml/2026/09/30/7-in-10-enterprises-expected-to-abandon-vendor-built-agentic-ai-by-2028/5300021) `HN`
+- [Show HN: GLYP – SSH aracılığıyla çizebileceğiniz ortak bir tuval](https://glyp.online/) `HN`
+- [Yapay zeka modellerimin çalıştığı (ve Slack off) bir izometrik ofis inşa ettim](https://github.com/s4ps4n/prompt-hospital) `HN`
+- [Temsilci Becerileri: Kurumsal Yapay Zekayı Geliştirmenin 4 Güçlü Yolu](https://devnavigator.com/2026/09/30/agent-skills-contextualized-execution/) `HN`
+- [Show HN: Bir e - tablodaki her hücreyi adlandıran bir uygulama](https://demo.graphcell.co.uk/?demo=1) `HN`
+- [Bill Gates'in yapay zeka hakkındaki sert uyarısı](https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html) `HN`
+- [Yapay Zeka Tekilliğinin Fiziksel Bir Versiyonu](https://economist.com/by-invitation/2026/09/29/theres-a-physical-version-of-the-ai-singularity-and-it-matters-a-lot) `HN`
+- [Show HN: Paperweight – yerel – ilk, açık kaynaklı e - posta temizleme ve gizlilik aracı](https://github.com/wslyvh/paperweight) `HN`
+- [Gösteri HN: Ajanlar için Yanan Adam](https://burning-tokens.transitivebullsh.it/) `HN`
+- [Yapay Zeka CEO Paneli [video]](https://www.youtube.com/watch?v=DlTNN0gvkLM) `HN`
+- [Teknoloji Devleri, Gizli Yapay Zeka Veri Merkezi Anlaşmaları Hakkında Sorularla Karşı Karşıya](https://www.wsj.com/politics/policy/tech-giants-face-questions-over-secret-ai-data-center-deals-bdc9de98) `HN`
+- [Show HN: Tracelane.dev- OSS Rust LLM Gateway with a tamper - evident ledger](https://github.com/tracelane/tracelane) `HN`
+- [Yapay Zeka Tartışmasını Değiştiren Varsayım [video]](https://www.youtube.com/watch?v=ZUzfGELUOUo) `HN`
+- [Dikkat: Yapay zekayı bir yazılım geliştirme ekibi olarak kullanmanın gerçek riskleri](https://brettcodes.com/beware/) `HN`
+- [OpenAI, Kötülük Belirtileri Gösterdiğinde Yaklaşan Yapay Zeka Modelini İptal Ediyor - Fütürizm](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckR4b1NaU3lwbHcxQW9kYUVheGRNUE9FeWZJclYtendOV1dycGZydXM0YWkxcEFsb2drd01aQXRVemw5OGo0OWljdG5hcTBVOGdLWlVYVkVZeDRSYW1NQUNZQXhYNFI1WS1fQTBjM3dnYVVhSHBUcXRrRkhUaHZGakx2OGFIRVE4MHgw?oc=5) `RSS`
+- [Yeni bir AI hizmeti varsayılan olarak bilgi istemlerini veya yanıtları kaydetmez - Stock Titan](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHppLVVYRGh4Z0FtQXp1blZRcGEtYkdrRXZwa3dXN3ItWllsclRCLXFrRi0tT0RQNUF6WHd0UmJXN0JWdHlubk5QS1RQQ0lSNS02RDAzaXhaZXVkVjNnU0Q0VWFDWFctdDd1OG9qemZ3UWNNeW9uT2tmVU8wbGtFc2lza3lza1ZmaGhsNzZCampfWXhPdktHT2pKT3gtNEcwZWhnRTF5RUkzOExteThxcnM5SFN0d2dZQVk4a2tXc2k?oc=5) `RSS`
+- [Trump'ın yapay zeka destekli America.gov burada. DOGE mezunları tarafından inşa edilmiştir ve Grok üzerinde çalışır. - Mashable](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RYXNVWHJHVGVKSEZoOUFhMms0QmJIc1E0NEt2VkhmVnQwM2s0QTZ3VTROTXA1bGJUbUsxSDM2cmhXYXVYR0EwTnpLaFhObVdCSWFHN3dXak5SZ3hnbXNFcFNzNGM3bHoyQWMwa2ZhRC1oZjJ5S3k0cA?oc=5) `RSS`
+- [BBC: OpenAI yapay zeka asistanı 'noktaları' açıklarken, güvenlik endişeleri yeni modeli geciktiriyor](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4R0gxZ2RzNURmYjgwTUVuemhuT201TFc5a2FjaFRqMXo2OXUwck8yNTFraEtkY2swOWdIb2liQXZGVTRrTGFhVV82S2JBRFJybExmQ28zcGdaT1U?oc=5) `RSS`
+- [Küçük işletmelerin yapay zekayı çalıştırmasına yardımcı olmak](https://openai.com/index/helping-small-businesses-put-ai-to-work) `RSS`
+- [Açık TTS Liderlik Tablosu: Çok Dilli Metin - Konuşma ve Ses Klonlama için Ölçeklenebilir Değerlendirme](https://huggingface.co/blog/open-tts-leaderboard) `RSS`
