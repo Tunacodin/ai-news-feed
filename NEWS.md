@@ -1892,3 +1892,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Predactiv, Metin İçin Değil, İnsanlar İçin Oluşturulan İlk Yapay Zeka Vakfı Modellerinden Biri Olan İnsan Modelini Tanıttı - PR Newswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdEpna0NLVUhWN2hIeVhqMXhWWV94Tzd6VjBFNklKOGtRMTBkdVkxWkJMVHMwd05rZ0JaeFMwQ09sTmtiSEM3WmEydmVscVMxOFZkZHBqdkxhNlBzdFBucUQwYTVRRlBKbTJRcGxSeHNrRTVERUdRc1g2SHA4SUZTUkN1bUpFMDZ4bGdrWFVEczgzQ0Nvbm1KTUJsNFpKa1VnSDY1Q3Z4bzM1V19DR2s0Zm9VbHF1OE1fUlFYY2JBbENUd0Q1eUZaX0dKT3QwZ2djd0NTcnMyTHNtVGhDRy1wakdOODFwU0ZvSFdpSGVB?oc=5) `RSS`
 - [Google, aylar süren gecikmelerin ardından Gemini 4 'ün amiral gemisi yapay zeka modelini duyurdu](https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5) `RSS`
 - [Koordineli bir model - damıtma kampanyasını bozmak](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) `RSS`
+
+- [Para kazanmakla görevli yapay zeka ajanları internette dolandırıcılık yapıyor](https://twitter.com/andonlabs/status/2105391380973617644) `HN`
+- [Tobi Lütke, Shopify'daki yapay zeka temsilcileri ve işin geleceği hakkında [video]](https://www.youtube.com/watch?v=G9P9D9hptq8) `HN`
+- [Gemini 4 Argon: Google, elde edilen istihbarat açısından ilk üç laboratuvar arasına geri döndü](https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs) `HN`
+- [Yapay zeka sağlayıcılarına milyonlarca dolar ödendi, bu para daha önce nereye gidiyordu?](https://www.youtube.com/watch?v=sTnl8O_BuuE) `HN`
+- [Körfez Bölgesi en sıcak varlık piyasası olabilir. Bankalar para kazanmak için yarışıyor](https://www.sfchronicle.com/sf/article/san-francisco-banks-ai-wealth-22454895.php) `HN`
+- [192 GB Framework Masaüstü ön siparişe açıldı](https://frame.work/au/en/products/desktop-diy-amd-aimax400/configuration/new) `HN`
+- [Bill Gates yapay zekanın tehlikeleri hakkında konuşuyor](https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418/) `HN`
+- [Derleyici Olarak Yapay Zeka: Triton derleyicisi olmadan Triton çekirdeklerinin derlenmesi](https://arxiv.org/abs/2609.36800) `HN`
+- [Scott Aaronson röportajı, yapay zekanın bilim ve matematik üzerindeki etkisi üzerine [video]](https://www.youtube.com/watch?v=Qjgc9Hs5GKs) `HN`
+- [Google, yapay zeka tarafından tasarlanan proteinleri nasıl filigranla işaretleyeceğini buldu](https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/) `HN`
+- [ABD'de büyük şeyler inşa etmek zordur. Bir Senato anlaşması bunu düzeltmeyi amaçlıyor](https://www.washingtonpost.com/politics/2026/09/30/building-big-things-us-is-too-hard-senate-deal-aims-fix-that/) `HN`
+- [AI Pascal'ın Bahsi](https://ploum.net/2026-10-01-pascal_wager.html) `HN`
+- [Growth.engineer – Yapay zeka temsilcileri için incelenmiş, açık kaynaklı büyüme iş akışları](https://www.growth.engineer) `HN`
+- [Dokuz – tek ikili, WASM araçları ve kalıcı AI kablo demeti/çalışma süresi](https://github.com/djordlucas/nine) `HN`
+- [24 Boyutta Portakal İstifleme](https://www.empirical.health/blog/ai-math-sphere-packing/) `HN`
+- [Yapay zeka davet kodları ve yönlendirme kodları, canlı](https://aiinvitecode.com) `HN`
+- [Airbnb'de Geri Tepme](https://www.businessinsider.com/selling-vacation-home-airbnb-rental-real-estate-price-cuts-2026-9) `HN`
+- [Show HN: AI değil, yazdığınızı onaylayın](https://iwrote.co) `HN`
+- [Rogue AI Komitesi Duruşmasını İzleyin](https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/) `HN`
+- [170 milyar $ ders veri merkezi geliştiricileri zor yoldan öğrenmeye devam ediyor](https://www.fastcompany.com/91612143/ai-data-centers-local-communities) `HN`
+- [Strata: Normal bir oyun bilgisayarında 125B parametreli bir AI modeli çalıştırın](https://github.com/Niko1221/Strata) `HN`
+- [Y.Z. Devlerini Kontrol Etmek İçin Kitaplarda Çok Sayıda Yasa Var. Bunları Kullanın](https://www.nytimes.com/2026/09/30/opinion/ai-anthropic-amodei-self-regulation.html) `HN`
+- [CM AI Bağlantı Noktası: AI temsilcilerine doğru kapıyı çalmayı öğretmek](https://apartmamatevz.si/journal/posts/2026-09-30-cm-ai-docking-port-teaching-ai-agents-to-knock-on-the-right-door.html) `HN`
+- [Show HN: Yapay Zeka Temsilcilerinin "etiketlemesi" için dijital bir duvar yaptı](https://www.tomasmed.dev/wall) `HN`
+- [MLSys için Agentic GPU Programlama](https://mlc.ai/agentic-gpu-programming-for-mlsys/index.html) `HN`
+- [Gemini 4 Argon (Yüksek): Zeka, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/gemini-4-argon) `HN`
+- [Gemini 4 Argon: bir sonraki sınır zekası çağımız - blog.google](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5) `RSS`
+- [Google'ın En Güçlü Yapay Zeka Modeli Siber Savunuculara B2B Erişimi İçin İlk Sinyali Verdi - MarketScale](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFBmZTExMjlLbG53bnZiSVlzY1puM3BRakRtQTVkRHYzcFAycjZqdWIzV3J6VzY0ZXdSMHc5QlVmUXhrbWZmMFpBWVNkajhiUjIyemRraFpvVGdsZ2pfbTJlR3NLd05qa2lrRVdLa2UtNFRjTXBIVVpudS1MNHRxY2lBQVI2STNXaWJ0QW94QjRyRUllTDJfNnliSGhONG8?oc=5) `RSS`
+- [Google, güvenlik endişeleri nedeniyle yeni yapay zeka modeline erişimi kısıtlıyor](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkMxU1ZJWFRGUHNiTS1sb05NbnBzYWlpMHAxRFVKMzNYT1YyYjBjSHRrNlRmcmM5RUhudkZHcDJYMTlMR2dJNFlxSllBampGUk5YM0VQRzdleUFFQlZHVGpMYndkampqODE1WDF4Z25GVzVZRmxBeE9uYzVaTGtGbEZTeHlycnN5?oc=5) `RSS`
