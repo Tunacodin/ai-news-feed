@@ -1954,3 +1954,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Transkripsiyon kalitesi neden dalgalanıyor (ve nasıl düzeltilir)](https://wisprflow.ai/post/transcription-quality) `HN`
 - [Google'ın yeni sınır ötesi yapay zeka modeli Gemini 4 Argon, önce siber güvenlik savunucularına gidiyor - SiliconANGLE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcl9XLXZJUFFCVjU4Q3hLckpwZVJpX2Jrd1ZJeDdBUnB3Ri04bW16anhjbjJDVFhxR3c2QlJsUUdoNzNGcnZmS0FSWDdzR3oxTlJfbk56cHppeUExRWRiTUVBUUJ5OFIwOVBULW9rSDExUWZMdkJ3VEVxbXYtY2pFNHM5U3YzQl9YZGg3QU5YU2hBQlU3QUNyMmt5RzJuNHkwYkUtbkFNSml4VWdNRF9zSmc1RjJtczR3ODVv?oc=5) `RSS`
 - [Google, şimdiye kadarki en güçlü modeli olarak adlandırılan Gemini 4 Argon'u piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaThYZG00MENsWUtiaDkwbW44Z3BDNlNkcDRoSldzZGNBcnVEc3FSLVU3UXVRMDhtRmI0MnJXSnRsWC1IbEVtMVRnWlY2b3M2TnN1bkk5VURBNFp0RmtmU2JkZl94RC03c29OOTJuenJ2cS1BUFRlWDVEZExGLXVpRDZqd1B2OU5aMlVTbFVKc0xpMnZJYmgxeHNCMjZ5a2hYblE?oc=5) `RSS`
+
+- [Show HN: Yunanca öğrenirken Odyssey'i Yunanca okuyun](https://readwithgloss.com/texts/odyssey/1) `HN`
+- [Trump, yapay zeka şirketleri tarafından "muazzam bir öz düzenleme" çağrısında bulundu](https://www.nbcnews.com/politics/donald-trump/trump-host-summit-top-ai-leaders-washington-rcna599853) `HN`
+- [Show HN: Gerektiğinde derin muhakeme ile hızlı tarayıcı aracısı (Jev kullanarak)](https://github.com/ironbee-ai/ironbee-express) `HN`
+- [OpenID Vakfı: Agentic AI için Kimlik Yönetimi [pdf]](https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf) `HN`
+- [QBDS, Claude Kodu ve Figma MHP ile Ajan Ön Uç Yeniden Faktörleme](https://medium.com/quantumblack/what-changes-when-your-design-system-can-talk-to-an-ai-0a856b3c40d9) `HN`
+- [Gerçek Zamanlı Yapay Zeka Ajanları için Gauss Splat Avatarları](https://github.com/NavodPeiris/gsplat-talkinghead) `HN`
+- [Hotpath Bir AI aracısını bir kez kaydedin, deterministik bir iş akışı olarak yeniden oynatın](https://github.com/mourad-baazi/hotpath) `HN`
+- [Cloudflare AI Arama artık genel olarak kullanılabilir](https://blog.cloudflare.com/ai-search-ga/) `HN`
+- [Yapay zeka kullanılan ödüllü mikroskopi görüntüsü](https://www.nature.com/articles/d41586-026-03086-z) `HN`
+- [Show HN: Ekran görüntülerini yapay zeka ile aranabilir dosya adlarına yeniden adlandırın](https://www.nevorago.com) `HN`
+- [Endüstriyel Yapay Zekanızı Kim Takılı Tutuyor?](https://deploy95.substack.com/p/uptime-follows-the-maintainer-not) `HN`
+- [Kodeks Bulutu ve Yataktan Kalkmadan Önce Bir Hafta Çalışma](https://felipe.ai/notes/codex-cloud-a-week-of-work-before-getting-out-of-bed) `HN`
+- [Yapay Zeka TetayıÇözer (p_C) = 0](https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/) `HN`
+- [Yapay Zeka Ajanları İçeri Girdiğinde, Hükümetler Temizliğe Sıkışmamalı](https://www.techpolicy.press/when-ai-agents-break-in-governments-shouldnt-be-stuck-with-the-cleanup/) `HN`
+- [Stanislas: Ya yapay zeka 1984 'te hayal edilmiş olsaydı?](https://maicintosh.eu) `HN`
+- [Bir Robota Üç Nokta Dönüşü Öğretmek](https://www.atirobotics.ai/resources/blogs/teaching-a-three-point-turn/) `HN`
+- [Kurbağa ve Kurbağa ve Giderek Yetenekli Makineler](https://www.frogandtoad.ai/) `HN`
+- [Önde gelen Demokrat, yapay zeka firmalarından Çin'in hassas koda erişimi hakkında veri istiyor](https://www.reuters.com/legal/litigation/leading-democrat-asks-ai-firms-data-any-chinese-access-sensitive-code-2026-10-01/) `HN`
+- [Trump'ın "Ahlaki Olarak Bağlayıcı" Yeni Yapay Zeka Korkulukları Anlamsız Puding](https://www.techdirt.com/2026/10/01/trumps-morally-binding-new-ai-guardrails-are-meaningless-pudding/) `HN`
+- [Show HN: Tegaki – Herhangi bir yazı tipi için el yazısı animasyonu](https://tegaki.ink/) `HN`
+- [Japonya'daki 3 mühendis, HackerOne VDP'nin zirvesine çıkan bir yapay zeka pentester inşa etti (2026 3. Çeyrek)](https://layer8.jp/en/blog/hackerone-vdp-2026-q3-first-place) `HN`
+- [Çok Tehlikeli Bir Kum Havuzu](https://github.com/rakshazi/IISD-sandbox) `HN`
+- [Meta bir gecede tüm hesaplarını sildi](https://www.cbc.ca/news/business/meta-accounts-deleted-ai-customer-service-9.7364543) `HN`
+- [Tencent, Oracle'dan 100.000 yapay zeka çipi kiralamak için 7 milyar $ tutarında bir anlaşma imzaladı](https://qz.com/tencent-oracle-ai-chips-lease-deal-100126) `HN`
+- [Yapay zeka kodlama aracıları 13.000 ekran görüntüsü sızdırdı ve kimse bunları hacklemedi](https://thenewstack.io/coding-agents-leaked-screenshots/) `HN`
+- [Açık uçlu veriler, gerçek bilgi işleriyle mücadele eden yapay zeka sistemleri için bir darboğazdır](https://www.fig.inc/blog/open-ended-data-is-a-bottleneck/) `HN`
+- [Google, en güçlü yapay zeka modeli olan Gemini 4 Argon'u önce siber güvenlik ortakları için piyasaya sürüyor - qz.com](https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Y0lvUkNPYndiRHluTlh1eGFnaFRZRUxMZ0ZaWjhEV2xCZEdORnpNM05jWG1jdENyS01UTkVsbEE4cGxNSjczQXVob3o3VlgzbklkWTdMVTJuWmdab0lMbWZEV1RFX1NOblNqNEU5cFVXRlZp?oc=5) `RSS`
+- [Google'ın son lansmanı yapay zeka hedeflerini teste tabi tutuyor - Los Angeles Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEN0QjRJTXp3clpIOG1Hbmh1V0dWeEpPNGR5dVUtT2xNSzdXZElfY0ZiTnZDS3pBV21vRjZXSHFVZ1hPbUduel8xbUxlM29jOG1PSXhvNkdYbnpLUGtGMWpJVWUtRVBWNGR5UDF5bnZwWDExd1hYNDlINlVuY0dSNTBBd1VFRHFxTmdlalI2cmVwbXhhMklJMm5XTTJoVUVhR3BF?oc=5) `RSS`
+- [Use.ai, lansmanından bir yıldan kısa bir süre sonra aylık 1 milyon aktif kullanıcıya ulaştı - markets.businessinsider.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjBYRVJLVkt6N3R0Vmgzd2RESk5UeGJOUS11TE0zRVByQlVjckE0UzRXNnRCZ2ZrTjhqbTE3Ty1yQ1NVY1VEQTNfZElrZGlzMENyYjFHVElzNXRPdlJ4Smx5S3doN18xeHVBM25GRkhfcE54QUZWanl4aUl1dlczWGZXTzJrY1BNSzlLa2lxM21fVWtqMnBGa0Qza1dPLWZ5YUZFZ0ljRzJkYkZLbGg4TTIxWkpUZkVSUzNNUTI2bWhpSXo1bzZlaDFBNHdfREk?oc=5) `RSS`
+- [Alphabet, Gelişmiş Profesyonel Görevler için Gemini 4 Argon AI Modelini Tanıttı - TIKR.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE9LaFp1azB6NmpBMHQybTM3bjRjdk1iMC0yUmJWY3VucFhFalg5S3RyS20xVVlveXVwdUY5aVd1NXNzWWQ5YjQ3STgybE90ZXp4YWptREN3WHBIcWJsVVd6U3d0ZnpRTkdGMXZueWtseGxEU1k?oc=5) `RSS`
+- [Google Yapay Zeka Yarışında Masaları Değiştirecek mi? Wall Street İkizler'e Tepki Gösteriyor 4. - Yatırımcının İş Günlüğü](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1EwOTNINTF0ZG02WmFKZlJPN2J6N3RucjFiMFJkc0Z5V0wwMzVTaHFYek1WYU9nRWFqUG9YQjZBRV9jVzB4WXRMTFZwRmJjc01UZmw1MEhFelFQLS1YNzA0WHBXME8tYnBZQTNGZ1VsYkxxaDdJMWlVcmpBTjlYMmU3cGE5LWFPeDlFRjY1TWNkUlBZdFE0dlkxR2M3ZUxNcHg2dkxmNi1sVGtkbHVaMF9kNA?oc=5) `RSS`
+- [GOOGL hisseleri Gemini 4 Argon Lansmanından Sonra Yükseldi, Ancak JPMorgan Google'ın Yapay Zeka Liderliğini Geri Kazanması Gerektiğini Söyledi - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGltd2tZejY1NGJCQmtMVkFrUDdOYVNsYmUtcWRhQTd2WmpsZDlDZnZWNzQ3ZjkwNE1tYXBNU0RDOHpUNlYwZ1pKbFRsT1ZEeG5BbTdGMUhuaWJ1dkxWVEJ3eGFlRnJXTkhvSmNDcjVhOHZhQVBvbkg1OHRfMlB5UHNVYzFBblZtVXd4UThiOF9yNnBk?oc=5) `RSS`
+- [Olmo - core 3 'ün tanıtımı: Büyük MEB'ler için açık, ölçeklenebilir eğitim altyapısı](https://huggingface.co/blog/allenai/olmocore3) `RSS`
