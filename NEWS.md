@@ -1922,3 +1922,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Gemini 4 Argon: bir sonraki sınır zekası çağımız - blog.google](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRjB3amppaF9yb1FhSmxoUW5GUEtCREcxbW1ScXJRRWN5ZGtIM0N0d21wVEI3ZTd5ZHY4N09KRWNwX3U2Z3JBeDNWakYxYXlBVE95NEpKWW5vcWFKZlA5Qkdka3hGZG9INUZtMVN2VTJhWG1TTldVSE1JVm5VaVlvcnpWRlhzX0V1NGJXZGhfMEY?oc=5) `RSS`
 - [Google'ın En Güçlü Yapay Zeka Modeli Siber Savunuculara B2B Erişimi İçin İlk Sinyali Verdi - MarketScale](https://news.google.com/rss/articles/CBMinwFBVV95cUxQSFBmZTExMjlLbG53bnZiSVlzY1puM3BRakRtQTVkRHYzcFAycjZqdWIzV3J6VzY0ZXdSMHc5QlVmUXhrbWZmMFpBWVNkajhiUjIyemRraFpvVGdsZ2pfbTJlR3NLd05qa2lrRVdLa2UtNFRjTXBIVVpudS1MNHRxY2lBQVI2STNXaWJ0QW94QjRyRUllTDJfNnliSGhONG8?oc=5) `RSS`
 - [Google, güvenlik endişeleri nedeniyle yeni yapay zeka modeline erişimi kısıtlıyor](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkMxU1ZJWFRGUHNiTS1sb05NbnBzYWlpMHAxRFVKMzNYT1YyYjBjSHRrNlRmcmM5RUhudkZHcDJYMTlMR2dJNFlxSllBampGUk5YM0VQRzdleUFFQlZHVGpMYndkampqODE1WDF4Z25GVzVZRmxBeE9uYzVaTGtGbEZTeHlycnN5?oc=5) `RSS`
+
+- [10. BaÄlantÄ±Name](https://github.com/genspark-ai/genoffice) `HN`
+- [Kanadalı web siteleri, yapay zeka tarafından üretildiğinden şüphelenilen kişiler tarafından yazılan makaleleri kaldırıyor](https://www.cbc.ca/news/canada/daniel-robson-suspected-fake-ai-persona-9.7363967) `HN`
+- [Yapay Zeka CEO Görüşmeleri (2026)](https://www.youtube.com/watch?v=DlTNN0gvkLM) `HN`
+- [Günün Ofis Sorusu](https://officequestionoftheday.com/) `HN`
+- [Meta, insanların günlük işleri yapmak için 'yapay zeka ajanlarını' kullanmasını istiyor. Bu neden bir sorun?](https://theconversation.com/meta-wants-people-to-use-ai-agents-to-do-daily-tasks-for-them-heres-why-thats-a-problem-292962) `HN`
+- [Doğal Genel Zeka](https://naturalgeneralintelligence.ai/) `HN`
+- [Stephen Fry: Yapay zeka, bir amaç için bir araç mı yoksa bizim amacımız için bir araç mı? (Eylül 2024)](https://web.archive.org/web/20240915122038/https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to) `HN`
+- [OpenAI'den Brockman, AI Super Pac'e 25 MİLYON $ Bağış Taahhüdünden Vazgeçti](https://www.wsj.com/tech/ai/openai-president-backs-out-of-pledged-25-million-donation-to-ai-super-pac-efb31fb4) `HN`
+- [AI Pascal'ın Bahsi](https://ploum.net/2026-10-01-pascal_wager.html) `HN`
+- [Yapay Zeka Açık Olmalı mı? (2015)](https://slatestarcodex.com/2015/12/17/should-ai-be-open/) `HN`
+- [Archestra - AI/OpenAPPA: Ajanları kırmayan deterministik korkuluklar](https://github.com/archestra-ai/OpenAPPA) `HN`
+- [Yapay zeka borçluları, ABD kredi piyasasının riskli köşelerinde zorlu satışlarla karşı karşıya](https://www.reuters.com/legal/transactional/ai-borrowers-face-tough-sell-risky-corners-us-credit-market-2026-09-30/) `HN`
+- [Dil modelleri, varsayılan olarak raporlarda "kötü haberleri" gizler](https://www.unite.ai/language-models-will-hide-bad-news-in-reports-by-default/) `HN`
+- [Show HN: MeetTwins, Google Meet'e katılan ve doğaçlama yapmayan bir yapay zeka](https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205) `HN`
+- [Show HN: Vietnam Tender Intelligence – gov tedarik verileri, AI - agent hazır](https://apify.com/donerightlabs/tender-intelligence) `HN`
+- [Yapay zeka araştırması öldü, yaşasın yapay zeka](https://kylrth.com/post/ai-research-is-dead/) `HN`
+- [PSSA: Rust'ta sıfırdan yazılmış dönüştürücü olmayan bir dil modeli](https://ai-news-site-cyan.vercel.app/articles/2026-09-30-pssa-a-non-transformer-language-model-written-from-scratch-i) `HN`
+- [Yorumlar](https://medium.com/@dhillonravi1983/thoughts-on-ai-1e1400f9fe4f) `HN`
+- [Google, Yeni İkizler Modeli Hakkında Çalışan Şüpheciliği ile Uğraşıyor](https://finance.yahoo.com/technology/ai/articles/google-grapples-employee-skepticism-gemini-195242680.html) `HN`
+- [Yerel bir Workday iş temsilcisi – kural tabanlı özgeçmiş uyarlama, yapay zeka yok](https://github.com/daliparthi/personal-job-agent) `HN`
+- [Polytoken, yerel ilk AI kodlama aracısıdır](https://docs.polytoken.dev/introduction/) `HN`
+- [Evrensel Modder: Herhangi Bir AI Kodlama Aracısının Neredeyse Herhangi Bir PC Oyununu Modlamasına İzin Verin](https://github.com/rehan-remade/universal-modder) `HN`
+- [Yapay Zeka ve TCS: Gelecek Altı Aylık Çalışma Grubu Raporu](https://simons.berkeley.edu/AITCSreport?inline=) `HN`
+- [Dini Alimler Antropikle Buluştu. Duydukları Onları Sersemletti](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) `HN`
+- [Zihinler ve Yapay Zeka Hakkında 8 Soru](https://www.echohive.ai/eight-questions-about-minds-and-ai) `HN`
+- [Aw1 kesici: Python AI aracı araçları için Sub-0.02ms AST devre kesici](https://github.com/MvikManners/aw1-circuit-breaker) `HN`
+- [Google'ın Yapay Zekası Okullara Girdi: "Düşüncelerimi Yavaşlattı"](https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a) `HN`
+- [D2B – AI Ajanları için Elektronik Tablolar](https://d2b.dev/developers) `HN`
+- [Transkripsiyon kalitesi neden dalgalanıyor (ve nasıl düzeltilir)](https://wisprflow.ai/post/transcription-quality) `HN`
+- [Google'ın yeni sınır ötesi yapay zeka modeli Gemini 4 Argon, önce siber güvenlik savunucularına gidiyor - SiliconANGLE](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcl9XLXZJUFFCVjU4Q3hLckpwZVJpX2Jrd1ZJeDdBUnB3Ri04bW16anhjbjJDVFhxR3c2QlJsUUdoNzNGcnZmS0FSWDdzR3oxTlJfbk56cHppeUExRWRiTUVBUUJ5OFIwOVBULW9rSDExUWZMdkJ3VEVxbXYtY2pFNHM5U3YzQl9YZGg3QU5YU2hBQlU3QUNyMmt5RzJuNHkwYkUtbkFNSml4VWdNRF9zSmc1RjJtczR3ODVv?oc=5) `RSS`
+- [Google, şimdiye kadarki en güçlü modeli olarak adlandırılan Gemini 4 Argon'u piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaThYZG00MENsWUtiaDkwbW44Z3BDNlNkcDRoSldzZGNBcnVEc3FSLVU3UXVRMDhtRmI0MnJXSnRsWC1IbEVtMVRnWlY2b3M2TnN1bkk5VURBNFp0RmtmU2JkZl94RC03c29OOTJuenJ2cS1BUFRlWDVEZExGLXVpRDZqd1B2OU5aMlVTbFVKc0xpMnZJYmgxeHNCMjZ5a2hYblE?oc=5) `RSS`
