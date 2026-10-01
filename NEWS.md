@@ -1988,3 +1988,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Google Yapay Zeka Yarışında Masaları Değiştirecek mi? Wall Street İkizler'e Tepki Gösteriyor 4. - Yatırımcının İş Günlüğü](https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1EwOTNINTF0ZG02WmFKZlJPN2J6N3RucjFiMFJkc0Z5V0wwMzVTaHFYek1WYU9nRWFqUG9YQjZBRV9jVzB4WXRMTFZwRmJjc01UZmw1MEhFelFQLS1YNzA0WHBXME8tYnBZQTNGZ1VsYkxxaDdJMWlVcmpBTjlYMmU3cGE5LWFPeDlFRjY1TWNkUlBZdFE0dlkxR2M3ZUxNcHg2dkxmNi1sVGtkbHVaMF9kNA?oc=5) `RSS`
 - [GOOGL hisseleri Gemini 4 Argon Lansmanından Sonra Yükseldi, Ancak JPMorgan Google'ın Yapay Zeka Liderliğini Geri Kazanması Gerektiğini Söyledi - Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGltd2tZejY1NGJCQmtMVkFrUDdOYVNsYmUtcWRhQTd2WmpsZDlDZnZWNzQ3ZjkwNE1tYXBNU0RDOHpUNlYwZ1pKbFRsT1ZEeG5BbTdGMUhuaWJ1dkxWVEJ3eGFlRnJXTkhvSmNDcjVhOHZhQVBvbkg1OHRfMlB5UHNVYzFBblZtVXd4UThiOF9yNnBk?oc=5) `RSS`
 - [Olmo - core 3 'ün tanıtımı: Büyük MEB'ler için açık, ölçeklenebilir eğitim altyapısı](https://huggingface.co/blog/allenai/olmocore3) `RSS`
+
+- [Normal Teknoloji Olarak Yapay Zeka](https://knightcolumbia.org/content/ai-as-normal-technology) `HN`
+- [Büyük çadırlı mı yoksa küçük çadırlı bir yapay zeka güvenlik hareketi mi?](https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety) `HN`
+- [Çoğu bilginin gizlendiği Stratego oyunu, şimdiye kadar yapay zekayı afallatmıştı](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) `HN`
+- [Yapay zeka "sadece bir araç" değildir](https://brettcodes.com/ai-is-not-just-a-tool/) `HN`
+- [Show HN: HeadWater Volume Ingestion Matrix – bir üretim kısayolu](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md) `HN`
+- [Show HN: Premortem – Startup fikrinizi değiştiren yapay zeka ajanları](https://premortem.site) `HN`
+- [Nvidia, Open Agent Güvenlik Platformunu tanıttı](https://www.nvidia.com/en-us/ai/openshell/) `HN`
+- [Neden dev yapay zeka her zaman üst üste oturmuyor?](https://www.echohive.ai/why-giant-ai-doesnt-overfit) `HN`
+- [TCP yapay zekada başarısız oluyor, ancak Stanford'daki Homa yardım etmek için burada](https://www.theregister.com/networks/2026/10/01/tcp-is-failing-ai-but-stanfords-homa-is-here-to-help/5300629) `HN`
+- [Show HN: HeadWater B2B Data and AI Kit – Bir Üretim Mimarisi Kısayolu](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater-b2b-data-purification-%26-AI-Ingestion-Implementation-Kit.md) `HN`
+- [Yapay Zeka Hızlandırmanın Oyun Teorisi](https://www.paradigm.xyz/writing/the-game-theory-of-ai-pacing) `HN`
+- [Açık ağırlıklı karar modeli Laya için ücretsiz barındırılan API](https://vercel.com/ai-gateway/models/laya) `HN`
+- [Kanada yayınlarında makale yazdığından şüphelenilen yapay zeka üretimi](https://www.theglobeandmail.com/world/article-ai-suspected-of-writing-dozens-of-articles-in-canadian-publications/) `HN`
+- [Amerikalıların Yapay Zekadan Ne Kadar Nefret Ettiğini Öğrenmek İçin Yapay Zekayı Kullandık](https://www.wsj.com/politics/elections/we-used-ai-to-find-out-just-how-much-americans-hate-ai-2ca70c5a) `HN`
+- [Evrensel Kemik Çözücünün Geliştirilmesine Ara Verilmesi Çağrısında Bulunuyorum](https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/) `HN`
+- [Meta'nın İlham perisine, Grok'un Robotlarına ve OpenAI'nin Noktalarına Meydan Okuyan $ 10B Yapay Zeka Asistanı [VIDEO]](https://www.youtube.com/watch?v=Am7IWP8IpEc) `HN`
+- [Mevcut yapay zeka modellerinin düşünebileceğine ve anlayabileceğine inanıyorum – Bölüm 1/2](https://blog.andymasley.com/p/why-i-believe-current-ai-models-can) `HN`
+- [FLUX 3 Görüntüsü](https://bfl.ai/models/flux-3-image) `HN`
+- [Açık Anonimlik Projesi – gizliliğe sahip sınır AI modelleri](https://chat.openanonymity.ai/login) `HN`
+- [Show HN: Zsh - codex - assistant: codex session attached to your shell HN: Zsh - codex - assistant: kodeks](https://github.com/klntsky/zsh-codex-assistant) `HN`
+- [Tek bir işbirlikçi tuvalde 2D, 3D ve AR genelinde yapay zeka ile hızlandırılmış fikir](https://www.vectary.com/canvas/) `HN`
+- [Yapay Zeka Destekli Filtrelerinizin Maliyeti](https://fsdatalab.github.io/blog/ai-filter-cost-estimates/) `HN`
+- [Nvidia, dolandırıcı yapay zeka ajanlarını kısıtlamak için Open Agent Güvenlik Platformunu başlattı](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds) `HN`
+- [Kişisel yapay zeka finansal danışmanım](https://genaipod.substack.com/p/personal-finance) `HN`
+- [Empire State Binası Hava Gemisi Rıhtımı: Demirleme Direği Hikayesi](https://funfactz.com/places/empire-state-building-airship-mooring-mast-gangplank) `HN`
+- [Kendi Çişini İçen İnsanlar Yapay Zekaya Takıntılı](https://futurism.com/artificial-intelligence/urine-therapy-ai) `HN`
+- [Show HN: PBI Guard – İnsanların Power BI'nızı bozmasını engelleyin (siz dahilsiniz)](https://patens-dev.github.io/pbi-guard/) `HN`
+- [ABD'li yargıç, Chegg ve Penske'nin Google yapay zeka genel bakışları nedeniyle açtığı antitröst davalarını reddetti](https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01) `HN`
+- [Show HN: Karşılıklı yarar sağlayan ortak hukuk](https://www.peregrini.ai) `HN`
+- [Google, uzaydaki yapay zeka veri merkezlerine doğru bir adım olan Project Suncatcher'ı başlattı - NPR](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHpoSkZMSUJMOGtZbVVtY3RWVmdBVExLSkNSSjlqRmdvRnByRHhuSVhYbVhPS3RYcF9oUTY2aHVZY3FUb1o5YnVScFlmX3Z1a3ZuZHk2NmZJcmNNWmlxS09JZjh6RE0wVGI4YWFpeTZuVjM5QVdmZmpXeWl4VElrWkJxbjFBcVNSa0lXdUJ2cmpvdm8tdlE?oc=5) `RSS`
+- [C1.ai, kurumsal AI model yönlendirmesini yönetmek için C1 LLM Gateway'i başlattı - GlobeNewswire](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQk5ZYktqZU5hOEljbW04ZEpMRnpaaG1ORDBEY1l6Q3J2NlpGSlJJRFBxNmxrLTJseVFrUUdsajVlYXRRR0FzYy1HOVRTNGtwbEFqYjZBYjNlSXRkYWhOY0pBZHZtYjZMSHVaRGZ0SVdoOGdQUzAxWjZ0ejdORjlhejFvdU1FSU5tcDV4SWRHZ1pZUVBPWnVzQklkbXZuZ0I2aUJDenNPMWNOM3Eybmg0U0NMeUQ2V1hlRmxsUUdXbHJfOHN6aG9RTzdBeS1wZngySVBzaWt3?oc=5) `RSS`
+- [Google, Şubat ayından bu yana ilk amiral gemisi yapay zeka modeli olan Gemini 4 Argon'u tanıttı: Yahoo Finance UK](https://news.google.com/rss/articles/CBMihAFBVV95cUxNak9IbXd6c1c0WHRIRWwzWjJlcXg3SFZkX0VBOEpyd2hWa0NpVmtfRzFjVUQwQmljSGs5NTByN1Ffc0o5b2VTU3Y4anY1TTRZRWo0ZkNyb2paMVN2N2tJZ09DRjI4Mm5ucmlHRFNXamRNSW5HUGJFZXlrbmJkRzlKcXpNalE?oc=5) `RSS`
+- [Sonsuz tamamlayıcı](https://openai.com/index/the-eternal-complement) `RSS`
+- [Albertsons Şirketleri perakendeyi içten dışa nasıl yeniden tasarlıyor?](https://openai.com/index/albertsons-reimagining-retail) `RSS`
