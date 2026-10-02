@@ -2116,3 +2116,39 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Purism Libre 5 ve Altı Yıllık İade](https://sk500.online/tech/the-purism-libre-5-and-the-six-year-refund/) `HN`
 - [İspanyol KOBİ'lerden ERP verilerini sızdıran yapay zeka tarafından bir araya getirilmiş bir ekip](https://huntback.io/blog/ai-crew-open-server-erp-exfil-spanish-smbs) `HN`
 - [OpenAI, güvenlik endişeleri nedeniyle yeni yapay zeka modelinin piyasaya sürülmesini iptal etti - cbc.ca](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5) `RSS`
+
+- [Apple, yapay zeka ajanlarından gelen yeni riskler nedeniyle macOS "Tam Disk Erişimi" ni sıkılaştırıyor](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) `HN`
+- [Cluely'yi Kötü Amaçlı Yazılıma Dönüştürme](https://www.hacktron.ai/blog/hacking-cluely) `HN`
+- [Aitoolsuite – Sıfır ağ çağrısı ile yalnızca tarayıcıya yönelik 107 geliştirici yardımcı programı](https://aitoolsuite.lol/) `HN`
+- [Show HN: AI, haberler veya analist derecelendirmeleri olmayan başka bir hisse senedi tarayıcısı](https://holderdashboard.com/) `HN`
+- [Çevik Yapay Zeka Odaklı Geliştirme için Çığır Açan Yöntem](https://github.com/bmad-code-org/bmad-method) `HN`
+- [Yapay Zeka Kaçırdığımız Hataları Bulduğunda: MariaDB Güvenliği İçin Yoğun Bir Yıl](https://mariadb.org/when-ai-finds-the-bugs-we-missed-a-very-busy-year-for-mariadb-security/) `HN`
+- [Show HN: UseJunction – Ekibinizin yapay zeka araçlarının ne kullandığını bulun](https://github.com/use-junction/usejunction) `HN`
+- [Yapay zeka ajanları canlı bir işletmeye ve her birinin nasıl yakalandığına karşı başarısız oldu](https://github.com/taylorancapital/nothing-threw) `HN`
+- [Dünya Bankası dış yardımlarının yaklaşık % 2 -6 'sı kripto cüzdanlarına aktarıldı](https://www.nber.org/papers/w35655) `HN`
+- [5 Büyük Güney Kore Bankasının Hepsi Vuruldu: Eşzamanlı 'Yapay Zeka Hackleme' Saldırıları Korkuyu Kıvılcımlandırdı](https://www.chosun.com/english/market-money-en/2026/10/02/JVEBGKXTPRGQTLCP3EIDBKPPCM/) `HN`
+- [Programlamayı yapay zeka öldürmedi, siz öldürdünüz](https://learncodethehardway.com/blog/39-ai-didnt-kill-programming-you-did/) `HN`
+- [System One Modelleri ile Hizmet Veren LLM'yi Yeniden Düşünmek](https://supercomputing-system-ai-lab.github.io/blogs/rethinking-llm-serving-with-jev/) `HN`
+- [Yeni araç, 3D baskı tasarımı yaparken artık Cad'e gerek olmadığı anlamına geliyor](https://www.partforge.ai/blog/welcome) `HN`
+- [Show HN: Arda – Markaların Google ve Yapay Zeka Arama'yı kazanmasına yardımcı olacak pazarlama temsilcileri](https://www.ardainc.com) `HN`
+- [MIT Mezunları Forumu: Çarpışma: Yapay Zekanın Bize Yaptıkları [video]](https://www.youtube.com/watch?v=waQ4uuCUrJY) `HN`
+- [Antropik Papa Leo XIV'ün Yapay Zeka Ansiklopedisini Neredeyse Terk Ediyordu](https://www.thelettersfromleo.com/p/nyt-anthropic-nearly-walked-out-on) `HN`
+- [Show HN: Agent - SDK – go - Go'da kazaya dayanıklı AI ajanları oluşturun](https://github.com/agenticenv/agent-sdk-go) `HN`
+- [Show HN: Kişisel AI temsilcileri için ön ödeme ve ödeme sonrası çekler](https://contextiq.trango-compute.com) `HN`
+- [Yapay zeka Gandi'yi övüyor. Bu onu tutuklar mıydı?](https://chrystianschutz.com/blog/would-ai-arrest-gandhi/) `HN`
+- [AI Pascal'ın Bahsi](https://ploum.net/2026-10-01-pascal_wager.html) `HN`
+- [Nvidia, yerel yapay zeka hayranlarına bir can simidi atmak için 64 GB DGX Spark'ı tanıttı](https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less) `HN`
+- [Yapay zeka bağlamınızı .md dosyaları aracılığıyla verme](https://transcripted.app/) `HN`
+- [Otonom yapay zeka ile kurumsal zekayı yeniden tanımlamak](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) `HN`
+- [Yapay zekanın deflasyonist olması gerekiyor. Makro verilerin öne sürdükleri](https://www.petervijeh.com/projects/ai-deflation) `HN`
+- [Nexusyn – AI ajanları için uzun süreli bellek motoru (Go, DiskANN, MCP)](https://github.com/nexusyn/engine) `HN`
+- [Gizemli İşlev](https://codeset.ai/function) `HN`
+- [Yayıncılığın Yapay Zeka Hesaplaşması](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html) `HN`
+- [Musk'ın yapay zeka chatbot'u Grok, Trump'ı Venezuela devlet başkanını yakalamaya teşvik etti](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) `HN`
+- [Yapay Zekadan Sonra Doktor Olmak Asla Aynı Olmayacak](https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html) `HN`
+- [Yapay zeka veri merkezleri: Oran mükellefleri ne kadar risk altında?](https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress) `HN`
+- [Google Gemini Yapay Zeka Modeli, Birinci Sınıf Siber Güvenlik Odaklı Argon'u Piyasaya Sürdü - Kriptonomist](https://news.google.com/rss/articles/CBMibkFVX3lxTE9zTTlvWkg3VVpoVUUyMWIxbFQ4bVdoeGE2dFdiLXJ5SkFJX1c4T0dGSTRTd1JHZmFnWVlhcXZrZXdrQjB1bmQtSTNLeGc4TWxJaE9UeWV0YzhwSE1ZcElkalg3aEdVZ2RTTXNJeW9R?oc=5) `RSS`
+- [GPT -6 ailesi için bir model kılavuzu](https://openai.com/index/practical-guide-building-gpt-6) `RSS`
+- [Chatham, sermaye piyasaları uzmanlığını OpenAI ile ölçeklendiriyor](https://openai.com/index/chatham-financial) `RSS`
+- [Eylül 2026 'da duyurduğumuz en son yapay zeka haberleri](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) `RSS`
+- [Asta'da hızlı rapor oluşturma modeli olan açık kaynaklı AstaBrief](https://huggingface.co/blog/allenai/astabrief) `RSS`
