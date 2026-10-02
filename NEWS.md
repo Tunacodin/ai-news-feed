@@ -2085,3 +2085,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Robot Hapishanesinde LLM'lere İşkence Yapan Biri Yapay Zekadaki En Aptal Tartışmayı Tetikledi](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/) `HN`
 - [Rapor: Antropik, yapay zekanın "varoluşsal riskleri" uyarısına rağmen, Şükran Günü öncesi halka arzı hedefliyor - SiliconANGLE](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3JSWlRzSkVtUUhRcE5qelppbnJoSzhtZ3lMZURGU2s4cGREd0RJOG5pNmJIZW5fMFBteU1oTElGVHhxb2hqeUYxUi16M1JUTUtrN1A0SWJSLXdSUk1aRVhNQWlFeGtEeHZiWkdOYXV2MmRWck5HUWpubkdjWmhEaW1IdzdJUy1yRW1FN0U2OVU2V04xN2drUzFVUjU0TG5wRFJfSTJQR2N2blctcUtXTlJtRURjTmNZZkUxZi12Wi0zY015LWJUbTln?oc=5) `RSS`
 - [AutoSynthData: Kurumsal Temsilciler için Eğitim Verileri Oluşturma](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) `RSS`
+
+- [Show HN: SOC2 Denetçi Becerisi](https://github.com/heychristoph/soc2-auditor) `HN`
+- [Dağınık gerçek dünya şirket bilgisi konusunda temsilciler için kıyaslama erişimi](https://www.kapa.ai/blog/company-knowledge-bench) `HN`
+- [GamesByAI – AI ile yapılan 528 tarayıcı oyunu ve bunları hangi araçların yaptığı](https://gamesbyai.win/stats/) `HN`
+- [TickTick ne planladığınızı bilir. Vulpie ne yaptığını biliyor](https://medium.com/@vulpie.ai.support/ticktick-knows-what-you-planned-vulpie-knows-what-you-actually-did-be1c18678bcc) `HN`
+- [Nvidia/OpenShell: Otonom AI ajanları için güvenli, özel çalışma süresi](https://github.com/NVIDIA/OpenShell) `HN`
+- [Çin'in Yapay Zeka Sınırının Yaklaşan Kapanışı](https://www.aei.org/foreign-and-defense-policy/the-looming-closure-of-chinas-ai-frontier/) `HN`
+- [Yavaş yavaş, sonra bir kerede: Bir şirketin nasıl çalıştığını bilen yapay zeka temsilcileri](https://www.nijho.lt/post/mindroom-at-ionq/) `HN`
+- [Show HN: Hotel Lobby AI Video Generator – Rap Düet için İki Fotoğraf](https://hotellobbygenerator.net/) `HN`
+- [Boston Dynamics Robot Elleri](https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/) `HN`
+- [Gösteri HN: Spens sandboxed, gözlemlenebilir kodlama ajanları](https://spens.refwd.ai/) `HN`
+- [Nvidia DGX Spark 64GB, Geliştiricilere Yerel Yapay Zeka Oluşturmak ve Ölçeklendirmek için Daha Fazla Yol Sunuyor](https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/) `HN`
+- [Fizik simülatörleri kullanarak yapay zeka modelleri nasıl eğitilir?](https://www.arenaphysica.com/publications/fem-edge-elements) `HN`
+- [Yapay Zeka Aracınızı (ve Mac Mini'nizi) Neredeyse Nasıl Kızartırsınız?](https://thoughts.jock.pl/p/almost-fried-ai-agent-mac-mini-mistakes-2026) `HN`
+- [Yapay Zeka Testlerinizi Yazıyor, Ancak Hiçbir Şey Test Edilmiyor](https://testkube.wistia.com/live/events/uswa35zy9l) `HN`
+- [Yeni Audible özelliği, kitap karakterlerinin yapay zeka sürümleriyle konuşmanızı sağlıyor](https://www.audible.com/about/newsroom/the-next-chapter-in-listening-new-ways-to-interact-with-stories-on-audible) `HN`
+- [Hugging Face ihlal eserleri, yeniden çalıştırıldı: ABD sınırındaki bir yapay zeka 11/14 'ünü engelledi](https://github.com/smilemino/unchore-defend) `HN`
+- [Yapay Zeka Benimseme Neden P&L'nizde Görünmüyor?](https://itrevolution.com/articles/why-isnt-ai-adoption-showing-up-in-your-pl/) `HN`
+- [Yapay Zeka Psikozunuzu İyileştirin](https://aipsychosis.rehab/) `HN`
+- [Eric Sadin: "Yapay zeka ölüm kokuyor"](https://english.elpais.com/culture/2026-10-01/eric-sadin-ai-reeks-of-death.html) `HN`
+- [Çin'in Vibe Kodlama Başkenti Bize YAPAY Zeka Patlaması Hakkında Ne Söyleyebilir?](https://www.newyorker.com/news/the-lede/what-chinas-vibe-coding-capital-can-tell-us-about-the-ai-boom) `HN`
+- [Girişim Corbenic AI, yapay zeka belleğini güvence altına almak ve enerjiyi kesmek için Galahad'ı piyasaya sürdü](https://app.dealroom.co/news/feed/belgian-startup-corbenic-ai-launches-galahad-to-secure-ai-memory-and-cut-energy-use-by-93) `HN`
+- [TSMC, Daha Fazla Yapay Zeka Fişi için Milyar Dolarlık Teksas Kampüsünü Düşünüyor](https://finance.yahoo.com/technology/ai/articles/tsmc-mulls-multibillion-dollar-texas-102454782.html) `HN`
+- [WSP WordPress MCP – AI Ajanlarını WordPress'e Bağlayın](https://github.com/bilalnaseer/wsp-wordpress-mcp) `HN`
+- [Küresel Yapay Zeka Yetenek Yarışında Kimler Önde?](https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race) `HN`
+- [En yeni AI destekli kodlayıcı, ilk AI destekli kodlayıcıyı tekrar çalıştırır](https://github.com/jeffshrager/ExecutableArchaeology/blob/main/HeuristicCoder/HeuristicCoder_guide.md) `HN`
+- [Suudi Arabistanlı elektrikli araç şirketi Ceer ilk araçlarını tanıttı](https://vision2030.ai/analysis/ceer-exobot-first-vehicles-september-2026/) `HN`
+- [Sozly AI](https://sozly.ai/az/) `HN`
+- [Purism Libre 5 ve Altı Yıllık İade](https://sk500.online/tech/the-purism-libre-5-and-the-six-year-refund/) `HN`
+- [İspanyol KOBİ'lerden ERP verilerini sızdıran yapay zeka tarafından bir araya getirilmiş bir ekip](https://huntback.io/blog/ai-crew-open-server-erp-exfil-spanish-smbs) `HN`
+- [OpenAI, güvenlik endişeleri nedeniyle yeni yapay zeka modelinin piyasaya sürülmesini iptal etti - cbc.ca](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5) `RSS`
