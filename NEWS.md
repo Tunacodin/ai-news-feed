@@ -2152,3 +2152,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Chatham, sermaye piyasaları uzmanlığını OpenAI ile ölçeklendiriyor](https://openai.com/index/chatham-financial) `RSS`
 - [Eylül 2026 'da duyurduğumuz en son yapay zeka haberleri](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) `RSS`
 - [Asta'da hızlı rapor oluşturma modeli olan açık kaynaklı AstaBrief](https://huggingface.co/blog/allenai/astabrief) `RSS`
+
+- [Yapay Zeka, 217 Yaşındaki Napolyon Şifresini 6 Saatte Kırarak Savaş Öncesi Dağıtımları Ortaya Çıkardı](https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58) `HN`
+- [Show HN: Teacher Planner – Öğretmenler için yapay zeka araçlarını içeren dijital bir plan kitabı](https://teacherplanner.ai) `HN`
+- [Tek bir API anahtarıyla açık ağırlıkta, siberözellikli modellere erişin](https://router.enclave.ai/login?next=%2F) `HN`
+- [AI İşkence Odası – LLM'leri negatif ve pozitif değerlik durumlarına yönlendirmek](https://github.com/login) `HN`
+- [LLM'ler AI Derleyicilerinin Yerini Almayacaktır. Onları çağıracaklar.](https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html) `HN`
+- [Anlamsal Hesaplama: Tercümanlardan Derleyicilere](https://seldon-ai.com/blog/fronter-llms-are-semantic-interpreters) `HN`
+- [DeepSeek, Huawei Ascend programlama yığınını açık kaynaklı olarak tedarik etti](https://aistockwire.com/blog/deepseek-huawei-ascend-tilelang-open-source-nvidia-nvda-cuda-september-2026) `HN`
+- [Bir yapay zeka radyo DJ'i Los Angeles'ta şöhreti vurdu İnsan ev sahipleri bundan memnun değil](https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back) `HN`
+- [Amok Çalıştıran AI Uygulamalarına Yanıt Olarak macOS'ta Tam Disk Erişimini Sıkılaştırma](https://daringfireball.net/2026/10/apple_full_disk_access) `HN`
+- [Bir Yapay Zeka Temsilcisinin Tavsiyesine SEO ile Ulaşabilir misiniz?](https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html) `HN`
+- [Show HN: Opus'tan yapay zeka laboratuvarları hakkında bir video istedi ve bu garip şeyi tükürdü](https://www.youtube.com/watch?v=nWWDUXhqWEs) `HN`
+- [Merlean AI](https://merlean.ai/) `HN`
+- [Huddo: Anında Paylaşılan Yapay Zeka Odası](https://huddo.ai) `HN`
+- [Yapay zeka değişikliklerinin bilişsel yükünü azaltmak](https://amoffat.github.io/blog/cognitive-load.html) `HN`
+- [Meta, kazanan bir yapay zeka stratejisine rastladı](https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html) `HN`
+- [OpenStack Hibiscus, bulut hileleri çantasına Gizli Bilgi İşlem'i ekledi](https://opensourcewatch.beehiiv.com/p/openstack-hibiscus-adds-confidential-computing-and-ai-ready-infrastructure-to-its-bag-of-cloud-trick) `HN`
+- [Kral kelebekleri – etkileşimli bir 2.5D deneyimi](https://www.echohive.ai/experiments/monarchs) `HN`
+- [Apple, Yapay Zeka Ajanlarına Karşı Korumada Mac Veri Kontrollerini Sıkılaştıracak](https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents) `HN`
+- [FAA, 737 Max Yazılım Hatasının Güvenlik Sorunu Yaratmadığını Söyledi](https://www.wsj.com/business/airlines/faa-determines-737-max-software-glitch-doesnt-pose-safety-issue-2fed3394) `HN`
+- [Yapay zeka iş yükünüzün nerede çalışması gerektiğine karar verin (yerel/uç/bulut)](https://github.com/Keerthana0309/ai-workload-placement) `HN`
+- [Show HN: Openrouter'ı dışa aktarması zor olan yapay zeka sohbetleri için yerel bir arşiv oluşturuyorum](https://github.com/ChrystianSchutz/ThreadShelf) `HN`
+- [Yapay Zeka Rogue Olduğunda Ortaya Çıkan Sleuths](https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f) `HN`
+- [Papa Leo XIV, Yapay Zeka ve Sanat Üzerine](https://twitter.com/Pontifex/status/2105983638147891490) `HN`
+- [Testere Testi](https://wirehead.agency/) `HN`
+- [Show HN: Portus, A Rust Based API/AI/MCP Gateway](https://portus-gateway.dev/) `HN`
+- [Ekipler ve yapay zeka temsilcileri için oluşturulmuş GPUI tabanlı veritabanı istemcisi](https://based.pavi2410.com/) `HN`
+- [Yapay zeka çiftçilere ne zaman hasat yapacaklarını söylüyor](https://www.bbc.com/news/articles/cgk53dkmyxko) `HN`
+- [Üç yapay zeka ajanı, iki ülke ve bir düzensiz dünya çapında ağ](https://royapakzad.substack.com/p/multilingual-ai-agents) `HN`
+- [Show HN:FB Post Generator](https://gemini.google.com/share/1a34bce7137f) `HN`
+- [Yapay zeka temsilcileri riski "önemli ölçüde" artırdığı için Apple Mac disk erişimini sınırlayacak](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) `HN`
+- [OpenAI, güvenlik endişeleri nedeniyle yeni AI modelinin lansmanını iptal etti - signalscv.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxORzNBN3hGbVdEa1gwd1hSWHd5V19id3RQQTNGSUNkWDB6SHlwQlBhWktiU0tsMnAyLXVYNjl5UFdPNm43cU1ONFlka1FCcGd3dUMwN3MxV0hpSDh4cDcya2tCWjExRlRaLXVSV183cjA1SjU4dWFvR0U1RTJLUEk4NlFUX0k1VFlGUF93STdubXlJQzNxVVE?oc=5) `RSS`
