@@ -2053,3 +2053,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - ["Çıtayı tam olarak tutturamadı ": OpenAI, güvenlik endişeleri nedeniyle yeni yapay zeka modelini piyasaya sürmeyecek | CNN Business - CNN](https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5) `RSS`
 - [GOOGL, Gemini 4 Argon Lansmanından Sonra Yükseldi, Ancak JPMorgan, Google'ın Yapay Zeka Liderliğini Geri Alması Gerektiğini Söyledi - Stocktwits](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjJSRG9ZOEhRSERuWlJZSUFBNTZnaEVMNlBmMDJjemhZMFRaNkk5TUwyZG9FXzY2MmZFRXQ3QmhuTU1xV05lYUYwSjZOUURIZkYwUm1MbGMwOG9iMl9FSnVqdzVUZjUtQjMteW91VW9VTjIwQnZ2Nlg4Z3FvSmhSUERuSVNIZF9ENS0yNXlyU2Q2MXFiQ3A0SlFraUpFZEpFM1Iwb3U1SWNwSDluTjc2NHVXMktWMHM?oc=5) `RSS`
 - [Den, ChatGPT Work ile büyümek için haftada 10 -15 saat zaman ayırıyor](https://openai.com/index/the-den-family-social) `RSS`
+
+- [Çin'in bir sağlık teknolojisi süper gücü olarak yükselişi önemli](https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/) `HN`
+- [Yapay zeka vaftiz babası Yann LeCun: Anthropic CEO'su kandırıldı, siber güvenliği anlamıyor](https://fortune.com/2026/10/01/yann-lecun-anthropic-ceo-dario-amodei-deluded-crazy-cybersecurity/) `HN`
+- [Claude'un bilinci yerinde mi?](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) `HN`
+- [Telif hakkıyla korunan materyalin yapay zeka eğitimi adil kullanım değil: Üçüncü Devre](https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/) `HN`
+- [ImageGen: Qwen - Image 2.1 ile Mac için yerel AI görüntü oluşturma](https://github.com/ph1lb4/imagegen-mac) `HN`
+- [AI yükseltme PS5 'e geliyor](https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/) `HN`
+- [Yapay zekanın açık kaynak üzerindeki etkisine ilişkin yas aşamaları](https://twitter.com/awesomekling/status/2105814628785934386) `HN`
+- [Show HN: Google DataProc kümesini yerel ağınızda çalıştırın](https://local.cloud/blog/run-dataproc-locally-docker/) `HN`
+- [Dış yardım parası tükendiğinde Bitcoin aktivitesinde ani bir artış var](https://twitter.com/cremieuxrecueil/status/2105707121073328552) `HN`
+- [Prelulu: Canlı yapay zeka avatar aramaları için Tavus Griffin alternatifi](https://prelulu.ai/tavus-griffin-alternative) `HN`
+- [Yapay Zeka Uzayda Çalışabilir mi? Google Öğrenmek Üzere](https://www.wsj.com/tech/can-ai-run-in-space-google-is-about-to-find-out-59c4e062) `HN`
+- [Show HN: AI CLI'lar için önemli ölçüde genişletilmiş bir terminal – Onsuz çalışamam](https://github.com/albertwujj/agent-term#agentterm) `HN`
+- [Show HN: QC Control – Tiny macOS yardımcı programı bu gece Bose ANC seviyelerinizi kontrol edin](https://github.com/Nash0x7E2/QC-Control) `HN`
+- [Yapay zeka veri merkezleri, dünya çapında elektrik sistemleri için giderek artan bir tehdit oluşturuyor](https://news.un.org/en/story/2026/09/1168296) `HN`
+- [Show HN: İnovasyonun son 100 yılına bir bakış](https://a-century-compressed.vercel.app/) `HN`
+- [Fikir Birliğine Dayalı Çeşitli Model Tartışmaları](https://yesbrainer.ai/) `HN`
+- ["Amerika Birleşik Devletleri Başkanı ": Beyaz Saray'ın yapay zeka anlaşması yazım hatasını içeriyor](https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error) `HN`
+- [Trump'ın yapay zeka markası Sloven web sitesi adlarına "benzeri görülmemiş" bir talebe neden oldu](https://www.bbc.com/news/articles/cqx2z23xj555o) `HN`
+- [2026 'nın Otonom AI Ajan Güvenlik Olayları: Veri Kümesi ve Monografi](https://zenodo.org/records/22737862) `HN`
+- [Ajan kablo demeti – AI Ajan Kablo Demetleri oluşturmak için minimum, birleştirilebilir bir Go kütüphanesi](https://github.com/lox/agent-harness) `HN`
+- [Kanada - Alman yapay zeka laboratuvarı, Avrupa için egemen yapay zeka inşa etmeyi hedefliyor](https://www.rapporteur.com/news/canadian-german-ai-lab-eyes-building-efficient-and-sovereign-ai-for-europe/) `HN`
+- [Grok'un Venezuela devlet başkanının yakalanmasını teşvik ettiği bildirildi](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) `HN`
+- [Braxis: AI ajan hazırlığını otomatik olarak oluşturun ve izleyin (0 -100 puan ve geçmiş)](https://github.com/jaykrishna316/braxis) `HN`
+- [Yapay zeka sektörü tam bir karmaşa [video]](https://www.youtube.com/watch?v=e2zjpCqTmyo) `HN`
+- [İşyerinde Yapay Zeka Zorunludur. İşten Sonra Yasak](https://medium.com/@yalovoy/at-work-ai-is-mandatory-after-work-its-forbidden-d12bbd78851c) `HN`
+- [Pentagon, Yapay Zeka ve Drone Yeteneklerini Artırmak İçin "Autowarcom" Oluşturdu](https://www.reuters.com/world/pentagon-creates-autowarcom-expand-ai-drone-capabilities-2026-09-30/) `HN`
+- [Best - of – Agent - Harnesses - Haftalık olarak yeniden puanlanan 167 AI ajanı koşum takımının sıralı listesi](https://github.com/ryanalberts/best-of-agent-harnesses) `HN`
+- [HN'yi göster: Yerel dosyalara, araçlara erişmek için ChatGPT web,space veya dot'ta @ dotlink yazmanız yeterlidir](https://github.com/abird-ai/dotlink/) `HN`
+- [Robot Hapishanesinde LLM'lere İşkence Yapan Biri Yapay Zekadaki En Aptal Tartışmayı Tetikledi](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/) `HN`
+- [Rapor: Antropik, yapay zekanın "varoluşsal riskleri" uyarısına rağmen, Şükran Günü öncesi halka arzı hedefliyor - SiliconANGLE](https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3JSWlRzSkVtUUhRcE5qelppbnJoSzhtZ3lMZURGU2s4cGREd0RJOG5pNmJIZW5fMFBteU1oTElGVHhxb2hqeUYxUi16M1JUTUtrN1A0SWJSLXdSUk1aRVhNQWlFeGtEeHZiWkdOYXV2MmRWck5HUWpubkdjWmhEaW1IdzdJUy1yRW1FN0U2OVU2V04xN2drUzFVUjU0TG5wRFJfSTJQR2N2blctcUtXTlJtRURjTmNZZkUxZi12Wi0zY015LWJUbTln?oc=5) `RSS`
+- [AutoSynthData: Kurumsal Temsilciler için Eğitim Verileri Oluşturma](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) `RSS`
