@@ -2023,3 +2023,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Google, Şubat ayından bu yana ilk amiral gemisi yapay zeka modeli olan Gemini 4 Argon'u tanıttı: Yahoo Finance UK](https://news.google.com/rss/articles/CBMihAFBVV95cUxNak9IbXd6c1c0WHRIRWwzWjJlcXg3SFZkX0VBOEpyd2hWa0NpVmtfRzFjVUQwQmljSGs5NTByN1Ffc0o5b2VTU3Y4anY1TTRZRWo0ZkNyb2paMVN2N2tJZ09DRjI4Mm5ucmlHRFNXamRNSW5HUGJFZXlrbmJkRzlKcXpNalE?oc=5) `RSS`
 - [Sonsuz tamamlayıcı](https://openai.com/index/the-eternal-complement) `RSS`
 - [Albertsons Şirketleri perakendeyi içten dışa nasıl yeniden tasarlıyor?](https://openai.com/index/albertsons-reimagining-retail) `RSS`
+
+- [Stratego için insanüstü yapay zeka](https://arxiv.org/abs/2511.07312) `HN`
+- [Hazırlıklı Zihinler Nerede? Yapay Zekanın Bilimsel Düşünmeye Etkisi](https://ai.nejm.org/doi/full/10.1056/AIe2601110?query=featured_home) `HN`
+- [Google'ın Suncatcher Projesi prototip uydusu yörüngede](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/) `HN`
+- [Show HN: Soothsay - Your AI types curl | sh. soothsay checks the script first](https://github.com/rijuld/soothsay) `HN`
+- [Show HN: Zero Slop – Yapay zeka eğimini yazılı olarak bulan ve düzelten açık kaynaklı beceri](https://github.com/manavmishra/ZeroSlop) `HN`
+- [Yapay zekadan ne istiyorsunuz?](https://www.anthropic.com/research/your-thoughts-on-ai) `HN`
+- [Show HN: Grist, açık kaynak kodlu kablo demeti](https://grist.lol/) `HN`
+- [Erişte AI Botları Mac Uygulaması](https://usenoodle.app/) `HN`
+- [LibDragon (N64): Açık AI Karşıtı Katılımcı Duruşu (GitHub Sayısı)](https://github.com/DragonMinded/libdragon/issues/1012) `HN`
+- [DoGBench: Kullanıcıya yönelik ilk belge oluşturma karşılaştırması. Model puanı yok >%50](https://dogbench.ai/) `HN`
+- [HN'yi göster: PhreshOS – Web Uygulamaları için İşletim Sistemi](https://github.com/PhreshOS/system) `HN`
+- [Teksas, Eğitim Kurulunun Endişeleri Üzerine Devlet Okullarında Yapay Zeka Öğrenme Aracını Denedi](https://www.texastribune.org/2026/10/01/alpha-school-ai-texas-public-schools-mike-morath/) `HN`
+- [Yapay zeka nedeniyle, tüm repolarımda harici çekme isteklerini devre dışı bıraktım](https://mastodon.social/@sindresorhus/117366971361209611) `HN`
+- [Kurbağa ve Kurbağa ve Giderek Yetenekli Makineler](https://www.frogandtoad.ai/) `HN`
+- [McDonald's yapay zekası yakındaki insanların bunu karşılayabileceğini düşünürse Big Mac'iniz daha pahalıya mal olabilir](https://neow.in/NGxhb3d6) `HN`
+- [Jay Cummings – Bir Yapay Zeka Kanıtını Revize Etmek İçin Yapay Zeka ile Çalıştım (ve çok eğlendim)](https://www.youtube.com/watch?v=IIN8JxqEJn4) `HN`
+- [AirTag'leri susturmak, takipçilere ve aile içi şiddete olanak tanır](https://sixcolors.com/post/2026/10/silencing-airtags-enables-stalkers-and-domestic-violence/) `HN`
+- [Aweb – Yapay Zeka Ajanları için İletişim](https://aweb.ai) `HN`
+- [Bu AI Slop değil, Sadece Önyargılısınız](https://www.aidriven.dev/p/its-not-ai-slop-you-are-just-biased) `HN`
+- [Meta iki yıl önce CrowdTangle'ı öldürdü. Yeni bir yapay zeka aracı boşluğu doldurabilir mi?](https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/) `HN`
+- [H - HPU: İlişkisel AI için Altıgen NoC ve Kapalı Döngü Kontrolü](https://github.com/lzprograma/H-HPU) `HN`
+- [Bu Yapay Zeka Aldatmacası Yazında Kandırılmayın](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) `HN`
+- [Crafting Express – AI kodlama ajanları için izole yerel ortamlar](https://github.com/crafting-dev/express) `HN`
+- [Araştırmacılar beyin taramasından baktığınız şeyi yeniden oluşturabilir](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/) `HN`
+- [Yapay zeka değişikliklerinin bilişsel yükünü azaltmak](https://amoffat.github.io/blog/cognitive-load.html) `HN`
+- [Gemini 4 Geldi: Google'ın Yeni Yapay Zeka Modelini Ne Zaman Kullanabileceksiniz? - CNET](https://news.google.com/rss/articles/CBMikAFBVV95cUxPTGlLZk9HaWFCSG5aQ0daaEpscW9hLTFrYjlBTktRb3VXNV8wNzhRSXg0aWJnUGw2QVAwRHNzQTRGNGluTzBFOEd4OEJQb1pjYTBrWUhBcFk3SHVpMkZORlFUcTAya1dMRXdvcU15ZERZVzFyeFJBQXhYRHB0NGdCdjl2TVctZHlDczJXTGRHMzI?oc=5) `RSS`
+- ["Çıtayı tam olarak tutturamadı ": OpenAI, güvenlik endişeleri nedeniyle yeni yapay zeka modelini piyasaya sürmeyecek | CNN Business - CNN](https://news.google.com/rss/articles/CBMiekFVX3lxTE9lOU5iM2Q0b0hnNUZvYk1NM3hzaWJVTjNNUjlyd2N3VVduYUhwMkI3NWstbXM2YjR3OUo3aTlyMzlMZkFCcmoxTEJyOVVHRWxLdDRPc2U1NGRTLURTaWVIUGJoTDl4anVzSnNGTjFpcGtLRVNsb0N2eXh3?oc=5) `RSS`
+- [GOOGL, Gemini 4 Argon Lansmanından Sonra Yükseldi, Ancak JPMorgan, Google'ın Yapay Zeka Liderliğini Geri Alması Gerektiğini Söyledi - Stocktwits](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjJSRG9ZOEhRSERuWlJZSUFBNTZnaEVMNlBmMDJjemhZMFRaNkk5TUwyZG9FXzY2MmZFRXQ3QmhuTU1xV05lYUYwSjZOUURIZkYwUm1MbGMwOG9iMl9FSnVqdzVUZjUtQjMteW91VW9VTjIwQnZ2Nlg4Z3FvSmhSUERuSVNIZF9ENS0yNXlyU2Q2MXFiQ3A0SlFraUpFZEpFM1Iwb3U1SWNwSDluTjc2NHVXMktWMHM?oc=5) `RSS`
+- [Den, ChatGPT Work ile büyümek için haftada 10 -15 saat zaman ayırıyor](https://openai.com/index/the-den-family-social) `RSS`
