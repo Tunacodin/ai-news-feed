@@ -2184,3 +2184,29 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN:FB Post Generator](https://gemini.google.com/share/1a34bce7137f) `HN`
 - [Yapay zeka temsilcileri riski "önemli ölçüde" artırdığı için Apple Mac disk erişimini sınırlayacak](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) `HN`
 - [OpenAI, güvenlik endişeleri nedeniyle yeni AI modelinin lansmanını iptal etti - signalscv.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxORzNBN3hGbVdEa1gwd1hSWHd5V19id3RQQTNGSUNkWDB6SHlwQlBhWktiU0tsMnAyLXVYNjl5UFdPNm43cU1ONFlka1FCcGd3dUMwN3MxV0hpSDh4cDcya2tCWjExRlRaLXVSV183cjA1SjU4dWFvR0U1RTJLUEk4NlFUX0k1VFlGUF93STdubXlJQzNxVVE?oc=5) `RSS`
+
+- [Bir Boeing 737 Max, Ses Hızında Burunlu Bir Seyahatte Nasıl Hayatta Kaldı?](https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4) `HN`
+- [İnsanlar yapay zekanın uygulama katmanı olacak](https://twitter.com/koopuluri/status/2106244337814364332) `HN`
+- [Yapay zekanın gerçek iş yapmayı öğrendiği yer](https://labelbox.com/) `HN`
+- [Cua Alanları](https://spaces.cua.ai/) `HN`
+- [Eski risk sermayesi meslektaşlarımın demokrasimizi satın almasına izin veremeyiz (NYTimes)](https://www.nytimes.com/2026/06/11/opinion/silicon-valley-ai-politics.html) `HN`
+- [Show HN: Çevrimdışı NHTSA VIN kod çözücüsü, NHTSA'nın kendi SQL'ine göre doğrulanmış](https://github.com/AIKitLLC/nhtsa-edge-api) `HN`
+- [Yapay zeka saniyede 1.000.000 token ile çalışsaydı ne olurdu?](https://www.echohive.ai/one-million-tokens-per-second) `HN`
+- [LLM tavsiyelerine göre sıralanmış arka uç programlama dilleri](https://preseason.ai/rankings/devtools/backend-language) `HN`
+- [SWC, yapay zeka tarafından oluşturulan içerik nedeniyle harici PR'ları kabul etmeyi durduruyor](https://twitter.com/swc_rs/status/2105505428893544847) `HN`
+- [Delta, Starlink Kullanmayan Tek Dört Büyük Havayolu Şirketi - Elon Musk Öfkeli](https://www.wsj.com/business/airlines/delta-is-the-only-big-four-airline-that-wont-use-starlinkand-elon-musk-is-furious-3438591e) `HN`
+- [Show HN: Fakeflac - go – "Sahte" .flac dosyalarını hızlı bir şekilde bulmak için bir araç](https://github.com/drichline/fakeflac-go) `HN`
+- [Claude'un bilinci yerinde mi?](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) `HN`
+- [Yapay Zeka Çağında Akıllı Kalmanın Yolları: Eleştirel Düşünme Bilimi](https://www.nature.com/articles/d41586-026-02930-6) `HN`
+- [MTurk bu hafta kapalı: Ground Truth ve A2I iş akışları nasıl çalışır durumda tutulur?](https://services.deepen.ai/guides/mturk-ground-truth-a2i-migration) `HN`
+- [ArXiv, yapay zeka eğim gelgitini engellemek için kağıt sunumlarına hız sınırı getiriyor](https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899) `HN`
+- [Show HN: Google Maps Scraper MCP](https://gmapscrawl.com/google-maps-scraper-mcp) `HN`
+- [Yapay zeka botları araştırmacıları para ve zaman talepleriyle dolduruyor](https://www.nature.com/articles/d41586-026-03005-2) `HN`
+- [Meta'nın Hit Yapay Zeka Uygulamasının Arkasındaki Küfürlü, Memeyi Seven Milyarder](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659) `HN`
+- [NTSB Ön Raporu: Prime Air 767 Pist Aşımı [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) `HN`
+- [Gizlilik ve güvenlik için yetersiz özel kişisel cihaz içi yerel yapay zeka](https://underdog.ai/) `HN`
+- [Tomasz Tunguz: Teknolojide En Hızlı Büyüyen Pazar Yapay Zeka Değil](https://tomtunguz.com/allium-bloomberg-rwa/) `HN`
+- [Yapay Zeka Çağında Güvenlik Açığı Keşfi ve Sömürü Eğilimleri](https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/) `HN`
+- [Yapay Zeka Sistem Kodu Yazmaya Başladığında](https://www.coreauto.com/blog/when-ai-starts-writing-systems-code) `HN`
+- [Tinfoil özel yapay zeka sohbeti, Tee tarafı içerik taramasını ekledi](https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy) `HN`
+- ['Kazanan Yapay Zeka'](https://www.netmeister.org/blog/winning-ai.html) `HN`
