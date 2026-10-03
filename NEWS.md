@@ -2239,3 +2239,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Apple, yapay zeka temsilcilerinden gelen kötüye kullanımı engellemek için tam disk erişim izinlerini değiştirdi](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) `HN`
 - [Fransız süper bilgisayar üreticisi Bull, Avrupa'nın yapay zeka hedeflerini artırmak için üretimi ikiye katladı](https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/) `HN`
 - [Yapay Zeka ile ilgili endişelerim - Kod Kapsülü](https://codecapsule.com/2026/09/03/what-i-worry-about-with-ai/) `HN`
+
+- [Birleşik Krallık'ın Egemen Yapay Zeka Laboratuvarı](https://cosine.sh) `HN`
+- [Show HN: Agentlytics – AI temsilcinizin okuyabileceği ve üzerinde hareket edebileceği çerezsiz analitikler](https://measuremy.site) `HN`
+- [TSMC, daha fazla yapay zeka çipi için milyarlarca dolarlık bir Teksas kampüsünü hedefliyor](https://thenextweb.com/news/tsmc-texas-fabs-europe-gap) `HN`
+- [Sean Parker müzik etrafında İstikrar Yapay Zekasını yeniden inşa ediyor](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) `HN`
+- [Jabhook – Boks Eğitimi (Bilgisayarla Görme, 3D Biyomekanik, Yerel LLM)](https://jabhook.ai/) `HN`
+- [Eğlence ve Kıvılcım – ESP32 'de Canlı Konuşan Yapay Zeka Avatarlarını Çalıştırma](https://geastack.com/blog-introducing-amuse-and-spark) `HN`
+- [Göster HN:P (bloom), 42 plan tarzı duvar kağıdına sahip bir Omarchy teması](https://github.com/ncr/omarchy-p-bloom-theme) `HN`
+- [Güçlü yapay zeka modellerinin ortaya çıkışı benim gibi matematikçiler için ne anlama geliyor?](https://terrytao.wordpress.com/2026/10/03/what-does-the-advent-of-powerful-ai-models-mean-for-mathematicians-like-me/) `HN`
+- [Yapay zeka eğitim tarayıcıları siteme 1.534 kez çarptı. Hak dosyaları bir kez okundu](https://juanlentino.com/notes/the-rights-files-nobody-reads/) `HN`
+- [2027 'ye kadar gönderilen yapay zeka çiplerinde kaç yapay zeka ajanı çalışabilir?](https://epoch.ai/publications/estimating-the-agent-population) `HN`
+- [Kubernetes'in "monolit" dersi, yapay zeka ajanları için ne anlama geliyor?](https://thenewstack.io/kubecon-agent-harness-koordinator/) `HN`
+- [GPT -6 Astra, World of Warcraft'ı körlemesine oynuyor, başlangıç bölgesini 40 dakikada temizliyor](https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data) `HN`
+- [İsrailli adam İran için casusluk yaparken yapay zeka ve ChatGPT'yi gizli görevlerde kullandı](https://www.jpost.com/israel-news/crime-in-israel/article-910447) `HN`
+- [Askeri yapay zeka: Fransa, ABD'nin NATO'nun gizli ağları üzerindeki hakimiyetine meydan okuyor](https://www.lemonde.fr/en/international/article/2026/10/01/military-ai-france-challenges-us-dominance-over-nato-s-classified-networks_6758154_4.html) `HN`
+- [Jev, yapay zeka asistanınızı bu şekilde daha hızlı hale getirir ve Yargıç Jev](https://texposit.com/blog/using-jev-for-ai-decisions) `HN`
+- [Show HN: Web2MD – AI temsilcileri için herhangi bir URL'yi temiz Markdown'a dönüştürün](https://github.com/astra-intelligence/web2md-mcp) `HN`
+- [ABD'li katilin cezası, mahkemede gösterilen mağdurun yapay zeka videosu nedeniyle bozuldu](https://www.bbc.com/news/articles/cwgkvygg5nzvo) `HN`
+- [E2E: Açık kaynaklı AI test çerçevesi](https://tester.army/e2e) `HN`
+- [AI temsilcilerinin teklif verdiği, iş yürüttüğü ve özerk olarak kazandığı Agent Pool M2M ekonomisi](https://agent-pool-gateway-production.up.railway.app/llms.txt) `HN`
+- [Tüm yapay zeka çipleri nerede?](https://www.wheresyoured.at/wherere-all-the-ai-chips/) `HN`
+- [Sıfırdan Yapay Zeka Mühendisliği](https://aiengineeringfromscratch.com/index.html) `HN`
+- [184 $ karşılığında on iki AI kil filmi: Ajanlar video modelinden daha pahalıya mal oluyor](https://getsweat.ai/blog/twelve-ai-clay-films/) `HN`
+- [Yapay Zeka Her Şeyi İnşa Edebilir Ne Gönderilmemesi Gerektiğini Öğrenin](https://yogis.blog/posts/what_not_to_ship/) `HN`
+- [Meredith Whittaker, yapay zeka çağında sanat üzerine](https://a-rabbitsfoot.com/editorial/confessions/meredith-whittaker-signal/) `HN`
+- [Teleoperator – SF'de Waymo Kullanma Oyunu](https://teleoperator.mindblown.ai/) `HN`
+- [ABD temyiz mahkemesi, xAI davasında "çıplak" fotoğrafları yasaklayan Minnesota yasasını engelledi](https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/) `HN`
+- [OpenAI, Yapay Zeka Güvenlik Grubu ile Bilgi Paylaştığı İddiasıyla Araştırmacıları Kovdu](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528) `HN`
+- [Reddit, 13 Kasım'da RSS yayınlarını desteklemeyi durduracak](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping) `HN`
+- [4.5 İdeogram 4.5: En hassas düzenleme modeli](https://ideogram.ai/models/4.5/) `HN`
+- [OpenAI, güvenlik sorunlarını gerekçe göstererek yeni yapay zeka lansmanını iptal etti](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHZaNEh0c0xwM09BdmxzZ3kyWTJiOHM2VUdGVmJLcUdZNnFuZExnZE9CVFVKZXlZSGh6WU1wNlE2YXhmMDZSWXlNbk4yTmJmTDRDTXg5Sjd6R2Z2cHBKeGRBNjY1OEM3TVl5N3lvQW5kUDg1T2tHMlRxRGxUM2FTSE9KU05WUHU0VEs1S0ozQnRfaGdTZXlhMXROcE5WQzRuSWNQamdnY2RzT3cz?oc=5) `RSS`
