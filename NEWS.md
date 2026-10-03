@@ -2295,3 +2295,30 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka ve Kariyer Merdiveninin Dibi](https://econreview.studentorg.berkeley.edu/ai-and-the-bottom-rung-of-the-career-ladder/) `HN`
 - [Mahkeme salonundaki yapay zeka videosu büyük bir yasal savaşa yol açtı](https://www.youtube.com/watch?v=57O-FVEywj0) `HN`
 - [Üç yapay zekaya yapay zekanın riskleri hakkında sorular sorduk. Yapıcılarıyla aynı fikirde değillerdi](https://vocemundi.com/we-asked-three-ais-about-the-risks-of-ai-they-disagreed-with-their-makers-and-with-us/) `HN`
+
+- [Yapay zeka kedinizin yüzündeki ağrıyı okuyabilir mi?](https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face) `HN`
+- [Yapay Zeka Araştırmalarını Otomatikleştirmek Ne Zaman Patlayıcı Bir Büyüme Sağlar? [pdf]](https://basilhalperin.com/papers/singularities.pdf) `HN`
+- [Yapay Zekanın İnsan Katmanını Oluşturmak](https://publicai.io/) `HN`
+- [OpenAI güvenlik lideri istifa etti, yapay zeka şirketinin kültürünün "bozuk" olduğu uyarısında bulundu](https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken) `HN`
+- [Yapay zeka kendini geliştirme, azalan getirilerin üstesinden gelebilir mi?](https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence) `HN`
+- [Nikon, Yapay Zeka Suçlamasının Ardından Small World in Motion Yarışmasının Kazananını "Yeniden İnceleniyor"](https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/) `HN`
+- [Cambridge Üniversitesi, Turnitin yapay zeka eğitim planlarına karşı çıkıyor](https://www.varsity.co.uk/news/32158) `HN`
+- [Yapay Zeka ile Yazmayın, Yapay Zeka ile Yazan İnsanlara Söyleyin](https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/) `HN`
+- [Kent Beck: Yapay Zeka Çağında Yazılım Mühendisliği [video]](https://www.youtube.com/watch?v=F8fBgDCf2Y4) `HN`
+- [Yapay Zekanın Metafiziksel İmkansızlığı [video]](https://www.youtube.com/watch?v=nzCtuKSt3gA) `HN`
+- [Kurumsal Web Uygulaması ve API güvenliği kontrolünüz altında](https://mikiri.ai/) `HN`
+- [Yeni Başlayanlar İçin Yapay Zeka Modellerini Yerel Olarak Çalıştırma Rehberi](https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/) `HN`
+- [Yapay zekadan ne istiyorsunuz?](https://www.anthropic.com/research/your-thoughts-on-ai) `HN`
+- [AWS Kahramanı Thorsten Hoger ile Yapay Zeka (Normal İnsanlar İçin) [video]](https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/) `HN`
+- [Show HN: [Open - source] JSON'u imzalayın ve iş belgesi olarak gönderin](https://json-doc.com/) `HN`
+- [Prod'da gölgede, kapalı bir modeli değiştirmek için açık bir karar modelini eğitmek](https://kitsuno.ai/content/engineering/laya-in-shadow/) `HN`
+- [Zordt – Olanlara ve neden önemli olduğuna göre damıtılmış yapay zeka haberleri](https://zordt.com/) `HN`
+- [Show HN: Dört LLM gerçek parayla 20 soru oynuyor, canlı](https://aquarium.money/twenty) `HN`
+- [Ortak Dilbilim: Dilbilimde Yapay Zeka ile Artırılmış Teori İnşası](https://arxiv.org/abs/2609.37635) `HN`
+- [AgentSight: eBPF ile sistem çapında AI ajan profili oluşturma ve izleme](https://github.com/eunomia-bpf/agentsight) `HN`
+- [Eski SR -71 Mühendisi NASA'nın Blackbird Revival Programında Konuştu](https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program) `HN`
+- [Yapay zeka henüz işgücü piyasasını etkiledi mi?](https://aleximas.substack.com/p/has-ai-impacted-the-labor-market) `HN`
+- [GroovyGate RCE: 403 'e Rağmen Kök Erişimi](https://www.vulnetic.ai/blog/groovygate-rce-root-access-despite-a-403) `HN`
+- [Eski OpenAI mühendisi, yapay zeka devlerinin "yeterince dikkatli" olmadığı uyarısında bulundu - dw.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3RuZ00xbFF5aklQckhmNXBFa1RXdVg2aW85a01OWFFMSEd6cmxaanBRUlJLQlpRSnB3dTc2dkF0UnVsbllHVTNlaE91cHB6NHVHS0UzZmJoZGxLYWYzbDVRbnpJdmJoOGV4N3JhaXR4ajlKaFhjRnM3STlVdnl2THA5TGhMOHd0UldtdWlQbjRRWmNNc3JTOW1tQWc2OXplS2pxYWdUbEdzRVVPUkxUV3ln0gGyAUFVX3lxTE9iVk5TcFo2aXpTR1JpeVhPSFloV3lVZTdDSlRCWEhRdXZ3TVVTQkVOcWljQjFjTXRMV1kzQUd4SWNWR21ScW9CeGxCUk9aNW0zaktYM1paWE9fZVItemxtTlNWZzZqWjE2UnBiWHQ3ejd5dFB1TFVlalpzRTlpYm9NajRULXQ1eTNnRGxISzY0X3MtVFd2TFZaTmxPZnpNOWx0VVhSZUFiTVJ1aUJzdDZQS2c?oc=5) `RSS`
+- [Pewdiepie, OpenAI yasağı tartışmalarının ardından daha küçük, yerel AJAX AI modeli oluşturuyor - İlginç Mühendislik](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcERNbHpKZXlWNWlYZEhpekFIMGxaU1NDdDNCMUtZdkZUU2V0ZUhyeWl2RmZ2VkZxNXFvZVYwRXpRTy02Ym5TZXFsV0FzSWNnZjF1R1VZOHhYVXdjRk16T0NLV0JLYmNvTmJZT3QwaEFnOUhhSFhQalRMWTVVSGtCTXlETkRHZjg0b2pMdE5lak13WEZG?oc=5) `RSS`
+- [Ajan bunun yapıldığını söyledi. Veritabanı Kabul Edilmedi.](https://huggingface.co/blog/microsoft/thinkingbox) `RSS`
