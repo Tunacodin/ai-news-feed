@@ -2210,3 +2210,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka Sistem Kodu Yazmaya Başladığında](https://www.coreauto.com/blog/when-ai-starts-writing-systems-code) `HN`
 - [Tinfoil özel yapay zeka sohbeti, Tee tarafı içerik taramasını ekledi](https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy) `HN`
 - ['Kazanan Yapay Zeka'](https://www.netmeister.org/blog/winning-ai.html) `HN`
+
+- [Geliştiriciler AI Shift ile Birim Test Satırlarını Sil](https://x.com/i/trending/2106211685782483337) `HN`
+- [İndirme: biyolojik yaşlanma karşıtı bir yarışma ve LLM'lerin neden akıl yürütmediği](https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/) `HN`
+- [Gösteri HN: Almanya'nın yeni egemen AI modeli Kolibri](https://tej.as/blog/aleph-alpha-kolibri) `HN`
+- [Futuresearch Evals](https://evals.futuresearch.ai) `HN`
+- [Kısıtlama memnuniyetini kullanarak Latin şiirini ayrıştırma](https://logical.ai/arma/) `HN`
+- [Yapay Zeka Verilerinde Savunulabilirlik: Reklamlardan Alınacak Dersler](https://twitter.com/gokulr/status/2105838034646077890) `HN`
+- [Gösteri HN: AI ajanları için güzel form arka ucu – Nisuform](https://nisuform.com/) `HN`
+- [Bir yapay zeka temsilcisi, yardım için araştırmacılara e - posta gönderdi. Bize nedenini anlattı](https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why) `HN`
+- [Gizemli AI Hype Tiyatrosu 3000 [video]](https://dair-institute.org/maiht3k/) `HN`
+- [Yapay zeka temsilcileri için bir belge katmanı](https://www.claix.dev) `HN`
+- [Yapay zeka destekli anket oluşturma ve analiz](https://crowdlee.com/) `HN`
+- [Araştırmacılar, Çin yapımı popüler ücretsiz yapay zeka içinde bazı konuların yasak olduğunu tespit etti](https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/) `HN`
+- [Show HN: GhostBench – AI modelleri ölü SaaS'ı öneriyor mu? Kendi tezimi test ettim](https://github.com/kyv-attest/kyv) `HN`
+- [Show HN: UsageAtlas(OSS), All your AI coding usage insights. One beautiful view](https://usageatlas.com) `HN`
+- [Kimse yapay zekadan kucaklayan suratı hacklemesini istemedi. Peki neden böyle oldu?](https://ankitjain.info/ankit/2026/09/28/ai-agents-sandboxes-hugging-face-incident/) `HN`
+- [Gösteri HN: İşbirlikçi Yapay Zeka Mühendisliği](https://griyd.com) `HN`
+- [DeepSeek, DeepGEMM'i Huawei Ascend 950 'ye bağlıyor](https://github.com/deepseek-ai/DeepGEMM-Ascend) `HN`
+- [Spotlight Hafızası](https://www.percepta.ai/blog/spotlight-memory) `HN`
+- [Yapay Zeka Uzmanları Açık Alanda Yüksek Riskli Araştırma Yapmak İstiyor](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/) `HN`
+- [Boom Supersonic önemli müşterisini kaybetti](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) `HN`
+- [Açık Araştırma Sorunlarını Birlikte Çözme](https://research.meta.ai/blog/solving-open-research-problems-together) `HN`
+- [Anthropic, 2028 'e kadar 10 bin FDE'yi eğitmek için Claude Frontier Academy'ye 100 MİLYON $ taahhüt etti](https://www.unite.ai/new-anthropic-academy-backs-10-000-engineer-residencies-with-100m/) `HN`
+- [Eski SR -71 Mühendisi NASA'nın Blackbird Revival Programında Konuştu](https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program) `HN`
+- [Bir Yılda Yapay Zeka Şüphecisinden Yapay Zeka Hapına Geçtim](https://openengine.cc/blog/ai-skeptic-to-ai-pilled/) `HN`
+- [YZ Etkisi](https://en.wikipedia.org/wiki/AI_effect) `HN`
+- [Apple, yapay zeka temsilcilerinden gelen kötüye kullanımı engellemek için tam disk erişim izinlerini değiştirdi](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) `HN`
+- [Fransız süper bilgisayar üreticisi Bull, Avrupa'nın yapay zeka hedeflerini artırmak için üretimi ikiye katladı](https://www.reuters.com/world/europe/french-supercomputer-maker-bull-doubles-output-boost-europes-ai-ambitions-2026-10-01/) `HN`
+- [Yapay Zeka ile ilgili endişelerim - Kod Kapsülü](https://codecapsule.com/2026/09/03/what-i-worry-about-with-ai/) `HN`
