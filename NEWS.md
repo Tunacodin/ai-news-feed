@@ -2270,3 +2270,28 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Reddit, 13 Kasım'da RSS yayınlarını desteklemeyi durduracak](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping) `HN`
 - [4.5 İdeogram 4.5: En hassas düzenleme modeli](https://ideogram.ai/models/4.5/) `HN`
 - [OpenAI, güvenlik sorunlarını gerekçe göstererek yeni yapay zeka lansmanını iptal etti](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMHZaNEh0c0xwM09BdmxzZ3kyWTJiOHM2VUdGVmJLcUdZNnFuZExnZE9CVFVKZXlZSGh6WU1wNlE2YXhmMDZSWXlNbk4yTmJmTDRDTXg5Sjd6R2Z2cHBKeGRBNjY1OEM3TVl5N3lvQW5kUDg1T2tHMlRxRGxUM2FTSE9KU05WUHU0VEs1S0ozQnRfaGdTZXlhMXROcE5WQzRuSWNQamdnY2RzT3cz?oc=5) `RSS`
+
+- [Capcom, Re Engine'i Yapay Zeka Üretimi Oyun Motoruna Dönüştürmeyi Planlıyor](https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai) `HN`
+- [Antropik, Papa'yı yapay zekanın bilinçli bir varlık olabileceğine ikna etmeye çalıştı](https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/) `HN`
+- [PlushCrew – çalışan bir POSTA KODU yazan, test eden ve döndüren üç aracı](https://www.plushcrew.ai) `HN`
+- [Yapay Zeka Ebemiz](https://www.astralcodexten.com/p/our-ai-midwife) `HN`
+- [Bulgu sayısının üzerinde doğruluk için optimize edilmiş yapay zeka kod incelemesi](https://vetoo.dev) `HN`
+- [İki American Airlines Uçuşu Aynı Uçuş Numaralarıyla Sona Erdi](https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/) `HN`
+- [Yapay zeka yapabildiğinde beni uyandır](https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html) `HN`
+- [Çin Yapay Zeka Yarışını Nasıl Kazanıyor [video - essay]](https://www.youtube.com/watch?v=QdznbGzRWSw) `HN`
+- [Google, uzaydaki yapay zeka veri merkezlerine doğru bir adım olan Project Suncatcher'ı başlattı](https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space) `HN`
+- [Claude/ChatGPT'den (MCP aracılığıyla) kendi makinenizde bir kodlama aracısını yönlendirin](https://remote.phyra.ai/) `HN`
+- [Show HN: RepoGuard – Yapay zeka tarafından oluşturulan kod için mimari linter (İmleç, Claude)](https://github.com/taylormatematica-beep/repoguard) `HN`
+- [Show HN: Revline – TikTok ve Instagram'ı sizin için araştıran bir yapay zeka web uygulaması](https://tryrevline.com/) `HN`
+- [Gürcistan, seçmenlerin gizli oylarını açığa çıkaran yapay zeka üzerine acil toplantı düzenledi](https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy) `HN`
+- [Pop! _OS, kod tabanının çoğundan yapay zeka tarafından oluşturulan kodu yasaklıyor](https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/) `HN`
+- [Amazon Bedrock AgentCore ile AI temsilcileri için son kullanıcı OAuth onayını yönetin](https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/) `HN`
+- [Yapay zeka "vaftiz babası" LeCun'un insan neslinin tükenmesi konusunda "sıfır endişesi" var](https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/) `HN`
+- [Yapay zeka güvenlik burslarına (ve ötesine) nasıl başvurulur?](https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond) `HN`
+- [Temsilci sorularını asenkron olarak yanıtlamak için HN:UI'yi göster](https://docs.plannotator.ai/open-source/workflows/questions) `HN`
+- [Yapay zeka güvenliği çoğunlukla Berkeley, Kaliforniya'da bir seks tarikatıdır [pdf]](https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf) `HN`
+- [YAPAY Zeka Beyninizi Tembelleştirir mi? İşte Yeni Araştırmanın Gösterdikleri](https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html) `HN`
+- [Yapay Zeka Temsilcilerinin Sadece Bir Kontrol Paneline Değil, Bir Kayıt Sistemine İhtiyacı Var](https://www.anuclei.com/blog/your-ai-agents-need-a-system-of-record) `HN`
+- [Yapay Zeka ve Kariyer Merdiveninin Dibi](https://econreview.studentorg.berkeley.edu/ai-and-the-bottom-rung-of-the-career-ladder/) `HN`
+- [Mahkeme salonundaki yapay zeka videosu büyük bir yasal savaşa yol açtı](https://www.youtube.com/watch?v=57O-FVEywj0) `HN`
+- [Üç yapay zekaya yapay zekanın riskleri hakkında sorular sorduk. Yapıcılarıyla aynı fikirde değillerdi](https://vocemundi.com/we-asked-three-ais-about-the-risks-of-ai-they-disagreed-with-their-makers-and-with-us/) `HN`
