@@ -2337,3 +2337,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [ABD piyasa değerinin yapay zeka payı](https://theinference.org/indexes/ai-share?range=max) `HN`
 - [Meta'nın Hit Yapay Zeka Uygulamasının Arkasındaki Küfürlü, Memeyi Seven Milyarder](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659) `HN`
 - [Aleph Alpha, hükümet kullanımı için bağımsız bir Alman yapay zeka modeli olan Kolibri'yi piyasaya sürdü - Startup Fortune](https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFKay1xU3FEdVV5dGdTZEZHczBlb1hPdjZtTVg5bkZXY0lIMldkOFRqRllRRzBiS0JwaDJmdWt3MW15Nm1mQ3B0MXNPbWMyaGJNdjU5Yi1BR0lIRFhiNXJlYVJORFJDUEwtc3RFeEgxSDJ1VVVZSlZnQ19UUkV5SjQ5M1YxVjBWTXV1eE94SjM1OTVQNjZhR0V2X1dtMGVqREYxTnlB?oc=5) `RSS`
+
+- [AB İcra Yapay Zeka Yasası](https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act) `HN`
+- [HN'yi göster: macOS'ta her fotoğraf ve videonun her karesi için yapay zeka araması](https://github.com/allenv0/SCM) `HN`
+- [Yapay Zeka, Arzu ve Kurgusal Karakterler](https://endsdontjustifythemeans.com/p/on-ai-desire-and-fictional-characters) `HN`
+- [Normal Teknoloji Olarak Yapay Zeka (2025)](https://knightcolumbia.org/content/ai-as-normal-technology) `HN`
+- [Aura – Go ile yazılmış, zamansal grafik belleğine sahip, kendi kendine barındırılan bir yapay zeka ajanı](https://github.com/chetto1983/Aura) `HN`
+- [Yapay zeka ile niyet, kalite ve sanat nasıl ölçeklendirilir [video]](https://www.youtube.com/watch?v=GLvFTMtw4Jk) `HN`
+- [Yapay Zeka Arama Özetlerinin Web Sitesi Trafiği Üzerindeki Etkisi](https://arxiv.org/abs/2602.18455) `HN`
+- [Gemini ile Agentic Video Anlayışı](https://aistudio.google.com/learn/agentic-video-understanding-with-gemini) `HN`
+- [Çin'in YAPAY Zekaya Yönelik Girişimi Bir Soruna Yol Açtı: Çok Fazla Kullanım](https://www.nytimes.com/2026/10/02/world/asia/china-ai-overuse.html) `HN`
+- [Yapay Zeka Satranç Oynamayı Öğreniyor](https://ailearningchess.ai-learning-chess.workers.dev/) `HN`
+- [IBM, Hızlı ve Verimli Yapay Zeka için Beyinden Esinlenen Çipi Tanıttı (2023)](https://spectrum.ieee.org/neuromorphic-computing-ibm-northpole) `HN`
+- [Svelte UI kütüphanesi – geri bildirim ve kullanıcı arıyor](https://www.sivir.dev/) `HN`
+- [Robot Hapishanesinde "İşkence Eden" LLM'ler Yapay Zekadaki En Aptal Tartışmayı Tetikledi](https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/) `HN`
+- [Yapay Zeka Çağında Saf Matematik Araştırmasının Geleceği Nedir?](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/) `HN`
+- [Show HN: Solvi 1.0 – bir LLM önerir, kontrol eder ve her karar tekrarlanır](https://github.com/solvi-ai/solvi) `HN`
+- [Show HN: Thirds.ai – Şablonlardan güzel, marka içi görüntüler ve PDF'ler](https://thirds.ai) `HN`
+- [Gösteri HN: Artbucket – insanlar ve yapay zeka temsilcileri için OSS marka varlıkları ve portalları](https://github.com/pwnera/artbucket) `HN`
+- [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d) `HN`
+- [Bir yapay zeka modeli "acı" durumuna getirildiğinde ne olur? ResearchChamber.fun](https://researchchamber.fun/) `HN`
+- [Gömülü Değerlendiriciler Kötü Olmayı Seçen Şirketleri Düzeltemez](https://stellabiderman.ai/blog/embedded-evaluators-cant-fix-companies-that-choose-to-be-bad/) `HN`
+- [Yapay zeka temsilcilerinin sitenizi 3 HTML özniteliği ile kullanmasına izin verin](https://markodenic.tech/let-ai-agents-use-your-site-with-3-html-attributes/) `HN`
+- [Nvidia 64 GB DGX Spark'ı Tanıttı](https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less) `HN`
+- [AI kodlama ajanları için MBTI, öz farkındalık puanı ile tamamlandı](https://github.com/joonfjp/16agents) `HN`
+- [Yapay Zeka Matematiği Sonsuza Dek Değiştirdi - Brian Greene ve Tristan Buckmaster](https://www.youtube.com/watch?v=PQYFRuZ5phs) `HN`
+- [Uçan baz istasyonu, 16 kilometre yükseklikten Japonya'ya telefon sinyali gönderiyor](https://newatlas.com/aircraft/sceye-flying-cell-tower-beams-phone-signal-stratosphere/) `HN`
+- [VersionStory: Yapay Zeka yerel hukuk ekipleri için Karşılaştırma ve Redlining](https://www.versionstory.com) `HN`
+- [Yapay zeka görev düzeyinde üretkenlik neden organizasyonel çıktıya dönüşmüyor?](https://pub.towardsai.net/the-hamster-paradox-36dd0d950568) `HN`
+- [README'de değişiklik: LLM güncelleme stratejilerinin test edilmesi](https://codecut.ai/readme-update-from-release-notes/) `HN`
+- [Nazik AI: AI Kodlama Ekosistemi](https://gentle-ai.gentlemanprogramming.com/) `HN`
