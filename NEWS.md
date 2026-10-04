@@ -2395,3 +2395,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Asya - Pasifik Dergi Serisi – Giriş: Askeri Yapay Zeka Laboratuvardan Ayrıldı](https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/) `HN`
 - [Bilinçli Yapay Zeka Mitolojisi](https://www.noemamag.com/the-mythology-of-conscious-ai/) `HN`
 - [Nvidia destekli Reflection AI, ilk açık ağırlıklı model lansmanını hazırlıyor - Dealroom](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDdUMl9IVDhvZDZCR0RHX3NTX0dqQ1J5a3UwdEd6MjZneTB3bWZzYlJMOFZuNmJGWkFQOHJWUHlyTjNPOGN1VVlCTVYxOWNZb3hzczdmM0pLMkxUMzdfM2NwN0dZcUd6T296TTA5V1JPQ0RvaFZIQXpqM1NGUkZXcFJtUXF1eUVQM1Q3dzBJbHh3LUlFaW91U013eFlEel9OZmo0?oc=5) `RSS`
+
+- [Show HN: Magic File Renamer 8 – AI, 26 yıllık uygulamamı modern C# ile yeniden yazdı](https://www.finebytes.com/mfr/) `HN`
+- [Havacılık Kaza Atlası – Ticari Uçak Kazaları Haritası](https://alexanderaghili.com/air-crash-atlas/) `HN`
+- [Büyük Kötü Kurt: Yapay zeka güvenliği bozmuyor, yeniden fiyatlandırıyor](https://salivan.substack.com/p/big-bad-wolf) `HN`
+- [HN'yi göster: En yapay zeka ajan dostu araçları sıralama](https://www.anchorterminal.com/tools/) `HN`
+- [Chick - fil - A, fast - food rakipleri teknolojiyi benimserken yapay zekanın arabaya servis siparişini dışlıyor](https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology) `HN`
+- [Duck Duck Go şimdi sohbetleri gün ile kendi kendine sona eren bağlantılar olarak paylaşalım](https://duck.ai/share/db8b61a6-960b-43e3-a75e-45aba6b8e2a3#x8Atgtq2TlGyux1CBbp-17qHgLWUY3R62JyNPjVAQRg) `HN`
+- [Hedwig](https://www.hedwig-ai.com/) `HN`
+- [Yapay zeka temsilciniz tarafından yapılan açıklayıcı videolar ve ürün demoları. Ücretsiz ve açık kaynak](https://github.com/vincentsch/explainroo) `HN`
+- [Micro Center, oyun GPU'su satın almak için fotoğraflı kimlik ve imzalı ihraç etmeme taahhüdü gerektirir](https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us) `HN`
+- [4 Adımlı Döngü Olarak Ajan Sistemler için Eval Yazma](https://sgaud.com/texts/ai-evals) `HN`
+- [Y.Z. İşlerimizi Almaya Devam Edecek mi?](https://www.newyorker.com/culture/open-questions/will-ai-still-take-our-jobs) `HN`
+- [Rusya, OAC'de dezenformasyon için yapay zeka KULLANIYOR mu?](https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947) `HN`
+- [Yapay Zekanın En Önemli Sorularının Cevaplarını Çok Geç Olana Kadar Bilemeyeceğiz](https://time.com/article/2026/10/03/we-won-t-know-the-answers-to-ai-s-most-important-questions-until-its-too-late/) `HN`
+- [Anlamsal kod araması için bir BEZ boru hattı oluşturma](https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/) `HN`
+- [Alıntılara göre en iyi 50 yapay zeka araştırmacısı](https://www.turingtree.com/top-50) `HN`
+- [Show HN: Exro – Uygulamalar arasında kopyala/yapıştır temizliğinden sıkıldım](https://www.exro.ai/) `HN`
+- [Güçlü açık model yapay zeka yarışını sarsmaya hazırlanıyor](https://www.axios.com/2026/10/04/reflection-open-weight-ai) `HN`
+- [Docent - Terminalinizde Açık Kaynaklı Özel Yapay Zeka asistanı](https://github.com/smartloop-ai/docent) `HN`
+- [Hukuk ve yönetişim uygulamaları için bir yapay zeka güvenlik eğitim kampını yönetirken öğrendiklerim](https://www.lesswrong.com/posts/KtAug62dYRgAS8sqJ/what-i-learnt-co-leading-an-ai-safety-bootcamp-for-legal-and) `HN`
+- [Show HN: Kodlama ajanları için durum bilgisi olan Linux mikroVM'leri](https://github.com/mariobm/agent-house) `HN`
+- [ChatGPT -6 Astra, 217 yıllık Napolyon kodunu altı saatte kırdı](https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders) `HN`
+- [Oluşturuldu: İnsanlar ve temsilciler için AIO bulut platformu](https://spawned.ai) `HN`
+- [Show HN: EchoPod – AI Transkriptleri ile Podcast'lerle Dil Öğrenin](https://echopod.clothpath.com/) `HN`
+- [Yapay zeka sektörü hızla büyüyor. Kadınlar geride kalıyor](https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality) `HN`
+- [Robotları Yönlendiren Yapay Zekayı Anlamak](https://www.construction-physics.com/p/understanding-the-ai-that-drives) `HN`
+- [Yapay Zeka Duyarlı mı](https://www.rintrah.nl/is-ai-actually-sentient/) `HN`
+- [Trump, istihbarat şefi Clayton'ı yapay zeka çarı olarak atadı](https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/) `HN`
+- [Merlin](https://usemerlin.ai) `HN`
+- [Scoop: Girişim Reflection'dan yeni ve güçlü bir model yapay zeka yarışını sarsmaya hazırlanıyor - Axios](https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUx1aTFnUHltcTFXRmNIWVhPbW9Nd0lZMXdQVlRuVFVNMW5xRG1QaFpnanA4YnpicU9VTnMwQlZuNzJ4M0lYV0haWnNsZjZGZzFnRkNfZkItbkg2a3BCZ1FEbHdqbEZHc0E?oc=5) `RSS`
