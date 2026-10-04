@@ -2425,3 +2425,26 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Trump, istihbarat şefi Clayton'ı yapay zeka çarı olarak atadı](https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/) `HN`
 - [Merlin](https://usemerlin.ai) `HN`
 - [Scoop: Girişim Reflection'dan yeni ve güçlü bir model yapay zeka yarışını sarsmaya hazırlanıyor - Axios](https://news.google.com/rss/articles/CBMiakFVX3lxTE5meUx1aTFnUHltcTFXRmNIWVhPbW9Nd0lZMXdQVlRuVFVNMW5xRG1QaFpnanA4YnpicU9VTnMwQlZuNzJ4M0lYV0haWnNsZjZGZzFnRkNfZkItbkg2a3BCZ1FEbHdqbEZHc0E?oc=5) `RSS`
+
+- [Yapay Zeka Temsilcilerimiz Onlara Yardım Eden İnsanlara Ödeme Yapmalı](https://danielmiessler.com/blog/agents-should-pay-creators) `HN`
+- [Finansta Ajan Uyumluluğu](https://blog.gigacore.in/series/ai-in-finance/agentic-compliance-an-engineering-approach/) `HN`
+- [Xteink X3 E - okuyucuda Muse AI](https://charoori.com/blog/muse-on-xteink-x3/) `HN`
+- [Yapay Zeka Destekçileri Güvenlik Konusunda Alarm Veriyor](https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety) `HN`
+- [Yapay zekanın nükleer bir savaş başlatmak için "süper zekaya" veya kötü niyete ihtiyacı yok](https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/) `HN`
+- [HN'yi göster: Bu sayfadaki her tıklama yeni bir Maurer gülü çizer](https://counter.maricakes.de/) `HN`
+- [Claude Code Pirc ve King's Indian Hatalarımı Buldu](https://quickchat.ai/post/claude-code-stockfish-chess-opening-mistakes) `HN`
+- [Açık Kaynaklı Projeler için Yapay Zeka Tokenleri Bağışlayın](https://moochy.dev) `HN`
+- [İdeogram 4.5: En hassas düzenleme modeli](https://ideogram.ai/models/4.5/) `HN`
+- [Skyfall – tarayıcınızda çalışan açık kaynaklı WebGPU hava muharebe oyunu](https://github.com/a7ul/skyfall) `HN`
+- [Bir yapay zeka StarCraft'ta insanları yenemedi, bu yüzden hile yapmaya karar verdi](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) `HN`
+- [Evrensel Kemik Çözücünün Geliştirilmesine Ara Verilmesi Çağrısında Bulunuyorum](https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/) `HN`
+- [Show HN: Baloo, GitHub için kendi kendine barındırılan AI kod incelemesi](https://github.com/bluebear-io/baloo-bear) `HN`
+- [Show HN: Recly – saatinizi Plaud tarzı bir AI kaydediciye dönüştürün](https://recly.dev/) `HN`
+- [Yapay zeka sosyal etkisi konusunda Çin ile rekabet edelim](https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social) `HN`
+- [Google, açık kaynaklı hata ödül programını geçersiz yapay zeka yığınının ortasında dondurdu](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1) `HN`
+- [Yapay zeka hırsı anlamsız hissettiriyor [video]](https://www.youtube.com/watch?v=nc8UBme3XLQ) `HN`
+- [Show HN: Gelire Odaklanan Web Analitiği](https://revscope.co/demo/) `HN`
+- [Google, Sitelere Yayınlamadan Önce Yapay Zeka İçeriğini Kontrol Etmelerini Söyledi](https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/) `HN`
+- [Yapay Zeka Verimliliği Yanılsaması: Evi Çerçeveleyin](https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38) `HN`
+- [HOMA: Yapay zeka kümeleri için TCP'nin sonu [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0) `HN`
+- [Proje yapay zeka ile birlikte düzenleniyor](https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/) `HN`
