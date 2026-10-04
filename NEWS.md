@@ -2367,3 +2367,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka görev düzeyinde üretkenlik neden organizasyonel çıktıya dönüşmüyor?](https://pub.towardsai.net/the-hamster-paradox-36dd0d950568) `HN`
 - [README'de değişiklik: LLM güncelleme stratejilerinin test edilmesi](https://codecut.ai/readme-update-from-release-notes/) `HN`
 - [Nazik AI: AI Kodlama Ekosistemi](https://gentle-ai.gentlemanprogramming.com/) `HN`
+
+- [Kapitalizm Altında Yapay Zekaya Karşı Çıkmak](https://efturnip.substack.com/p/opposing-ai-under-capitalism) `HN`
+- [Yapay Zeka Artık Si: Süper Zeka Üstün Değil](https://tej.as/blog/super-intelligence-isnt-superior) `HN`
+- [Show HN: Yapay zeka kişisel temsilcilerinin internetteki ilk rekabeti](https://instapath.ai/personal-agent-challenge) `HN`
+- [Scumble – yapay zeka boyama için açık kaynaklı bir masaüstü editörü](https://github.com/DenRakEiw/scumble) `HN`
+- [AI Pascal'ın Bahsi](https://ploum.net/2026-10-01-pascal_wager.html) `HN`
+- [Milyarderler aniden esrar satıyormuş gibi giyiniyor](https://slate.com/technology/2026/10/meta-ai-alexandr-wang-outfit.html) `HN`
+- [Yapay zeka kodlama aracınızın nasıl çalıştığını izlemek için Osier'i çalıştırın](https://www.npmjs.com/package/osier-dev) `HN`
+- [Temsilci Sapmasını Anlama](https://sdarchitect.blog/2026/10/03/ai-risk-a-users-guide-part-iv-understanding-agent-drift/) `HN`
+- [Yapay zeka kişisel temsilcilerinin internetteki ilk rekabeti başlıyor](https://twitter.com/ddaniel3141/status/2106748777826529457) `HN`
+- [Beni mutlu ediyor](https://devinprater.substack.com/p/ai-makes-me-happy) `HN`
+- [Show HN: AstroHelm – Teleskop veya telefoto lensi hedeflemek için telefon kameranızı kullanın](https://astrohelm.app/) `HN`
+- [Trump, yeni yapay zeka görev gücüne liderlik etmesi için ulusal istihbarat direktörü Jay Clayton'ı görevlendirdi](https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901) `HN`
+- [Algılama Mühendisliğini Otomatikleştirmeye Çalıştık. Veriler Orada Değildi](https://unfold.ai/blog/publishing-security-logs-analysis-portal) `HN`
+- [Yapay Zeka Ortak Bir Bilişsel Tuzağı Kötüleştirebilir](https://www.theatlantic.com/science/2026/10/why-illusions-understanding-explanation-question/688826/) `HN`
+- [Anthropic, Claude kullanıcılarından yapay zeka modeli eğitimi için ses verilerini paylaşmalarını istedi](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/) `HN`
+- [Gösteri HN: B1 Sprechen – Yapay Zeka ile Almanca B1 Konuşma Sınavları Uygulaması](https://b1sprechen.com/) `HN`
+- [Show HN: Untyped – check recorded agent runs against a TLA+ spec](https://github.com/untyped-ai/untyped) `HN`
+- [Yapay zeka tartışmalarının simya ile ne ilgisi var](https://www.programmablemutter.com/p/what-ai-debates-have-to-do-with-alchemy) `HN`
+- [Yapay Zekanın 'Düşünce' Sürecine Artık Güvenilemez](https://www.wsj.com/tech/ai/ai-monitoring-chain-of-thought-research-b46a05fd) `HN`
+- [Herbaryum – AI araçlarının oluşturduğu HTML sayfalarını saklayın ve gözden geçirin](https://github.com/abdoufermat5/herbarium) `HN`
+- [Yapay Zeka Temsilcinizi Sertleştirin](https://sometechblog.com/harden-your-ai-agent) `HN`
+- [Bilim makalelerinde yapay zeka çöplüğüyle mücadele](https://www.unite.ai/fighting-ai-slop-in-science-papers/) `HN`
+- [ABD'deki hanelerin % 98 'i henüz yapay zeka için ödeme yapmıyor](https://www.a16z.news/p/state-of-markets-ii) `HN`
+- [Yapay Zeka Anlatıyor: Opus 5.5 Güncellemesi](https://graphite.io/five-percent/research/ai-tells-opus-5-5-update) `HN`
+- [Asya - Pasifik Dergi Serisi – Giriş: Askeri Yapay Zeka Laboratuvardan Ayrıldı](https://lieber.westpoint.edu/asia-pacific-ai-series-introduction-military-ai-has-left-laboratory/) `HN`
+- [Bilinçli Yapay Zeka Mitolojisi](https://www.noemamag.com/the-mythology-of-conscious-ai/) `HN`
+- [Nvidia destekli Reflection AI, ilk açık ağırlıklı model lansmanını hazırlıyor - Dealroom](https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDdUMl9IVDhvZDZCR0RHX3NTX0dqQ1J5a3UwdEd6MjZneTB3bWZzYlJMOFZuNmJGWkFQOHJWUHlyTjNPOGN1VVlCTVYxOWNZb3hzczdmM0pLMkxUMzdfM2NwN0dZcUd6T296TTA5V1JPQ0RvaFZIQXpqM1NGUkZXcFJtUXF1eUVQM1Q3dzBJbHh3LUlFaW91U013eFlEel9OZmo0?oc=5) `RSS`
