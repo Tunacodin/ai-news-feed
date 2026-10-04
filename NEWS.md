@@ -2322,3 +2322,18 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Eski OpenAI mühendisi, yapay zeka devlerinin "yeterince dikkatli" olmadığı uyarısında bulundu - dw.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3RuZ00xbFF5aklQckhmNXBFa1RXdVg2aW85a01OWFFMSEd6cmxaanBRUlJLQlpRSnB3dTc2dkF0UnVsbllHVTNlaE91cHB6NHVHS0UzZmJoZGxLYWYzbDVRbnpJdmJoOGV4N3JhaXR4ajlKaFhjRnM3STlVdnl2THA5TGhMOHd0UldtdWlQbjRRWmNNc3JTOW1tQWc2OXplS2pxYWdUbEdzRVVPUkxUV3ln0gGyAUFVX3lxTE9iVk5TcFo2aXpTR1JpeVhPSFloV3lVZTdDSlRCWEhRdXZ3TVVTQkVOcWljQjFjTXRMV1kzQUd4SWNWR21ScW9CeGxCUk9aNW0zaktYM1paWE9fZVItemxtTlNWZzZqWjE2UnBiWHQ3ejd5dFB1TFVlalpzRTlpYm9NajRULXQ1eTNnRGxISzY0X3MtVFd2TFZaTmxPZnpNOWx0VVhSZUFiTVJ1aUJzdDZQS2c?oc=5) `RSS`
 - [Pewdiepie, OpenAI yasağı tartışmalarının ardından daha küçük, yerel AJAX AI modeli oluşturuyor - İlginç Mühendislik](https://news.google.com/rss/articles/CBMilAFBVV95cUxOcERNbHpKZXlWNWlYZEhpekFIMGxaU1NDdDNCMUtZdkZUU2V0ZUhyeWl2RmZ2VkZxNXFvZVYwRXpRTy02Ym5TZXFsV0FzSWNnZjF1R1VZOHhYVXdjRk16T0NLV0JLYmNvTmJZT3QwaEFnOUhhSFhQalRMWTVVSGtCTXlETkRHZjg0b2pMdE5lak13WEZG?oc=5) `RSS`
 - [Ajan bunun yapıldığını söyledi. Veritabanı Kabul Edilmedi.](https://huggingface.co/blog/microsoft/thinkingbox) `RSS`
+
+- [OpenAI'nin en son özellikleri doğrudan uygulama mağazası modelini hedef alıyor](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) `HN`
+- [Superharness Built This](https://djentic.ai/showcase/particle-engine/) `HN`
+- [Yapay Zeka Yaşamları İyileştirdi: Bir koleksiyon](https://aiimproveslives.com/) `HN`
+- [Güvenliğinizi ölçmek için yerel bir yapay zeka aracı oluştursak nasıl olur?](https://github.com/just-not-google/BiNeuron) `HN`
+- [Tüketici yapay zekasının çirkin ekonomisi](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/) `HN`
+- [Yapay zeka yeniden markalaşması, Sloven web sitesi adlarına "benzeri görülmemiş" bir talebe neden oldu](https://www.bbc.com/news/articles/cqx2z23xj555o) `HN`
+- [Bir Boeing 737 Max, Ses Hızında Burunlu Bir Seyahatte Nasıl Hayatta Kaldı?](https://www.wsj.com/business/airlines/how-a-boeing-737-max-survived-a-nosedive-traveling-at-the-speed-of-sound-e8cae3b4) `HN`
+- [Show HN: ViralWiz – Kısa biçimli video için yapay zeka altyazıları, klipleri ve küçük resimleri göster](https://viralwiz.co) `HN`
+- [Yeni Yapay Zeka Araştırması Sormamı İstiyor: Yapay Zekaya Kötü mü Davranıyorum?](https://felipe.ai/notes/am-i-being-mean-to-ai) `HN`
+- [Show HN: AgentiLoop Agent Mac GUI Agent Loop for macOS 14.6 or Later](https://agentiloop.ai/) `HN`
+- [Yapay zeka matematikçileri işe yaramaz hale getirmeyecek](https://inference-review.com/article/ai-will-not-make-mathematicians-obsolete) `HN`
+- [ABD piyasa değerinin yapay zeka payı](https://theinference.org/indexes/ai-share?range=max) `HN`
+- [Meta'nın Hit Yapay Zeka Uygulamasının Arkasındaki Küfürlü, Memeyi Seven Milyarder](https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659) `HN`
+- [Aleph Alpha, hükümet kullanımı için bağımsız bir Alman yapay zeka modeli olan Kolibri'yi piyasaya sürdü - Startup Fortune](https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHFKay1xU3FEdVV5dGdTZEZHczBlb1hPdjZtTVg5bkZXY0lIMldkOFRqRllRRzBiS0JwaDJmdWt3MW15Nm1mQ3B0MXNPbWMyaGJNdjU5Yi1BR0lIRFhiNXJlYVJORFJDUEwtc3RFeEgxSDJ1VVVZSlZnQ19UUkV5SjQ5M1YxVjBWTXV1eE94SjM1OTVQNjZhR0V2X1dtMGVqREYxTnlB?oc=5) `RSS`
