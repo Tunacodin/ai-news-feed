@@ -2461,3 +2461,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Linux 7.3-Rc6 Çıktı: Yeni "AI Normal" için Normal](https://www.phoronix.com/news/Linux-7.3-rc6-Released) `HN`
 - [LeetCode editörü ve Vim tuş bağlamaları için HN:C ++ LSP'yi göster](https://twitter.com/emerald_d3v/status/2106885158360195426) `HN`
 - [Show HN: Redactpdf.ai: Açık kaynaklı yapay zeka tabanlı PDF düzenleme aracı](https://redactpdf.ai) `HN`
+
+- [AI kodu yazabildiği için açık kaynak daha az önemli hale gelmedi](https://www.groundcover.com/blog/open-source-ai-naor-peled) `HN`
+- [Show HN: Decision models remove training, not production ML Engineering](https://agentunicorn.ai/research/decision-models-production) `HN`
+- [Gösteri HN: Hız Tuzağı, Yapay Zeka Çağı için Phoenix Projesi](https://colineberhardt.github.io/the-velocity-trap/) `HN`
+- [Gösteri HN: Yaklaşan yapay zeka konferanslarından oluşan bir 3D küre oluşturdum](https://aieventsworld.com/en/) `HN`
+- [EmTech Future 2026: Yapay Zeka Her Şeyle Buluştuğunda](https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/) `HN`
+- [TypeSafe AI's Jev vs. Perplexity's Decisions API](https://vercel.com/i/jev-vs-perplexity) `HN`
+- [Akademik yayıncılık neden referans yönetiminde ustalaşmadı?](https://thesiscitationlab.ai/) `HN`
+- [Yapay zeka slop oyunları oluşturmak için yeni bir yaklaşım keşfedildi](https://somethingbig.ai/gauntlet-loop) `HN`
+- [Google açık kaynaklı bug bounty programını dondurdu](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1) `HN`
+- [Yapay zeka yavaşlaması: Altman, Amodei ve Musk neden aniden aynı fikirde (Bölüm 313)](https://datascienceathome.com/ai-slowdown-why-altman-amodei-musk-suddenly-agree-ep-313/) `HN`
+- [Teknolojideki En Sıcak Tartışma: Yapay Zekadaki Reklamlar](https://www.forbes.com/councils/forbesagencycouncil/2026/04/13/the-hottest-debate-in-tech-ads-in-ai/) `HN`
+- [Altman: Dünya, yapay zekanın yararına olan bazı kötü şeyleri kabul etmeli](https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217) `HN`
+- [Wikipedia: AI or Not Quiz](https://en.wikipedia.org/wiki/Wikipedia:AI_or_not_quiz) `HN`
+- [Yapay zeka sektörü hızla büyüyor. Kadınlar geride kalıyor](https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality) `HN`
+- [Paid.Expert – Yapay zeka eğitimi için ücretli uzman görevlerini keşfedin](https://paid.expert) `HN`
+- [Denemek neredeyse hiçbir şeye mal olmasa ne yapardınız?](https://www.echohive.ai/the-price-of-an-idea) `HN`
+- [Show HN: Recursant, hibrit iş yükleri için oluşturulmuş aracıya duyarlı model yönlendirici](https://github.com/ajensenwaud/recursant/) `HN`
+- [Yapay Zeka Güvenlik topluluğu ne yazık ki faydadan çok zarar veriyor](https://twitter.com/knowerofmarkets/status/2105330652732125602) `HN`
+- [Postgres: Yapay zeka tarafından bulunan hatalar nedeniyle yamaları geri mi alıyoruz?](https://vondra.me/posts/are-we-reverting-patches-because-of-bugs-found-by-ai/) `HN`
+- [Ülkeniz "Dronların İçindeki Yapay Zeka" konusunda nasıl gidiyor?](https://dronegpt.ai/) `HN`
+- [Yapay zekayı "diğer zeka" olarak adlandırmak, yeni bir yaşam formunun ortaya çıkışını daha iyi tanımlıyor](https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762) `HN`
+- [Turbomail.ai – Cihazınızda yaşayan yapay zeka e - postası, onların değil](https://turbomail.ai/) `HN`
+- [OptChat: Yapay zekanın her şeyi hatırladığı sonsuz bir sohbet](https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1ba1df6449) `HN`
+- [Yapay zeka ile ilaç yapmak için yeni bir yol oluşturmak](https://www.isomorphiclabs.com/articles/building-a-new-path-to-make-medicines-with-ai) `HN`
+- [BanProof – Siz yayınlamadan önce TikTok Mağazası videolarını ihlal noktalarına karşı tarayan yapay zeka](https://banproof.io/) `HN`
+- [UT Austin'deki Yeni Kursum: Yapay Zeka Hizalama Teorisi](https://scottaaronson.blog/?p=10125) `HN`
+- [Show HN: Moching – 219 yerleşik araçlı AI masaüstü aracısı (Pas)](https://github.com/moching-ai-dev/moching) `HN`
