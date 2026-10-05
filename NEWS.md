@@ -2448,3 +2448,16 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka Verimliliği Yanılsaması: Evi Çerçeveleyin](https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38) `HN`
 - [HOMA: Yapay zeka kümeleri için TCP'nin sonu [video]](https://www.youtube.com/watch?v=eZ8WWZzoaR0) `HN`
 - [Proje yapay zeka ile birlikte düzenleniyor](https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/) `HN`
+
+- [Lightning üzerinden ödeme yapan AI ajanları için L402 kenar önbelleği](https://github.com/CharlesStrogish/bitcoin-stratigraphy-mcp) `HN`
+- [Yapay Zeka Hakkında Aklıselim Konuşmanın Temelleri](https://humanparadox.org/primitives-for-sane-conversation-about-ai/) `HN`
+- [Mahkeme, Y.Z.' nin Kurbanının Katilini "Affettiğini" Gösteren Videodan Sonra Ceza Verdi](https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html) `HN`
+- [İnceleyenlere Kredi Vererek Yapay Zeka Kaybı Sorununuzu Çözün](https://danunparsed.com/p/giving-code-reviewers-credit) `HN`
+- [Show HN: Linux/Windows/Android için Hotspot'tan Esinlenen Ortak Lisp](https://github.com/atgreen/evergreen) `HN`
+- [Askeri AI ve otonom sistemler: The Strategist'teki görüşler](https://www.aspistrategist.org.au/military-ai-and-autonomous-systems-views-in-the-strategist/) `HN`
+- [Yapay zeka bir aileyi/organizasyonu kimler için yönetebilir?](https://cahootzcommons.com/blog/ai-can-run-an-organization-its-members-must-decide-who-the-organization-is-for) `HN`
+- [Show HN: The Poteto Frontier for AI Agents (Gösteri HN: Yapay Zek](https://poteto-frontier.vercel.app/) `HN`
+- [ABD, yeni tehdidin ardından tüm Hava Kuvvetleri bombardıman uçaklarını İngiltere üssünden kaldırdı](https://www.cnn.com/2026/10/04/politics/us-air-force-bombers-removed-fairford-iran) `HN`
+- [Linux 7.3-Rc6 Çıktı: Yeni "AI Normal" için Normal](https://www.phoronix.com/news/Linux-7.3-rc6-Released) `HN`
+- [LeetCode editörü ve Vim tuş bağlamaları için HN:C ++ LSP'yi göster](https://twitter.com/emerald_d3v/status/2106885158360195426) `HN`
+- [Show HN: Redactpdf.ai: Açık kaynaklı yapay zeka tabanlı PDF düzenleme aracı](https://redactpdf.ai) `HN`
