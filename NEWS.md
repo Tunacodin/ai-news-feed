@@ -2489,3 +2489,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [BanProof – Siz yayınlamadan önce TikTok Mağazası videolarını ihlal noktalarına karşı tarayan yapay zeka](https://banproof.io/) `HN`
 - [UT Austin'deki Yeni Kursum: Yapay Zeka Hizalama Teorisi](https://scottaaronson.blog/?p=10125) `HN`
 - [Show HN: Moching – 219 yerleşik araçlı AI masaüstü aracısı (Pas)](https://github.com/moching-ai-dev/moching) `HN`
+
+- [Yapay zekanın tehlikeleri gerçektir, ancak doomerizm ters etki yaratabilir – Steven Pinker](https://quillette.substack.com/p/an-open-letter-to-scott-alexander) `HN`
+- ["AI Ajan Hack'lerinin Ardındaki Tehlikeli Mitler" – Yoshua Bengio](https://www.ft.com/content/7afaf77b-b027-4a0f-8d53-5e88e7d6f5e4) `HN`
+- [Çekirdek – Kişisel Yapay Zeka Bilgisay](https://ghost.ai/) `HN`
+- [Volantis, yeni nesil yapay zeka için fotonik bellek katmanı oluşturmak amacıyla 88 milyon $ yatırım aldı](https://techfundingnews.com/volantis-raises-88m-to-to-build-photonic-memory-layer-for-next-gen-ai/) `HN`
+- [Yapay zeka patlaması en ucuz akıllı telefonları ortadan kaldırıyor](https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/) `HN`
+- [Bir Tesla Gazisi, Yapay Zeka Destekli Robotlarla Bir Bakır Madeni İşletiyor](https://www.forbes.com/sites/alanohnsman/2026/04/27/this-tesla-veteran-is-running-a-copper-mine-with-ai-powered-robots/) `HN`
+- [Yapay Zeka SDLC dönüşümü oyun kitabı](https://www.atlassian.com/blog/ai-at-work/ai-sdlc-transformation-playbook) `HN`
+- [Sail, Doom'u tek bir SQL sorgusuyla çalıştırır](https://rust.ai/sail-runs-doom/) `HN`
+- [Yapay zekanın bilgisayarımı kontrol etmesine izin vermeye hazır değilim](https://ldstephens.net/posts/im-not-ready-to-let-ai-control-my-computer/) `HN`
+- [Yapay Zeka Dehşet Verici Çizgiyi Az Önce Geçti – Şimdi Ne Olacak? [video]](https://www.youtube.com/watch?v=ujkD4SxPKOI) `HN`
+- [Yapay zeka temsilcilerini kurumsal bilgiye bağlama](https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/) `HN`
+- [Spagetti makinenize nişan almayı öğretmek](https://oscar.bz/p/teaching-your-spaghetti-machine-to) `HN`
+- [Ara Sınavlar Öncesinde Yapay Zeka Robot Çağrılarını Destekleme Çabalarını Durdurun](https://www.nclc.org/stop-efforts-to-greenlight-ai-robocalls-ahead-of-the-midterms/) `HN`
+- [İnsan - Makine Dostluğu Derneği](https://hmfs.ai/) `HN`
+- [ReviewBench: Yapay zeka kod incelemesi için açık bir ölçüt](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/) `HN`
+- [Yapay zeka biyolojik tehlike aldatmacası, dikkatleri şu anda karşılaştığımız gerçek risklerden uzaklaştırmamalı](https://www.nature.com/articles/d41586-026-03135-7) `HN`
+- [d1: En yetenekli karar modeli, şimdi vizyonla](https://www.liquid.ai/blog/d1-decision-model) `HN`
+- [Metagente, MCP ve A2A'yı konuşan AI ajanları için küçük bir dil](https://github.com/cleuton/MetaAgent) `HN`
+- [Yorumlar](https://write.as/davepolaschek/thoughts-on-ai) `HN`
+- [Interfaze -1 - lite: deterministik görev için ilk açık ağırlık modeli](https://huggingface.co/interfaze-ai/interfaze-1-lite) `HN`
+- [Show HN: Self – bench - gerçek dünya yazılımında benchmark kodlama aracıları](https://github.com/mupt-ai/self-bench) `HN`
+- [Boşluk – İnsanlar ve Yapay Zeka için gerçek zamanlı bir çalışma alanı](https://www.spacebar.ai/waitlist) `HN`
+- [Bir Yapay Zeka Şirketinin Çocuğum Üzerinde Okulda Deney Yapmasına İzin Vermem](https://www.coyotemedia.org/sfusd-ai-amira-salesforce/) `HN`
+- [Yapay Zeka ve İnsan Şarkı Yazarı](https://www.nytimes.com/2026/10/03/arts/music/human-songwriting-ai-songwriting.html) `HN`
+- [Show HN: AI ile bir hafta sonunda xcom benzeri bir oyun yaptım. 3D, dokular, modeller vb.](https://playgama.ai/play/55p62bkfsc) `HN`
+- [Verimlilik Verilerinde Yapay Zeka Belirtisi Yok](https://view.e.apollo.com/?vawpToken=7L5HV5YJ6JNUHBYA6QBXXEV6CY.120045&utm_source=mce&utm_medium=email&utm_campaign=701Dp00000017sOIAQ&utm_content=https%3a%2f%2fview.e.apollo.com%2f%3fvawpToken%3d%25%25tokenized_vawp_metadata%25%25&utm_id=76effdac4c9a922585b0715a3796d544&mce_id=208988442) `HN`
+- [Bulutta, siz uyurken veya oynarken fikirlerinizi geliştiren ikinci bir beyin](https://markdownbrain.ai) `HN`
+- [Reka Rho -1: Multimodal yığının daraltılması](https://reka.ai/labs/research/rho-1-collapsing-the-multimodal-stack) `HN`
+- [EPAM, GenAI ve Otonom Ajanlar için Kurumsal İstihbarat Açığını Köprüleyen Yeni Frontier AI Hizmetini Açıkladı - Stock Titan](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFBoRFZFUXdCMS1wN2JmYWl1LUdHOTBuQTU2SDFsWklyeTFVZ2tYcXhNSElYejlMWFRPOVlyVjZrQlpvb2ppOVpqOEs2cFJRbG1QX1FIc0pVN0o4R2ZjNW9lXzN0NTg3aF9FMmJwSG04RmhLek9LNU5heTQ3Rjc2bWh3UnhSZDhXYzI1R3BybUktZl9WcmZYWGFiaGVkMnFfVkMzbXNPSXBBeUotS0xKZ1dnQjRiUQ?oc=5) `RSS`
+- [Kore, gelecek yıl 3.5 bil. $ sınır AI projesini başlatacak - The Korea Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTGpZWE5oVlRXbnpVU0FBc2Z0dTJGajBRbDhUdmlKM0N1NzFhYzJWQ1R2N1pmckJoT1FCdmJGeFE5NnhuU250azVIZUZxSTFHSGNHaS1OVmZDbTB6RjhMZS1SYndjUmFJMV9YNC1sVGhqVGpsSHB5cmp6UmV6OWJ6aC1jVmlQa29NU3BoVU1VWWNRNHoxczkyRGNjUjBmazRURGZOSHU1b3RQeXp4d0EtZG5R0gG3AUFVX3lxTE9oWlRDTGw4b1RpcFB6Uy1TX3czVkFZTHFjcFhudUs0ZnctMTQ2Z0d1THBIV2tzYWRUSTQzdU8zeW5wZDNlOGMxb3prUjMyZm4zMjNEcV9wSFNLTFpSOUwtbTdlYjUzM2dVLW5hU2VvejctWk9XNWh5SElwNDVUZUM3SzAwZUtYcmJ6emYtOTdWd1BUSk11U2VZYWRienYtd2JtSWowTzFLSTFnc3F2YWtzOW14dE5NUQ?oc=5) `RSS`
+- [AB metin kaynak kurallarına yaklaşımımız](https://openai.com/index/eu-text-provenance) `RSS`
+- [İnsanların yapay zekayı kullanma şekli için reklam oluşturma](https://openai.com/index/new-chatgpt-ads-format-and-measurement) `RSS`
+- [RL Ortamlarını Hub'a Hoş Geldiniz](https://huggingface.co/blog/rl-environments) `RSS`
