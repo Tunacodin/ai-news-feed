@@ -2556,3 +2556,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [E Tech Group, Sorba AI, AI model entegrasyonu için lansman ortaklığı - Akıllı Endüstri](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFV1NFJQUU9YcmlBMGdyZ2pVRW9JaUFnc1pvaVN4UlNCLVp5ZDl3UUN2M20wS2dHMDRQZ3NjR3RZdWpuQkc5SUJtUWMxeEFKMlJlbS1nZWNQdVJrdVYyTW9NVkZtYXBGSVZ0SlByeVk0dUJDaDlHbG1Wa3FLaXJYM1Vpci1tQjd4ek9mdlUwdUpFb3A5Q0hpWGJjRmktMW5MTFNaczdwRldCWHYyUzk1dmtwYlZCNDBlSjFnV2xnT1U?oc=5) `RSS`
 - [Reflection AI's Beam Claims 4x Less Compute [2026] - shattered.io](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tbmNST2NleWM0SDRPSG5kYjBDQ2UtT0lzN21MQUd3eGtWcDF4RE1nNDZaQllIcXRwODAyVzNzclNyX1JPeU12M0lEN2c0ZkRuaDVsSHo5UUhaMzNBV2tIRlkxZktLNUlNd2R4cjZn?oc=5) `RSS`
 - [Wayfair, OpenAI ile katalog doğruluğunu ve destek hızını artırır](https://openai.com/index/wayfair) `RSS`
+
+- [Tahmine dayalı analitiği aracı yapay zeka çağına getirmek](https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/) `HN`
+- [Show HN: Thyme – Yapay Zeka Tabanlı Yeni Bir Uygulama Tersine Mühendislik Aracı](https://apppipeline.online/) `HN`
+- [Show HN: YardSmart – iş makinelerini yerel olarak kiralamanın daha basit bir yolu](https://yardsmart.io) `HN`
+- [Big Blob of Compute: The Essay That Started the AI Race (Büyük Hesap Blobu: Yapay Zeka](https://kevinroose.substack.com/p/the-essay-that-started-the-ai-race) `HN`
+- [Autolith: Kendiliğinden değiştirilebilir genel amaçlı bir Lisp AI ajanı](https://github.com/lambda-symbolics/autolith) `HN`
+- [Show HN: Siri uygulaması gibi Claude'u yayınlayan açık kaynaklı iPhone uygulaması](https://github.com/unionst/swift-chat-ai-starter) `HN`
+- [Zihinlerimiz yapay zeka ile başa çıkacak donanıma sahip değil](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought) `HN`
+- [Yapay Zeka, Büyük Bir Çözülmemiş Matematik Problemini Çözer. Herkes Mutlu Değil](https://spectrum.ieee.org/millennium-prize-ai) `HN`
+- [2026 'nın Otonom AI Ajan Güvenlik Olayları (Veri Kümesi ve Savunma Kablo Demeti)](https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026) `HN`
+- [Rusya Veba Takipçisi](https://plague.somethingbig.ai/) `HN`
+- [Japonya'nın eğlence robotları yapay zeka ile çeşitleniyor, konfor sunuyor](https://mainichi.jp/english/articles/20261003/p2g/00m/0li/002000c) `HN`
+- [KCoral: Agentic GPU Programlama için Hafif Benchmark Sunucusu](https://blog.mlc.ai/2026/10/05/kcoral-lightweight-benchmark-server-for-agentic-gpu-programming) `HN`
+- [Plainserp – Yapay zeka temsilcileri için Google arama API'sı 1k başına 0,30 $](https://plainserp.com) `HN`
+- [Evrensel Kemik Çözücünün Geliştirilmesine Ara Verilmesi Çağrısında Bulunuyorum](https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854) `HN`
+- [Wattle AI – küçük işletmelere yönelik çağrıları yanıtlayan ve rezerve eden bir yapay zeka resepsiyonisti](https://heywattle.com) `HN`
+- [Mobil uygulamalar için özyinelemeli kendini geliştirmeyi kırıyoruz](https://www.ansight.ai/articles/introducing-ansight-cli/) `HN`
+- [Yapay zeka patlaması en ucuz akıllı telefonları ortadan kaldırıyor](https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/) `HN`
+- [LiteLLM Lens, 1000 'lerce ajan izinde tekrarlanan arızaları nasıl buluyor?](https://docs.litellm.ai/blog/lens-failure-patterns) `HN`
+- [Yapay Zeka Fırsat Taraması](https://msa-mail.com/ai-scan/) `HN`
+- [Show HN: Moching – 219 yerleşik araçlı AI masaüstü aracısı (Pas)](https://github.com/moching-ai-dev/moching) `HN`
+- [Show HN: AI Agents: Zero to Hero – Saf Python'da Sıfırdan AI Ajanlarını Öğrenin](https://github.com/tradertanmay/ai-agents-zero-to-hero) `HN`
+- [Yayın holdingleri, havadan yayın yapan televizyonu ele geçirmeye çalışıyor](https://place.reeseric.ci/writings/2026-10-04/) `HN`
+- [Schema - guard, AI ajanlarının SQL'de sütun adları icat etmesini durdurur](https://github.com/idk-arsh/schema-guard) `HN`
+- [EPAM, Karmaşık Kurumsal İş Akışları için Frontier AI Hizmetlerini Başlattı - HPCwire](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVpPVWZVcW1QQXNjVGJlai1SZGJzdWtrWXVMVnpQUjNCbHNELTlaYnlZZ0J6V0hESzFieFg5aF9nRVp3X2luVndvVW1ZVTZTT3dJbmt2Nk9RTXdNOUVxdVM0eVVjY1ZKc2ZIUlFlemtnenV4Vi1QQkZNa08waTJ6R3VhUUk2cE9KWXVYNGtDbDYyOW43QVlVRDVMV2JZYkEwQmhSRTFRXzdvMF8zY3pj?oc=5) `RSS`
+- [Yahoo: Güney Kore gelecek yıldan itibaren 3,5 milyar $ sınır yapay zeka modeli geliştirmeyi planlıyor](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTJEc3kyRUk5ck9OQ0VoVWh0MC1LYWlkT3BhQW1IX0d4QXQwazV1a1o1UlNFTlVpLXFqLU9wX19rNUcwcU1pQWhFak53YmpwazJieDJiWnRXMHJyT0FzQ25fSWV4V09KdEVTOGNKUUxMc3FTZW5jOVRZbEh0WXRuQm1KSkU?oc=5) `RSS`
+- [Yansıma AI'nın 5B Açık Modeli Çin'e Meydan Okuyor [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OMlNSTElWS19ObmJERUFmVzI1MHRpeXcybExyT29xd1hyM0J3UVBoUEViLTdrYnFCaEE1dnlGQzBKUkFidTZOVW9rQm54ajAweHVndzdDODlPNXM4QVA2SFZTOU5LXzlBZmY5dFVVUEtMSTJnNkxr?oc=5) `RSS`
+- [Falcon - Emirati: Bir LLM Lehçeyi, Kültürü ve Nüansı Öğrendiğinde](https://huggingface.co/blog/tiiuae/falcon-emirati) `RSS`
