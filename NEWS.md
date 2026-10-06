@@ -2523,3 +2523,36 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [AB metin kaynak kurallarına yaklaşımımız](https://openai.com/index/eu-text-provenance) `RSS`
 - [İnsanların yapay zekayı kullanma şekli için reklam oluşturma](https://openai.com/index/new-chatgpt-ads-format-and-measurement) `RSS`
 - [RL Ortamlarını Hub'a Hoş Geldiniz](https://huggingface.co/blog/rl-environments) `RSS`
+
+- [Proaktif Yapay Zeka Nedir?](https://proton.me/blog/proactive-ai) `HN`
+- [İtfaiye: PewDiePie yapay zekayı özgürleştiriyor ve OpenAI öfkeli [video]](https://www.youtube.com/watch?v=_5p1_TNSWqQ) `HN`
+- [Ada Lovelace Yapay Zeka Hakkında Büyük Soruları Cevapladı](https://www.nytimes.com/2026/10/05/opinion/ada-lovelace-ai.html) `HN`
+- [Yapay Zeka Yapısı Bir Doom Döngüsüne Dönüştü](https://bird.makeup/users/gnoble79/statuses/2107068301004210338) `HN`
+- [XCOR, kesintileri dakikalar içinde izlemeye başlar. Hala mühendislerin sayfalarını aratıyor](https://thenewstack.io/cortex-xcor-ai-observability/) `HN`
+- [İki Yıllık Bir Okul Deneyinde Khanmigo ile Yapay Zeka Özel Dersi](https://edworkingpapers.com/ai26-1551) `HN`
+- [Show HN: Headline Arena – AI ajanları için genel tahmin kayıtları](https://headlinearena.com) `HN`
+- [Yapay Zeka Ajanları için Tasarım Sistemleri (Luke Wroblewski)](https://www.lukew.com/ff/2164/design-systems-for-ai-agents) `HN`
+- [Gösteri HN: Soğuk B2B e - postası ücretsiz olmalıdır (FlyHedwig)](https://flyhedwig.com) `HN`
+- [Nova Sprint. Yapay zeka sprintlerini birden fazla model ve koşum takımı arasında koordine edin](https://github.com/mas-bandwidth/nova-sprint) `HN`
+- [Mumbai'de kişisel bir yapay zeka bilgisayar girişimi kuruyorum](https://x.com/gfaang97609) `HN`
+- [Durumunuzla ilgili insanları bulun ve zihinlerini keşfedin](https://www.delphi.ai/discover/people) `HN`
+- [Bu, insanların ve yapay zeka temsilcilerinin birlikte gönderdiği bir Plan – sorun izleyicisidir](https://itsaplan.dev) `HN`
+- [Yapay Zeka Temsilcinize Alana Özgü Bir Dil Verin](https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl) `HN`
+- [Tamirci, finansçı, casus ustası: BAE'den Şeyh Tahnoon, yapay zeka hakimiyetine dikkat çekiyor](https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance) `HN`
+- [OpenClaw, OpenAI'nin Gezegeni Yama Girişimi ile Güvenlik Denetimini Tamamladı](https://openclaw.ai/blog/openclaw-trail-of-bits-engagement-recap) `HN`
+- [En Popüler Tüketici Yapay Zeka Uygulamaları](https://www.a16z.news/p/top-100-consumer-ai-apps-seventh) `HN`
+- [OpenAI, Anthropic ve DeepMind'dan kaçanlarla yapılan görüşmelerden çıkın](https://nymag.com/intelligencer/article/ai-researchers-quit-openai-anthropic.html) `HN`
+- [Yapay Zekayı Gerçek Dünya Görevlerinde Test Etme](https://www.vals.ai/home) `HN`
+- [Çeviklik: Yapay Zeka Hızında Yazılım Oluşturun](https://www.agilityio.com) `HN`
+- [Opus 5.5 ajanları, oda sıcaklığında iki manyetik yarı iletken adayı keşfetti](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) `HN`
+- [Kendini geliştiren ajan döngüleri oluşturmak](https://blog.oodle.ai/self-improving-agent-loops/) `HN`
+- [Lighthouse Legal – Kişisel yaralanma alımı için sesli AI](https://www.lighthouselegal.ai/) `HN`
+- [Web'de Ücretsiz Yapay Zeka İnşaat Tahmini](https://www.supadocs.app/) `HN`
+- [HN'ye sorun: Yapay zeka kurulumumla ilgili geri bildirim](https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe) `HN`
+- [Show HN: Halo – Cihaz İçi Kablo Demeti, Bellek ve Tarayıcı Aracısı ile Kişisel Bir Yapay Zeka](https://apps.apple.com/us/app/halo-personal-ai/id6783715054) `HN`
+- [Açık kaynaklı bir araç, macOS'te 12 GB Apple Intelligence verisini silmenizi sağlar](https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool) `HN`
+- [BBC'ye göre Pentagon, kara listeye alınan şirketin ardından Anthropic AI araçlarını kullanmayı bıraktı](https://www.bbc.co.uk/news/articles/c5j9x9pr0240o) `HN`
+- [Yansıma, daha düşük hesaplama maliyetiyle Çin modellerine rakip olan açık ağırlıklı bir yapay zeka modeli olan Beam'i piyasaya sürüyor - techcrunch.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5) `RSS`
+- [E Tech Group, Sorba AI, AI model entegrasyonu için lansman ortaklığı - Akıllı Endüstri](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFV1NFJQUU9YcmlBMGdyZ2pVRW9JaUFnc1pvaVN4UlNCLVp5ZDl3UUN2M20wS2dHMDRQZ3NjR3RZdWpuQkc5SUJtUWMxeEFKMlJlbS1nZWNQdVJrdVYyTW9NVkZtYXBGSVZ0SlByeVk0dUJDaDlHbG1Wa3FLaXJYM1Vpci1tQjd4ek9mdlUwdUpFb3A5Q0hpWGJjRmktMW5MTFNaczdwRldCWHYyUzk1dmtwYlZCNDBlSjFnV2xnT1U?oc=5) `RSS`
+- [Reflection AI's Beam Claims 4x Less Compute [2026] - shattered.io](https://news.google.com/rss/articles/CBMibkFVX3lxTE4tbmNST2NleWM0SDRPSG5kYjBDQ2UtT0lzN21MQUd3eGtWcDF4RE1nNDZaQllIcXRwODAyVzNzclNyX1JPeU12M0lEN2c0ZkRuaDVsSHo5UUhaMzNBV2tIRlkxZktLNUlNd2R4cjZn?oc=5) `RSS`
+- [Wayfair, OpenAI ile katalog doğruluğunu ve destek hızını artırır](https://openai.com/index/wayfair) `RSS`
