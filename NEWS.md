@@ -2621,3 +2621,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Reuters: Nvidia destekli Reflection, Çin açık modellerini kullanan ilk yapay zeka modelini tanıttı](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5) `RSS`
 - [Mistral'ın ABD - Çin açık yapay zeka yarışındaki yeni modeli hakkında bilinmesi gerekenler - euronews.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1hBSE1FRHRDR29EcjFNV3lwWXZXYmJDcU5VcDBnXzQwTU01SHE1cnJ3WDhJbWJIUlBIZkM4enlJSWUxWU9Tb2RRWF83VXlFNDE0UEhxaUlfWlNjOXhVaklHTjY1VkNZXy1sMjhtOGlMdk1pVVBCMW5jYWwzNW55VFJ4SXdjaElIcUVHbjE0c3dQbWhIQS0zUU55MERZa2JPZzFsem90NGNJd1ZMX0pucUtSbm12THMwZXVRQ0cwR2xtcTkx?oc=5) `RSS`
 - [Reflection AI ilk açık ağırlık modeli Beam'i piyasaya sürdü - qz.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1FZmozNzlpaWlTUS1LNGFObHJTc25zeEZrWldHT1didmxFLVl0aXZkNUdzbHZXdjlPcGtxWjVxbTdWdjZ0ZGVkaENsUS1mTGpxSTJJTTRZYm12QVpLTk9sZzBmeDZ1dl8wdlVpdHU4eWRiU1k?oc=5) `RSS`
+
+- [Spec Daha Sonra Gelebilir](https://aicoding.leaflet.pub/3mwlzitykzc27) `HN`
+- [OpenAI Noktaları: OpenAI'nin Her Zaman Açık Yeni Yapay Zeka Ajanları](https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/) `HN`
+- [Kodlama ajanları kullanan adaylar için mühendislik görüşmelerimizi yeniden oluşturduk](https://www.techempower.com/blog/2026/09/11/hiring-in-the-age-of-agentic-ai/) `HN`
+- [Yanık 0.22.0: Daha Hızlı Derlemeler, Daha Kolay Uzantılar ve Daha Akıllı Otomatik Ayarlama](https://tracel.ai/blog/release-0.22.0/) `HN`
+- [Ses birincil arayüz olduğunda etkileşim zorlukları](https://wisprflow.ai/post/interaction-challenges-with-voice) `HN`
+- [Yapay zeka değişikliklerinin bilişsel yükünü azaltmak](https://amoffat.github.io/blog/cognitive-load.html) `HN`
+- [Yapay zeka kullanımıyla teşvik edilen Google Dokümanlar ve Drive artık Markdown dosyalarını yerel olarak destekliyor](https://www.techradar.com/pro/spurred-on-by-ai-usage-google-docs-and-drive-now-support-markdown-files-natively) `HN`
+- [Mistral Large 4 Önizleme İstihbarat, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/mistral-large-4) `HN`
+- [Ubunye Motoru – Tek Boru Hattı, Yerel/Veri Tabanları/AWS/Azure/GCP](https://github.com/ubunye-ai-ecosystems/ubunye_engine) `HN`
+- [Show HN: HieraticBench – Yapay zeka eski Mısır el yazısını okuyabilir mi?](https://hieraticbench.vercel.app/) `HN`
+- [Show HN: Temsilcinizin okuduğu ve sizin göremediğiniz metni bulan bir MHP sunucusu](https://hiddencontent.ai/start/) `HN`
+- [LLM'den bu yana AI'daki en büyük ilerleme](https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the) `HN`
+- [Satrançta Sınır Modellerini Yenen LLM](https://www.aidancooper.co.uk/the-2023-llm-that-beat-frontier-models-at-chess/) `HN`
+- [Kucak bebeğimi kim kaybetti? On yıl süren bir havayolu hatasını tersine çevirme girişimim](https://jtibs.substack.com/p/who-lost-my-lap-infant) `HN`
+- [Neden ajan işletim sistemimiz Python veya Rust ile değil de Gleam ve Zig ile çalışıyor?](https://pentad.ai/blog/why-our-agent-os-runs-on-gleam-and-zig/) `HN`
+- [JEV'in Haiku 4.5, GPT-5.4-mini ve Gemini 3.5 Flash ile uygulamalı karşılaştırması](https://blog.oodle.ai/is-jev-the-right-model-for-your-use-case-a-walkthrough-comparing-haiku-4-5-gpt-5-4-mini-and-gemini-3-5-flash/) `HN`
+- [Kent Beck: Yapay Zeka Çağında Yazılım Mühendisliği [video]](https://www.youtube.com/watch?v=F8fBgDCf2Y4) `HN`
+- [Yapay Zeka ile Dışarıda Öğrenmeyi Optimize Etme](https://hilalmutlu.com/blog/optimizing-away-learning-with-ai/) `HN`
+- [Röle](https://aisocialmediatest.creepernet.qzz.io/) `HN`
+- [Norveç'in en büyük bankası DNB, yapay zeka kaynaklı değişiklikler nedeniyle yaklaşık 400 kişiyi işten çıkaracak](https://www.reuters.com/business/world-at-work/norways-biggest-bank-dnb-lay-off-around-400-staff-amid-ai-driven-changes-2026-10-06/) `HN`
+- [Sesli Temsilciler için Jev](https://veris.ai/blog/jev-turn-detection) `HN`
+- [İlk Beyin Manifestosu: İnsan beynini güçlendiren yapay zeka](https://github.com/Serhii2009/first-brain) `HN`
+- [UT Austin Math Chair, OpenAI'nin yapay zeka tarafından üretilen 400 kanıtı yayınlamaya hazırlandığını söyledi](https://twitter.com/Frances01896069/status/2107171555973185577) `HN`
+- [HN'yi göster: Sam (AI) ile konuş ve postayla gerçek bir mektup gönder](https://www.sendwithsam.com) `HN`
+- [Gösteri HN: Prevo – Vize, vatandaşlık, iş ve saha hazırlığı için AI sesli görüşmecisi](https://www.prevoapp.com/) `HN`
+- [Robotsimulator.ai](https://www.babacad.com/robotics/web/) `HN`
+- [Yapay Zeka İnsanlığın En Büyük Tehdidi Haline Geldi [video]](https://www.youtube.com/watch?v=ujkD4SxPKOI) `HN`
+- [Yapay Zekanın Metafiziksel İmkansızlığı [video]](https://www.youtube.com/watch?v=nzCtuKSt3gA) `HN`
+- [Fransız Mistral, bazı Çinli rakiplerinden daha iyi performans gösterdiğini söylediği yapay zeka modelini piyasaya sürdü](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5) `RSS`
+- [Çinli DeepSeek, meslektaşları Antropik uyarıya rağmen ayda 16 yapay zeka modelini piyasaya sürdü - Nikkei Asia](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVldrdGtGWkJhdVllNEY3TVhPNnFfWGpnajlCamhOdU91MF9KYTN4NW1uS21iak0ySmFQemI3dUJFRFRHclZBQlNWaVRKazJxZkZCbGJ5b2NITlA5eHlIREt0dkxkSFdBRU0tZ2kzVWIzLTNRM3ZyaUtURmRHbExTeGJhQTBLQmVNakk2RmlHaGtieE1WdWhqY3BOUUx3UnQ4a1BqZGhCZ3E3X3lBRHJmSElUd1pvY3RHUk5IZGtYT1BkTHlwTU1vNmJiLXZkZHBGbXdHd0xSeERvaWVFZmc?oc=5) `RSS`
+- [VCI Global, Önde Gelen LLM'lere Erişim için VGAIN Compute AI Token Platformunu Başlattı - Quiver Quantitative](https://news.google.com/rss/articles/CBMisAFBVV95cUxPOG85ZHp3VlZRN0lwQ0FneTg4emMwVVZpYXZueUNNREtpWnlZYTFPbUt6T1NRTnVnLWlRNDRiRHgzZnFpRVNENXJta29uLXN6RmYtVHFTOWtNcWRGaGdxWWM2dmxUOHNsZDZhMF9Nby1BTWV3WHpRdVV3WnFIRTI1MEpNaGsxQ0t6ODY5cG8ya2NEMDZKa0I3bkhyWm5NS3BYMmZVSVozWk14NVhuVXB1bw?oc=5) `RSS`
+- [Zetaris, Küresel Hackathon için SpaceXAI ile Bulut Yapay Zeka Veri Kayışını Başlattı - tech-insider.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHJOdWFiZ1JySTJyNkhOeERYS1pjWm5Zd3ZSUDQ5N2hIQ1FqWS02U1otWWpsZmpEX1F3aHZvMmVqV2Rzc2lvTnVVX0prUEk2OFJhVnNjMXNvVHFRd1B5VGlKUTIzcG9VNU94eS1WRGVfMGxfdUJQbkJ0NUdZNHUtVktHTUs1UQ?oc=5) `RSS`
+- [Ironclad ile gelişmiş bilgisayar kullanımı](https://openai.com/index/advancing-computer-use-with-ironclad) `RSS`
+- [Atlassian ve OpenAI, kurumsal bilgiyi eyleme dönüştürmek için ortaklığı genişletiyor](https://openai.com/index/atlassian-partnership) `RSS`
