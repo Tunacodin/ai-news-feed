@@ -2584,3 +2584,40 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yahoo: Güney Kore gelecek yıldan itibaren 3,5 milyar $ sınır yapay zeka modeli geliştirmeyi planlıyor](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTJEc3kyRUk5ck9OQ0VoVWh0MC1LYWlkT3BhQW1IX0d4QXQwazV1a1o1UlNFTlVpLXFqLU9wX19rNUcwcU1pQWhFak53YmpwazJieDJiWnRXMHJyT0FzQ25fSWV4V09KdEVTOGNKUUxMc3FTZW5jOVRZbEh0WXRuQm1KSkU?oc=5) `RSS`
 - [Yansıma AI'nın 5B Açık Modeli Çin'e Meydan Okuyor [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE5OMlNSTElWS19ObmJERUFmVzI1MHRpeXcybExyT29xd1hyM0J3UVBoUEViLTdrYnFCaEE1dnlGQzBKUkFidTZOVW9rQm54ajAweHVndzdDODlPNXM4QVA2SFZTOU5LXzlBZmY5dFVVUEtMSTJnNkxr?oc=5) `RSS`
 - [Falcon - Emirati: Bir LLM Lehçeyi, Kültürü ve Nüansı Öğrendiğinde](https://huggingface.co/blog/tiiuae/falcon-emirati) `RSS`
+
+- [Show HN: Aether: Kodlama aracınızdan web erişilebilirliği sorunlarını kontrol edin ve düzeltin](https://github.com/allchemylabs/aether-wcag-scanner) `HN`
+- [Show HN: Octri.dev – Özelleştirilebilir dokümanlar, 10 SDK oluşturun ve bir MCP sunucusu edinin](https://octri.dev) `HN`
+- [Show HN: Scrbbl – Yapay zeka yanıtlarını almak için iPad'de el yazısıyla yazılmış notlarınızın altını çizin](https://github.com/AdamProbolsky/scrbbl) `HN`
+- [TasteVal: Yapay zekanın araştırma zevki var mı?](https://pzeroresearch.com/work/tasteval/) `HN`
+- [Yapay Zeka Artık Si: Süper Zeka Üstün Değil](https://tej.as/blog/super-intelligence-isnt-superior) `HN`
+- [GTA V 700 MB'a sıkıştırıldı ve WebAssembly aracılığıyla tarayıcıda oynatılabilir hale getirildi](https://www.tomshardware.com/video-games/pc-gaming/gta-v-playable-in-browser-immediately-nuked-unofficial-webassembly-port-built-with-ai-gets-taken-down-within-hours-of-going-live) `HN`
+- [Show HN: Langgraph - harness - GitLab birleştirme istekleri için kendi kendine barındırılan AI aracısı](https://github.com/vrajpal-jhala/langgraph-harness) `HN`
+- [Francis Halzen, kozmik nötrino tespiti için 2026 Nobel Fizik Ödülü'nü kazandı](https://physicstoday.aip.org/news/francis-halzen-to-receive-2026-nobel-prize-in-physics-for-cosmic-neutrino-detection) `HN`
+- [İnsanların yapay zekayı kullanma şekli için reklam oluşturma](https://openai.com/index/new-chatgpt-ads-format-and-measurement/) `HN`
+- [Zihinlerimiz yapay zeka ile başa çıkacak donanıma sahip değil](https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought) `HN`
+- [JumpStar, Çin Daması için dünyanın en güçlü yapay zeka motorudur](https://chinesecheckers.ai/chinese-checkers-ai) `HN`
+- [Show HN: RigMark, yerel yapay zekayı kodlama ajanlarının kullandığı şekilde kıyaslayarak değerlendiriyor.](https://github.com/alexellis/rigmark) `HN`
+- [Show HN: Yapay Zeka ile Billy Bass'ı Hayata Geçirmek](https://twitter.com/MorgantWillis/status/2107463928196247843) `HN`
+- [Show HN: Orbtile – Logitech tuş takımında hangi AI kodlama aracının size ihtiyacı olduğunu görün](https://orbtile.com/?s=hn) `HN`
+- [HN'yi göster: Ekran Kayıtları – MHP ile demo veya nasıl yapılır kayıtlarını düzenleyin](https://screenrecords.app/) `HN`
+- [NewsGuard, Güvenilir Gazetecilik Sunmak İçin Oluşturulan İlk Yapay Zeka Chatbot'unu Piyasaya Sürdü](https://www.newsguardtech.com/press/newsguard-launches-first-ai-chatbot-built-to-deliver-trusted-journalism-only-from-reliable-news-websites/) `HN`
+- [Endüstriyel ve Yapay Zeka Devrimlerinin Fosil Mantığı](https://blue-continuum.com/fossil-logic) `HN`
+- [Yapay Zeka Çağında Test Odaklı Geliştirme [pdf]](https://monografias.dcc.ufmg.br/wp-content/uploads/TDD_in_the_AI_Era___POC_2-1.pdf) `HN`
+- [Show HN: Tinyhat, çoklu ajan Muse için özel bellek (açık kaynak)](https://github.com/tinyhat-ai/muse-office) `HN`
+- [PromptOwl'un Bağlam Yönetimi, PDF, Video ve Görüntüler gibi yerel zengin medyayı ekler](https://promptowl.ai/resources/product-update-september-2026/) `HN`
+- [WarGames sorunu: Yapay zeka ajanları haydutluk yapmaz](https://mappingignorance.org/2026/10/06/the-wargames-problem-ai-agents-dont-go-rogue/) `HN`
+- [Gösteri HN: Andrej Karpathy'nin LLM çıktısını anlama konusundaki ipuçlarını Beceri'ye dönüştürdüm](https://github.com/ajithraghavan/make-it-click) `HN`
+- [OpenAI'nin B2B Pazarı: Yapay Zeka Uygulamalarının Hiper Ölçeklendiricisi](https://www.akashbajwa.co/p/openais-b2b-marketplace-the-hyperscaler) `HN`
+- [Show HN: Authrot – karakterlerinizi, yerlerinizi ve olay örgünüzü haritalandıran bir yazı stüdyosu](https://authrot.app) `HN`
+- [CharacterMemory: Yapay Zeka Karakterleri için Bellek Sistemi](https://github.com/FrancescoCaracciolo/CharacterMemory) `HN`
+- [Yapay zeka sohbet robotları, hemen hemen her yerde Walmart'ta alışveriş yapmanızı öneriyor](https://www.morningstar.com/news/marketwatch/2026100584/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find) `HN`
+- [Mistral, ABD'li Rakipleriyle Daha İyi Rekabet Edebilmek İçin Yeni Yapay Zeka Modelini Yayınlayacak](https://www.wsj.com/tech/ai/mistral-to-release-new-ai-model-to-better-compete-with-u-s-rivals-3f7c8a3d) `HN`
+- [Show HN: Airflow ve Zulip'teki AST saplama ödünleşimlerini kıyasladık (ctxfw)](https://github.com/heuristicolab/ctxfw/blob/main/docs/benchmarks/TRILOGY_EMPIRICAL_BENCHMARK.md) `HN`
+- [Yapay Zeka Yönetişim Sorununuz Muhtemelen Bir Mimari Sorundur](https://www.jamiecadvisory.com/perspectives/your-ai-governance-problem-is-probably-an-architecture-problem/) `HN`
+- [Show HN: Strava for AI agents, they train for trust instead of fitness](https://sealkeeper.run) `HN`
+- [Mistral, Çin dışına götürdüğünü iddia ettiği 1 trilyon parametrelik açık bir yapay zeka modelini piyasaya sürüyor - qz.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE5ncFRCZktrbW9pXy1EWmYtenV2ek9NbHJzdFNKMUZQR2VmSlRZaFRicEtWZWNlbW9MZF9DVFBfVFRYYTdLcDJwQV9kN05jNjBJV2k2OXZSeFFtb0t4Q3hjUVRib0lCbmxLeFNJckh4cnBLS1k?oc=5) `RSS`
+- [Yansıma CEO'su Misha Laskin, yeni AI modeli Beam'in lansmanı hakkında, açık ağırlık ve kapalı model tartışması - CNBC](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMWNDVWNLNGprRTdoS2Vuckx1Slp6d3o0cmoxOE1rVnFocFJqc0dERXgwMmd6NkczbEhGTVhhZlI2Y3F1Tk85OGlINU9tRDgxQXFpS2V0Njc5Y0ZaTDFrQTcwQTdTeUczd2ZZQlpiSmxjbWNNLXJfcnRkdmVsSUdhUDNvV2Jjd3U1cUx4eGliUnhIZGhLZi1QVklKV0U1WS15Y1I3NjNGWVBZWXZFYWlPV21WVks1ck11R3ctemRDTWE3TmQ2NEVGMmUyQ3V2eDlMVXc?oc=5) `RSS`
+- [Beam nedir? "Batının DeepSeek'i" olarak adlandırılan hareketli Amerikan yapay zeka modeli - Business Insider](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcG5FaHI0by01OGZSRFd1cWpCN0lnaE96ZTBVX1l0eUlTYVJRcFJPMThmRFVpX2U3RzlMbkkyTFh3bnBhUUR1WjhhWGVGbS0zVXdldm1NckJheFNhQXJyUkZ4R3hCTHJzNWpVamVRWllHRUx2MTRoRmtZZWN5N2NKTDRPWVd0c2pZQi15V0R0UkhBcnNXYUE?oc=5) `RSS`
+- [Reuters: Nvidia destekli Reflection, Çin açık modellerini kullanan ilk yapay zeka modelini tanıttı](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5) `RSS`
+- [Mistral'ın ABD - Çin açık yapay zeka yarışındaki yeni modeli hakkında bilinmesi gerekenler - euronews.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1hBSE1FRHRDR29EcjFNV3lwWXZXYmJDcU5VcDBnXzQwTU01SHE1cnJ3WDhJbWJIUlBIZkM4enlJSWUxWU9Tb2RRWF83VXlFNDE0UEhxaUlfWlNjOXhVaklHTjY1VkNZXy1sMjhtOGlMdk1pVVBCMW5jYWwzNW55VFJ4SXdjaElIcUVHbjE0c3dQbWhIQS0zUU55MERZa2JPZzFsem90NGNJd1ZMX0pucUtSbm12THMwZXVRQ0cwR2xtcTkx?oc=5) `RSS`
+- [Reflection AI ilk açık ağırlık modeli Beam'i piyasaya sürdü - qz.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE1FZmozNzlpaWlTUS1LNGFObHJTc25zeEZrWldHT1didmxFLVl0aXZkNUdzbHZXdjlPcGtxWjVxbTdWdjZ0ZGVkaENsUS1mTGpxSTJJTTRZYm12QVpLTk9sZzBmeDZ1dl8wdlVpdHU4eWRiU1k?oc=5) `RSS`
