@@ -2720,3 +2720,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka ile X Gönderilerini Güzel Görsel Hikayelere Dönüştürün](https://github.com/mkantwala/iloveposts) `HN`
 - [AIG'deki biriyle kayıp bir Apple Watch hakkında konuşmak için 47. sıradayım](https://www.reddit.com/r/AppleWatch/comments/1wymmpu/im_47th_in_line_to_speak_to_someone_at_aig_about/) `HN`
 - [Contamos – Yapay zeka asistanınızın okuyup yazabileceği paylaşılan çok para birimli bir defter](https://contamos.xyz/en) `HN`
+
+- [Yapay zeka firması HUMXN, robotları eğitmek için Minnesota'da ücretsiz sıhhi tesisat ve HVAC hizmeti sunuyor](https://humxn.io/humxn-launches-free-home-service-program) `HN`
+- [Yapay zeka açık kaynak için iyi olabilir](https://nabraj.com/blog/ai-good-for-opensource) `HN`
+- [Yapay Zeka ve Fikir Yürütme Hızı](https://norsewanderer.com/) `HN`
+- [Oracle AI Veri Merkezi Tren Enkazı](https://subseacables.blogspot.com/2026/10/the-oracle-ai-data-center-train-wreck.html) `HN`
+- [Yapay Zeka 'Benzersiz Oyunlar' Kanıtına Yaklaşırken, Araştırmacılar Makineleri Yenmek İçin Yarıştı](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/) `HN`
+- [Yapay Zeka Ölçüm Bilimi](https://aimslab.stanford.edu/textbook/) `HN`
+- [Tab adlı yeni bir yapay zeka asistanı piyasaya çıktı; Meta'nın Muse'u ile rekabet ediyor](https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/) `HN`
+- [Yapay zekaya ne inşa etmeniz gerektiğini sormayı bırakın](https://leoanthias.com/stop-asking-ai/) `HN`
+- [Show HN: Robotsimulator.ai kullanarak endüstriyel robotikte çarpışmadan kaçınma](https://www.babacad.com/robotics/web/) `HN`
+- [Show HN: Bu açık kaynaklı, yerel ilk biyoinformatik/yapay zeka masaüstü uygulamasına göz atın](https://github.com/Liatir/liatir-app) `HN`
+- [Tersine Mühendislik AirPods Kendi Kendine Kalibrasyon](https://ateliti99.substack.com/p/reverse-engineering-airpods-self) `HN`
+- [Mumsnet, mesaj panosunda istem göründükten sonra içerik için yapay zeka kullandığını reddediyor](https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt) `HN`
+- [AI Ajan Belleği için Vector RAG'A Bir Alternatif Oluşturduk](https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval) `HN`
+- [Gizlilik Koruması: Sürücü Belgemi Taramanıza Gerek Yok](https://sk500.online/privacy-guard/) `HN`
+- [HN'yi göster: Planlock – Bir AI temsilcisinin planını bir kez onaylayın, kod her çağrıyı zorlar](https://github.com/JosephCurwin/planlock) `HN`
+- [Otonom yapay zeka tahsilat aracıları ile bir B2B ödeme altyapısı oluşturdum](https://cordhq.app/) `HN`
+- [Bir Yapay Zeka Şirketinin Çocuğum Üzerinde Okulda Deney Yapmasına İzin Vermem](https://www.coyotemedia.org/sfusd-ai-amira-salesforce/) `HN`
+- [HDTP: İnternet üzerinden konuşan Kişisel Yapay Zeka asistanları için güven katmanı](https://hdtp.io/) `HN`
+- [Google, Yapay Zeka Slop Raporları Drown İnceleyicileri Olarak Açık Kaynak Hata İkramiyelerini Duraklattı](https://devmeth.com/blog/google-pauses-open-source-bug-bounties-ai-slop) `HN`
+- [Show HN: arsa AI Box – mevcut IP kameralar için şirket içi video analitiği](https://demo-dashboard.arsa.technology/bsg/auth/login) `HN`
+- [ArtCraft – Sanatçılar için Kontrol Edilebilir Yapay Zeka](https://getartcraft.com/) `HN`
+- [Anthropic, yapay zeka mühendisi yeteneklerini eğitmek için 100 MİLYON $ yatırım yapacak](https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html) `HN`
+- [Show HN: MacOS için arka ucu olmayan gerçek zamanlı bir satış görüşmesi koçu](https://apps.apple.com/us/app/ai-sales-call-coach/id6811154979?mt=12) `HN`
+- [Yapay Zeka ve Avrupa Üzerine Düşünceler](https://www.siliconcontinent.com/p/nineteen-thoughts-on-ai-and-europe) `HN`
+- [Korsanlar Güney Kore Bankalarını Vurmak İçin Çin Yapay Zeka Aracını Kullan](https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-hackers-use-chinese-ai-tool-to-hit-south-korean-banks-exposing-new-risk-21056687) `HN`
+- [Yapay Zeka Filmi "Gods Don't Give Gifts" in Aralık Koşusu'nun İlk Fragmanı, Oscar Teklifi Planlıyor](https://variety.com/2026/film/news/ai-film-gods-dont-give-gifts-sets-trailer-plans-oscar-bid-1236897843/) `HN`
+- [HN'yi göster: 7B'yi yenmek için 800M AI kablo demeti [video]](https://www.youtube.com/watch?v=PEi7hVju3ds) `HN`
+- [İnsan Sürtünmesi, Ajan Yapay Zekayı Daha Güvenli ve Daha Akıllı Hale Getirir](https://spectrum.ieee.org/agentic-ai-humans-in-loop) `HN`
+- [Rivercell, İnsan Hücrelerinin Tedaviye Nasıl Tepki Verdiğini Öngören Veri Platformları ve Yapay Zeka Modelleri Oluşturmak için 25 Milyon $ ile Başladı - Business Wire](https://news.google.com/rss/articles/CBMijwJBVV95cUxOR3Q4Zm9FLS1mT2ZlNVYxRGtjLUdWRHktSU1pbmt4TU14aDVuTDJZR2xxUXNJZkRpcTVldnE3OTFGTjk2OE1ZZFJXRUNrUjVUd21uRGxQZldSZkFkVGt5bW5LOXJzMlFpTUtUWE9DbEx4MmJtZ1I0d3NxT2FsN3lMZF9Td2gxdC1rdkFaZTIwTjZwbnhGSTZuT1dHV3g4R05udzFScmlKTVVhVGRQYlBQZ3k5bXItSHJfdFk2OUpWVGhxOWtRUWt4TGZYYWRvOHFIbGhXMFFrcmUwVjRhN0V1ZFdZTTBMaHFhVkNFdnlRdjhkSVRsMnhkVFJIVTZKaXJDaXFEbHE5YlRzcTdrSlJr?oc=5) `RSS`
+- [Pilot5, Avukatlar için Savunucu Yapay Zekayı Başlattı - Yapay Avukat](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNm9PLVBkejlXbXR1cUppblFISFpDVG1GZEw4SElVOHNGTm1yVXUzRFBtemg1SUZBVV9KSVNtWHhZb1lUQUhUQl9vYlVMQnpBV2ptQ2RGb0h6ZmFvdkMzS1Q2XzE5X0ppOHNmYnpFOE5OMEwxZFJYZkNnTzgzV0FxZlEwdVF4c2xPbi1IOTRGSVQ?oc=5) `RSS`
+- [Mimar Finansal Teknolojiler, Yapay Zeka Çıkarımının Gerçek Zamanlı Değişimi Olan Liquid Inference'ı Başlattı - PR Newswire](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlBsWmVuZ0RtemZvOC1wOHpKOXA5aFpFSmVMSUk2TnpIRWVoVzRBd3NMdGFOS0N1OWZJS2ZhWExyM2EzZ3lYOXQ2N3JCVi0yUkNTb09sRXJpc0FRQWxyeURkU0Z0bzhEZ09DTkMwbTZfTEFYNVJDMnJTUWFkekY4ODdTQV9ZV3lGdFFJckkwNkFIaXlHOTJBQkNaQU1MYWpaRUU1Q045aWtYVkM3X2lnX1BvNkp5WDdmaTd4emVCWS15RWF4NDVoNHE1cDA3UWNyZnhUa3ZhSUE0eDc0NmpQdy1qc2ZmMHM?oc=5) `RSS`
+- [Bir Ayda 16 Yapay Zeka Modeli: DeepSeek, Çinli Yapay Zeka Firmaları Antropik Uyarıya Rağmen Fırlatma Yarışını Hızlandırdı - NDTV Profit](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzZRTGhiLVo5c01yeUZadXQ0QmR4RHNMVG9jcERHTTljaG1xWG5KcExmazk1bkRRemFuaXl2TjNFNUlLVTlSUEUzdXM5bVFxYkx1d3F4S05GTTNXam5PVjZWQ2F4ZnV0R0lZN055SF9XWks3V2l1SzJGYXhZRTJFTzVkU25qYlpGVUZJaVhaZUlUM2xINzRRMDVGbzJjUGFLR3VJcWNjUEtkUGJCcThTY1l0c2k5T2pyaVFQeS1TODNuS0ZreFUzU19PT2xiRnpJeVJ1ZFlpalhEcTZ40gHkAUFVX3lxTFBSVlJDNVc2ZnlLekVsUzdkT2ZMaW55S20yNDlwNUpsMzgwcmlLZEdyME15aGs3QkViUl9GUXk5WHZ1TUFHUHpHdFJJM25XVU9sQjg5d1FoNTRycldSNWFia0xJSS10S294cHVjX2t4enNBZ3BhNzBrXzhwTFNiUUlFX0lCVW1JbGEzLV8tanV2NlZ6QnUwcV9SZ3BiQVZaR0hZNlpyS251TXhMVzZvbmZhRmNnR1Z0aVgwX3BaLTQxRDVObHVzMVU4R2s2SEh2REdZZjl2cUxGenZ0Q3RIMWdEM2U3Sg?oc=5) `RSS`
+- [Playground ile tanışın: Özel oyunlar oluşturun ve oynayın](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) `RSS`
+- [Bir Model Ailesi, İki Altın Seviyesi Sonuç: IOI ve IMO için Nemotron'un İnce Ayarı](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) `RSS`
