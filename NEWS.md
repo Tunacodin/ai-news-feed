@@ -2691,3 +2691,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [ChatGPT ve Meta'nın Laması ile ilişkili modeller artık tek bir platformda mevcut. - Stock Titan](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUm1mZHR0SUhBbzRNREZQNXR1V1F6TzRSOHZZS0JHTGZHSkQxcy16b0VnQVJJLVJIZTFkVW1yMUhRaHlZcGVLbkdDTDVsOFpXbmN4RTAzRkdocGtlQ0xiTUlQdmpid0VMS3VIZXVyVk51QlNETUZpNEtBai1uYmVLanVoQVQ3ZWo4Q1IxUzJYLU5ibDB6SVBDc0h0VEVta3FtbjdsNUJMb1FOTW00TlFLNmVvRVNzV0cwLW1LWEJR?oc=5) `RSS`
 - [Jump Trading, ChatGPT ile nicel araştırmayı nasıl ölçeklendiriyor?](https://openai.com/index/jump-trading) `RSS`
 - [Matematikte yapay zeka ilerlemesini paylaşma](https://openai.com/index/sharing-ai-progress-in-mathematics) `RSS`
+
+- [Yapay zeka kullanmayan bir şirket kuruyorum, San Francisco'dan bir mektup, Ekim '26](https://no-ai-tau.vercel.app/) `HN`
+- [LGTM: Teknoloji endüstrisinde modern yapay zekanın benimsenmesinin bir parodisi [video]](https://www.youtube.com/watch?v=3TNpOD6bov8) `HN`
+- [Show HN: Chorus – Mac'te aynı anda birden fazla yapay zekaya sorun](https://github.com/askchorus/chorus) `HN`
+- [Tescreal halüsinasyonlar: Eşitsizlik motorları olarak psychedelic ve AI yutturmaca](https://akjournals.com/view/journals/2054/7/S1/article-p22.xml) `HN`
+- [Yapay Zeka Kısa Filmi Yeniden Çerçeveleme [video]](https://www.youtube.com/watch?v=9MlK5VTMD88) `HN`
+- [Show HN: Slopguesser – kodun yapay zeka tarafından mı yoksa bir insan tarafından mı yazıldığını söyleyebilir misiniz?](https://slopguesser.dev) `HN`
+- [DeepSeek v4.1 378 tok/s'de Flash % 99,7 Önbellek isabet oranı](https://runinfra.ai/inference-api/deepseek-v4-1-flash) `HN`
+- [Yapmak istediğim şeyler](https://christophermeiklejohn.com/ai/personal/phish/software/2026/10/02/the-things-i-wanted-to-make.html) `HN`
+- [JobFetch – ücretsiz uzaktan AI iş panosu, ödeme önden gösterilir](https://jobfetch.work) `HN`
+- [Kaka yaparken kodu vibe edebilmeniz için evimi ipotek ettiriyorum](https://www.jackhamr.ai) `HN`
+- [Mistral Büyük 4 Önizleme: İstihbarat, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/mistral-large-4) `HN`
+- [Toketer – Her yapay zeka isteminin size ne kadara mal olduğunu görün, editörünüzde yaşayın](https://marketplace.visualstudio.com/items?itemName=toketer.toketer) `HN`
+- [Crunchbase Verileri, Yapay Zekanın En Aktif Girişimlerinin Seri Alıcı Olduğunu Gösteriyor](https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/) `HN`
+- [Serbest çalışanlar ve ajanslar için yapay zeka destekli zaman takibi](https://www.tracktimer.app) `HN`
+- [Araştırma; Yapay Zeka ile Açık Kaynak Kullanımı Sağlık Araştırması – Kanıt Sentezinin Hızlandırılması](https://zenodo.org/records/23199360) `HN`
+- [Programlamada Üretken Yapay Zeka Kullanma Kılavuzu – Ders Kitabı – Antti Laaksonen](https://link.springer.com/book/10.1007/978-3-032-07453-9) `HN`
+- [Çalışma, Claude abonelik planının OpenAI'lardan daha fazla değer sağladığını söylüyor](https://www.theregister.com/ai-and-ml/2026/10/06/anthropic-claude-subscription-plan-provides-more-value-than-openais-study-says/5301470) `HN`
+- [Yerel yapay zeka artık gerçek. Ve aklımı başımdan alıyor](https://hive.technology/lab-notes/local-ai-is-real/) `HN`
+- [Show HN: PDF kara kutularının altında metin gizlemek için yalnızca tarayıcı denetleyicisi](https://camlabs.ai/redaction-checker/) `HN`
+- [Show HN: NanoMuse – Telefonunuz ve bilgisayarınız için açık kaynaklı bir yapay zeka ajanı](https://github.com/nano-muse/nanoMuse) `HN`
+- [Show HN: Vim benzeri, hiper verimli, LLM elektrikli alet – 350k+ değil 20 -80k token](https://easiest.ai/) `HN`
+- [Ekipler ve temsilciler için çok oyunculu AI kodlama çalışma alanı](https://www.tryfridaywork.com) `HN`
+- [Biyoloji, Budizm ve AI: Platonik uzay modeli ve haydut ajan sürüsü](https://okossa.com/biology-buddhism-and-ai-ff213a852eb4) `HN`
+- [WSJ: OAI Yüzlerce Matematik Problemini Daha Çözdü](https://www.wsj.com/tech/ai/openai-ai-math-problems-millennium-prize-23d14511) `HN`
+- [Nano Banana 2.1 API, resim başına 0,03 $, 1K, 2K ve 4K'da aynı fiyat](https://reapi.ai/blog/nano-banana-2-1-api-pricing) `HN`
+- [Yapay Zeka ile X Gönderilerini Güzel Görsel Hikayelere Dönüştürün](https://github.com/mkantwala/iloveposts) `HN`
+- [AIG'deki biriyle kayıp bir Apple Watch hakkında konuşmak için 47. sıradayım](https://www.reddit.com/r/AppleWatch/comments/1wymmpu/im_47th_in_line_to_speak_to_someone_at_aig_about/) `HN`
+- [Contamos – Yapay zeka asistanınızın okuyup yazabileceği paylaşılan çok para birimli bir defter](https://contamos.xyz/en) `HN`
