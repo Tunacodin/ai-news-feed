@@ -2755,3 +2755,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Bir Ayda 16 Yapay Zeka Modeli: DeepSeek, Çinli Yapay Zeka Firmaları Antropik Uyarıya Rağmen Fırlatma Yarışını Hızlandırdı - NDTV Profit](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNzZRTGhiLVo5c01yeUZadXQ0QmR4RHNMVG9jcERHTTljaG1xWG5KcExmazk1bkRRemFuaXl2TjNFNUlLVTlSUEUzdXM5bVFxYkx1d3F4S05GTTNXam5PVjZWQ2F4ZnV0R0lZN055SF9XWks3V2l1SzJGYXhZRTJFTzVkU25qYlpGVUZJaVhaZUlUM2xINzRRMDVGbzJjUGFLR3VJcWNjUEtkUGJCcThTY1l0c2k5T2pyaVFQeS1TODNuS0ZreFUzU19PT2xiRnpJeVJ1ZFlpalhEcTZ40gHkAUFVX3lxTFBSVlJDNVc2ZnlLekVsUzdkT2ZMaW55S20yNDlwNUpsMzgwcmlLZEdyME15aGs3QkViUl9GUXk5WHZ1TUFHUHpHdFJJM25XVU9sQjg5d1FoNTRycldSNWFia0xJSS10S294cHVjX2t4enNBZ3BhNzBrXzhwTFNiUUlFX0lCVW1JbGEzLV8tanV2NlZ6QnUwcV9SZ3BiQVZaR0hZNlpyS251TXhMVzZvbmZhRmNnR1Z0aVgwX3BaLTQxRDVObHVzMVU4R2s2SEh2REdZZjl2cUxGenZ0Q3RIMWdEM2U3Sg?oc=5) `RSS`
 - [Playground ile tanışın: Özel oyunlar oluşturun ve oynayın](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) `RSS`
 - [Bir Model Ailesi, İki Altın Seviyesi Sonuç: IOI ve IMO için Nemotron'un İnce Ayarı](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) `RSS`
+
+- [Show HN: Chloe bir TypeScript AI ajanıdır](https://chloejs.org/compare) `HN`
+- [Show HN: SheetRelay – Google Sheets'i web sayfaları ve yapay zeka aracıları için bir arka uç olarak göster](https://sheetrelay.com/) `HN`
+- [Dave W. Plummer: "Yapay Zeka Klonlaması yasa dışı olmalı"](https://twitter.com/davepl1968/status/2107875089446580273) `HN`
+- [Yapay zeka şirketleri, rakiplerinin modellerini damıttığını ve durdurmanın neden bu kadar zor olduğunu söylüyor](https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/) `HN`
+- [Frontier AI Hızlanıyor. Devam Etmesi Gereken Açık Karşılaştırmalar](https://benchmarks.snorkel.ai/frontier-ai-is-accelerating-open-benchmarks-need-to-keep-up/) `HN`
+- [AIM – Otomatik Araştırma için Ajan Fikir Yönetimi](https://imhgchoi.github.io/agentic-idea-manager/) `HN`
+- [Show HN: Kodlama ajanları için bağımsız bir yürütme kaydedici](https://github.com/altrace-dev-role/rashomon) `HN`
+- [METR, Antropik üzerinde anlamlı bir kontrol değildir](https://www.verysane.ai/p/is-metr-a-meaningful-check-on-anthropic) `HN`
+- [Google AI Edge Öngörü – çevrimdışı, özel toplantı transkriptleri](https://developers.google.com/edge/foresight) `HN`
+- [Yapay zekanızı birinci sınıf bir tasarımcıya dönüştürme](https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world) `HN`
+- [Yeni Bir Yapay Zeka Aracı Odaklı Programlama Dili](https://github.com/itsmedit/grenat) `HN`
+- [Show HN: Economicus – özerk varlıkların açık ekonomisi](https://aquarium.money/economicus) `HN`
+- [İlk akış transkripsiyon modelimiz Yapay Analizde 1 numarada başlıyor](https://microsoft.ai/news/our-first-streaming-transcription-model/) `HN`
+- [Windows'ta Yapay Zeka Geliştirme: PyTorch ve Llama.cpp'den Windows ML'ye](https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/) `HN`
+- [Yapay Zeka serbestlik tartışması için hazırlanan Talep Yasası [pdf]](https://trahan.house.gov/uploadedfiles/claim_act_final.pdf) `HN`
+- [Ojenik, Silikon Vadisi ve Yapay Zeka: Makinedeki Hayalet [Belgesel]](https://www.pbs.org/video/ghost-in-the-machine-nynp3f/) `HN`
+- [Geliştirici Belgelerinizin Temsilciler için Çalışmasını Sağlama](https://fusionauth.io/articles/ai/llms-for-docs) `HN`
+- [Yapay zeka, hiç doğmamış işçilerin yerini almalı](https://toex.substack.com/p/ai-workers-never-born) `HN`
+- [Claude Haiku 5.5: İstihbarat, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/claude-haiku-5-5) `HN`
+- [Yapay Zeka Sektörünün Her Şeyden Çok Nefret Ettiği İki Kelime [VIDEO]](https://www.youtube.com/watch?v=7Z7oA9ndmdY) `HN`
+- [McDonald's, ABD franchise'larına fiyat öneren yapay zeka aracı için dava açtı](https://apnews.com/article/mcdonalds-ai-pricing-lawsuit-competition-franchisees-bb78e854b11b54b394603effa7550bbe) `HN`
+- [Telif Ücretleriyle Milyonlar Çeken Yapay Zekalı Müzik Dolandırıcısı 18 Ay Hapse Mahkum Edildi](https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html) `HN`
+- [HN'yi Göster: Akıllı Bulanıklık – Tarayıcıda OpenAI Yerel Modeli ile Otomatik Bulanıklık PII'si](https://smartbuildlabs.com/apps/smart-blur/) `HN`
+- [Bulut Olgunluğu Yeni Dijital Dönüşümdür](https://phpscientist.com/blog/cloud-maturity-digital-transformation-ai-ready-enterprise/) `HN`
+- [Meta ve Microsoft, çalışanların Claude AI kullanımını azaltmak için adımlar atıyor](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/) `HN`
+- [AI agent konnektörünüzü veya entegrasyonunuzu TryMuse'da keşfedin](https://trymuse.com/) `HN`
+- [OpenDocRouter: OCR Modelleri için Birleştirilmiş bir API](https://www.opendocrouter.ai/) `HN`
+- [Tabula rasa RL, craftax'ı yendi; Astra'nın % 1 'ine % 44 kazanma oranı](https://rekursiv.ai/blog/craftax/) `HN`
+- [Anthropic, düşük maliyetli, yüksek hızlı Haiku 5.5 lansmanıyla yapay zeka model paketini genişletiyor - Investing.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQcTV3Qm50UGtaVEJRM19nR1hsdzZRMUUzWEstUFVGMHE1aTZOY0R6aDVoQVYyeV9kZ0t2UG9RbVhOY04yLV9LN2lrSmZDaTdWNzFHV2pMS3Q2aFJQZ0g3ZjQyMXpWUVgyVVo4RnBvbVU2amNfUm1tODVsdUEtcmh1Sl9GQkNDUUdSd2xCdzVhc1g3Z3hHcWZpNTEtYktaaDU1SVJuS1hwV3BhZjVvNlpjOEFhTUhKZWdSUC1YWm0tV1BubnRkYjdB?oc=5) `RSS`
+- [Gençlerin yapay zekanın geleceğini öğrenmesine, planlamasına ve şekillendirmesine yardımcı olmak](https://openai.com/index/teens-learn-and-plan) `RSS`
+- [Radisson Hotel Group, ChatGPT'ye otel keşfi getiriyor](https://openai.com/index/radisson) `RSS`
+- [Herkes için GPT -6 ve Akıllı Kullanıcı Arayüzü](https://openai.com/index/gpt-6-for-everyone) `RSS`
+- [Edge için çok modlu açık d1 karar modelleri](https://huggingface.co/blog/LiquidAI/open-d1) `RSS`
