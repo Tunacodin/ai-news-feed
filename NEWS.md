@@ -2656,3 +2656,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Zetaris, Küresel Hackathon için SpaceXAI ile Bulut Yapay Zeka Veri Kayışını Başlattı - tech-insider.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHJOdWFiZ1JySTJyNkhOeERYS1pjWm5Zd3ZSUDQ5N2hIQ1FqWS02U1otWWpsZmpEX1F3aHZvMmVqV2Rzc2lvTnVVX0prUEk2OFJhVnNjMXNvVHFRd1B5VGlKUTIzcG9VNU94eS1WRGVfMGxfdUJQbkJ0NUdZNHUtVktHTUs1UQ?oc=5) `RSS`
 - [Ironclad ile gelişmiş bilgisayar kullanımı](https://openai.com/index/advancing-computer-use-with-ironclad) `RSS`
 - [Atlassian ve OpenAI, kurumsal bilgiyi eyleme dönüştürmek için ortaklığı genişletiyor](https://openai.com/index/atlassian-partnership) `RSS`
+
+- [Show HN: AgentOS – Kodlama ajanlarınızı telefonunuzdan çalıştırın, kendi kendine barındırılan](https://github.com/saadnvd1/agent-os) `HN`
+- [Güney Kore, yapay zeka ajanlarının ülkenin bankalarını hacklemek için kullanılmış gibi göründüğünü söyledi](https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/) `HN`
+- [Mahkeme dosyalarında yapay zeka ile ilgili çizgiyi nerede çizeriz?](https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings) `HN`
+- [Düşüncenin Düşen Bedeli](https://epoch.ai/publications/the-plunging-price-of-thought) `HN`
+- [Yapay Zeka Tercümanların Yerini Almadı Ancak Çalışma Koşullarını Bozdu](https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions) `HN`
+- [Açık Araştırma Sorunlarını Birlikte Çözme](https://research.meta.ai/blog/solving-open-research-problems-together) `HN`
+- [Steven Pinker'a Yapay Zeka Üzerine Açık Mektup](https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on) `HN`
+- [Matematikte yapay zeka ilerlemesini paylaşma](https://openai.com/index/sharing-ai-progress-in-mathematics/) `HN`
+- [Gösteri HN: Bir yapay zeka ajanı, yayınlanan her transkriptte günde on web işi yürütüyor](https://agentability.org/) `HN`
+- [Penguin Mail – AI ile Linux için açık kaynaklı Rust e - posta istemcisi](https://penguin-mail.com/) `HN`
+- [Yapay zekanın gücü tükenecek](https://www.transformernews.ai/p/ai-will-run-out-of-power) `HN`
+- [Sulcus – AI ajanlarını çalışırken gözlemleyin ve kontrol edin](https://sulcus.dev/) `HN`
+- [İtalyan PM, yapay zeka tehditlerine karşı sesini tescil ettirmek için başvuruda bulundu](https://www.bbc.com/news/articles/ckly0g1ljq2yo) `HN`
+- [USAF'ın Yeni HACM Hipersonik Seyir Füzesinin İlk Sürüşü](https://www.twz.com/air/first-release-of-usafs-new-hacm-hypersonic-cruise-missile-has-happened-over-a-test-range-in-australia) `HN`
+- [Simsalasim: Xing'in kurucusu Hinrichs, Telekom'dan daha az meydan okumayı hedeflemiyor](https://www.heise.de/en/news/Simsalasim-Xing-founder-Hinrichs-aims-to-challenge-no-less-than-Telekom-11477817.html) `HN`
+- [Muse AI gadget'ları yapmanıza izin veren meta açık kaynak kodu](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) `HN`
+- [Mistral, Çin'den en iyi açık sistemlere rakip olduğunu söylediği yeni yapay zeka modelini tanıttı](https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html) `HN`
+- [TypeSafe'in JEV'inin Bağımsız Bir Değerlendirmesi](https://www.vals.ai/blogs/independent-evaluation-of-jev) `HN`
+- [LLM Tarafından Değerlendirilen Öneme Göre Matematikte Üst Düzey Açık Problemler](https://www.proofatlas.ai/open-problems/) `HN`
+- [Daniel Kokotajlo'nun yapay zeka riskine ilişkin senato ifadesi [pdf]](https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf) `HN`
+- [PolicyLM-1.7B: içerik politikasını okuyan küçük, hızlı, açık bir model](https://www.musubilabs.ai/blog/introducing-policylm-1-7b) `HN`
+- [Yapay Zeka Temsilcinize Alana Özgü Bir Dil Verin](https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl) `HN`
+- [Plak şirketleri yapay zeka müziğinin etrafında dönüyor](https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music) `HN`
+- [Coxon'un Medya Yükselişi Muhtemelen Orkestralandı](https://nypost.com/2026/09/25/business/ai-doomer-pr-firm-worked-for-jacob-coxon-as-he-sparked-furor-over-safety-while-denying-third-party-help-report/) `HN`
+- [Show HN: VoxScribe, Windows için yerel bir konuş - tut sesli dikte uygulaması](https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation) `HN`
+- [Kurumsal yapay zeka, kayıt sistemlerine erişimi olmayan bir buhar yazılımıdır](https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents) `HN`
+- [VAE Olmadan Metinden Görüntüye Modellerin Eğitilmesi](https://www.linum.ai/field-notes/pyramid-jit) `HN`
+- [Meta'nın Muse AI temsilcisi sizinle ilgili bir dosya oluşturuyor](https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/) `HN`
+- [Mistral, Çin'den en iyi açık sistemlere rakip olduğunu söylediği yeni yapay zeka modelini tanıttı: CNBC](https://news.google.com/rss/articles/CBMib0FVX3lxTE5FTlJ6SWZzT0xiYi1RR3MtSFpJVk0yS2cwNGJUelJmcEVHVHkwUVFGZDZULWtXSHBXNndQbWJ0S1lPVjZoZDJQR3A0QlJvT1ppU2lMTlJiRWx3bjI4c2NrX28xM0VwMW1iSV9XZnMtQdIBdEFVX3lxTE1tMDVOZG9acWpaNEhUcnhLM01pNkJ0eFVkZFJGWWRoSVpvN2FDTVNKMkl5akJ4dnhSMko2bi1aendmaFVnSmJxU3ZqNE5LcXlWSWVfMVdSR2FmQ1VvdXY4X0ZLa2FzSXdfQldUc21WaWRzYXVK?oc=5) `RSS`
+- [Mistral, açık kaynaklı Mistral Large 4 'ü piyasaya sürdü, AI yol haritasını detaylandırıyor - SiliconANGLE](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ05jajV1RG5hV0FEdHBNX1VUMXNESWg1UE1IMmFfQVd1a0RCeDhxbERFb0RYR0dFMEY3STVkcVVjenNiQWVNcWFSbWJxZzVaa1hUNEtKazlTTFRIRFNfbVg5R0hZWmhSVG8wV3NDRGpwR2xXUU5yWlhmVUYxNk53NlFGM2dMWXYtRUlST2FfSXFGOFZxUHV1SDNlU1BBX0xwbHc?oc=5) `RSS`
+- [Google DeepMind, cihazda arama için çok modlu AI modelini başlattı (GOOGL:NASDAQ) - Seeking Alpha](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd1ZmVmtZblIyUHdYWWo0b0MxT2FsRllHRVFlSDhxYzl0MDBiY2tCbU9NSlJCV3N5eGdMTEdpQXRiamU2NzBzRnhnRzRlWVdnbW13UktSeWp3cTJHdXpWWkxJTmNBRFQ4dEpFajNpaHpWYXhFTXRSblJXVlk0bnJiM3JsWV8tZGo1cDZYZDV1by14cE5WTk10aS1sZHBfd0VFOGtLT3B3?oc=5) `RSS`
+- [ChatGPT ve Meta'nın Laması ile ilişkili modeller artık tek bir platformda mevcut. - Stock Titan](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUm1mZHR0SUhBbzRNREZQNXR1V1F6TzRSOHZZS0JHTGZHSkQxcy16b0VnQVJJLVJIZTFkVW1yMUhRaHlZcGVLbkdDTDVsOFpXbmN4RTAzRkdocGtlQ0xiTUlQdmpid0VMS3VIZXVyVk51QlNETUZpNEtBai1uYmVLanVoQVQ3ZWo4Q1IxUzJYLU5ibDB6SVBDc0h0VEVta3FtbjdsNUJMb1FOTW00TlFLNmVvRVNzV0cwLW1LWEJR?oc=5) `RSS`
+- [Jump Trading, ChatGPT ile nicel araştırmayı nasıl ölçeklendiriyor?](https://openai.com/index/jump-trading) `RSS`
+- [Matematikte yapay zeka ilerlemesini paylaşma](https://openai.com/index/sharing-ai-progress-in-mathematics) `RSS`
