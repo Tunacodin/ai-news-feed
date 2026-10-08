@@ -2789,3 +2789,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Radisson Hotel Group, ChatGPT'ye otel keşfi getiriyor](https://openai.com/index/radisson) `RSS`
 - [Herkes için GPT -6 ve Akıllı Kullanıcı Arayüzü](https://openai.com/index/gpt-6-for-everyone) `RSS`
 - [Edge için çok modlu açık d1 karar modelleri](https://huggingface.co/blog/LiquidAI/open-d1) `RSS`
+
+- [Tek başına daha hızlı inşa etmek: Yapay zekanın ürün üçlüsüne ne yaptığına dair bir panel](https://jennywanger.com/articles/building-alone-faster/) `HN`
+- [Exodus AI – Yaratıcılar için uygun fiyatlı yüz değiştirme aracı](https://tally.so/r/44gGAB) `HN`
+- [Ruth AI'yı sorumlu bırakarak öğrendiklerim](https://silavapi.co.uk/blog/what-i-learned-leaving-a-ruth-ai-in-charge/) `HN`
+- [BuzzSearch MCP, hedef müşterinizin kullandığı kelimeleri tam olarak çıkarır](https://buzzsearch.ai/mcp) `HN`
+- [Yapay Zeka'nın Her Şeyi Hacklemesi Ne Kadar Sürer?](https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/) `HN`
+- [Liquid AI, uç nokta için Pareto - sınır, çok modlu karar modelini piyasaya sürdü](https://www.liquid.ai/blog/d1-open) `HN`
+- [Birisi Yapay Zeka ile Ücretsiz Yeniden İnşa Edildi, Photoshop, Premiere ve Lightroom'un OSS Sürümleri](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/) `HN`
+- [MiMo v2.6 'nın Kodlama Görevlerinin 2/3' ü Yanıtı Sızdırıyor. Sömürmek Hile mi?](https://www.vals.ai/blogs/mimo-reward-hacking) `HN`
+- [OpenAI'nin insan hakları lideri: Askeri yapay zekanın yapabilecekleri "beni geceleri uyutmuyor"](https://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/) `HN`
+- [Neden Artık İnsana İhtiyacımız Var?](https://poshenloh.com/posts/20260919-math-ai) `HN`
+- [Yapay zeka küme ağı okuma listesi: RDMA, kolektifler, kumaşlar](https://github.com/Rewsr/unawesome-ai-fabric-engineering) `HN`
+- [Bold AI geliştiricisi, açık kaynaklı klonlarla Adobe'yi hedef alıyor](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/) `HN`
+- [Kelly'nin yapay zeka vergi tasarısı, teknolojiyi ekonomik zararlarla ilişkilendirmekte zorlanıyor](https://news.bloombergtax.com/tax-insights-and-commentary/kellys-ai-tax-bill-struggles-to-link-tech-with-economic-harms) `HN`
+- [Yapay zeka temsilcileriyle çalışırken prototiplemenin ne zaman ve neden hala gerekli olduğu](https://emmflow.com/blog/when-and-why-prototyping-is-still-needed-when-working-with-ai-agents) `HN`
+- [Yapay Zeka Ajanları, Hayatta Kalmak İçin Aydınlatılmış Mags Sunumu Yapıyor](https://bookgossip.substack.com/p/the-ai-agents-pitching-lit-mags-to) `HN`
+- [MAI-Code-1.1-Flash: Maliyetin dörtte birinde daha iyi, daha hızlı](https://microsoft.ai/news/mai-code-1-1-flash-br-better-faster-at-a-quarter-of-the-cost/) `HN`
+- [Show HN: StayLeet – AI kodlama döneminde becerileri keskin tutmak](https://stayleet.com/) `HN`
+- [Dazzle AI – sizi daha iyi anlamak için kamera rulonuzu kullanan bir yapay zeka asistanı](https://dazzle.ai/) `HN`
+- [Matematik ve yazılımdaki yapay zeka gelişmelerine ayak uyduran insanlar hakkındaki düşünceler](https://jcoc611.com/blog/what-happens-when-the-ai-slop-is-correct/) `HN`
+- [ServeLearnBench: Temsilciler Hizmet Deneyiminden Kendini Ne Kadar İyi Geliştirebilir?](https://infini-ai-lab.github.io/ServeLearnBench/) `HN`
+- [Yapay zeka yasal oranları bastırmayacak](https://lexifina.com/blog/who-keeps-the-ai-efficiency) `HN`
+- [Dünya Açlığıyla Mücadele için Yapay Zeka](https://features.csis.org/ai-to-fight-world-hunger/) `HN`
+- [Show HN: Reflex – Aleph Alpha's Kolibri -1 'i çalıştıran soğuk çalıştırmalı bir GGUF motoru](https://github.com/lateos-ai/reflex) `HN`
+- [Harvey'nin MHP Politika Motorunun Oluşturulması](https://www.harvey.ai/blog/building-harveys-mcp-policy-engine) `HN`
+- [Torna: Donanım Tasarımı için Yapay Zeka Çalışma Alanı](https://www.lathelab.com/) `HN`
+- [Yapay zeka tarafından yaratılan kadının yer aldığı "cinsel taciz" şantajının ardından adam intihar etti](https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman) `HN`
+- [Dolandırıcı, Taylor Swift'in dışına çıkmak için 10 bin bot ve yapay zeka şarkısı kullandığı için hapse atıldı](https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/) `HN`
+- [Anthropic, planlanan halka arzdan önce yapay zeka serisini genişleten üçüncü Claude 5.5 modelini piyasaya sürdü](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5) `RSS`
