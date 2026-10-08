@@ -2818,3 +2818,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay zeka tarafından yaratılan kadının yer aldığı "cinsel taciz" şantajının ardından adam intihar etti](https://www.rnz.co.nz/news/crime-and-justice/1787553/man-took-his-own-life-after-paying-money-to-sextortion-blackmail-involving-ai-generated-woman) `HN`
 - [Dolandırıcı, Taylor Swift'in dışına çıkmak için 10 bin bot ve yapay zeka şarkısı kullandığı için hapse atıldı](https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/) `HN`
 - [Anthropic, planlanan halka arzdan önce yapay zeka serisini genişleten üçüncü Claude 5.5 modelini piyasaya sürdü](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5) `RSS`
+
+- [Haber odalarının soruşturmalarda yapay zekayı kullanmasının diğer yolları](https://www.niemanlab.org/2026/10/uber-agents-undercover-ai-personas-and-other-ways-newsrooms-are-using-ai-in-investigations/) `HN`
+- [Yapay zeka kodlama aracıları ve işletim sistemi savaşlarının bir tekrarı](https://gaseri.org/en/blog/2026-10-08-ai-coding-agents-and-a-rerun-of-the-operating-system-wars/) `HN`
+- [One's Vibe – deneyebileceğiniz yapay zeka ile üretilmiş ürünleri keşfedin](https://onesvibe.app) `HN`
+- [Beyin Taramalarından Görüntü Rekonstrüksiyonu](https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/) `HN`
+- [Yapay Zeka Determinizm Argümanı Beni Neden Sinirlendiriyor?](https://blog.demofox.org/2026/10/07/why-the-ai-determinism-argument-annoys-me/) `HN`
+- [AI aracısı, 12 saat içinde 219 kelimelik bir özellik sayfasından eksiksiz bir RISC - V CPU tasarlar](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours) `HN`
+- [Upbeat, Bluemag SiFive RISC - V Tabanlı Pi Drone Kontrol Cihazını Yerleşik Yapay Zeka ile Başlattı](https://www.upbeattechtw.com/newsroom/press-releases/ceatec2026) `HN`
+- [Video Upscaler AI](https://www.videoupscalerai.io) `HN`
+- [Flathub, yerini bir ifşa politikasına bırakan üretken yapay zeka yasağını geri çekti](https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/) `HN`
+- [Nobel fizik kazananının yapay zeka rolüne öncülük etmekten gurur duyması](https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html) `HN`
+- [Windows'ta Yapay Zeka Geliştirme: PyTorch ve Llama.cpp'den Windows ML'ye](https://devblogs.microsoft.com/foundry-on-windows/build-on-winml-oct-7-26/) `HN`
+- [Şiir, yeni yapay zeka güvenlik tehdididir](https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672) `HN`
+- [Yapay zeka patlamasında 80 milyar $ kâr, herhangi bir teknoloji şirketi için en yüksek çeyrek](https://www.reuters.com/business/samsung-q3-profit-jumps-783-ai-memory-boom-lifts-chip-earnings-2026-10-07/) `HN`
+- [İnceleme darboğazı: Yapay zeka insanların kontrol edebileceğinden daha hızlı yazdığında](https://loopsfinity.com/blog-ai-code-review-bottleneck) `HN`
+- [Sesterce, Jämsä'da 10 milyar € değerinde bir yapay zeka kampüsü kurmayı planlıyor](https://www.sesterce.com/newsroom/sesterce-plans-ai-campus-kaipola-jamsa-finland) `HN`
+- [Fluffles - OS](https://github.com/DevelopIQ-ai/fluffles-os) `HN`
+- [HSBC, yapay zeka girişiminde Birleşik Krallık servet işinde işten çıkarmalar planlıyor](https://www.ft.com/content/dd553fc2-532c-4afc-a773-47cd7f786260) `HN`
+- [AI Crawler Index](https://mojodojo.io/ai-crawler-index) `HN`
+- [Yapay Zeka ile Şarkı Nasıl Yapılır: Adım Adım Rehber](https://sunov6ai.com/blog/how-to-make-a-song) `HN`
+- [Yapay zeka hepimizi öldürecek mi?](https://virev.ai/blog/will-ai-kill-us-all) `HN`
+- [Yapay Zeka ile 'Mikrorobot' Yapmak İsteyen Girişim](https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html) `HN`
+- [Araştırmacı, Büyük Yapay Zeka Güvenlik Kusuru için OpenAI'den 300 $ Aldı](https://x.com/i/trending/2107776361859293195) `HN`
+- [Eski ByteDance Stajyerinin 200 MİLYON $ değerindeki Yapay Zeka Laboratuvarı Fei - Fei Li'yi Aldı](https://www.bloomberg.com/news/articles/2026-10-07/ex-bytedance-intern-s-200-million-ai-lab-takes-on-fei-fei-li) `HN`
+- [Microsoft Yürütme Kapsayıcıları: AI aracıları için politika odaklı sınırlama](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) `HN`
+- [Prime Inference: Frontier Open Modelleri için Hızlı ve Güvenilir Sunum](https://www.primeintellect.ai/blog/prime-inference) `HN`
+- [Microsoft etkinliği, yapay zeka dostu yeni donanım ve Windows değişikliklerini tanıttı](https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/) `HN`
+- [Show HN:Pacer – AI kodlama aboneliğiniz sıfırlanana kadar sürecek mi?](https://github.com/dkremsa/claude-pacer) `HN`
+- [The Times of India, Anthropic'in şimdiye kadarki en hızlı ve en ucuz yapay zeka modeli olan Claude Haiku 5.5 'i piyasaya sürdü](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSk84ZWpzbVB1OTlHZzdYRkF6MEZlMFRNVUdpNndTUkU5TDljNlpFT25lZUZMaTh1SV8yZ3FLQ202elZJQVdoeWFQelJGT1pPeXNZUG9iOWJBSEEzcGc3OUowVDVuQzdiTlZKUEpQOGRnQlFoU19paXFEZUMtYl9GM2phV3Qtay04SEpiYk42Y1pyd0psa0RSMkp5eTNzX2VpYW5zdWlRZF9CcERHZ1lnRF9VcFJLVXNLWlZwaUJaRW5mSTh1SXZWaDU0ZFFzWkFpT25yN2psQmNhQVdMdERhY2h1R3I0c2lLRVU3SNIB8gFBVV95cUxOZWFfVWQtY3BGVmlDektjVkVvVGZNUXo0Y2FtMGFlckdVWk8xbkduaEpCWDVSRW1mY3lnS0FmMFRTZ3U0Mm5PQVEzT1BDM1VWbHM2VW9jbDdJNUs3dE5iU1ZIYVp6TGxuSWlVSkFMOTN0WlA0N1lUNVZSMUlCY1l2MmtEdnVhMnRYTFNaRmVFSHd3U19kZkg0aFVFU3lPQjJ0Nk5DUk9MWGJzZkxYTjZRamRYZU1PMldMbGJGeVh0a2JQZE9UMV9XRkVWYzFVVGdNRGgtMFlCZFdfQUh5S2Z3V0pVWXc5VE1VRFhnamU1MlVnQQ?oc=5) `RSS`
+- [Anthropic, Planlanan Halka Arzdan Önce Yapay Zeka Dizisini Genişleten Üçüncü Claude 5.5 Modelini Piyasaya Sürdü - ABD Haberleri - Para](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNW92R1Fpc2IwUXZRRlQtdzFPQXpvUWVpcjdzUm42R0ljQlZ2OXZxU25ZbFI1d3NnRng2RU1sMUY5bDJZSGljWE9YZGFlUXN4UTRoUXhtelNTbkxTQnUtMERkR0EyY0IydVROc1k5VmhFTllaZVpzTjEyLTRpX1pZN2I4QTZ5V011dS1ld1ZLWEFaOXVtQnNoVTZJQmRTNTk5ekZPQXZfenpDS3JFbXVHTXhiWm1qZklSaHgwOEhSbDhGZFlyZTRGdDgwOVFIUl85VzVVUFVtcw?oc=5) `RSS`
+- [Ivo, Açık Kaynak DeepSeek Sözleşme AI Modelini Başlattı - Yapay Avukat](https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWRfdEIxcXZQX0tQaktxUkc2aGxQUXVTZ2kyajRMRW9reml2czhDYkYtSVY5R3puakU5bFYyR0FmallTSnBiRkd0YS1zQUQ1UGo3QV9xVmo4dzMtaV9aUkxQS3AyamtmUnlGU3NUNHJnX0gtblVNNzJlZnJ0d1hBSmtVM2diRzBfZVMxLWRhdXg5dXk2N2VJT0pVZzk?oc=5) `RSS`
