@@ -2884,3 +2884,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Anthropic, planlanan halka arzdan bir ay önce üçüncü yapay zeka modeli olan Haiku 5.5 'i tanıttı: The Indian Express](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY1dPaGJXQ1k0R015Uk5IQW5HNXFtNFhndE5laW1kUjNZY1pWXzlxT1FJYmF5M1kybnZQd01nY2R1Z015THlKcGZFbHMzT1hnMXg4RXpBWFZyU0tKbm9wdndocExmVkFjTUczeHJ6ZmdTaXc5VXFVbHU2dmVmUXFPNEVHRE5rQUhqZEdSSFJCWWhiODlIZ3VZLU02QUNnbWRjVlNEVWFhOXpwcTVha25mVjRBamNiQmM5UENET2VWMm1DOE1ZVXc5NXU4LVdLVFRrM1J0WjhIZjJzZ9IB4AFBVV95cUxOSk9pcFUzYVNIQmFITkFJNGlENi1fMndoZVZLRWJpeE4xOVFQY2VPa0VCcm0zanFmSXlqSW1lRGxIbjZnXzNMN1pObTEtTE9nWVFLVm53aVhwU1hSQ3dEYzVEX3dVOFpSb1Z1VDRjcW1JWVp4T045WGFuZmpEd0VuMHEzQ3BucEdlNmRkUExYbjYwTlJSSlktMk9EZUo1M1plQ3o0V0FrMmluQ3RXUk4xRHlNRnRJa1R1WVoyVllWNnZUTjVydnRTWV84WjJYREZHeS11MW1MQ0ZxcExRLUZsZg?oc=5) `RSS`
 - [Yapay zeka özellikli "sahte ön" operasyonların kesintiye uğraması](https://openai.com/index/disrupting-ai-enabled-false-front-operations) `RSS`
 - [Falcon ASR ile tanışın](https://huggingface.co/blog/tiiuae/falcon-asr) `RSS`
+
+- [Show HN: Awesomer – trending GitHub repos, organized by awesome - list](https://github.com/patrickclery/awesomer) `HN`
+- [Yapay zeka kablo demetleri için işletim sistemi](https://github.com/affaan-m/ecc) `HN`
+- [Tek bir vektörün ötesinde çok modlu yerleştirmeler](https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector) `HN`
+- ['Suno yeni otomatik ayar ': Viral olmak için yapay zeka kullanan sanatçılarla tanışın](https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral) `HN`
+- [İkizler Mümessili](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026) `HN`
+- [AI21, GPU filosunu Kueue ile nasıl yönetiyor?](https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/) `HN`
+- [Atomic Machines, Matter Compiler'ı dünyaya tanıttı](https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html) `HN`
+- [Siber Güvenlik Zorunlulukları Yapay Zeka Matematiği Gerektirecek](https://www.wordfence.com/blog/2026/10/cybersecurity-imperatives-will-demand-ai-math/) `HN`
+- [Show HN: Yapay zeka ile tamamen yerel olan ücretsiz açık kaynaklı Adobe Lightroom alternatifi](https://github.com/thesnarkitecht/rembrandt) `HN`
+- [Mühendislerin ve ekiplerin yapay zeka ile nasıl çalıştığını ölçün](https://www.eversynced.com/pheebs/) `HN`
+- [Yapay Zeka 'Benzersiz Oyunlar' Kanıtına Yaklaşırken, Araştırmacılar Makineleri Yenmek İçin Yarıştı](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/) `HN`
+- [MongoDB Atlas Infinite](https://www.mongodb.com/company/blog/product-release-announcements/ai-demand-constant-unpredictable-extreme-mongodb-is-built-for-it) `HN`
+- [Yapay Zeka Bildiğimiz Haliyle Matematiğin Sonu mu?](https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/) `HN`
+- [Yapay zekaya hazır biyolojik veriler: 1,8 milyar $ küresel taahhüt](https://biohub.org/news/virtual-biology-initiative-expansion/) `HN`
+- [Yeni Mezun Bir Mühendisin Yapay Zeka Yansımaları](https://medium.com/affirmengineering/ai-reflections-of-a-new-grad-engineer-3020093196fe) `HN`
+- [Yapay zeka, tavus kuşunun kuyruğu ve boktan işleri](https://wyclif.substack.com/p/ai-the-peacocks-tail-and-bullshit) `HN`
+- [Show HN:LLM Motion Graphics Benchmark](https://cliphou.se/benchmark/) `HN`
+- [Güvenlik Üzerinden Hız: Çin Neden Yapay Zekayı Yavaşlatmıyor?](https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier) `HN`
+- [Model Çökmesi Yeni Değil, Yapay Zekaya Özel de Değil](https://rulr.dev/blog/model-collapse-isnt-new/) `HN`
+- [Sıvı AI D1 -3b](https://huggingface.co/LiquidAI/d1-3B) `HN`
+- [Rezervasyonda Birden Fazla Temsilci yarış koşulu](https://pub.towardsai.net/the-dual-booked-operating-room-why-autonomous-ai-schedulers-cause-race-conditions-175ee8435c51) `HN`
+- [Üretken AI'lar ve LLM'ler için Topos teorisi](https://arxiv.org/abs/2508.08293) `HN`
+- [Sudo L7 – İyi mühendisliğin arkasındaki yargıyı ölçen bir ölçüt](https://surgehq.ai/blog/sudo-l7) `HN`
+- [Bir genç, Claude ile Kanada dağlarında gezinmeye çalıştı](https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain) `HN`
+- [YAPAY zeka yiyecek teslimatını altüst edebilir](https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites) `HN`
+- [Rus istihbaratı Leipzig havaalanında bir sabotaj planını nasıl mahvetti?](https://theins.press/en/inv/298011) `HN`
+- [Show HN: Launching NS UI easy to use components,AI slop should be a term of past](https://design.helpmarq.com) `HN`
+- [Lisans güncellemesi: Tüm sanat, irfan, hikaye ve çizgi romanlarımda yapay zeka türetilmesi yasaktır](https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics) `HN`
+- [Gizlilik, Tam Disk Erişimi ve Yapay Zeka Aracıları](https://eclecticlight.co/2026/10/06/privacy-full-disk-access-and-ai-agents/) `HN`
+- [Rusya'nın Yapay Zeka Yasası Kontrolü Yeteneğin Önüne Koyuyor](https://www.techpolicy.press/russias-ai-law-puts-control-ahead-of-capability/) `HN`
+- [Goodfire, yeni "içten dışa" monitörlerinin haydut yapay zeka ajanlarını maliyetinin çok altında yakaladığını söylüyor - TechCrunch](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGNvaE5hcnljRFIyZW04ZzhDaWMyX1VWbXMtenJVVEM4UWxHRS1PQUxkYzhTdTVtTnB3Y2d2OWFJdzBxLXRoQnVPYzFDT2ozZlhha2s2UXpIVUdNMVFIdHZ0QnFYZTF5Y1VRVkdyN3JxNHAzWW5YVU5RbnFPS2p2NGNDN0xSanJzbGFGT25sQXliV095U0lQNS03aldTaTd1b3dESXFYemtHMDZUc200OGk2cVRLWmdaMEdfSmx2YkR0QQ?oc=5) `RSS`
+- [Google, İş Arkadaşı Gibi Hareket Eden İşyeri Yapay Zekası Temsilcisini Başlattı - Yahoo Finance UK](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUJOQmNzOXZkd0p6d2lCUFN4OUdINjVidTM4NHlNcjFoT0FSZmhkVmxUaHZ5cUc5RlE0TEQxZmM1VDUzOHAwSGJ4YzlrekVISDVrb0phTDN0M2NaOFJKN1R3NWVyVzhaMGVLQ0cwZUlSZDdXS1hkQmRLS3B4WUhzbkxnTi1fQUtqWkhB?oc=5) `RSS`
+- [Oracle, ChatGPT ve Codex ile çalışma günlerini nasıl dakikalara dönüştürüyor?](https://openai.com/index/oracle) `RSS`
+- [Pollo AI, OpenAI ile yaratıcı fikirleri kampanyalara dönüştürüyor](https://openai.com/index/pollo-ai) `RSS`
