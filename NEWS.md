@@ -3007,3 +3007,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Indosat, F5, 300 modele erişimi olan kurumsal AI platformunu başlattı - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0RlUlFXQ090VkgybG5EcnlrN3FyMzZnbURjMlF4ODB4bUlYTU1YOHprV1BvME40TUZKWXp1YzFTMDQ1V3JwYVM5MTJTV0lKdkc4MHhjMTVzeXNzcmh2M1A0LUJ3NGxRVGgwU0tUYmdYRmRmX2wtclYxVzMwN2ZQSEtDbVJWTlRkNGNRVklyMlFTWmZUQXpFc2JfVlRHOWd6alRQeW5JdHVISHdZdkE?oc=5) `RSS`
 - [Sophos, OpenAI Daybreak ile tehdit soruşturma süresini % 96 kısalttı](https://openai.com/index/sophos) `RSS`
 - [GPU kümeleri için etkili zamanlama](https://huggingface.co/blog/allenai/impactful-scheduling) `RSS`
+
+- [Otonom AI Lambası](https://www.autonomous.ai/lamp) `HN`
+- [Yapay zeka şirketleri "ertesi günü" işaretliyor](https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack) `HN`
+- [Ecosia, Mistral'dan Qwen, GLM, Kimi gibi açık ağırlıklı yapay zeka modellerine geçti](https://technode.com/2026/10/09/ecosia-switches-from-mistral-to-open-weight-ai-models-including-qwen-glm-and-kimi/) `HN`
+- [Show HN: Memdebug – Yapay zeka temsilcinizin hafızasında nelerin değiştiğini görün ve geri alın](https://github.com/juraj-jumic/memdebug) `HN`
+- [Jev ile 12 saatte 38 proje inşa ederken öğrendiklerimiz](https://gc.ai/blog/what-we-learned-building-38-projects-with-jev-in-12-hours) `HN`
+- [Ajan geçmişi CLI – Son AI kodlama oturumları arasında atlamak için hızlı OMZ/Bash komutu](https://github.com/aaronbronow/agent-history) `HN`
+- [Erdos sorunlarının açık bir kaydı](https://github.com/plasma-ai/erdos) `HN`
+- [22 bilimsel alandaki sorunların görünürde saklanan çözümleri vardı. Bir yapay zekanın](https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them) `HN`
+- [Yapay Zeka ile Popüler Bir iPad Uygulamasını Tersine Tasarladım](https://computerchale.com/writing/i-reverse-engineered-a-popular-ipad-app-with-ai) `HN`
+- [Antropik bir yapay zeka modeli polise sahte bir cinayet ihbarı gönderdi](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/) `HN`
+- [İş dünyasındaki acente sürüleri yapay zeka pazarlamasıdır](https://agentic-larp.ing/) `HN`
+- [HN: Lacuna'yı göster – Mac'iniz için açık kaynaklı satır içi AI yazma önerileri](https://jackdamon.org/blog/lacuna/) `HN`
+- [Sıvı AI d1: tek bir ileri geçişte cevap veren açık karar modelleri](https://huggingface.co/blog/LiquidAI/open-d1) `HN`
+- [Tehlike, bizim kadar aptal bir yapay zeka olabilir](https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes/) `HN`
+- [Kum havuzu altyapısı için ihtiyacınız olan tek şey çataldır](https://arker.ai/blog/fork-is-all-you-need) `HN`
+- [Küçük Yerel Yapay Zeka Modelleri – Bunların yararlı olduğunu kanıtlayabilir misiniz?](https://open-ryze.web.app/) `HN`
+- [McDonald's'ın yapay zeka fiyatlandırması fast - food devini mahkemeye çıkardı](https://neow.in/NzlrdjU5) `HN`
+- [Linus Torvalds bunun neden işe yaradığına dair "Yapay zekayı kötü olduğum şeyleri yapmak için kullanıyorum" dedi](https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/) `HN`
+- [Mark Zuckerberg'in Meta'nın YAPAY Zeka Ajanı Üzerindeki Tetikleyiciyi Çekme Kararı](https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html) `HN`
+- [Sibernetik Sistemler Olarak Yapay Zeka Şirketleri](https://ai-cybernetics.grok.me/) `HN`
+- [Tüm Yazılımlar Artık Açık Kaynak](https://kuber.studio/blog/AI/all-software-is-open-source-now) `HN`
+- [Unsloth ile kendi karar modellerinizi eğitin](https://unsloth.ai/docs/basics/train-your-own-decision-model-with-unsloth) `HN`
+- [Bir Yapay Zeka Tokeninin Maliyeti Ne Kadardır?](https://machine-learning-made-simple.medium.com/how-much-does-one-ai-token-really-cost-3e98f2a877f6) `HN`
+- [Kuvars web sitesi esas olarak yapay zeka destekli bir muhabir tarafından üretilmiştir](https://pressgazette.co.uk/publishers/digital-journalism/quartz-website-mainly-produced-by-one-ai-assisted-reporter-writing-50-stories-per-day/) `HN`
+- [Elma Dışı Cihazlar için Airdrop](https://github.com/t4t5/omdrop-owl) `HN`
+- [Yapay Zeka ile Özel Güdümlü Gelişim: Yeni Bir Yaklaşım ve Geçmişe Yolculuk](https://martinelli.ch/spec-driven-development-with-ai-a-new-approach-and-a-journey-into-the-past/) `HN`
+- [Trump, Yapay Zeka "Süper İstihbarat Gücünün" Oluşumunu Duyurdu](https://www.cbsnews.com/news/ai-super-intelligence-force-trump-jay-clayton/) `HN`
+- [Çinli geliştirici, Koreli bankanın hack'lenmesinin ardından ARTEX AI ajanını kapalı kaynak haline getirdi](https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/) `HN`
+- [Gösteri HN: Plannotator Gelen Kutusu – Ajanlar için Karar Verme Yüzeyi](https://plannotator.ai/inbox/) `HN`
+- [15 Dakikalık Ders Planı: YZ Destekli Matematik](https://www.nytimes.com/2026/10/07/learning/15-minute-lesson-plan-ai-assisted-mathematics.html) `HN`
+- [Raporda, Çin yapay zeka geliştiricilerinin model sürümlerinin yalnızca % 3,6 'sı için güvenlik testleri yayınladığı belirtiliyor - WTVB](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlZ3a19nRTVQN1dUcE9RQzZTLU5RWURnWl8xbDNiODFQYmY3ZmlfNFloVDZiUUxaQlhZOE1sYktLbGFIbENDV2NHMHJpMmxiYkFNT0xEcXRnRnNOek91MlhGY3RYcGNiUi16YkoxY2ZpMkdWS280cUFtOHJHcnFSRHpKOFl0bnM2b2NHZnpYRzdLMXh4YTVGcm5PNkdoTmlPTlJOWlppbTRBZUZERExxaWhNak5qZw?oc=5) `RSS`
+- [Anthropic, planlanan halka arzdan önce yapay zeka serisini genişleten üçüncü Claude 5.5 modelini piyasaya sürdü - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnI2M3VuVWk0RktlVzhVU3FGUm8yaTBOWXFFMmVjbjNoZXJoUEtrMU40Y3hmZU9oTEJaa19OTGk1RWhrNHc0MUh1LXV2U00zMGpENnBnRVd4NTBwNzNNSU1XZGZ3SXhVdl9LSVhKNW9jUld1aHpoMVFpYlpabHliNHhncDh2Z1UxLUE?oc=5) `RSS`
+- [Asana, GPT-6.1 sol ile tarayıcı testlerinde model maliyetlerini 76 kat düşürdü](https://openai.com/index/asana-browser-agent) `RSS`
