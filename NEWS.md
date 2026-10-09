@@ -2942,3 +2942,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Araştırmacılar, Yapay Zekanın İnsan Refahı Üzerindeki Etkisini Ölçen Yeni Bir Araç olan Yapay Zeka Beslenme Etiketlerini Piyasaya Sunuyor - MIT Media Lab](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rR2I0TVZ6X2o3RHBKdjItWkZ1N3dXb011YTJ0cEJxNUg2c1NtcTJmU1BGRFNTUkxDYTRZQjdUaHNoOEdiQlQ5UFRHU2VJTGFrU1FaM3hMV05LZ1N2ZWJ2WGtFTEs?oc=5) `RSS`
 - [LegalOn, geliştirme hızını korurken Kodeks maliyetlerini yarıya indirir](https://openai.com/index/legalon-halves-codex-costs) `RSS`
 - [Var olmayan modeli kendiniz yaptınız](https://huggingface.co/blog/building-with-ml-intern) `RSS`
+
+- [BigQuery Fiyatlandırma Modellerini Anlamlandırmak](https://www.alvin.ai/blog/bigquery-pricing-models) `HN`
+- [Aleph Alpha ve Mistral, Avrupa'nın bağımsız yapay zeka girişimini başlattı](https://www.renascence.io/news/96889/aleph-alpha-mistral-launches-fuel-europes-sovereign-ai-push) `HN`
+- [[video] Yapay Zeka Döneminde Pedagoji](https://www.youtube.com/watch?v=N2a1J0UPeL4) `HN`
+- [Gençlik yürüyüşü Claude Kanada vahşi doğa - acil kurtarma](https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain) `HN`
+- [Show HN: SpectroMood, karar modeli ile konuşma duygu tespiti](https://github.com/ketul93/spectromood) `HN`
+- [Yapay zeka temsilcileri için Kubernetes: kod ucuz olduğunda, kanıt önemlidir](https://kubedex.com/kubernetes-ai-agentic-development/) `HN`
+- [Yapay zeka, kimsenin istemediği uygulamaları yapmayı her zamankinden daha kolay hale getirdi](https://boakandbailey.com/2026/09/ai-has-made-it-easier-than-ever-to-make-apps-nobody-asked-for/) `HN`
+- [Gemini At Work 2026 'ya Hoş Geldiniz: Gemini Temsilcisinin Tanıtımı](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026) `HN`
+- [Bengio: "Güvenliğe öncelik veriyorsanız, sınırdaki yapay zeka şirketlerinden ayrılın"](https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies) `HN`
+- [Şirketiniz yapay zeka araçlarında hassas verilerle ilgili çizgiyi nerede çiziyor?](https://privatesuperintelligence.si/) `HN`
+- [Vikipedi, haydut OpenAI ajanlarının özel wikileri ve dövülmüş sunucuları düzenlediğini söylüyor](https://www.techspot.com/news/114131-wikimedia-foundation-openai-rogue-ai-agents-caught-making.html) `HN`
+- [Arena'nın değerlemesi 10 ayda neredeyse iki katına çıkarak 3,1 milyar $ oldu](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/) `HN`
+- [Nerede ](https://johnomeara.com/blog/where-is-the-ai) `HN`
+- [Yapay Zeka Belirleyiciliği Argümanı Beni Neden Sinirlendiriyor?](https://blog.demofox.org/2026/10/07/why-the-ai-determinism-argument-annoys-me/) `HN`
+- [Show HN: Büyük bir deprem Vancouver'a ne yapar?](https://quakeimpact.ca/) `HN`
+- [Yuvarlak Masa Toplantıları: Yapay Zeka Tasarımlı Virüslerin Yaratıcısı ile Bir Sohbet](https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) `HN`
+- [Pangram, Pangram hakkındaki hicivimin % 100 yapay zeka olduğunu söylüyor](https://www.reddit.com/r/Substack/comments/1x1e6yx/pangram_says_my_satire_about_pangram_is_100_ai_i/) `HN`
+- [Mxc: Microsoft Yürütme Kapsayıcıları sürüm 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) `HN`
+- [Yapay Zekanın İnsanlar Üzerindeki Etkisinin Açık Kıyaslaması](https://impactbench.media.mit.edu/) `HN`
+- [Shai - Hulud solucanı, Tensorlake anlaşmasıyla yapay zeka altyapısına sıçradı](https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054) `HN`
+- [Ajans, kendilerini yapay zeka ile değiştirebilecekleri takdirde personele iki yıllık ücret teklif ediyor](https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294) `HN`
+- [Trump, Vance'in H -1B vize çekicini şirkete düşürmesinin ardından Microsoft'un CEO'sunu onurlandırdı](https://www.washingtonpost.com/politics/2026/10/08/trump-microsoft-nadella-musk-ai/2a7fcefa-c33f-11f1-8170-681419af1cc9_story.html) `HN`
+- [Nace, GPT -6 Astra'yı kendi ayrıştırma endeksinde 1/10 maliyetle yendi](https://www.nace.ai/blog/document-intelligence-launch) `HN`
+- [Show HN: Bu yapay zeka eğitimi istemlerim üzerine mi? İnce baskının tarihli bir kaydı](https://trainedon.me/) `HN`
+- [Show HN: Wy – AI tarafından oluşturulan kodu anlamak için bir Rust terminal aracı](https://github.com/grandimam/wy) `HN`
+- [OpenAI yapay zekayı tek başına güvenli hale getiremez [pdf]](https://mikitabalesni.com/letter/letter.pdf) `HN`
+- [ENIAC: milyonlarca sayfayı belirtilen veri kümelerine dönüştüren web arama API'si](https://eniac.floworks.ai) `HN`
+- [Yapay zeka modeli beyninizdeki görüntüleri yeniden oluşturabilir](https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/) `HN`
+- [Yapay Zeka Şirketlerinin Sibernetiği](https://ai-cybernetics.grok.me) `HN`
