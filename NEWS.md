@@ -2972,3 +2972,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [ENIAC: milyonlarca sayfayı belirtilen veri kümelerine dönüştüren web arama API'si](https://eniac.floworks.ai) `HN`
 - [Yapay zeka modeli beyninizdeki görüntüleri yeniden oluşturabilir](https://petapixel.com/2026/10/07/fastest-ever-mind-reading-ai-model-can-reconstruct-images-from-your-brain/) `HN`
 - [Yapay Zeka Şirketlerinin Sibernetiği](https://ai-cybernetics.grok.me) `HN`
+
+- [Show HN: Senro – WebMCP Evals and Observability](https://senro.ai) `HN`
+- [wolfSSL, wolfTrust'ı Güvenilir Ürün Yazılımı - M'ye açık kaynaklı bir alternatif olarak geliştiriyor](https://github.com/wolfSSL/wolftrust) `HN`
+- [Yapay Zeka Güvenliğine Öncelik Verdiği İçin Kovuldu](https://twitter.com/balesni/status/2108262814003687745) `HN`
+- [Nikon, tepkiye yol açan ödüllü görüntünün yapay zeka tarafından üretildiğini söylüyor](https://www.bbc.com/news/articles/cr86z33pdy9vo) `HN`
+- [Vinod Khosla, Zihin Okuyan Beyzbol Şapkası Yapan Bir Yapay Zeka Girişimine Destek Verdi](https://www.forbes.com/sites/rashishrivastava/2026/10/09/vinod-khosla-backs-an-ai-startup-building-a-mind-reading-baseball-cap/) `HN`
+- [Show HN: Fruit Inspector – NIM aracılığıyla eski CPU'larda 40 fps'de gerçek zamanlı YOLO takibi](https://github.com/olesha-ai/fruit-inspector-demo) `HN`
+- [Ürün Yöneticisi](https://wpsleaderboard.ai/) `HN`
+- [Yapay Zeka, Özerk Savaş ve Sorumluluktan Ayrılma](https://read.misalignedmag.com/ai-autonomous-warfare-and-the-severance-from-responsibility-480da36c7f65) `HN`
+- [Agent Swarm: Şirketiniz için OSS çok oyunculu AI](https://github.com/desplega-ai/agent-swarm/releases) `HN`
+- [Hümanist Yapay Zeka için Davranış Kuralları](https://twitter.com/mustafasuleyman/status/2099488602418028917) `HN`
+- [ABD'li yardım kuruluşu, Gazze'deki sınıflarında "nefret dolu" konuşmaları izlemek için yapay zekayı kullanmayı planlıyor](https://apnews.com/article/gaza-children-village-ai-speech-schools-7a41b3986524877b3e7ade7985853c53?taid=6ac898017a4b4a000148d491&utm_campaign=TrueAnthem&utm_medium=AP) `HN`
+- [Vibe Oturum Yöneticisi, tüm VSCode yapay zeka sohbet oturumlarınızı takip eder](https://github.com/Ruvan72/vibe-session-manager) `HN`
+- [Yapay zeka özellikli "sahte ön" operasyonların kesintiye uğraması](https://openai.com/index/disrupting-ai-enabled-false-front-operations/) `HN`
+- [Trump yapay zekayı yeniden adlandırmaya çalışıyor](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding) `HN`
+- [Yapay zekadan sonra programcıların geleceği](https://kevinaleman.com/the-future-after-ai-2767/) `HN`
+- [Trump'ın Sohbet Robotu Seçim Hakkında Bana Ne Söyledi?](https://www.theatlantic.com/politics/2026/10/ai-elections-midterms-disruptions/688891/) `HN`
+- [Pekin Sınırları Aşmayacak: Çin'in Hız Öncü Yapay Zeka Güvenlik Rejimi](https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier) `HN`
+- [Show HN: Sıvı Çıkarım – rekabetçi LLM pazarına otomatik yönlendirme](https://liquidinference.ai/) `HN`
+- [Agentic'in Yanlış Hizalanması Varoluşsal Risk Taşıyor mu?](https://paris.pias.science/article/three-or-maybe-four-ways-of-thinking-ai-philosophically/) `HN`
+- [Yapay Zeka Yaş Yöneticisi, Bütçeleme Yapay Zeka Harcamaları, 10x Kod ile 10x Gelir?](https://age-of-product.com/food-agile-thought-565-ai-age-manager/) `HN`
+- [Geliştiriciler için Dots vs. Muse](https://amplifying.ai/research/dots-vs-muse) `HN`
+- [Yapay Zeka ve Bilimin Geleceği](https://sunelehmann.com/blog/ai-and-the-future-of-science/) `HN`
+- [SoftBank, yapay zeka bahsini genişletmek için Körfez yatırımcılarından 100 milyar $ istiyor](https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd) `HN`
+- [Yargıcın kurbanın yapay zeka videosunu sevdiğini söylemesinin ardından mahkeme katilin cezasını iptal etti](https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457) `HN`
+- [American Airlines, Starlink Wi - Fi hizmetini ana hat filosuna genişletti](https://www.reuters.com/business/aerospace-defense/american-airlines-extends-starlink-wi-fi-roll-out-entire-mainline-fleet-2026-10-08/) `HN`
+- [ABD ile yarış halinde olan Çin, yabancı YAPAY ZEKA araştırmacılarını işe almak için mücadele ediyor](https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html) `HN`
+- [Adım 5 Yapay Zeka Ağ Geçidinde Önizleme artık mevcut](https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway) `HN`
+- [Portainer GitOps Bypass Host Devralmayı Etkinleştirir](https://www.vulnetic.ai/blog/portainer-gitops-bypass-enables-host-takeover) `HN`
+- [Hızlı kararlar veren bir yapay zeka olan Jev, Silikon Vadisi'nde viral bir hit oldu. Ama OpenAI topukları üzerinde sıcak - Talih](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2trMHIxRW16enFWX0x6TTJoTDZzZkh3Q1JDcm91Q09tbncwNmpQZ1JoMWYyMWxFQjlrU01EbVBReDQ3b2FMU3REU1NfZDF0WG1TSEU4NXJvMEQ0M0Etb1JoQTdHU0lSa2toM0tYdEtrOXZOSGQ4UFNOdEJ6VjM3T3hjWnpvZWZpWDdHampRNnEwV29ieGZhWV9TbFJIVDBNbUJSVHpTc2FveDBYYVNlV0hIU1FfbDlRN05CbURZbkVUVVMydVlLdnFGMnM4RkdRSFR1cQ?oc=5) `RSS`
+- [Google, İş Arkadaşı Gibi Hareket Eden İşyeri Yapay Zekası Temsilcisini Başlattı - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMFN2ZnBiU0lvX2dIZGVHMmdtNEJITWpWbk9Ieno5ZnpRdWZYRktuVFdGZWx3SjQ1R1dPNUw0XzJpVXNSQkJtdWRYYU5GY1BZRXJXQVp6bTNMeFFYdmZaMG1iSGotVENzWEt4MEFOX2lTa05Dc1l0X1IzNkExR3JWM0J3dk05dTFBanA0?oc=5) `RSS`
+- [Turda 3 Milyar $ Değerinde Yapay Zeka Model Değerlendiricisi Arenası - Bloomberg.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkVmMS1xcGxYcy1rWlJQckZsalN4ekhEQmlGTE12Q0pfYWJON3psYmk1Y1RrV25NbXNhYUhpLTRsajJpdFBEYklVQ3JXY1huZWR2TG5QMHdlZ3V0a1d6RGNHcUlBd3B5cTlxektvZjhzUjNDVk9LU2huakRfMDBWa2s2U0lQY2U2YVFEOUFiMm5qZzJEWWZoZXdhSDc0RlR3NWNHQzRQcC03WWMzMEE?oc=5) `RSS`
+- [Indosat, F5, 300 modele erişimi olan kurumsal AI platformunu başlattı - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0RlUlFXQ090VkgybG5EcnlrN3FyMzZnbURjMlF4ODB4bUlYTU1YOHprV1BvME40TUZKWXp1YzFTMDQ1V3JwYVM5MTJTV0lKdkc4MHhjMTVzeXNzcmh2M1A0LUJ3NGxRVGgwU0tUYmdYRmRmX2wtclYxVzMwN2ZQSEtDbVJWTlRkNGNRVklyMlFTWmZUQXpFc2JfVlRHOWd6alRQeW5JdHVISHdZdkE?oc=5) `RSS`
+- [Sophos, OpenAI Daybreak ile tehdit soruşturma süresini % 96 kısalttı](https://openai.com/index/sophos) `RSS`
+- [GPU kümeleri için etkili zamanlama](https://huggingface.co/blog/allenai/impactful-scheduling) `RSS`
