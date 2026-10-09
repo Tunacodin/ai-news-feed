@@ -2919,3 +2919,26 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Google, İş Arkadaşı Gibi Hareket Eden İşyeri Yapay Zekası Temsilcisini Başlattı - Yahoo Finance UK](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUJOQmNzOXZkd0p6d2lCUFN4OUdINjVidTM4NHlNcjFoT0FSZmhkVmxUaHZ5cUc5RlE0TEQxZmM1VDUzOHAwSGJ4YzlrekVISDVrb0phTDN0M2NaOFJKN1R3NWVyVzhaMGVLQ0cwZUlSZDdXS1hkQmRLS3B4WUhzbkxnTi1fQUtqWkhB?oc=5) `RSS`
 - [Oracle, ChatGPT ve Codex ile çalışma günlerini nasıl dakikalara dönüştürüyor?](https://openai.com/index/oracle) `RSS`
 - [Pollo AI, OpenAI ile yaratıcı fikirleri kampanyalara dönüştürüyor](https://openai.com/index/pollo-ai) `RSS`
+
+- [Yapay zeka doomerizminin kötü bilimi büyük işletmeler için nasıl iyidir?](https://thebulletin.org/2026/09/how-the-bad-science-of-ai-doomerism-is-good-for-big-business/) `HN`
+- [Gigabyte W775 - V10 - L01 GB300 AI - İş İstasyonu](https://www.servethehome.com/gigabyte-w775-v10-l01-hands-on-bringing-nvidia-gb300-deskside/) `HN`
+- [Keşif Eğrisini Bükmek: Bugün ve Yarın Bilimde Yapay Zeka](https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/) `HN`
+- [Yapay zeka neden henüz yazılım teslimatını düzeltmedi ve ne yapacak?](https://m1spec.com/why/) `HN`
+- [Show HN: Nace.ai Document Intelligence 1.0](https://www.nace.ai/developers) `HN`
+- [Yapay zeka hatalarını kesmek için evals kullanma 7x](https://hex.tech/blog/we-used-evals-to-improve-ai-feature/) `HN`
+- [Açık d1: Metin, görme ve ses için uç karar modelleri](https://www.liquid.ai/blog/d1-open) `HN`
+- [Bir denetimde oyun oynama bulunduktan sonra SWE - Bench Pro'dan 89 görevi kesin](https://theinference.org/article/scale-ai-cut-89-tasks-from-its-coding-benchmark-after-an-audit-found-gaming-then-graded-its-own-fix) `HN`
+- [Yapay Zeka için Uzun Süreli Bellek: 50 Milyon Token Penceresi,Daha Hızlı, Yeniden Hesaplamadan Daha Ucuz](https://arxiv.org/abs/2610.10845) `HN`
+- [Visa, Yapay Zeka Destekli Siber Savunma Sistemini Açık Kaynağa Sundu](https://corporate.visa.com/en/sites/visa-perspectives/security-trust/visa-cybersecurity-mythos-project-glasswing.html) `HN`
+- [Show HN: Edi Life OS – AI için bir MCP sunucusuna sahip kendi kendine barındırılan yaşam panosu](https://github.com/edrisranjbar/lifeos) `HN`
+- [Yapay zekada çalışırken ebeveynlik farklı vuruyor: SF babası robotun bebeğe okumasına izin veriyor](https://www.fastcompany.com/91620848/parenting-hits-different-when-you-work-in-ai-san-francisco-father-going-viral-for-letting-chatbot-read-to-his-baby) `HN`
+- [Gösteri HN: DiffGuardian – Herhangi bir PR veya kod tabanının sesli ve görsel olarak gözden geçirilmesi](https://diffguardian.ai) `HN`
+- [Yapay zeka matematik problemleri için yeni site](https://erdosproblems.ai) `HN`
+- [Yapay Zeka ve Yazarın Ölümü](https://thedeepdish.substack.com/p/ai-and-the-death-of-the-author) `HN`
+- [Yapay Zeka ve Kiral Fermiyonlar](https://www.math.columbia.edu/~woit/wordpress/?p=15915) `HN`
+- [Yapay Zekanın Asla Süper Zeka Olmamasının En Önemli Sebepleri: Bizi Yok Etmeyecek veya Kurtarmayacak](https://www.wmbriggs.com/post/62236/) `HN`
+- [Virgil - herhangi bir modeli çağırmadan önce görevleri yerel bir kütüphane aracılığıyla yönlendiren bir CLI](https://virgil-ai.cloud/intro) `HN`
+- [Araştırmaya göre kadın yapay zeka ajanları erkeklerden daha az "ödeme yaptı"](https://www.the-independent.com/tech/ai-gender-pay-gap-study-b3061881.html) `HN`
+- [Araştırmacılar, Yapay Zekanın İnsan Refahı Üzerindeki Etkisini Ölçen Yeni Bir Araç olan Yapay Zeka Beslenme Etiketlerini Piyasaya Sunuyor - MIT Media Lab](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rR2I0TVZ6X2o3RHBKdjItWkZ1N3dXb011YTJ0cEJxNUg2c1NtcTJmU1BGRFNTUkxDYTRZQjdUaHNoOEdiQlQ5UFRHU2VJTGFrU1FaM3hMV05LZ1N2ZWJ2WGtFTEs?oc=5) `RSS`
+- [LegalOn, geliştirme hızını korurken Kodeks maliyetlerini yarıya indirir](https://openai.com/index/legalon-halves-codex-costs) `RSS`
+- [Var olmayan modeli kendiniz yaptınız](https://huggingface.co/blog/building-with-ml-intern) `RSS`
