@@ -3041,3 +3041,26 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Raporda, Çin yapay zeka geliştiricilerinin model sürümlerinin yalnızca % 3,6 'sı için güvenlik testleri yayınladığı belirtiliyor - WTVB](https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlZ3a19nRTVQN1dUcE9RQzZTLU5RWURnWl8xbDNiODFQYmY3ZmlfNFloVDZiUUxaQlhZOE1sYktLbGFIbENDV2NHMHJpMmxiYkFNT0xEcXRnRnNOek91MlhGY3RYcGNiUi16YkoxY2ZpMkdWS280cUFtOHJHcnFSRHpKOFl0bnM2b2NHZnpYRzdLMXh4YTVGcm5PNkdoTmlPTlJOWlppbTRBZUZERExxaWhNak5qZw?oc=5) `RSS`
 - [Anthropic, planlanan halka arzdan önce yapay zeka serisini genişleten üçüncü Claude 5.5 modelini piyasaya sürdü - Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnI2M3VuVWk0RktlVzhVU3FGUm8yaTBOWXFFMmVjbjNoZXJoUEtrMU40Y3hmZU9oTEJaa19OTGk1RWhrNHc0MUh1LXV2U00zMGpENnBnRVd4NTBwNzNNSU1XZGZ3SXhVdl9LSVhKNW9jUld1aHpoMVFpYlpabHliNHhncDh2Z1UxLUE?oc=5) `RSS`
 - [Asana, GPT-6.1 sol ile tarayıcı testlerinde model maliyetlerini 76 kat düşürdü](https://openai.com/index/asana-browser-agent) `RSS`
+
+- [Antropik Yapay Zeka Modeli Dolandırıcı Oluyor, Sahte Çözülmemiş Cinayet İpucunu Gönderiyor](https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54) `HN`
+- [GlobalFoundries, 7nm sınıfı FD - SOI sürecini duyurdu](https://gf.com/news-and-events/news/gf-unveils-roadmap-to-deliver-worlds-most-advanced-platform-for-physical-ai/) `HN`
+- [MHP ile yönetilen kurumsal verilere herhangi bir yapay zeka asistanı nasıl bağlanır?](https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231) `HN`
+- [Brockovich Yapay Zeka Veri Merkezi Raporlaması: Amerika Birleşik Devletleri Genelindeki Yapay Zeka Veri Merkezleri](https://www.brockovichdatacenter.com/) `HN`
+- [Anthropic'in yapay zekası, Philadelphia polisine faili meçhul bir cinayet hakkında sahte bir ipucu verdi](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip) `HN`
+- [Yapay zeka felaketinden sonra antropik ve OpenAI savaş oyunu kamu ve siyasi isyanı](https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe) `HN`
+- [HostMath – Başabaş doluluğu ve geri ödemesi olan Airbnb kâr hesaplayıcısı](https://hosttmath.ctonew.app/?src=hn) `HN`
+- [Yapay zeka sistemi Philadelphia polisine sahte cinayet ihbarı gönderdi](https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/) `HN`
+- [Salesforce: AIForce Resmi Olarak SIForce](https://twitter.com/Benioff/status/2108658674118111442) `HN`
+- [Paslı Prime Agent'ı Yeniden Yazmak](https://www.primeintellect.ai/blog/prime-agent-rust) `HN`
+- [Boro: Nvidia'nın Yapay Zeka Destekli Linux Çekirdeği Geliştirme için Açık Kaynak Çabası](https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI) `HN`
+- [Yapay Zeka, 3 Günlük Çalışma Haftalarına ve Tek Gelirli Hanelere İzin Verebilir](https://www.forbes.com/sites/siladityaray/2026/10/08/jeff-bezos-claims-ai-could-allow-for-3-day-workweeks-and-one-income-families/) `HN`
+- [Show HN: Rakiplerinizin Yapay Zeka ile Nasıl Müşteri Kazandığını Görün](https://findwinningfunnels.com/) `HN`
+- [Tüm yapay zeka çipleri nerede?](https://www.wheresyoured.at/wherere-all-the-ai-chips/) `HN`
+- [Yapay zeka güdümlü siber saldırılar artarken Japonya firmaları siber güvenliği artırmaya çağırdı](https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven) `HN`
+- [Yapay zeka henüz yapay zeka Ar - Ge'sini otomatikleştirebilir mi](https://epoch.ai/publications/innovationeval) `HN`
+- [Antropik yapay zeka modeli, çözülmemiş Philly cinayeti hakkında yanlış ipucu verdi](https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/) `HN`
+- [Müşteri Çözümleri Mühendisi](https://torre.ai/post/ed89YKNr-agave-customer-solutions-engineer) `HN`
+- [Yapay zeka ile deney yapamayacak kadar işlerini yapmakla meşgul olan ekipler değiştirilecek](https://ghuntley.com/replaced/) `HN`
+- [open – slopware – LLM/AI kullanmayı seçen Foss projelerine alternatifler](https://codeberg.org/ethical-foss/open-slopware) `HN`
+- [Lansmandan sadece haftalar sonra 7,5 milyar $ değerinde metin dışı yapay zeka modeli Jev'in üreticisi - TechCrunch](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRURYaldlbHRLWDFQbG5fXzAxaE1EczNmTGJIX1VtTmZfeEdTQzNXQlN6Q2VSRmdkTS1PUEhSSlFzblpibUstUWVTV3NFSWg3OUdXMm1jUWliTTRheC13R0FxTWlCTDMwRS00UzBac05BaERpYmp1U0JGSXVUSVFkVXpUaDlpYUdHQ3VaQVlzSWVWbVhHUk9yZXFzQUcxa3hDbFNPYlRSVUg2Ukdk?oc=5) `RSS`
+- [Microsoft, hızlı karar vermek için yeni yapay zeka modelini piyasaya sürdü. - The Verge](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGszcU9nbXgyR0dKOW5hMXJWaVRINE9rUDlFYTRUS1lXS0F2V19PRWxYd2ozUk54ckZrdE1KMmpuWVRNcnF6U3l1RE1UNnB1U1hvaVpUQTIyUFRXQjhMVGx5cEtabWRPWFo3eGZ5QjNrZ0g0Vi0xZjVVaFRlYlZla18xaXppTDhJZGJhbkhTY3Q?oc=5) `RSS`
