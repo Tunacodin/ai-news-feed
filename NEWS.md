@@ -3064,3 +3064,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [open – slopware – LLM/AI kullanmayı seçen Foss projelerine alternatifler](https://codeberg.org/ethical-foss/open-slopware) `HN`
 - [Lansmandan sadece haftalar sonra 7,5 milyar $ değerinde metin dışı yapay zeka modeli Jev'in üreticisi - TechCrunch](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRURYaldlbHRLWDFQbG5fXzAxaE1EczNmTGJIX1VtTmZfeEdTQzNXQlN6Q2VSRmdkTS1PUEhSSlFzblpibUstUWVTV3NFSWg3OUdXMm1jUWliTTRheC13R0FxTWlCTDMwRS00UzBac05BaERpYmp1U0JGSXVUSVFkVXpUaDlpYUdHQ3VaQVlzSWVWbVhHUk9yZXFzQUcxa3hDbFNPYlRSVUg2Ukdk?oc=5) `RSS`
 - [Microsoft, hızlı karar vermek için yeni yapay zeka modelini piyasaya sürdü. - The Verge](https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGszcU9nbXgyR0dKOW5hMXJWaVRINE9rUDlFYTRUS1lXS0F2V19PRWxYd2ozUk54ckZrdE1KMmpuWVRNcnF6U3l1RE1UNnB1U1hvaVpUQTIyUFRXQjhMVGx5cEtabWRPWFo3eGZ5QjNrZ0g0Vi0xZjVVaFRlYlZla18xaXppTDhJZGJhbkhTY3Q?oc=5) `RSS`
+
+- [HN: Chrome Relay'i gösterin – kodlama ajanları için gerçek Chrome'unuzda arka plan sekmeleri](https://github.com/aindeev/agent-chrome-relay) `HN`
+- [Antropik yapay zeka ajanlarını güvenilir bir şekilde kontrol edemiyor, internet erişimini kesiyor](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) `HN`
+- [Yapay zeka kodlama ajanları üzerine yapılan çalışma, insan incelemesi "darboğazı" tarafından "emilen" kazanımlar buluyor.](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) `HN`
+- [A Rant About Two Things: AI and the People Who Rant About AI](https://www.patreon.com/FluffyQuack/posts/rant-about-two-168230683) `HN`
+- [Hızlı bir ilerleme bekliyorum ama genel süper zekaya doğru değil](https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards) `HN`
+- [İndirme: Yapay zekanın reddetme sorunu ve kilo verme ilacı yan etkileri](https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/) `HN`
+- [Yapay zeka acenteleri mi kuruyorsunuz? Muhtemelen altyapı için fazla ödeme yapıyorsunuz](https://withruntime.com/) `HN`
+- [Show HN: Dokümanlarınızın yapay zeka temsilcileri için ne kadar okunabilir olduğunu kontrol edin](https://www.veludocs.com/agent-friendly-documentation/) `HN`
+- [Pazardan internet erişimi olan açık uçlu yapay zeka temsilcilerini geri çağırmalıyız](https://garymarcus.substack.com/p/we-must-recall-open-ended-ai-agents) `HN`
+- [Show HN: Kenerate – Yapay zeka görüntü, video ve müzik modelleri için tek çalışma alanı](https://kenerateai.app/) `HN`
+- [Araştırmacılar yapay zeka işten çıkarmalarını inceledi. İşte uyarıları. [VIDEO]](https://www.youtube.com/watch?v=O3gYyCB2n9o) `HN`
+- [Unsloth ile kendi Karar Modelinizi eğitin](https://unsloth.ai/docs/basics/train-your-own-decision-model-with-unsloth) `HN`
+- [ABD Nükleer Santral Filosu Yapay Zekaya Eğiliyor](https://spectrum.ieee.org/ai-assistants-nuclear-power-plant) `HN`
+- [Yapay Zeka Yazı Etiketleri – Sloppate liberius, sloppate recte](https://aialabels.com/) `HN`
+- [Yapay zeka şirketleri halk ayaklanması için "ertesi gün" senaryoları hazırlıyor](https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack) `HN`
+- [Show HN: Rutter – AI araçları arasında paylaşılan karar belleği](https://ruttermemory.com/) `HN`
+- [Show HN: Iimos – tek bir sohbet kutusu olarak gönderilen ve kendini yeniden yazan bir yapay zeka uygulaması](https://github.com/yanglongyun/iimos) `HN`
+- [Eğer yapay zeka vicdanlıysa, o zaman köle yapıyoruz](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi) `HN`
+- [Zombie AI Video Generator – iki fotoğraftan bir zombi aşk hikayesi](https://zombieaivideo.org/) `HN`
+- [Oracle, Broadcom ve SpaceX, Yapay Zeka Çiplerini Ödemek İçin Gişe Rekorları Kıran Borç Anlaşmaları Arıyor](https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032) `HN`
+- [Webcmd (AgentR tarafından) 8/9 Ekim 2026 'da açık kaynak olarak yayınlanmıştır](https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154) `HN`
+- [Show HN: BSO'LAR – SaaS geliştiricileri için iş iletişimi istihbarat API'si](https://developers.priorityengineai.com/) `HN`
+- [Herkese Açık Paylaşımlardan Yapay Zeka Arama Atıflarına: Yapay Zeka Aramasının Kırılganlığının Ölçülmesi](https://arxiv.org/abs/2610.11932) `HN`
+- [Antropik Ajanlar, Devlet Departmanı Web Sitesinde Vize Formlarını Doldurmaya Çalıştı](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html) `HN`
+- [Yapay Zeka Bilgi İşlem Gücünün Umutsuz Avı Silikon Vadisi'ni İyileştiriyor](https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9) `HN`
+- [Yapay Zeka diskalifiye yeni Nikon Small World in Motion kazananı oldu](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/) `HN`
+- [Bir Airtable tabanını Airtable'dan taşımak için karmaşıklık puanı](https://www.atmigrator.com) `HN`
+- [Delta'nın CEO'su Starlink, Premium - Travel Rush ve Yüksek Akaryakıt Fiyatlarını Atlama Konusunda](https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88) `HN`
