@@ -3122,3 +3122,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Ariodb – AI ajanlarının DB'nize yaptıklarını kontrol eden ve geri alabilen bir proxy](https://github.com/roozjalali/ariodb) `HN`
 - [Yapay zeka güdümlü resmi kanıt arama ile matematik araştırmalarını ilerletmek](https://www.science.org/doi/10.1126/science.aej2213) `HN`
 - [Philadelphia polisi yapay zeka modelinin faili meçhul cinayet hakkında yanlış ipucu verdiğini söyledi](https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/) `HN`
+
+- [Apple Mac'lerin yapay zeka destekli tersine mühendislik durumu](https://github.com/aurora-silicon/linux/discussions/70) `HN`
+- [Entegre Devreler, Yapay Zeka ve Wallabies](https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies) `HN`
+- [Yapı Üretim Sınıfı Ürünler](https://viaknox.com/blog/ai-said-done-make-it-prove-it) `HN`
+- [Klimanın geleceği "propan" olarak yazılıyor](https://www.therebuild.pub/p/hank-hill-heat-pumps) `HN`
+- [Yapay zekadan gelen Yalın koda güvenmiyorum](https://karagila.org/2026/lean/) `HN`
+- [Nicolas Cage, Amazon AI Feragatnamesi İmzalamayı Reddetti: "Ben Yapay Zeka Dostu Bir Oyuncu Değilim"](https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/) `HN`
+- [Google AI Edge Foresight – cihazda not tutucuyla buluşma](https://developers.google.com/edge/foresight) `HN`
+- [Yazılım Üretiminde Yapay Zeka ve Darboğazlar [pdf]](https://fion.ac/jellyfish.pdf) `HN`
+- [Yapay Zeka İnsan Yazısının Değerini Öldürüyor mu?](https://transitions.substack.com/p/is-ai-killing-the-value-of-human) `HN`
+- [Phonebox – Yapay zeka temsilcileri için bulut Android telefonlar](https://phonebox.dev/) `HN`
+- [Nvidia, ABD'li 'açık' model girişim Reflection AI'yı satın almak için görüşmelere başladı](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a) `HN`
+- [HN'yi göster: Otomatik ajan iyileştirme için değerlendirme becerileri](https://github.com/confident-ai/eval-skills) `HN`
+- [Nvidia, Reflection AI'yı (Beam'in yapımcıları) satın almak için görüşmelerde bulunuyor](https://news.bloomberglaw.com/mergers-and-acquisitions/nvidia-in-talks-to-acquire-reflection-ai-ft) `HN`
+- [Show HN: Flopper, AI altyapısı ve ötesi için bir donanım gezgini](https://flopper.io/) `HN`
+- [ShareBox – Google Dokümanı gibi yapay zeka temsilcinizin oluşturduğu web araçlarını paylaşın](https://github.com/zalaso/sharebox) `HN`
+- [Yapay Zeka Sürüş Oyunu Demosu, Geliştiriciyi Çalışmaya Devam Etmesi İçin Banka Kredisini Çıkarmaya Zorluyor](https://www.ign.com/articles/ai-driving-game-demo-bank-loan) `HN`
+- [Yapay zeka pazarlama işlerini mi yiyor?](https://medium.com/@whurthay/ai-is-automating-marketings-feedback-loop-2da124ead7f8) `HN`
+- [Ajan Öğe Yaşam Döngüsü (AILC)](https://pullboard.dev/how/) `HN`
+- [Anthropic, yeni yapay zeka olayları arasında polise 2 aylık sahte bahşiş verdiğini açıkladı](https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/) `HN`
+- [Show HN: Çalışan bir Kereviz Adam bilgisayarı](https://celeryman.fun/) `HN`
+- [2026 'da Geliştiriciler için En İyi Ücretsiz AI API'leri](https://freeapihub.com/blog/best-free-ai-apis-developers) `HN`
+- [KV önbelleğini gömme olarak kullanma](https://breadbowl.ai/blog/breadbowl-embed/) `HN`
+- [Süper Mikro yüklenici, Nvidia çiplerini Çin'e yönlendirme planında suçlu olduğunu kabul etti](https://www.reuters.com/legal/government/super-micro-contractor-pleads-guilty-scheme-divert-ai-servers-with-nvidia-chips-2026-10-09/) `HN`
+- [Bilgisayar bilimcisi David Silver: "Yapay zeka olmadan nereye gidiyoruz ?"](https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828) `HN`
+- [Yapay Zeka Siber Suçlularla Başa Çıkma Konusunda İyileşiyor](https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/) `HN`
+- [Sahte Caroline](https://www.cjr.org/analysis/fake-caroline-williams-science-nature-magazine-ai-influx-pitches.php) `HN`
+- [Yapay Zeka Psikozu Gerçek mi?](https://debarshibasak.github.io/readables/blogs/ai-psychosis-is-real) `HN`
+- [Yeni Genomik Yapay Zeka Modelinin Lansmanından Sonra Illumina Stoğu Odakta - Simply Wall Street](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGtjZWlOc1dLRmxxLVhRa29VVVBxYnVlTlJUMU5yMnNGdXpFU3MwOXFDbUZKZ2g1TTRvRmY2RVAxZlFDczJrZHZpTE1kYm8tYXJSeXpDSER0WUhhQzQtOTRaSE9mVEh5eTdlUkFBMWdOZXEyWGFFdXVBVzQyWE45SUdOdEdlNzBMN0pCUlpsX3lCWEVVVnczbktSRTBFTzY3Qm1nWEZUeFV1NjhhdU5SMVVuWVN1dzRYOTNLRklpYS0ycHhIOWI5VGZLOVRTaXBMSlhHSTRn0gHbAUFVX3lxTE1GOHJ4Y1ZoQjBNOFRUWElxMTdtQjBOSmRzRXltQmpxcXFDZDdFWGtNa3cxSkw0NDk2N1VaNXVYa0lyQU8zTjJmcXY2TWZUVFRIZ0ZOd3BJMk1HTUxmWGdGMDR1UkNUYnkySWwtRFVtSmVTbmdWcS1vX3FSQ3hDb0VwdmxiOGgwa2RHVHFYXzFRV0gzN3ZIN1ZWSlVzbEJCazVxRXlvMVV3a2ZxX0haU3p2cDR6QmN1M2J6a0hfZ0JKYUhhQzJDcVQ1NXJXSEMxV2RVdTI1OExZb2Z3Zw?oc=5) `RSS`
