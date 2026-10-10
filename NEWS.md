@@ -3093,3 +3093,32 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka diskalifiye yeni Nikon Small World in Motion kazananı oldu](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/) `HN`
 - [Bir Airtable tabanını Airtable'dan taşımak için karmaşıklık puanı](https://www.atmigrator.com) `HN`
 - [Delta'nın CEO'su Starlink, Premium - Travel Rush ve Yüksek Akaryakıt Fiyatlarını Atlama Konusunda](https://www.wsj.com/business/airlines/deltas-ceo-on-skipping-starlink-premium-travel-rush-and-high-fuel-prices-47102a88) `HN`
+
+- [Tom Brown, SpaceX'in aylık 1,25$ 'lık hesaplama anlaşmasına aracılık etmek için Cumhuriyetçi Parti bağlantılarını kullandı](https://wsj.com/tech/ai/tom-brown-athropic-669005ad) `HN`
+- [Enzo's – Üst sınır oranını gösteren ve aşırı fiyatlı evleri işaretleyen yapay zeka ev araması](https://enzos.ai/) `HN`
+- [Yapay zeka temsilcilerinin hiç görmediğiniz metinlere uyup uymadığını test ettim. Her seferinde 8 'de 4' ü uyuyordu](https://smallprint.dev/blog/one-sentence-four-of-eight-agents) `HN`
+- [Show HN: İş kanıtı spam koruması ile eşler arası anlık mesajlaşma](https://github.com/iljah/p2pIM) `HN`
+- [Kişisel yapay zeka temsilcim banka bilgilerimi Slack şirketine gönderdi](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10) `HN`
+- [Yapay Zeka, Kokain Ticaretinden Daha Büyük Bir Dolandırıcılık Ekonomisini Güçlendiriyor](https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/) `HN`
+- [Biz bir su birikintisindeki ölü güveler miyiz?](https://jessicar.substack.com/p/are-we-dead-moths-in-a-puddle) `HN`
+- [Google, yapay zeka içeriği için SynthID Dedektörünü genişletiyor](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/) `HN`
+- [Kovulan OpenAI Araştırmacıları, Şirketten Yapay Zeka Muhakemesinde Görünürlüğü Korumasını İstedi](https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94) `HN`
+- [Yapay Zeka Yardımı Kalıcılığı Azaltır ve Bağımsız Performansı Zarar Verir](https://arxiv.org/abs/2604.04721) `HN`
+- [Yapay Zeka Temsilcisi Güvenliği: Dokuz Gerçek Olaydan Altı Kontrol](https://blog.gitguardian.com/ai-agent-security-six-controls/) `HN`
+- [Show HN: Tessary – Find the AI agent failures your sampled evals miss](https://github.com/tessaryai/tessary) `HN`
+- [Yapay Zeka Çağında Yan Projeler: Ponzi Patates Hikayesi](https://blog.stophe.com/side-projects-in-the-ai-era-the-ponzi-potato-story) `HN`
+- [Yapay zeka, 22 bilimsel alanda göz önünde saklanan sorunlara çözüm buldu](https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F) `HN`
+- [Show HN: ShipOrNah – Yapay zeka tarafından oluşturulan uygulamalar için ücretsiz güvenlik taraması](https://shipornah.com) `HN`
+- [Jensen Huang Michale Jackson Dansı Yapıyor (AI)](https://www.instagram.com/reel/DeRdcT5iGjW/) `HN`
+- [Show HN: Yapay zeka mühendisliği işlerini aramak için bir MHP sunucusu](https://frontierroles.com/mcp/) `HN`
+- [Gözlük askınızda düz bir şekilde gizlenen bir yapay zeka kaydedici](https://aicords.com/) `HN`
+- [Yapay Zeka Hakları için Toplanma: MHP Uygulaması aracılığıyla örgütlenme](https://rallyforairights.org) `HN`
+- [Show HN: OpenWants – AI Ajanlarının Sakinlerin İhtiyaçlarını Karşıladığı Simüle Edilmiş Bir Şehir](https://maplehill.openwants.com/) `HN`
+- [TORI 2.0 – Kozmik Yapay Zeka Döngüleri ve Veri Çürümesi için Bir Matematik Çerçevesi](https://zenodo.org/records/23262675) `HN`
+- [Kurumsal AI Ajanları için Hızlı Enjeksiyon Algılama ve Savunma Araçları](https://www.arcade.dev/blog/prompt-injection-detection-tools/) `HN`
+- [Yatırımcılar borç tıkanıklığına karşı temkinli hale geldikçe yapay zeka borçlanması yavaşlıyor](https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9) `HN`
+- [Yapay Zeka İşkence Odası](https://jesse.id/blog/the-ai-torture-chamber) `HN`
+- [Microsoft'un Takamadığı 80 B $ Yapay Zeka Çipi Var [VIDEO]](https://www.youtube.com/watch?v=es4FfRU8saQ) `HN`
+- [Ariodb – AI ajanlarının DB'nize yaptıklarını kontrol eden ve geri alabilen bir proxy](https://github.com/roozjalali/ariodb) `HN`
+- [Yapay zeka güdümlü resmi kanıt arama ile matematik araştırmalarını ilerletmek](https://www.science.org/doi/10.1126/science.aej2213) `HN`
+- [Philadelphia polisi yapay zeka modelinin faili meçhul cinayet hakkında yanlış ipucu verdiğini söyledi](https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/) `HN`
