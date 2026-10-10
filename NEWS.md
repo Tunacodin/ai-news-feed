@@ -3151,3 +3151,25 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Sahte Caroline](https://www.cjr.org/analysis/fake-caroline-williams-science-nature-magazine-ai-influx-pitches.php) `HN`
 - [Yapay Zeka Psikozu Gerçek mi?](https://debarshibasak.github.io/readables/blogs/ai-psychosis-is-real) `HN`
 - [Yeni Genomik Yapay Zeka Modelinin Lansmanından Sonra Illumina Stoğu Odakta - Simply Wall Street](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGtjZWlOc1dLRmxxLVhRa29VVVBxYnVlTlJUMU5yMnNGdXpFU3MwOXFDbUZKZ2g1TTRvRmY2RVAxZlFDczJrZHZpTE1kYm8tYXJSeXpDSER0WUhhQzQtOTRaSE9mVEh5eTdlUkFBMWdOZXEyWGFFdXVBVzQyWE45SUdOdEdlNzBMN0pCUlpsX3lCWEVVVnczbktSRTBFTzY3Qm1nWEZUeFV1NjhhdU5SMVVuWVN1dzRYOTNLRklpYS0ycHhIOWI5VGZLOVRTaXBMSlhHSTRn0gHbAUFVX3lxTE1GOHJ4Y1ZoQjBNOFRUWElxMTdtQjBOSmRzRXltQmpxcXFDZDdFWGtNa3cxSkw0NDk2N1VaNXVYa0lyQU8zTjJmcXY2TWZUVFRIZ0ZOd3BJMk1HTUxmWGdGMDR1UkNUYnkySWwtRFVtSmVTbmdWcS1vX3FSQ3hDb0VwdmxiOGgwa2RHVHFYXzFRV0gzN3ZIN1ZWSlVzbEJCazVxRXlvMVV3a2ZxX0haU3p2cDR6QmN1M2J6a0hfZ0JKYUhhQzJDcVQ1NXJXSEMxV2RVdTI1OExZb2Z3Zw?oc=5) `RSS`
+
+- ['AI slop' yapmamız gereken konuşmaları gizler](https://doi.org/10.1038/s44387-026-00161-8) `HN`
+- [Yapay zeka matematiği dağı, birkaç değerli bayt](https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/) `HN`
+- [Show HN: ManimGX – Python'da 3D videolar için Rust/wgpu motorunda Manim API'si](https://github.com/academa-labs/manimgx) `HN`
+- [Eski Bir AI Doomer'dan Stark Uyarısı](https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983) `HN`
+- [Artık hepimiz yapay zeka için çalışıyoruz](https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82) `HN`
+- [Yüksek konsol fiyatları PlayStation ve Xbox satışlarını yeni diplere itiyor](https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/) `HN`
+- [Arrival Mind (yapay zeka riski hakkında çocuk kitabı – anlatıldı)](https://www.youtube.com/watch?v=5GISvEfdbm4) `HN`
+- [HN'yi göster: Yapay zeka kodlama ajanlarına tepki veren bir macOS ekran koruyucusu oluşturdum](https://www.ascendaflow.com/waterline) `HN`
+- [Show HN: AI 50M - Token Penceresi için Ücretsiz Uzun Süreli Belleği Deneyin](https://github.com/corbenicai/galahad) `HN`
+- [Token Ekonomisi: Düşen Token Fiyatları Neden AI Faturalarını Düşürmedi?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258) `HN`
+- [Düşüncenin Düşen Bedeli](https://epoch.ai/publications/the-plunging-price-of-thought) `HN`
+- [Bahse girerim yapay zeka kendi dilini icat ederdi; Claude Opus'unki her nüshadan sağ kurtuldu](https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8) `HN`
+- [Nvidia'nın GeForce RTX 5090 üretimini veri merkezi GPU'ları lehine durdurduğu bildirildi](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship) `HN`
+- [Avrupa ve Orta Doğu'da hava kalitesini göstermek için bir başka açık kaynaklı araç](https://coperni.azukibeans.dev/places/) `HN`
+- [Show HN:prx - macOS Menü Çubuğunda Otomatik PR İncelemeleri](https://github.com/vs4vijay/prx) `HN`
+- [Show HN: Tutor, size kitaplarınızı veya dokümanlarınızı öğreten, kendi kendine barındırılan bir LLM öğretmeni](https://github.com/demetrius-edelin/tutor) `HN`
+- [Siber Dayanıklılık Kılavuzu: Sıfır Güven, Yapay Zeka Güvenliği ve Fidye Yazılımı Kurtarma](https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/) `HN`
+- [AI Tarayıcı Aracıları: 2026 için SEO, Güvenlik ve Uygulama Taktik Kitabı](https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/) `HN`
+- [FM ile Cihaz İçi Yapay Zekayı Deneyin](https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/) `HN`
+- [Yapay zeka bilinçli mi? Antropik 'belki' diyor](https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might) `HN`
+- [Rapora göre Çin yapay zeka geliştiricileri, model sürümlerinin sadece % 3,6 'sı için güvenlik testleri yayımlıyor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1kwS2tKWU51ZmxkNThtck5qd0NXamNrM3c5TVZnaFVjTnRiamRRTWMxSDNHMlJzXzlKTi1KTGRob1h1b200LWs4Sl9TM3lvNWp1YmNkQ3N6ODg2Rk1CNjExRTFUZkVEY2QzVjJPbzhpTjRKRVZ1ZUVISlJpSVlvdTJ4LWUyNTNxWW1ZQjRQTWx0b3djX1NTdzRvaUl3N2M4RjhkVFVycWdjLW5pMzJNVU1jdkJkYTd2N1NUWWlCOGJ3YXQtRGp3TA?oc=5) `RSS`
