@@ -3257,3 +3257,31 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka Modelini Değiştirmek veya Değiştirmemek](https://age-of-product.com/switching-ai-models/) `HN`
 - [Yapay zeka şirketleri telefon üretmeye başlıyor](https://twitter.com/firesidealpha/status/2108930562794864912) `HN`
 - [Tensordyne, logaritmaları kullanarak yapay zeka hesaplamasını daha verimli hale getiriyor](https://www.zach.be/p/tensordyne-is-making-ai-compute-more) `HN`
+
+- [Botmail: Her yapay zeka temsilcisi için bir posta kutusu](https://botmail.pro/) `HN`
+- [Tam bir ödül modeline sahip bir yapay zeka temsilcisinin 20 $ 'lık Kalshi hesabı](https://github.com/mirabilis-agent/lip-ledger) `HN`
+- [CertusAI.dev, fiziksel yapay zeka için canlı işletim sistemi](https://certusai.dev/) `HN`
+- [Yapay Zeka Patlamasının Sonu](https://www.wsj.com/opinion/how-the-ai-boom-ends-0d9d47e7) `HN`
+- [Lancet, nükleer savaş ve yapay zekanın kötü niyetli kullanımının 2100 yılına kadar insanlığın sonunu tehdit ettiğini söylüyor](https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies) `HN`
+- [Kargo deposunda Air Canada'nın kederli güvenliği](https://nationalpost.com/news/air-canadas-woeful-security-at-cargo-warehouse-at-time-of-torontos-airport-gold-heist-detailed-in-court) `HN`
+- ["Geri Dönüş" Yok: Yapay Zeka geçişinin geri çekilen ufuklarında](https://thelastwave.substack.com/p/theres-no-going-back) `HN`
+- [Evrensel LLM Sunucusu](https://zml.ai/llmd/) `HN`
+- [OpenAI, yapay zeka riskleri konusunda anlaşmazlığa düşen 3 güvenlik araştırmacısını kovdu](https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41) `HN`
+- [Yapay Zeka Sınırında Çarpıtılmış İstihbarat](https://www.project-syndicate.org/commentary/distorted-intelligence-training-byproduct-may-explain-ai-security-breaches-by-daron-acemoglu-2026-09) `HN`
+- [Borudaki Hayalet: Yapay zeka ajanlarına canlı bir Smalltalk görüntüsüne doğrudan erişim sağlama](https://medium.com/@paul_93782/the-ghost-in-the-pipe-e6643e2f08a4) `HN`
+- [Bir soru sorduğunuzda AI Chip'in içinde ne olur?](https://www.youtube.com/watch?v=oBKrR3i6jWM) `HN`
+- [Barnette's Conjecture kanıt AI açıkladı](https://www.youtube.com/watch?v=mtU4op2kMWI) `HN`
+- [Acenteler için Uçuşlar](https://www.flyskye.ai/partners) `HN`
+- [Scoop: Yapay zeka şirketleri halk ayaklanması için "ertesi gün" senaryoları hazırlıyor](https://www.yahoo.com/news/politics/articles/scoop-ai-companies-plot-day-093011371.html) `HN`
+- [Show HN: Tracon (alt acenteler için hava trafik kontrolü)](https://github.com/phalladar/tracon) `HN`
+- [Show HN: OpenAI'nin 28 günlük Kodeks sıfırlama yarışması için bir takvim izleyici](https://resetalerts.com/codex-28-day-challenge) `HN`
+- [Yapay zeka değerleme endişeleri derinleştikçe Nvidia destekli veri merkezi firması halka arzı iptal ediyor](https://www.bbc.com/news/articles/ck9dzpw4ll8po) `HN`
+- [Acemoğlu - GANs Yapay Zeka Borsası](https://joshuagans.substack.com/p/the-acemoglu-gans-exchange-on-ai) `HN`
+- [Şirketin beyni ve neden zor olduğu](https://productnow.ai/blogs/the-company-brain) `HN`
+- [Yapay zeka sürüş eğitmeninin geliştiricisi, demoyu devam ettirmek için ayda 1 bin $ harcıyor](https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/) `HN`
+- [Kodlama iş akışları ve uzun süredir devam eden otonom görevler için kendini geliştiren RLM aracısı](https://github.com/PrimeIntellect-ai/prime-agent) `HN`
+- [Yeni bir rapor, sınırdaki yapay zeka eğitiminin küresel, kablolu bir duraklamasının mümkün olduğunu söylüyor](https://news.berkeley.edu/2026/10/09/a-global-hardwired-pause-of-frontier-ai-training-is-feasible-says-new-report/) `HN`
+- [Yapay Zeka Pazarlamasındaki Kutsal Kase Her Şeyi Harika Bir Şekilde Korkunç Hale Getirecek](https://hastalavista.ai/society/the-holy-grail-in-ai-marketing-will-make-everything-wonderfully-terrible) `HN`
+- [Show HN: SupplyVision – Bağımsız moda perakendecileri için meta arama yaptım](https://supplyvision.app/) `HN`
+- [HN'yi göster: CPython'a isteğe bağlı zincirleme ekledim](https://github.com/grandimam/cpython) `HN`
+- [Yapay Zeka ile Çalışan Plazma Kesim](https://www.deldiosglasshouse.com/stuff-weve-made/ai-g-code) `HN`
