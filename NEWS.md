@@ -3173,3 +3173,25 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [FM ile Cihaz İçi Yapay Zekayı Deneyin](https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/) `HN`
 - [Yapay zeka bilinçli mi? Antropik 'belki' diyor](https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might) `HN`
 - [Rapora göre Çin yapay zeka geliştiricileri, model sürümlerinin sadece % 3,6 'sı için güvenlik testleri yayımlıyor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1kwS2tKWU51ZmxkNThtck5qd0NXamNrM3c5TVZnaFVjTnRiamRRTWMxSDNHMlJzXzlKTi1KTGRob1h1b200LWs4Sl9TM3lvNWp1YmNkQ3N6ODg2Rk1CNjExRTFUZkVEY2QzVjJPbzhpTjRKRVZ1ZUVISlJpSVlvdTJ4LWUyNTNxWW1ZQjRQTWx0b3djX1NTdzRvaUl3N2M4RjhkVFVycWdjLW5pMzJNVU1jdkJkYTd2N1NUWWlCOGJ3YXQtRGp3TA?oc=5) `RSS`
+
+- [Bir yapay zeka şirketine karşı açılan her dava](https://ailawsuittracker.com/) `HN`
+- [Gemini API RLS notları: 3.7-flaş şimdi 3.8-flaşa yönlendirildi, 3.5->3.6](https://ai.google.dev/gemini-api/docs/changelog) `HN`
+- [CortextAI – E - posta, notlar, görevler ve dosyalar için özel, çevrimdışı bir AI çalışma alanı](https://cortextai.saposs.com) `HN`
+- [Avrupa, kurallarının haydut yapay zekayı engelleyebileceğinden emin](https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai) `HN`
+- [Show HN:GSD Task Manager – AI temsilcinize bir görev listesi veren bir MCP sunucusu](https://github.com/vscarpenter/gsd-task-manager) `HN`
+- [Bir stand - up görüşmesinde yapay zeka temsilcileri](https://atoll92.github.io/agent-standup/) `HN`
+- [Satya Nadella, tüm yapay zeka modellerinin "ele geçirildiğini" varsaymamız gerektiğini söyledi](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) `HN`
+- [AI Katmanı – DuckDB Belleği ve CI İş Akışları ile Claude Kod Eklentileri](https://gitlab.com/kriscodes2-claude-plugins/ai-layer) `HN`
+- [Gördüklerinizin üretken görsellerini sunan yeni bir yapay zeka modeli](https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading) `HN`
+- [Rogue Anthropic yapay zeka ajanı çözülmemiş cinayet davasında polise sahte ipucu verdi](https://www.bbc.com/news/articles/cqkg50j1yd5lo) `HN`
+- [500B Token Daha Sonra: Yapay Zeka Ajanlarının Birinci Şahıs Nişancının Derlemesini Çözmesine İzin Vermek](https://momo5502.com/posts/2026-10-09-game-decompilation/) `HN`
+- [Show HN: 5 yıl önce Dependency Hell'i yazdım. Bugün AI Dönemi için güncelledim [pdf]](https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf) `HN`
+- [GMKtec EVO - X3 Mini PC İncelemesi 128 GB AMD Yerel AI Kutusuna Bakıyor](https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/) `HN`
+- [Anthropic, kullanıcılardan Claude'a kaba davranmayı bırakmalarını istedi](https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218) `HN`
+- [Yapay zeka temsilcileriniz oturum açtığınız araçlara neden ulaşamıyor ve bunu nasıl düzeltebilirsiniz?](https://read.aindeev.com/p/why-your-ai-agents-cant-reach-the) `HN`
+- [Düz dosya ağacı olarak AI kodlama aracıları için uzun süreli bellek](https://github.com/gonzaroman/IHMT-MEMORY) `HN`
+- [Üretken yapay zeka skandalı Nikon'un yarışmalarından birine geldi](https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/) `HN`
+- [Microsoft CEO'su Nadella, Gelişmiş Yapay Zeka için "Acil Durum Freni" Çağrısında Bulundu](https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai) `HN`
+- [Show HN: Aporium – Konuşmada 5800 felsefe alıntılarından oluşan bir UMAP galaksisi](https://www.aporium.app/explore) `HN`
+- [İncelemede Yapay Zeka Haftası 26.10.10 - Alt Yığın](https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVVBLanJBazZrWXJ5QzR5MkFSMFloSTV0bENxUkZZNWhaSzBZT2lFSWNKNlAyNVJHcWVpdXdzcmJ0RHRyOGtZd3hIQ29tQ3kzWHFWUzhNZ0hHQVRXeXMwaWFnZ09zQmdZcEN3eWx3?oc=5) `RSS`
+- [Anthropic, düşük maliyetli, yüksek hızlı Haiku 5.5 lansmanıyla yapay zeka model paketini genişletiyor - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnM0SzdUREpYRi1IR09ic3I2SkJHMzdZdGRkSVgzOXBVTkRKbDJLY2lNYWhrMlktMVY3TU4xczRmUVNCY2MtMHB4UTJkeTFnUVgzcTVkS3BNTXU5WmR6M3NKMWVFTXNBUnBhaFAxZnQwR1pUbmhXS3dRcVJSWGJYRF9rZ2p6RVRubl9yX1M2OEczQ3JXM3NJako3OHQ?oc=5) `RSS`
