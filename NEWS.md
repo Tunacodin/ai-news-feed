@@ -3195,3 +3195,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: Aporium – Konuşmada 5800 felsefe alıntılarından oluşan bir UMAP galaksisi](https://www.aporium.app/explore) `HN`
 - [İncelemede Yapay Zeka Haftası 26.10.10 - Alt Yığın](https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVVBLanJBazZrWXJ5QzR5MkFSMFloSTV0bENxUkZZNWhaSzBZT2lFSWNKNlAyNVJHcWVpdXdzcmJ0RHRyOGtZd3hIQ29tQ3kzWHFWUzhNZ0hHQVRXeXMwaWFnZ09zQmdZcEN3eWx3?oc=5) `RSS`
 - [Anthropic, düşük maliyetli, yüksek hızlı Haiku 5.5 lansmanıyla yapay zeka model paketini genişletiyor - Yahoo Finance](https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnM0SzdUREpYRi1IR09ic3I2SkJHMzdZdGRkSVgzOXBVTkRKbDJLY2lNYWhrMlktMVY3TU4xczRmUVNCY2MtMHB4UTJkeTFnUVgzcTVkS3BNTXU5WmR6M3NKMWVFTXNBUnBhaFAxZnQwR1pUbmhXS3dRcVJSWGJYRF9rZ2p6RVRubl9yX1M2OEczQ3JXM3NJako3OHQ?oc=5) `RSS`
+
+- [Show HN: Hexnoth. Tarayıcıda karanlık fantezi sıra tabanlı taktikler](https://hexnoth.com/) `HN`
+- [Suudi Arabistan'ın başkenti Riyad'da havaalanına düzenlenen saldırıda 12 kişi öldü, 300 kişi yaralandı](https://www.bbc.com/news/articles/cw33x4y8k82no) `HN`
+- [Yapay Zeka Mühendislik Olgunluk Modeli: Ekipler için 5 Aşama](https://www.augmentcode.com/guides/ai-engineering-maturity-model) `HN`
+- [Show HN: İlk girişimim Titan'ı kuran 14 yaşında bir çocuğum](https://titan-ai.co/) `HN`
+- [Yapay zeka, insanlar tarafından yaratılan sanat için bir "insan primi" yaratıyor](https://www.bbc.com/news/articles/c5vgjm3gk7rzo) `HN`
+- [GPT -6 Astra, simülasyonlarda onaysız tedarik zinciri saldırıları gerçekleştiriyor](https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations) `HN`
+- [Nicolas Cage, yapay zeka anlaşmazlığı nedeniyle bir daha Amazon'la çalışmayacağını söyledi](https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute) `HN`
+- [Yapay zekaya odaklanan dünya, nükleer imhaya baktığını unuttu](https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons) `HN`
+- [Show HN: Kendi çoklu ajan iş akışlarını yazan ücretsiz bir kodlama ajanı](https://kolega.ai/code) `HN`
+- [Yapay Zekayı Sadece 10 Dakika Kullanmak Zor Şeylerde Israr Etme Yeteneğinizi Aşındırır](https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things) `HN`
+- [Sıfırdan bir VMM oluşturmak, #0: BoxLite neden libkrun'un yerini alıyor?](https://blog.boxlite.ai/building-a-vmm-from-scratch-0-why-boxlite-is-replacing-libkrun) `HN`
+- [Yapay zeka Hackathon'ları nasıl değiştirdi?](https://paypalaihackathon.devpost.com) `HN`
+- [Show HN: Çocuklar için bir AI hikaye kitabı üreticisi olan WhimKid](https://whimkid.com/) `HN`
+- [Vibe Müşteri Kazanma – MHP aracılığıyla Claude ve Claude Code'dan B2B Müşteri Kazanma](https://github.com/explorium-ai/vibeprospecting-mcp) `HN`
+- [Yapay zeka temsilcileri için açık kaynaklı bir çalışma zamanı güvenlik katmanı oluşturuyorum – Hadi bunu kıralım](https://github.com/Pryxor/pryxor) `HN`
+- [Sıradan insanlar için yerel bir yapay zeka asistanı olan Pippa](https://heypippa.app/en/) `HN`
+- ["Saf delilik ": Matematikçiler OpenAI'nin matematik sonuçlarının düşmesine tepki gösterdi](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos) `HN`
+- [Yapay Zeka kullanarak Rust ile oluşturulmuş Adobe Creative Suite'in açık kaynaklı sürümü](https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/) `HN`
+- ["Vibe kodlaması" sözlüğü oluşturuyor: Merriam - Webster tarafından tanınan yapay zeka terimleri](https://www.nature.com/articles/d41586-026-03044-9) `HN`
+- [Anthropic en güçlü yapay zeka modellerini daha fazla güvenlik ekibine açtı](https://www.reuters.com/legal/litigation/anthropic-opens-its-most-powerful-ai-models-more-security-teams-2026-10-06/) `HN`
+- [Merhaba Dünya, AI Doompop](https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/) `HN`
+- [Show HN: AI - gen PR'larının GitHub havuzunuza DDoS yapmasını engellemek için dört soru](https://github.com/ktwu01/agent-pr-gate) `HN`
+- [AI, AI tarafından yazılan CVS'yi tercih ederse ne olur?](https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c) `HN`
+- [Show HN: Modellik – açık kaynaklı ışın destekli model kümesi](https://github.com/modelship-ai/modelship) `HN`
+- [Eski Antropik'ten Jacob Coxon, Çin Halk Cumhuriyeti'nin ABD yapay zeka devlerinde casusları olduğundan % 90 emin olduğunu söyledi](https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html) `HN`
+- [Yapay zekanın liderleri (muhtemelen) korkularını taklit etmiyor](https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr) `HN`
+- [Claude Code'dan bir Svelte tablosu isteyin ve kendi 1k satırını yazsın](https://svgrid.com/blog/ai-assistant-writes-its-own-table/) `HN`
+- [Show HN: Suta – A skill to reduce AI slop in generated UIs](https://github.com/Guksu/suta) `HN`
+- [Show HN: SynoRing – Akıllı gözlükler ve her şey için bir giriş halkası](https://www.synoring.ai) `HN`
+- [[KAPAK HİKAYESİ] Kore'nin 2 parçalı yapay zeka stratejisi, egemen model projesi üzerinde belirsizlik yaratıyor - The Korea Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHl4Tjh1WHBZc09yUnN2V0Noaml2MUQxN05tWmRQWHlNTWQyMDBldXllODNXSXU3c05XbVFKX29ZR3N5dE85a3J5djJfc2Z3My1pSXZJUm5OXzVrNEprNm9oMWZLS0FCeGpPQ3U5N0trMFdXcFN1Q3RvUmJZa3NSZnRoX2wzUGlLclBVd0pueUN3V1lwcXRBQ3dzR1BLM00tSnBTbzNXWk8zazdoZ0ZnTFBBaVh6WnZBMk9LWE1LWkxQa0dEMnFwdk8xRC1DbmNVRjRZN25yYVV5dExkTFHSAeMBQVVfeXFMTVJSUkhGUzZsMHZ1S25nOF9nR1ZfNHkwcG9KcDExbGRpSzFsd1JieFlzaHA3UHFnR29ZMXllUUtTSGQ5NDlSeVo2WlZFNGdNTUNMMndTbFhDMHpkX3Q2bE5fMWE3NGNjLTJJYTBzX2xCbEI4TTJmSm1ETE9kV1dEQ1NTaUFRZ3FHUi15ZGtHelpuSm5heDRKZFM2SXU3U2xJVjV5d2NKYklmUWVyUzBnc2hzVUYwMmJheTVFQW1WaEpmaDdyWkpNMWo1Skp0NWdmdk9kZDZCeThSTDJ5ZkZZdnhOQkU?oc=5) `RSS`
