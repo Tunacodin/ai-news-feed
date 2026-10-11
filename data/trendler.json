@@ -1,12 +1,12 @@
 {
- "ts": "2026-10-11T12:40:24Z",
+ "ts": "2026-10-11T18:00:50Z",
  "github": [
   {
    "ad": "morluto/rea",
    "url": "https://github.com/morluto/rea",
    "aciklama": "Reverse engineer anything with agents, from app behavior down to native binaries.",
    "bugun_yildiz": 25585,
-   "toplam_yildiz": 87227,
+   "toplam_yildiz": 95923,
    "dil": "TypeScript"
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://github.com/boykopovar/AnyPS5",
    "aciklama": "Tool for automatic PS5 executables porting to Linux and Windows",
    "bugun_yildiz": 3977,
-   "toplam_yildiz": 28394,
+   "toplam_yildiz": 29193,
    "dil": "C++"
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://github.com/storytold/artcraft",
    "aciklama": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
    "bugun_yildiz": 2956,
-   "toplam_yildiz": 15958,
+   "toplam_yildiz": 16934,
    "dil": "Rust"
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://github.com/cathrynlavery/diagram-design",
    "aciklama": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
    "bugun_yildiz": 1083,
-   "toplam_yildiz": 49589,
+   "toplam_yildiz": 49980,
    "dil": "HTML"
   },
   {
@@ -38,7 +38,7 @@
    "url": "https://github.com/bilawalsidhu/gods-eye-view",
    "aciklama": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
    "bugun_yildiz": 872,
-   "toplam_yildiz": 50792,
+   "toplam_yildiz": 51195,
    "dil": "JavaScript"
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://github.com/pytorch/pytorch",
    "aciklama": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
    "bugun_yildiz": 314,
-   "toplam_yildiz": 104274,
+   "toplam_yildiz": 104379,
    "dil": "Python"
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://github.com/lyogavin/airllm",
    "aciklama": "AirLLM 70B inference with single 4GB GPU",
    "bugun_yildiz": 541,
-   "toplam_yildiz": 36125,
+   "toplam_yildiz": 36291,
    "dil": "Jupyter Notebook"
   },
   {
@@ -62,7 +62,7 @@
    "url": "https://github.com/chrislgarry/Apollo-11",
    "aciklama": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
    "bugun_yildiz": 496,
-   "toplam_yildiz": 73894,
+   "toplam_yildiz": 74057,
    "dil": "Assembly"
   }
  ],
@@ -73,8 +73,8 @@
    "baslik": "MiniMax H3 Turbo LoRA",
    "aciklama": "Video generation with a synchronized soundtrack",
    "tur": "gradio",
-   "begeni": 1401,
-   "trend": 250,
+   "begeni": 1426,
+   "trend": 248,
    "olusturma": "2026-08-14"
   },
   {
@@ -83,8 +83,8 @@
    "baslik": "Jev Decision Index",
    "aciklama": "Benchmarks and news on various repros of TypeSafe's Jev",
    "tur": "static",
-   "begeni": 583,
-   "trend": 149,
+   "begeni": 585,
+   "trend": 146,
    "olusturma": "2026-09-17"
   },
   {
@@ -93,8 +93,8 @@
    "baslik": "Wan2.2 14B Preview",
    "aciklama": "generate a video from an image with a text prompt",
    "tur": "gradio",
-   "begeni": 434,
-   "trend": 126,
+   "begeni": 443,
+   "trend": 131,
    "olusturma": "2026-07-15"
   },
   {
@@ -103,8 +103,8 @@
    "baslik": "The ultimate guide to multi-harness RL",
    "aciklama": "Train open models with RL inside real agent harnesses",
    "tur": "docker",
-   "begeni": 226,
-   "trend": 126,
+   "begeni": 229,
+   "trend": 124,
    "olusturma": "2026-08-31"
   },
   {
@@ -114,7 +114,7 @@
    "aciklama": "Qwen-Image-2.1 Uncensored GGUF demo on ZeroGPU",
    "tur": "gradio",
    "begeni": 411,
-   "trend": 115,
+   "trend": 110,
    "olusturma": "2026-09-22"
   },
   {
@@ -123,8 +123,8 @@
    "baslik": "Model Pulse",
    "aciklama": "Hugging Face model download stats, history & trends",
    "tur": "static",
-   "begeni": 182,
-   "trend": 110,
+   "begeni": 183,
+   "trend": 108,
    "olusturma": "2026-10-03"
   },
   {
@@ -133,8 +133,8 @@
    "baslik": "Qwen Image 2.1 Uncensored All-In-One LoRA Studio",
    "aciklama": "Uncensored Qwen 2.1 with All-In-One LoRAs",
    "tur": "gradio",
-   "begeni": 268,
-   "trend": 100,
+   "begeni": 269,
+   "trend": 98,
    "olusturma": "2026-09-26"
   },
   {
@@ -143,8 +143,8 @@
    "baslik": "BFS Best Face Swap",
    "aciklama": "Head swap with the BFS LoRA on Qwen-Image-2.1 (+turbo)",
    "tur": "gradio",
-   "begeni": 167,
-   "trend": 81,
+   "begeni": 172,
+   "trend": 80,
    "olusturma": "2026-09-27"
   },
   {
@@ -153,8 +153,8 @@
    "baslik": "Viggle Turbo for Qwen-Image-2.1",
    "aciklama": "6-step Qwen-Image-2.1, T2I + editing, vs-base comparison",
    "tur": "gradio",
-   "begeni": 252,
-   "trend": 75,
+   "begeni": 255,
+   "trend": 78,
    "olusturma": "2026-09-22"
   },
   {
@@ -163,8 +163,8 @@
    "baslik": "LTX 2.3 10Eros Image-to-Video",
    "aciklama": "ltx 2.3 improved image-to-video with 10eros & native audio",
    "tur": "gradio",
-   "begeni": 195,
-   "trend": 63,
+   "begeni": 197,
+   "trend": 62,
    "olusturma": "2026-07-31"
   },
   {
@@ -174,7 +174,7 @@
    "aciklama": "Demo of the Collection of Qwen Image Edit LoRAs",
    "tur": "gradio",
    "begeni": 429,
-   "trend": 60,
+   "trend": 59,
    "olusturma": "2026-02-27"
   },
   {
@@ -183,8 +183,8 @@
    "baslik": "Krea 2 Turbo Image Generator",
    "aciklama": "Krea 2 Turbo text2image and image editing",
    "tur": "gradio",
-   "begeni": 58,
-   "trend": 51,
+   "begeni": 59,
+   "trend": 52,
    "olusturma": "2026-10-05"
   },
   {
@@ -193,7 +193,7 @@
    "baslik": "Omni Video Factory",
    "aciklama": "text to video, image to video, video extend",
    "tur": "gradio",
-   "begeni": 219,
+   "begeni": 221,
    "trend": 48,
    "olusturma": "2026-09-08"
   },
@@ -213,7 +213,7 @@
    "baslik": "MiniMax-H3 Character Swap LoRA",
    "aciklama": "Swap one character in a clip for a reference character",
    "tur": "gradio",
-   "begeni": 98,
+   "begeni": 99,
    "trend": 42,
    "olusturma": "2026-09-25"
   },
@@ -223,8 +223,8 @@
    "baslik": "Qwen-Image-2.1",
    "aciklama": null,
    "tur": "gradio",
-   "begeni": 411,
-   "trend": 38,
+   "begeni": 412,
+   "trend": 37,
    "olusturma": "2026-09-20"
   },
   {
@@ -233,19 +233,19 @@
    "baslik": "Qwen Image 2.1 Uncensored GGUF",
    "aciklama": "Qwen-Image-2.1 Uncensored GGUF on ZeroGPU",
    "tur": "gradio",
-   "begeni": 44,
-   "trend": 36,
+   "begeni": 47,
+   "trend": 37,
    "olusturma": "2026-09-27"
   },
   {
-   "ad": "selfit-camera/Omni-Image-Editor",
-   "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
-   "baslik": "Omni Image Editor",
-   "aciklama": "Image edit, text to image, image upscale, remove watermark",
+   "ad": "AST-1320/Qwen-2511-Plus-Flux.2-klein-9B",
+   "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein-9B",
+   "baslik": "Qwen 2511 + Flux.2 klein 9B",
+   "aciklama": "Edit images with Qwen and enhance with FLUX.2 9B",
    "tur": "gradio",
-   "begeni": 2789,
+   "begeni": 56,
    "trend": 34,
-   "olusturma": "2025-12-13"
+   "olusturma": "2026-09-19"
   },
   {
    "ad": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
@@ -268,6 +268,16 @@
    "olusturma": "2026-09-18"
   },
   {
+   "ad": "selfit-camera/Omni-Image-Editor",
+   "url": "https://huggingface.co/spaces/selfit-camera/Omni-Image-Editor",
+   "baslik": "Omni Image Editor",
+   "aciklama": "Image edit, text to image, image upscale, remove watermark",
+   "tur": "gradio",
+   "begeni": 2789,
+   "trend": 31,
+   "olusturma": "2025-12-13"
+  },
+  {
    "ad": "AlexWortega/openjev",
    "url": "https://huggingface.co/spaces/AlexWortega/openjev",
    "baslik": "openjev",
@@ -278,23 +288,13 @@
    "olusturma": "2026-09-19"
   },
   {
-   "ad": "AST-1320/Qwen-2511-Plus-Flux.2-klein-9B",
-   "url": "https://huggingface.co/spaces/AST-1320/Qwen-2511-Plus-Flux.2-klein-9B",
-   "baslik": "Qwen 2511 + Flux.2 klein 9B",
-   "aciklama": "Edit images with Qwen and enhance with FLUX.2 9B",
-   "tur": "gradio",
-   "begeni": 51,
-   "trend": 29,
-   "olusturma": "2026-09-19"
-  },
-  {
    "ad": "kulkas2pintu/QWEN_EDIT_IMAGE",
    "url": "https://huggingface.co/spaces/kulkas2pintu/QWEN_EDIT_IMAGE",
    "baslik": "Qwen-Image-Edit-2511-LoRAs-Fast",
    "aciklama": "AnyPose pose still with a strong pose-reference lock",
    "tur": "gradio",
-   "begeni": 677,
-   "trend": 28,
+   "begeni": 676,
+   "trend": 29,
    "olusturma": "2026-07-29"
   },
   {
@@ -303,7 +303,7 @@
    "baslik": "Agate WebGPU",
    "aciklama": "Agate text-to-image, 100% in your browser on WebGPU",
    "tur": "static",
-   "begeni": 45,
+   "begeni": 46,
    "trend": 28,
    "olusturma": "2026-09-25"
   },
@@ -313,7 +313,7 @@
    "baslik": "S1MB Leaderboard",
    "aciklama": "Compare System One models across 100+ specialized benchmarks",
    "tur": "docker",
-   "begeni": 64,
+   "begeni": 66,
    "trend": 28,
    "olusturma": "2026-09-29"
   }
@@ -325,8 +325,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "feature-extraction",
-   "begeni": 1598,
-   "trend": 1475,
+   "begeni": 1649,
+   "trend": 1520,
    "olusturma": "2026-09-14"
   },
   {
@@ -335,8 +335,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-generation",
-   "begeni": 1006,
-   "trend": 881,
+   "begeni": 1035,
+   "trend": 908,
    "olusturma": "2026-09-11"
   },
   {
@@ -345,8 +345,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 2012,
-   "trend": 763,
+   "begeni": 2019,
+   "trend": 718,
    "olusturma": "2026-09-30"
   },
   {
@@ -355,19 +355,9 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-to-image",
-   "begeni": 3928,
-   "trend": 647,
+   "begeni": 3954,
+   "trend": 623,
    "olusturma": "2026-09-20"
-  },
-  {
-   "ad": "Aleph-Alpha/Kolibri-1",
-   "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-   "baslik": null,
-   "aciklama": null,
-   "tur": "text-generation",
-   "begeni": 879,
-   "trend": 488,
-   "olusturma": "2026-10-02"
   },
   {
    "ad": "Qwen/Qwen-Image-2.1-Turbo",
@@ -375,9 +365,19 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-to-image",
-   "begeni": 492,
-   "trend": 483,
+   "begeni": 519,
+   "trend": 508,
    "olusturma": "2026-10-09"
+  },
+  {
+   "ad": "Aleph-Alpha/Kolibri-1",
+   "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+   "baslik": null,
+   "aciklama": null,
+   "tur": "text-generation",
+   "begeni": 880,
+   "trend": 455,
+   "olusturma": "2026-10-02"
   },
   {
    "ad": "Lightricks/LTX-2.5",
@@ -385,8 +385,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-to-video",
-   "begeni": 7230,
-   "trend": 449,
+   "begeni": 7274,
+   "trend": 448,
    "olusturma": "2026-07-23"
   },
   {
@@ -395,8 +395,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-generation",
-   "begeni": 687,
-   "trend": 420,
+   "begeni": 689,
+   "trend": 403,
    "olusturma": "2026-09-17"
   },
   {
@@ -405,8 +405,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 17471,
-   "trend": 359,
+   "begeni": 17491,
+   "trend": 367,
    "olusturma": "2026-08-05"
   },
   {
@@ -415,19 +415,9 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-to-speech",
-   "begeni": 350,
-   "trend": 319,
+   "begeni": 352,
+   "trend": 321,
    "olusturma": "2026-10-01"
-  },
-  {
-   "ad": "Cloudflare/clef-flash",
-   "url": "https://huggingface.co/Cloudflare/clef-flash",
-   "baslik": null,
-   "aciklama": null,
-   "tur": "image-text-to-text",
-   "begeni": 748,
-   "trend": 295,
-   "olusturma": "2026-09-30"
   },
   {
    "ad": "ConwayResearch/Underdog-Saluki-27B-1.0",
@@ -435,8 +425,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-generation",
-   "begeni": 302,
-   "trend": 294,
+   "begeni": 312,
+   "trend": 304,
    "olusturma": "2026-10-08"
   },
   {
@@ -445,28 +435,18 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 286,
-   "trend": 280,
+   "begeni": 292,
+   "trend": 286,
    "olusturma": "2026-10-05"
   },
   {
-   "ad": "convaiinnovations/laya",
-   "url": "https://huggingface.co/convaiinnovations/laya",
+   "ad": "Cloudflare/clef-flash",
+   "url": "https://huggingface.co/Cloudflare/clef-flash",
    "baslik": null,
    "aciklama": null,
-   "tur": "text-classification",
-   "begeni": 5482,
-   "trend": 278,
-   "olusturma": "2026-09-18"
-  },
-  {
-   "ad": "Cactus-Compute/whistle",
-   "url": "https://huggingface.co/Cactus-Compute/whistle",
-   "baslik": null,
-   "aciklama": null,
-   "tur": "automatic-speech-recognition",
-   "begeni": 326,
-   "trend": 263,
+   "tur": "image-text-to-text",
+   "begeni": 752,
+   "trend": 282,
    "olusturma": "2026-09-30"
   },
   {
@@ -475,9 +455,29 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-to-image",
-   "begeni": 281,
-   "trend": 245,
+   "begeni": 308,
+   "trend": 270,
    "olusturma": "2026-10-09"
+  },
+  {
+   "ad": "convaiinnovations/laya",
+   "url": "https://huggingface.co/convaiinnovations/laya",
+   "baslik": null,
+   "aciklama": null,
+   "tur": "text-classification",
+   "begeni": 5487,
+   "trend": 269,
+   "olusturma": "2026-09-18"
+  },
+  {
+   "ad": "Cactus-Compute/whistle",
+   "url": "https://huggingface.co/Cactus-Compute/whistle",
+   "baslik": null,
+   "aciklama": null,
+   "tur": "automatic-speech-recognition",
+   "begeni": 328,
+   "trend": 256,
+   "olusturma": "2026-09-30"
   },
   {
    "ad": "unsloth/embeddinggemma-2-GGUF",
@@ -485,8 +485,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "feature-extraction",
-   "begeni": 242,
-   "trend": 236,
+   "begeni": 245,
+   "trend": 239,
    "olusturma": "2026-10-06"
   },
   {
@@ -495,8 +495,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 216,
-   "trend": 206,
+   "begeni": 223,
+   "trend": 210,
    "olusturma": "2026-10-04"
   },
   {
@@ -505,8 +505,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 785,
-   "trend": 199,
+   "begeni": 792,
+   "trend": 196,
    "olusturma": "2026-09-07"
   },
   {
@@ -515,19 +515,9 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-to-image",
-   "begeni": 3214,
-   "trend": 191,
+   "begeni": 3219,
+   "trend": 185,
    "olusturma": "2026-09-14"
-  },
-  {
-   "ad": "Qwen/Qwen3.8-Flash-Next",
-   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-   "baslik": null,
-   "aciklama": null,
-   "tur": "image-text-to-text",
-   "begeni": 6099,
-   "trend": 162,
-   "olusturma": "2026-08-24"
   },
   {
    "ad": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
@@ -535,9 +525,19 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 1646,
-   "trend": 160,
+   "begeni": 1649,
+   "trend": 159,
    "olusturma": "2026-09-01"
+  },
+  {
+   "ad": "Qwen/Qwen3.8-Flash-Next",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+   "baslik": null,
+   "aciklama": null,
+   "tur": "image-text-to-text",
+   "begeni": 6105,
+   "trend": 158,
+   "olusturma": "2026-08-24"
   },
   {
    "ad": "FrancisRing/Prism",
@@ -545,8 +545,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-to-video",
-   "begeni": 157,
-   "trend": 153,
+   "begeni": 159,
+   "trend": 154,
    "olusturma": "2026-09-24"
   },
   {
@@ -555,8 +555,8 @@
    "baslik": null,
    "aciklama": null,
    "tur": "text-generation",
-   "begeni": 2614,
-   "trend": 151,
+   "begeni": 2624,
+   "trend": 150,
    "olusturma": "2026-09-16"
   },
   {
@@ -565,7 +565,7 @@
    "baslik": null,
    "aciklama": null,
    "tur": "image-text-to-text",
-   "begeni": 4342,
+   "begeni": 4356,
    "trend": 144,
    "olusturma": "2026-09-10"
   }
@@ -575,22 +575,22 @@
    "ad": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
    "url": "https://wallhop.io/",
    "hn": "https://news.ycombinator.com/item?id=50038634",
-   "puan": 256,
-   "yorum": 106
+   "puan": 264,
+   "yorum": 114
   },
   {
-   "ad": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-   "url": "https://ilia.page/writing/introducing-nagare",
-   "hn": "https://news.ycombinator.com/item?id=50029607",
-   "puan": 16,
-   "yorum": 22
+   "ad": "Show HN: BetterWispr – Free, open-source dictation for Mac",
+   "url": "https://betterwispr.com/",
+   "hn": "https://news.ycombinator.com/item?id=50042333",
+   "puan": 79,
+   "yorum": 41
   }
  ],
  "product_hunt": [
   {
    "ad": "Agibot",
    "url": "https://www.producthunt.com/products/agibot",
-   "aciklama": "Personal AI agent for your Mac using your own keys",
+   "aciklama": "The always-on personal AI agent for your Mac. $0 forever",
    "tarih": "2026-10-10"
   },
   {

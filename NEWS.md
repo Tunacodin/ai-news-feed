@@ -3226,3 +3226,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: Suta – A skill to reduce AI slop in generated UIs](https://github.com/Guksu/suta) `HN`
 - [Show HN: SynoRing – Akıllı gözlükler ve her şey için bir giriş halkası](https://www.synoring.ai) `HN`
 - [[KAPAK HİKAYESİ] Kore'nin 2 parçalı yapay zeka stratejisi, egemen model projesi üzerinde belirsizlik yaratıyor - The Korea Times](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHl4Tjh1WHBZc09yUnN2V0Noaml2MUQxN05tWmRQWHlNTWQyMDBldXllODNXSXU3c05XbVFKX29ZR3N5dE85a3J5djJfc2Z3My1pSXZJUm5OXzVrNEprNm9oMWZLS0FCeGpPQ3U5N0trMFdXcFN1Q3RvUmJZa3NSZnRoX2wzUGlLclBVd0pueUN3V1lwcXRBQ3dzR1BLM00tSnBTbzNXWk8zazdoZ0ZnTFBBaVh6WnZBMk9LWE1LWkxQa0dEMnFwdk8xRC1DbmNVRjRZN25yYVV5dExkTFHSAeMBQVVfeXFMTVJSUkhGUzZsMHZ1S25nOF9nR1ZfNHkwcG9KcDExbGRpSzFsd1JieFlzaHA3UHFnR29ZMXllUUtTSGQ5NDlSeVo2WlZFNGdNTUNMMndTbFhDMHpkX3Q2bE5fMWE3NGNjLTJJYTBzX2xCbEI4TTJmSm1ETE9kV1dEQ1NTaUFRZ3FHUi15ZGtHelpuSm5heDRKZFM2SXU3U2xJVjV5d2NKYklmUWVyUzBnc2hzVUYwMmJheTVFQW1WaEpmaDdyWkpNMWo1Skp0NWdmdk9kZDZCeThSTDJ5ZkZZdnhOQkU?oc=5) `RSS`
+
+- [Edebiyat için Dedikoducu Kız](https://gutenberg-ten.vercel.app/) `HN`
+- [Show HN: Vocafy – Orijinal videolardan yapımcının Vocaloid şarkılarını dinleyin](https://vocafy.kkweb.io/en) `HN`
+- [Taranabilir – AI tarayıcı okunabilirliği için en iyi 50 web uygulamasını denetledik](https://usecrawlable.com/research/ai-search-readability-index) `HN`
+- [Michael I. Jordan'dan yapay zeka üzerine: "Süper zeka bilim kurgudur"](https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html) `HN`
+- [Ario – yapay zeka belleğini ve öz iddialarını güven olarak değil, yapı olarak denetlemek](https://zenodo.org/records/23132717) `HN`
+- [Hızlı bir ilerleme bekliyorum ama genel süper zekaya doğru değil](https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards) `HN`
+- [HN'yi göster: Pasın ne kadar iyi? Ücretsiz test, her kod cevabı rustc tarafından kontrol edilir](https://rustcoach.dev/test) `HN`
+- [Her Yapay Zeka Adı](https://everyainame.com/) `HN`
+- [Show HN: MIRA, AI Yürüyüş Turları](https://www.mira.tours/wander) `HN`
+- [Show HN: Synonymizer – AI olmayan metin ayarlamasında bir deney](https://synonymizer.fyi/) `HN`
+- [Yapay zeka kodlamayı otomatikleştiriyor. Peki yazılım geliştirici iş ilanları neden artıyor?](https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html) `HN`
+- [HashSmash: Kriptanalitik çarpışma iddialarının yapay zeka destekli incelemesi için ölçüt](https://github.com/Layr-Labs/hash-smash) `HN`
+- [Çoklu Görev Tuzağı](https://andreacanton.dev/blog/multitasking-trap-ai-agents/) `HN`
+- [OpenCode ve paylaşılan bellek ile bir yapay zeka aracı ortamını kendi kendine barındırma](https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory) `HN`
+- [Gösteri HN: Atlas Runa – E2E AI ile geliştirilmiş dil öğrenimi](https://atlasruna.com/) `HN`
+- ["Yapay zekanın içsel deneyimi var" tehlikeli bir varsayımdır](https://dirac.run/posts/ai-inner-experience-dangerous-assumption) `HN`
+- [Vogue, Esquire yayıncıları, içeriklerinin yapay zeka tarafından çalınmasını yasaklamak için Kongre'ye başvurdu](https://mashable.com/tech/publishers-back-ai-bot-scraping-bill) `HN`
+- [Air France İsrail uçuşları: 31 milletten mürettebatın yasaklandığı bildirildi](https://cedarnews.net/newstasks/1047331/air-france-israel-flights-crews-from-31-nationalities-reportedly-barred/) `HN`
+- [Sıradan – Açık Bilgi Formatına dayalı bir wiki](https://www.commonplace.wiki/) `HN`
+- [Jevons Paradoksu: Yapay Zeka İşimizi Alacak mı?](https://twitter.com/selimonder/status/2109298522755362825) `HN`
+- [Çok Modlu Yapay Zeka için Veri Mühendisliği](https://www.oreilly.com/library/view/data-engineering-for/9781098190774/) `HN`
+- [Qualcomm'un CEO'su yaklaşan AI telefon süper motosikletinde](https://sources.news/p/qualcomm-ceo-ai-phone) `HN`
+- [Show HN: Timur'un Satrancı – Zürafalı 14. yüzyıl satranç çeşidi](https://timurschess.com) `HN`
+- [Show HN: Korosta – Gördüğünüz iş ilanlarını hatırlayın ve vurgulayın](https://chromewebstore.google.com/detail/korosta/dhpnogbefakbfmbihmjkgicbelndidif) `HN`
+- [Show HN: Burning Bridges AI – Kendinizi viral bir müzik - video klibine koyun](https://burningbridgesai.app) `HN`
+- [Tune – Up – diğer Grok botlarınızı inceleyen ve düzelten bir Grok botu](https://agenttuneup.ai/) `HN`
+- [Yapay Zeka Ajanları, Bir Aşk Kördür simülasyonu için kendi hikayelerini yaratıyor](https://unyxfly.substack.com/p/12-ai-love-is-blind) `HN`
+- [Yapay Zeka Modelini Değiştirmek veya Değiştirmemek](https://age-of-product.com/switching-ai-models/) `HN`
+- [Yapay zeka şirketleri telefon üretmeye başlıyor](https://twitter.com/firesidealpha/status/2108930562794864912) `HN`
+- [Tensordyne, logaritmaları kullanarak yapay zeka hesaplamasını daha verimli hale getiriyor](https://www.zach.be/p/tensordyne-is-making-ai-compute-more) `HN`
