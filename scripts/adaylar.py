@@ -1,7 +1,7 @@
 # Ne yapar: gunluk oneri adimi (Claude) icin tek bir aday listesi basar:
 #  1) data/trendler.json: GitHub Trending, HF Space/model, Show HN, Product Hunt (denenebilir seyler)
 #  2) data/news.jsonl: son N saatin (varsayilan 26) haberleri, HN puan/yorum sayilari tazelenmis
-# Kullanim: python adaylar.py [saat]. Ag hatasinda puansiz devam eder.
+# Kullanim: python scripts/adaylar.py [saat]. Ag hatasinda puansiz devam eder.
 import json, sys, time, pathlib, urllib.request
 
 HOURS = int(sys.argv[1]) if len(sys.argv) > 1 else 26

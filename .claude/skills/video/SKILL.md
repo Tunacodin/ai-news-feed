@@ -15,6 +15,7 @@ Tuna yeni yapay zekâ araçlarını kamerada dener ve anlatır. Kurgu (edit) yap
    - `git pull --rebase -q`
    `gh` çalışmazsa sadece `git pull --rebase -q` yap ve devam et.
 2. `icerik/liste.json` içinde `durum: "secildi"` olanları al. Kullanıcı belirli bir konu söylediyse sadece onu. Hiç yoksa bunu söyle ve dur.
+   - Test kapısı: her konu için `lab/` altında karşılık gelen klasörü bul. `durum: test-edildi` değilse ya da klasör yoksa metni yazma; kullanıcıya "önce test edilmeli" de ve konuyu atla. Metindeki SONUÇ bölümü `lab/<slug>/README.md` test notlarındaki gerçek sonuca dayanır.
 3. Her konu için derin araştırma (birden çok konu varsa paralel alt ajanlarla):
    - Resmi sayfa, repo ya da duyuru ve en az bir bağımsız kaynak.
    - Erişim: link, ücret, hesap/bekleme listesi, Türkiye'den açılıyor mu, Türkçe çalışıyor mu, kuyruk/bekleme süresi.
@@ -22,7 +23,7 @@ Tuna yeni yapay zekâ araçlarını kamerada dener ve anlatır. Kurgu (edit) yap
    - Sınırlar: neyi yapamıyor, nerede hata yapıyor, gizlilik ya da güvenlik riski, resmi olmayan kopya mı.
    - Mümkünse aracı kendin aç (WebFetch) ve sayfanın gerçekten çalıştığını doğrula.
    - Her iddiayı etiketle: Doğrulandı / İddia (tek kaynak) / Tahmin. Uydurma özellik ya da rakam yok.
-4. Metni aşağıdaki şablonla yaz: `icerik/videolar/<id>-<kisa-slug>.md` (örn. `2026-09-25-3-vesikalik-foto.md`).
+4. Metni `metin` skill'inin adımlarıyla (3 kanca, psikoloji rehberi, `scripts/metin_kontrol.py --plan` ile en az 85 puan) aşağıdaki şablonla yaz: `icerik/videolar/<id>-<kisa-slug>.md` (örn. `2026-09-25-3-vesikalik-foto.md`).
 5. `icerik/liste.json` içinde o kaydı güncelle: `"durum": "hazir"`, `"dosya": "<yol>"`, `"hazirlandi": "<UTC zaman>"`. `bildirildi` alanına dokunma.
 6. Gönder:
    ```bash
@@ -31,15 +32,18 @@ Tuna yeni yapay zekâ araçlarını kamerada dener ve anlatır. Kurgu (edit) yap
    Push'tan sonra bot.yml çekim planını ve metni Telegram'a "Çektim" butonuyla yollar.
 7. Kullanıcıya her video için tek satır: başlık, hook, dosya linki.
 
-## Metin kuralları (dikey, 45-70 sn)
+## Metin kuralları (dikey, 30-45 sn)
 
-- Toplam 100-150 kelime (Türkçe konuşma hızı saniyede ~2 kelime).
-- HOOK (0-3 sn): tek cümle, en fazla 12 kelime. Sonucu söyle ("Bu site selfie'ni 20 saniyede vesikalığa çeviriyor"). "Merhaba", "bugün size" yok.
+Anlatım dili, kanca kalıpları ve kapanış `docs/anlatim-dili.md` dosyasından gelir; önce onu oku, kalıp uydurma. Bölümler o dosyadaki iskelete denk düşer: HOOK = kanca, NE BU = bağlam + isim, DENEYELİM = geçiş + adımlar, SONUÇ = kazanç, KAPANIŞ = yorum-kelime CTA'sı.
+
+- Toplam 80-110 kelime (saniyede ~2,8 kelime).
+- HOOK (0-4 sn): tek cümle, en fazla 12 kelime. Sonucu söyle ("Bu site selfie'ni 20 saniyede vesikalığa çeviriyor"). "Merhaba", "bugün size" yok.
 - NE BU (3-8 sn): tek cümle. Kim yaptı, ne işe yarıyor.
-- DENEYELİM (8-40 sn, ekran kaydı): her adım için bir kısa cümle. İzleyici ekranda ne gördüğünü duysun.
+- ODAK: konu içerik değil, izleyicinin bu teknoloji/repoyla artık ne yapabildiği ve kazancı. Kaynak videodaki proje yalnız bir örnek; onun içeriğini anlatma (`docs/anlatim-dili.md` Odak).
+- DENEYELİM (8-40 sn, ekran kaydı): her adım için bir kısa cümle. İzleyicinin kendisinin ne yapacağını duysun; örnek projenin iç işleyişini değil.
 - SONUÇ (40-50 sn): metin çekimden önce yazılır, sonucu bilemez. Bu yüzden iki seçenek yaz: "Çalıştıysa: ..." ve "Çalışmadıysa: ...". Tuna gördüğüne uyanı okur. Yorum dürüst olsun; eksikleri söyle.
 - NASIL DENERSİN (50-58 sn): link nerede, ücretsiz mi, hesap gerekiyor mu. Tek cümle.
-- KAPANIŞ: tek cümle, seri vaadi ya da yorum sorusu ("Her gün bir yapay zekâ aracını deniyorum, sıradakini kaçırma").
+- KAPANIŞ: iki cümle, sabit kalıp: "<ne alacağı> istiyorsan yorumlara <TEK KELİME> yaz." + "Bütün detaylarını seninle paylaşmış olayım."
 - Teleprompter için her satır bir nefes: satır başına en fazla 12 kelime.
 - Konuşma dili, kısa cümle. Teknik terim varsa günlük hayattan benzetmeyle anlat.
 - Türkçe karakterler zorunlu. Uzun çizgi (U+2014) yok. Emoji yok.
@@ -69,6 +73,8 @@ Tuna yeni yapay zekâ araçlarını kamerada dener ve anlatır. Kurgu (edit) yap
 1. Yüz kamerası: HOOK ve NE BU
 2. Ekran kaydı: DENEYELİM adımları
 3. Yüz kamerası: SONUÇ, NASIL DENERSİN, KAPANIŞ
+
+Kurguyu edit.py yapar: cümleler arasında rahatça dur, sessizlikler kesilir. Yanlış okursan yarım bırakma, 1 saniye sus ve cümleyi baştan söyle. Klipleri `yerel/ham/<id>/1-yuz.mp4`, `2-ekran.mp4`, `3-yuz.mp4` adıyla koy ve "edit et" de.
 
 **Plan B:** <site açılmaz ya da kuyruk uzarsa ne yapılır>
 

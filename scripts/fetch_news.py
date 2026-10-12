@@ -1,6 +1,6 @@
 # Ne yapar: RSS + Hacker News + Google News'ten AI haberi ceker, gorulenleri eler,
 # yenileri NEWS.md'ye ve data/news.jsonl'e (gunluk oneri adiminin girdisi) ekler.
-# Ham haberleri Telegram'a yollamak artik istege bagli (RAW_TELEGRAM=1). Sadece feedparser harici bagimlilik yok.
+# Her yeni haber Telegram'a da tek tek gider (kapatmak icin RAW_TELEGRAM=0). Sadece feedparser harici bagimlilik yok.
 import json, os, re, time, urllib.request, urllib.parse, pathlib, html, feedparser
 
 FEEDS = [
@@ -13,7 +13,7 @@ FEEDS = [
 ]
 HN = "https://hn.algolia.com/api/v1/search_by_date?query=AI&tags=story&hitsPerPage=30"
 TG_TOKEN, TG_CHAT = os.environ.get("TELEGRAM_BOT_TOKEN"), os.environ.get("TELEGRAM_CHAT_ID")
-RAW_TG = os.environ.get("RAW_TELEGRAM") == "1"  # ham akis; varsayilan kapali, yerine gunluk oneri gelir
+RAW_TG = os.environ.get("RAW_TELEGRAM", "1") != "0"  # haber listesi Telegram'a; varsayilan acik
 LOG = pathlib.Path("data/news.jsonl")
 KEEP_DAYS = 14
 
@@ -126,7 +126,7 @@ def append_log(items, now):
 
 
 def main():
-    seen_path = pathlib.Path("seen.json")
+    seen_path = pathlib.Path("data/seen.json")
     seen = set(json.loads(seen_path.read_text())) if seen_path.exists() else set()
     items = []
 
@@ -160,7 +160,7 @@ def main():
         i["title"] = translate(i["title"])
 
     if items:
-        with open("NEWS.md", "a", encoding="utf-8") as fp:
+        with open("data/NEWS.md", "a", encoding="utf-8") as fp:
             fp.write("\n" + "\n".join(f"- [{i['title']}]({i['url']}) `{i['src']}`" for i in items) + "\n")
         append_log(items, time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()))
         # Her habere ayri mesaj: kalin baslik + saga ok butonu + (varsa) gorsel/video.

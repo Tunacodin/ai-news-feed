@@ -26,7 +26,7 @@ jobs:
           for b in $(git branch -r --list 'origin/claude/oneri-*' | sed 's#origin/##'); do
             git checkout "origin/$b" -- icerik/oneriler && echo "$b" >> /tmp/merged
           done
-      - run: python bot.py
+      - run: python scripts/bot.py
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

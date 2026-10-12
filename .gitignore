@@ -1,1 +1,8 @@
 __pycache__/
+.venv/
+yerel/
+.env
+.vscode/
+.venv-tts/
+lab/*/test/
+*cookies*.txt

@@ -16,7 +16,7 @@ Kanalın vaadi: "Bu hesabı takip edersem, işime yarayan ya da merak ettiğim y
 ## Adımlar
 
 1. `git pull --rebase -q`. Tarih (Türkiye saati): `TZ=Europe/Istanbul date +%F`. `icerik/oneriler/<tarih>.json` zaten varsa dur.
-2. `python adaylar.py 26` çalıştır. Çıktıda önce TRENDLER (GitHub Trending, HF Space/model, Show HN, Product Hunt), sonra HABERLER gelir. `data/trendler.json` zaman damgası 12 saatten eskiyse ve ağ erişimin varsa önce `python trendler.py` çalıştır.
+2. `python scripts/adaylar.py 26` çalıştır. Çıktıda önce TRENDLER (GitHub Trending, HF Space/model, Show HN, Product Hunt), sonra HABERLER gelir. `data/trendler.json` zaman damgası 12 saatten eskiyse ve ağ erişimin varsa önce `python scripts/trendler.py` çalıştır.
 3. Tekrarı önle: son 7 günün `icerik/oneriler/*.json` dosyalarını ve `icerik/liste.json` dosyasını oku. Önerilmiş aracı, büyük bir yeni sürüm yoksa yeniden önerme. Trend listeleri günlerce aynı kalır; buna dikkat et.
 4. Ön eleme (~15 aday). Sinyaller: GitHub bugünkü yıldız sayısı, HF trend puanı, Show HN puanı, aynı şeyin birden çok kaynakta geçmesi. Haberlerde bir model/araç adı çok geçiyorsa (yeni çıkmış model) mutlaka aday yap.
 5. Hafif araştırma (her aday için 1-2 WebSearch, gerekirse resmi sayfaya WebFetch). Her aday için şu altı soruyu cevapla:
