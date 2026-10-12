@@ -3285,3 +3285,23 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Show HN: SupplyVision – Bağımsız moda perakendecileri için meta arama yaptım](https://supplyvision.app/) `HN`
 - [HN'yi göster: CPython'a isteğe bağlı zincirleme ekledim](https://github.com/grandimam/cpython) `HN`
 - [Yapay Zeka ile Çalışan Plazma Kesim](https://www.deldiosglasshouse.com/stuff-weve-made/ai-g-code) `HN`
+
+- [Yapay zeka, avukatların çalışma şeklini değiştiriyor ve faturalandırılabilir saati baskı altına alıyor](https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html) `HN`
+- [Show HN: Drune – Yapay zekanızı kişiselleştirin ve her yerde kullanın](https://drune.ai/) `HN`
+- [KÜTLE: Çoklu Ajan Kendini Denetleme Yoluyla Özyinelemeli Kendini Geliştirme](https://pub.sakana.ai/mass/?href=) `HN`
+- [Show HN: Plimsoll, yapay zeka temsilcinizin yazdığı kod için kendi kendine barındırılan bir sanal alan](https://github.com/plimsollmark/plimsoll) `HN`
+- [OpenDocRouter: her belge modeli tek bir API altında](https://www.llamaindex.ai/blog/introducing-opendocrouter) `HN`
+- [Microsoft başkanı yapay zekanın sütten daha az denetlendiğini söyledi](https://www.bbc.com/news/articles/c6rmy7zmvx3lo) `HN`
+- [Show HN: Seodata.dev (1.1) AI ajanları için ücretsiz arama verileri](https://www.seodata.dev/) `HN`
+- [P[DOOM ]' unuzu hesaplayın, Yapay zeka riski hakkında eleştirel düşünmek için etkileşimli bir makale](https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4) `HN`
+- [Yapay Zeka Güvenliğinde Somut Sorunlar](https://arxiv.org/abs/1606.06565) `HN`
+- [Show HN: Shpyrd – AI dönemi için yeni bir bulut türü](https://www.shpyrd.io) `HN`
+- [JulianFlux: AI için elektrodinamik vektör alma ve nedensel yönlendirme](https://github.com/julianjohnson-web/julianflux-research) `HN`
+- [HPE, Yapay Zeka Dönemi için Yeni Nesil ProLiantların İlkini Tanıttı](https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808) `HN`
+- [WSJ'nin haberine göre Amazon, yapay zeka girişimi Decart'ı yaklaşık 7 milyar $ karşılığında satın almak için görüşmelere başladı](https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/) `HN`
+- [Jensen Huang, yapay zekanın harika gittiğini düşünüyor](https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html) `HN`
+- [Kolektif zeka yoluyla özyinelemeli kendini geliştirme](https://pub.sakana.ai/mass/) `HN`
+- [McDonald's'ın yapay zekanın Big Mac'inize fiyat biçmesi yönündeki baskısı](https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/) `HN`
+- [Yapay Zeka Riski – Kullanıcı Kılavuzu (Bölüm V): Güven Üründür](https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/) `HN`
+- [Yapay Zeka Sorun Giderme İşlemi Şaşırttı ve Hayal Kırıklığına Uğrattı](https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/) `HN`
+- [Yapay zeka tarafından oluşturulan kullanıcı arayüzlerini görsel bir temel olmadan nasıl test edersiniz?](https://instantsite.app) `HN`
