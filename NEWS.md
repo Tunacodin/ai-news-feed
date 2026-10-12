@@ -3305,3 +3305,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka Riski – Kullanıcı Kılavuzu (Bölüm V): Güven Üründür](https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/) `HN`
 - [Yapay Zeka Sorun Giderme İşlemi Şaşırttı ve Hayal Kırıklığına Uğrattı](https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/) `HN`
 - [Yapay zeka tarafından oluşturulan kullanıcı arayüzlerini görsel bir temel olmadan nasıl test edersiniz?](https://instantsite.app) `HN`
+
+- [Show HN: I made an AI free version of my directory of open - source alternatives](https://noai.openaltfinder.com/) `HN`
+- [Önde gelen Çinli matematikçiler, araştırmada yapay zeka kullanımının arkasında birleşiyor](https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research) `HN`
+- [En İyi Ücretsiz Yapay Zeka Araçları 2026: 7 Kullanmaya Değer ve Gerçek Sınırları](https://thetechboom.com/2026/09/05/best-free-ai-tools-2026/) `HN`
+- [Show HN: Opus 5.5 'ten henüz ölmemiş NFT'ler için yeni bir portal oluşturmasını istedim](https://www.jpeg.deals) `HN`
+- [OpenCode ve paylaşılan bellek ile bir yapay zeka aracı ortamını kendi kendine barındırma](https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory) `HN`
+- [Google'ın Yapay Zeka Oyun Alanı ile Berbat Oyunlar Yaptım](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/) `HN`
+- [Model Çökmesi Yeni Değil, Yapay Zekaya Özel de Değil](https://rulr.dev/blog/model-collapse-isnt-new/) `HN`
+- [Yapay zeka ile kıyafet、saç stillerini deneyin: bir fotoğrafı stil videosuna dönüştürün](https://www.vfitly.com) `HN`
+- [Show HN: Jruva – Sohbet, belgeler ve görüntüler için yapay zeka çalışma alanı](https://www.jruva.in) `HN`
+- [Yapay Zeka Tarafından Oluşturulan Torrent Sitesi, Sahte ve Kötü Amaçlı Yazılımları Yakalamak İçin İndirilenlerin İçine Bakıyor](https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/) `HN`
+- [RobynNews – yapay zekanın YouTube yorumlarından öğrendiği bir yapay zeka haber programı](https://robynnews.com/) `HN`
+- [Yapay zeka skandalları arasında "insan yazarlı" kitap etiketleri zemin kazandı](https://techxplore.com/news/2026-10-human-authored-gain-ground-ai.html) `HN`
+- [Yapay zeka temsilcileri, şirket başına 25 $ karşılığında 27 çevrimiçi perakendeciye girdi](https://trustboundarystudio.com/posts/ai-agents-retail-2026/) `HN`
+- [Yapay Zeka Verimliliğini Artıran Nedir? 'Doğrulama Vergisi '.](https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html) `HN`
+- [Yapay Zeka 'Benzersiz Oyunlar' Kanıtına Yaklaşırken, Araştırmacılar Makineleri Yenmek İçin Yarıştı](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/) `HN`
+- [Python'da tembel ithalat, frozendict ve Takyon 3.15](https://codecut.ai/python-3-15-features-data-scientists/) `HN`
+- [Tony Fadell, yapay zeka cihazlarının ilk dalgasının neden başarısız olduğunu ve sırada ne olduğunu anlatıyor](https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/) `HN`
+- [Ordu insansız hava araçlarını ve yapay zeka kullanımını hızlandırmayı planlarken, Kongre güvenlik önlemleri istiyor](https://www.wunc.org/military/2026-10-05/drones-ai-warfare-congress-considers-safeguards) `HN`
+- [Show HN: AI temsilcisi becerilerini yönetmek için bir masaüstü uygulaması olan Skills Hub](https://github.com/qufei1993/skills-hub) `HN`
+- [Akış durumu, akşam yemeği telaşı ve AI beyin kızartması](https://jamespember.substack.com/p/flow-state-the-dinner-rush-and-ai) `HN`
+- [Web sitesi, Kuzey Yerli haber "muhabirleri" oluşturmak için yapay zeka kullanıyor](https://www.cbc.ca/news/canada/north/artificial-intelligence-indigenous-journalists-9.7345554) `HN`
+- [Nvidia, Microsoft RTX Spark ve AI Ajanları ile Windows PC'leri Başlattı](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/) `HN`
+- [Google tarafından geliştirilen yerel bir yapay zeka kayıt özetleyici](https://developers.google.com/edge/foresight) `HN`
+- [Sightline – CV veri kümesi etiketleri için tarayıcı içi doğrulama (Bulut yüklemesi yok)](https://ais-pre-uqacxswl4dlj3azrt3kfxb-932959859977.europe-west2.run.app) `HN`
+- [AI kodlama aracıları daha fazla kod üretir, ancak daha fazla yazılım üretmez](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) `HN`
+- [Ücretsiz YouTube Transkript Oluşturucu](https://videotranscriber.ai/youtube-transcript-generator) `HN`
+- [Yapay Zeka Açık Kaynak Bahsi Beam, Mistral Gemi olarak % 86 Vuruyor [2026] - shattered.io](https://news.google.com/rss/articles/CBMieEFVX3lxTE1sS2JVM3k0VGhNWlhEUU04U1gtY3JWb0s2bGlXX1dpMFUwcDhpSENpUlc1dklXcU5XbTl2UGM3SzRuSmRkN0UtYUlEUWVHUjg3bVgtOWRiZGp6TzRpaF9pck13UldWeVdPZDdZcHpORUxtZ0dLbWE3Yw?oc=5) `RSS`
+- [Beyaz Saray, yayın öncesi güvenlik kontrolleri için Birleşik Krallık'ın gelişmiş yapay zeka modellerine erişimini geri yükledi - Firstpost](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWR4Yjk3bXhUdV9sZmlYeF9fSUhUOE9sMk03cndPdmdpOWxjWHdxUF95RDdQN0IydWIwb3EyVFgyWWpQWE9SM2pCc09Ranp2UngyclJ6N2gxZ1VIb3YyOWl3b1dTekdyQWN0QkhFbTNHMGZjX1ZqZXZIWVNPaXJDUFVJLTZTQW40WFRzU1puTEpqa1NmM1VpSkhHWXFkV1B1XzJDdjhIM3hDbUdqRlloVnlaZ1VFM2RCLU1oUktndFY0YWNBQVHSAcsBQVVfeXFMTmtMUXhJMzRueUJVN0FmbEhWR1N1THJhQnNqYzJHNFpId0k3NlFnMDFsYTJOVExsTHVtTXcwMUtPbHFzMTNFMHlXOFBKelBGaFNmNVo2aGRkQ2FQT0E1LVFNc0RRMzliaW56eW1ZWXp2UWVMQzN2ZWdzZEVXU1ZrM2FrcXVFSXR5aVkzaHIyZUNYUDlSUEJERFhpWjlsR1RkdUJDU3A3dVZvSDBDWWpZUi1jWmM4blhXa0FUNlc2UHJQX1MwMDVlOHp1OWM?oc=5) `RSS`
+- [KT konsorsiyumu, entegre AI hizmeti için Aralık lansmanını planlıyor - Telecompaper](https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWg1akVPS2dOMFNqTjNydGxta0tkSXBaNXN1aWg3S0RIZkhwZGRYR2l1MkRiaG9fblB0Y0NwVU85QkpzcWNSbVNEOWhuU1Z3QzBwRDlDeHZMWndpZ19pVlUtTUlzZ2w0aldZYUoyc0kwOEhHWVhlc1R2Nkpwc1plY1dIWDloc3FTaTc4bTJQN2l0eUN1N3gta3R1ektQLUM3eE42am5DMA?oc=5) `RSS`
