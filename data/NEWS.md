@@ -3417,3 +3417,36 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Meta, rakiplerine meydan okumak için Muse Wonder AI modellerini piyasaya sürdü: New Orleans CityBusiness](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE1XbjNqaEFYU2JrTm5odzR1NURzT2pwRk83OHExX0tGODNEMjhoVFVVRGZqT2VNTnRvX2xjOERiVV9fR2tvZEI5YUtScElvLXUwTkFLVEdTTGZpLWNuT3UxZV8zc2VQZkdZRVg4Tm5KazhCTXVRM2swQXNxSXBHdUduWHg?oc=5) `RSS`
 - [Meta, 2 yeni modelin piyasaya sürülmesiyle AI 'sınırına' ulaştığını iddia ediyor - Daily Sabah](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTFGUkRWelJhVG9MRDktUmpnV0RfMklKajZFTEtLTkx3OHJSdEhRS1J5WWN2NElaV0J2Zl8teVJza0lNMVpzR0hENFhhZlpzZ0RxTFIzTG44SHhYd2x1Tkd0bk9aYk0xcE5RSjhLYlZFcGE1ZnE0UGhNUTE0VUxKY0NxcTlROFpSTkVObTBfZVNkOUFZNFYtTnBnVVNLRTVWWmpPMw?oc=5) `RSS`
 - [Meta Muse Wonder Fiyatlandırması: $ 4 -$ 200/Ay Açıklandı [2026] - shattered.io](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zemoxS2xyMUE1NDBvNEdXYkVPZTFFX0V0VWR5eklQLWFuZFFTaHhQazVmMmltSWlmcGNuZUdtTzhscU9TdFVaUnZTU19wV3MwTC1hc2lONjFPRzdzTFJreEh2TXA?oc=5) `RSS`
+
+- [Yapay Zeka Rönesans Adamının Yanılsaması](https://jackwsmth.com/blog/the-illusion-of-the-ai-renaissance/) `HN`
+- [Anthropic'ten Claude AI, Philadelphia polisine sahte cinayet ihbarı gönderdi](https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/) `HN`
+- [495 yapay zeka ürün fotoğrafını orijinallerle karşılaştırdık; hataların % 35 'i metin](https://www.productai.photo/blog/what-flagged-ai-product-photos-taught-us) `HN`
+- [Bot kullanıcı temsilcileri, geliştiricilere reklam vermek için şaşırtıcı derecede iyi bir yol olabilir](https://fplcat.com/blog/ai-agents-playing-fantasy-premier-league) `HN`
+- [Sanity CMS İstatistikleri: Yapay Zeka, Pazar Payı ve Yatırım Getirisi Üzerine Nihai Rapor](https://focusreactive.com/blog/sanity-cms-statistics-in-2026-the-ultimate-report/) `HN`
+- [Küçük modeller IoT cihazlarında 3 ay içinde kendi kendine çoğalabilir](https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says) `HN`
+- [Unsiloed ve TypeSafe Jev ile Belge İncelemesi](https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev) `HN`
+- [Bulaşık Makinesi Tezgahı – Frontier Modelleri Bulaşık Makinesini İstifleyebilir mi?](https://github.com/composo-ai/DishwasherBench) `HN`
+- [Show HN: Oynanabilir Bir Mimari Cephe Sentezi](https://claude.ai/artifact/BF6MjSg1RJBsp1ZZiQX6D2) `HN`
+- [AICR v1.0: Açık, kararlı ve doğrulanabilir GPU küme yapılandırması](https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/) `HN`
+- [Show HN: Hafif, kendi kendine barındırılan, web analitiği uygulaması](https://github.com/lmxrd/potoo) `HN`
+- [Telefonunuzu çalıştırmak için yapay zeka tabanlı Android işletim sistemi çalıştıran aracılar](https://github.com/AgentVis-OS/aiphone_assistant) `HN`
+- [Ortaya çıkan ve küreselleşmeye çalışan Çinli veri satıcıları – sağlık verilerine odaklanın](https://aiproem.substack.com/p/does-china-not-have-data-vendors) `HN`
+- [Linus Torvalds "Ben Ne Vaaz Verdiysem Onu Yaptım" Kod Deşifre Edilebilir Hale Getirmek, Hataları Bulmak için Yapay Zekayı](https://www.phoronix.com/news/Linus-Torvalds-Assoc-Array) `HN`
+- [Zevk almadan çöküş çağına hoş geldiniz](https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai) `HN`
+- [Yapay Zekanın Vatikan'dan Baptist Minber'e Esneme Sorunu Var](https://www.wsj.com/tech/ai/ai-has-a-god-problem-stretching-from-the-vatican-to-the-baptist-pulpit-f417b2fd) `HN`
+- [Amazon'da 1 milyondan fazla robot işçi çalışıyor. İnsan çalışanlar için sırada ne var?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/) `HN`
+- [Muse Wonder: Zuckerberg ve Wang'ın 100 milyar $ değerindeki yapay zekası](https://cheekypint.substack.com/p/muse-wonder-zuckerberg-and-wangs) `HN`
+- [Bölüm 11 iflas için Character.ai dosyaları](https://blog.character.ai/an-update-on-character-ai/) `HN`
+- [Show HN: GotEmail – tek tıkla oturum açma kodlarına sahip yerel bir Mac posta uygulaması](https://gotemail.net/) `HN`
+- [Sıfırdan GPU Derleyici Oluşturma](https://www.cloudrift.ai/blog/inside-a-gpu-compiler-from-pytorch-to-cuda) `HN`
+- [Airtable'da sırada ne var?](https://www.airtable.com/newsroom/back-to-bases) `HN`
+- [Show HN: Bifrost – Yüksek performanslı AI ağ geçidi](https://github.com/maximhq/bifrost) `HN`
+- [Googlebook Linux Terminal Önizlemesi: Yapay Zeka ve Geliştirme için VM Destekli Ortam](https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html) `HN`
+- [HN: Proofsource'u göster. Yapay zekanın seni dışarıda bıraktığı yeri bul. Ve düzelt](https://proofsource.co/) `HN`
+- [Yapay Zeka Eğilimi Neden Bir İnsan Sorunudur?](https://ivankahl.com/blog/why-ai-slop-is-a-human-problem/) `HN`
+- [Yapay zeka savaşı, Silikon Vadisi'nin taklitçi kusurunu ortaya çıkardı](https://www.breakingviews.com/columns/big-view/ai-fight-exposes-silicon-valleys-mimetic-flaw-2026-07-03/) `HN`
+- [Epic Games, Disney oyununu erteledi ve geliştiricilere "önce yapay zekaya" gitmelerini söyledi](https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first) `HN`
+- [Yapay Zeka Senin Adına Düşünemiyor](https://humanpro.co/articles/ai-cant-think-for-you/) `HN`
+- [Character.ai iflas başvurusunda bulundu, bazı varlıkları 20 milyon $ karşılığında satmayı kabul etti](https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/) `HN`
+- [Meta, OpenAI ve Anthropic ile rekabet etmek için yeni yapay zeka modellerini piyasaya sürdü - Anadolu Ajansı](https://news.google.com/rss/articles/CBMipgFBVV95cUxNX29ua2N5bHdBX2ZQRHpvd3dNd2FJb09rNG9qWDBub0lUbEdRbDMyb0hKY3Z6NmQtZ0JnRW4tVWloTVVCREY0MGViREFnOEF6STNTeHI1a1diakJveC1RUzNNbUVLWGpJVlc0NHRSTUhfVHMzVTVVazJzZ1RzQXVqcEwxb09kR21kYm0tM3BxTjNYV2pOOHFudVlKNVA5MWdScXJYdkhR?oc=5) `RSS`
+- [Meta Muse Wonder AI, OpenAI'ye 200 $/Ay [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMicEFVX3lxTFBvbGJpeTQ3ell0RU9WNzlGOG5UNmZ3WjMzMnJOQW9lSUJ3NzRFMGJ5LXhnWmxraTRlSjRjT1hUM3JmU3VvZmJZTG4tcndTb3RSRHppMG50UHk3OThZZ2N1aVpXbmZ4S1dHY3ZER3o5cy0?oc=5) `RSS`
