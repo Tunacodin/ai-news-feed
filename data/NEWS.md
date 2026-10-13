@@ -3491,3 +3491,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Meta, OpenAI ile Doğrudan Rekabet Etmek İçin Güçlü Muse Wonder AI Modellerini Açıkladı - TIKR.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFBWek9jcG53Z2tBSUZ6blU3YXdreG8zeXN0bEl3Z1B3aWpFeGhnTmFscy1taHMzMlRQSEkwSGxKTldudkg5dndrTmJkTzFIQl9YMVIxVzhERXNHTlR2MUFzOEdldzBLQU9DVFoxRXJ3TTNURVNNSG1falZHOGJrME0?oc=5) `RSS`
 - [Gemini 4 Argon: En zor sorunlarınızı çözmek için tasarlandı](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) `RSS`
 - [LFM2.5-24B-A2B ile cihazda hızlı, özel aracılar çalıştırın](https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b) `RSS`
+
+- [Show HN: Sugabots – Ekibinizin ve yapay zeka temsilcilerinizin birlikte çalıştığı grup sohbetleri](https://sugabots.ai/) `HN`
+- [Kısa Yapay Zeka Zaman Çizelgelerine Yatırım Yapmak](https://cambrianmanagement.ai/) `HN`
+- [OpenAI mühendisi, şirketin ofisine dinleme cihazı yerleştirmekle suçlanıyor](https://www.cbc.ca/news/world/open-ai-listening-device-fbi-9.7379357) `HN`
+- [Antropik, modellerin akıllı cihazlarda kendi kendini kopyalamasına "aylar" kala "uyardı](https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning) `HN`
+- [Show HN: Yazarken gözlerinizi tek bir yerde tutun](https://claude.ai/artifact/XrdjCJXgerVYbG75qzv3HB) `HN`
+- [Yapay Zekada Heterojenlik: Çıkarımdan Bileşik Sistemlere Giden Yollar (Tez)](https://doi.org/10.26153/tsw/64881) `HN`
+- [Michael I. Jordan'dan yapay zeka üzerine: "Süper zeka bilim kurgudur"](https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html) `HN`
+- [Yapay Zeka Merak Tuzağı](https://plpxsk.github.io/2026/10/13/curiosity-trap.html) `HN`
+- [Show HN: Yığın İhalesi, takviye takibi ve ürün taraması](https://stacktender.com/users/charlie/stacks/memory-and-focus/) `HN`
+- [Show HN: Wonderhop – Günlük bir oyun: çoğu insanın ne dediğini veya ne yapmadığını tahmin edin](https://wonderhop.io/en/) `HN`
+- [Show HN: Parsimony – AI modellerinin ne kadar kod eklediğine dair açık kaynaklı bir kıyaslama](https://parsimony.lasu.dev/) `HN`
+- [Sessiz Matematik Devrimi](https://workflows-of-ai.com/blog/the-quiet-math-revolution) `HN`
+- [Show HN: TERN – Rust/GPUI'da Yerel macOS SSH İstemcisi (76 MB vs. Tabby's 580 MB)](https://github.com/your-moon/tern) `HN`
+- [Show HN: Gerçek Zamanlı ML Yapılandırma Yönetimi ile Daha Hızlı, Daha Ucuz Veri Tabanları Kıvılcımı](https://espresso.ai/post/databricks-spark) `HN`
+- [BAE, anaokulu öğrencileri için yapay zekayı benimsiyor](https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/) `HN`
+- [Show HN: CoreXTrader – Platformlar arası bir İşlem DSL ve Ses AI terminali](https://corextrader.com) `HN`
+- [Yapay Zeka Temettüsü: Yakın Geleceğin Ekonomisi](https://robotpaidmoose.com/) `HN`
+- [Kurucular için Pazarlama Temsilcisi](https://heybono.ai) `HN`
+- [Sakana AI – Japonya'da Building Frontier AI](https://sakana.ai/) `HN`
+- [Yapay zeka güvensizliği GitHub'ın fırsatı](https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html) `HN`
+- [Yapay Zeka 3D Baskılar: Claude'un Varsayılanları Yeterli mi?](https://www.youtube.com/watch?v=qcWOvPLFXgg) `HN`
+- [Show HN: Fabrika DS, Nintendo DS için Faktör Benzeri Bir Oyun](https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/) `HN`
+- [Show HN: Commit - Aware Router, LLM trafiğini AI/bulut taahhütleriniz etrafında yönlendirin](https://github.com/tejaspruthi/CommitAwareRouter) `HN`
+- [Suluboya resimde kullanılan renkler üzerine inceleme (1692)](https://bibliotheque-numerique.citedulivre-aix.com/viewer/35315/?offset=#page=1&viewer=picture&o=info&n=0&q=) `HN`
+- [Show HN: Hatoba, AI asistanı ve E2EE senkronizasyonu olan açık kaynaklı bir SSH istemcisi](https://github.com/scarletkc/Hatoba) `HN`
+- [Gemini 4 Argon'u sorumlu ve güvenli bir şekilde geliştirmek](https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/) `HN`
+- [Muse Wonder AI model ailesi lansmanında meta stoğu yükseldi - Quartz](https://news.google.com/rss/articles/CBMibEFVX3lxTE9yWGw1MVlfR3M5Um1mTWM4YXYtMno1WDJ4T1FJV1hpOW85S2VpYUJDTER6dlM4bk8tdG1zWUcxc2pYZmVPVDFrck5lTV8tbGFPLUQySU5IVkNrdWs5WEJybVBjUHhlN1JNWk5XaQ?oc=5) `RSS`
+- [Meta, İlk Frontier AI Modeli Muse Wonder'ı Başlattı: Capex için Ödeme Yapabilir mi? - Yahoo Finance](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdExEdE1hWE82di1qTS1UWjBldXhtSWs4SVN5Skk3U2hEcjNFbEFfa053ZEYyanlfb25NQkd4SlJLaGp6d0V5N0p1T2NGamxSSm54bkRyQXhaQzFVNWV5cHdnV3JEbmR2cVZiN2J5WnBkYVBCVFZESWJvemdwelV3b1h3YlZDQ042R201ZkZTZXI1T0VpbWd2Zm80SQ?oc=5) `RSS`
+- [Meta, kişisel ve profesyonel acenteler için Muse Wonder AI modellerini piyasaya sürdü - Proaktif finansal haberler](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZTdGbWZjeS1UTDhTU0xTb20ySVJsb2RYbUNST2p0RGtZdHNQWHZDMzZUUWk1ZjFvWVkyY0t1VVZyRjY3SGFpTjQyZjlaZWh5bnRZYnhHelUxNGFOcGlTcGZrODl6aUJEMmhRYTQ4RVpQaENvU1JvemtlMklNeFMtTVpEM1lZZ1ZZbFZ0VzhkS3l3VENkTGpfRURhS2JGQ2tPVlRZLXJvUjdFOWMtdmRrYklkak8xY1dUdkRWNHA5UFRDZHBZamVmaUd2akoybmQ1VEdDakJ3UHQ3c2c?oc=5) `RSS`
+- [Ondas ve Palantir, Egemen Savunma Sistemleri için Regna AI'yı Başlattı - AI Insider](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazhYYTBaSWl4SnNLR2h1TldJNGZDX0NJMVFLTXh1ME9BalpYdE5mcS15VnBMQm82VkhFZXlVTlJrMnk4SEJwWUZxMWR1WTFRLWtLZ1R0RXFQSHdFWkswMjBSVDJaS19xYktoSk1OZDFSWHFpOWZBczFQdVpqNWwxWHFobERPdjNZWWE2M2M2c3JIcklTLUVYTUhJbnhONEZhZnFjNA?oc=5) `RSS`
+- [Higgsfield, yapay zeka videosunu 1 dakikadan 10 dakikanın üzerine çıkarıyor](https://openai.com/index/higgsfield-longer-videos-voice) `RSS`
