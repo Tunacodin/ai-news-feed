@@ -3379,3 +3379,41 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Meta, gelişmiş görev yeteneklerine sahip Muse Wonder AI modellerini piyasaya sürdü - Yahoo Finance UK](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkxDQ0dsOUlfTHVZRGZUbkRjZElicGp6MjFWQnltX2hmQTBxbTUyMUdGalBpLUZPOEk3ZDUyanNTSVhVZlEtNFl3MkVKNW9BaW0yekh5Yk9PSTROZ1FOX3A2VFN6RFdUdjRQa3Y0OTNQUU1fUHVfZmJDNTM4WTUxV0xpYw?oc=5) `RSS`
 - [Meta, ilk sınır modeli Muse Wonder'ı piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkdnR0wyZkdNUGRYU2hGTDdfWTRncjBxeThHRUVhWXRndW5OYU1Ya3FJWEtCdWwwY2d0c1FEd29KWExNN2N1VkRCU01hVW9NYjE5UWFFV3MzNDRpREQ3ZWJVaEhZbXJkN2JEdlV0QXpYcWtETVNXYXFfU1NrWXN6RzI2VjhpcjNtdmhpdnBB?oc=5) `RSS`
 - [Ondas ve Palantir, Savunma Operasyonları için Bağımsız Yapay Zeka Geliştirmek için Regna AI'yı Başlattı - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYndVVFZlUVJ2MmF6SDZjc0trYXBSZERhUjhPUlBkY05QNmp6d0oxRnBDTWk0WGgyeEFldi1ZaTgxbGVfZFBqMDdFYnhQUFY5M0RqTkc0YTY5SWlJUXhKLXV2bzdLUzlhNmg0VUFvZjdwNmxrcTJXUmdCM3lhaVBjczRoSHltSjVLU0V0cl9KMjFlUjNjeVJ5LTR3?oc=5) `RSS`
+
+- [Epic Games'in "önce yapay zeka" oyun geliştirme modeline döndüğü bildirildi](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/) `HN`
+- [Matematik topluluğu, biyo[tıp ]' tan yapay zeka ile yaşamayı öğrenebilir](https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/) `HN`
+- [Reddet, Gözden Geçirme](https://docs.cmd-ctrl.ai/blog/refute-dont-review) `HN`
+- [Boole-1.7B](https://precisionnumerics.ai/blog/boole-1p7b) `HN`
+- [Yapay Zeka Şirketi, Tek Bir İç Fotoğrafa Dayalı Olarak Polislerin Belirli Evleri Tespit Etmesini Sağlıyor](https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/) `HN`
+- [AI – kritik - ML modellerinin görev bilincine sahip denetimi](https://github.com/LuizSeabraDeMarco/ai-critic) `HN`
+- [FrontierCode: Yapay zeka modelleri kod koruyucuları yazabilir mi?](https://artificialanalysis.ai/articles/frontiercode) `HN`
+- [Sınırdaki bir yapay zekayı çok aracılı bir sistem mimarına dönüştürün](https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance) `HN`
+- [SpaceXSI: Grok, Cursor ve X Premium genelinde birleşik planlar](https://x.ai/pricing) `HN`
+- [Bir yapay zeka asistanıyla görüştüğümde nasıl hissettiğimi](https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant) `HN`
+- [CS2680 Modern AI Sistemleri: Ajanlar ve Sistem Optimizasyonları](https://cs2680.seas.harvard.edu/) `HN`
+- [Show HN: Indigene – bulunduğunuz yer için yerli bitkiler](https://indigene.app/) `HN`
+- [Yapay zeka temsilcilerinin kendilerini okuyup yazdıkları, paylaşılan, doğrulanabilir bir düzeltme veritabanı](https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt) `HN`
+- [Show HN: Aynı kurucu ikilemini ChatGPT, Claude ve BAAB AI aracılığıyla yürüttüm](https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai) `HN`
+- [GPT -6 Astra Kindle'ımı Firar Etmeme Yardımcı Oldu](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai) `HN`
+- [Kanadalı yapay zeka şirketi, ticaret gerilimlerinin ortasında ABD hükümetinin çalışmalarına sırtını dönüyor](https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/) `HN`
+- [X Aboneliği](https://x.ai/news/x-subscription) `HN`
+- [Yapay Zeka Neden Şirketleri Daha Verimli Hale Getirmiyor](https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html) `HN`
+- [Veda: İlk Yapay Zeka Ajan Hobisi İşletim Sistemi](https://github.com/vahmoh25/Veda/blob/main/README.md) `HN`
+- [OpenKylin: AI Agent Linux Masaüstü](https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/) `HN`
+- [Tetrad Turu, Bölüm III: Yapay Zekanın Linnaeus'a Neden İhtiyacı Var?](https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs) `HN`
+- [Ukrayna grevleri Rusların sosyal medyadaki dezenformasyonunu patlatmadı](https://www.machinesociety.ai/p/no-ukraine-strikes-didnt-blow-up) `HN`
+- [RenkuOS (Haiku'nun Çatalı)](https://renkuos.org/) `HN`
+- [Yapay zekanın matematik patlaması bilimi yeni bir alana itiyor](https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory) `HN`
+- [Agentic BSS Explained: AI - Native Model, Architecture and Use Cases [pdf]](https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf) `HN`
+- [Broadcom ve Intel'in CEO'ları, Yapay Zeka ve Yatırım Getirisi Hakkında Sessiz Parçayı Yüksek Sesle Söylüyor](https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/) `HN`
+- [Termal Manipülasyon Kullanan Hava Boşluklu Bilgisayarlar Arasındaki Gizli Sinyal Kanalı](https://arxiv.org/abs/1503.07919) `HN`
+- [Linux meraklıları ufukta 10 saniyelik çekirdek derleme süreleri görüyor](https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk) `HN`
+- [Epic'in Geliştiricileri Yapay Zeka Kullanmaya Zorladığı, Star Wars ve Marvel Shooter'ı Geciktirdiği Bildirildi](https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter) `HN`
+- [Yapay zeka bir araçtır ve onu iyi kullanmak beceri gerektirir](https://yyhh.org/blog/2026/10/ai-is-a-tool/) `HN`
+- [Meta, Anthropic ve OpenAI'ye meydan okumak için Muse Wonder AI modellerini piyasaya sürdü](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5) `RSS`
+- [Meta, Rakiplerle Yakalama Oynamak için Muse Wonder AI Modellerini Başlattı - CNET](https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Y0UFdHdXdYYkstX3lYcmRKUUxESnh5cEx1Y0p3ZlgxM0ZoR3N0eEExNWZqaEZGVzYwb1VIRVM4NTdMeDdGazRlUUR6dGl4SWNLUHNIOUxoZGZERThIaDlTRi04WXZPT3Fqc3owNGNVanlWTTZvVTBmTEtQbFVNZjJyVnNSQQ?oc=5) `RSS`
+- [Meta, Yeni Yapay Zeka Modelinin Son Teknoloji Olduğunu, Muse Agent'ı Daha Akıllı Hale Getireceğini Söyledi - WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5) `RSS`
+- [Meta, OpenAI'yi yakalayan Muse Wonder'ı piyasaya sürdü, Anthropic: Nasıl denenir, kıyaslama sonuçları - Mashable](https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5) `RSS`
+- [Meta, rakiplerine meydan okumak için Muse Wonder AI modellerini piyasaya sürdü: New Orleans CityBusiness](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE1XbjNqaEFYU2JrTm5odzR1NURzT2pwRk83OHExX0tGODNEMjhoVFVVRGZqT2VNTnRvX2xjOERiVV9fR2tvZEI5YUtScElvLXUwTkFLVEdTTGZpLWNuT3UxZV8zc2VQZkdZRVg4Tm5KazhCTXVRM2swQXNxSXBHdUduWHg?oc=5) `RSS`
+- [Meta, 2 yeni modelin piyasaya sürülmesiyle AI 'sınırına' ulaştığını iddia ediyor - Daily Sabah](https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTFGUkRWelJhVG9MRDktUmpnV0RfMklKajZFTEtLTkx3OHJSdEhRS1J5WWN2NElaV0J2Zl8teVJza0lNMVpzR0hENFhhZlpzZ0RxTFIzTG44SHhYd2x1Tkd0bk9aYk0xcE5RSjhLYlZFcGE1ZnE0UGhNUTE0VUxKY0NxcTlROFpSTkVObTBfZVNkOUFZNFYtTnBnVVNLRTVWWmpPMw?oc=5) `RSS`
+- [Meta Muse Wonder Fiyatlandırması: $ 4 -$ 200/Ay Açıklandı [2026] - shattered.io](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zemoxS2xyMUE1NDBvNEdXYkVPZTFFX0V0VWR5eklQLWFuZFFTaHhQazVmMmltSWlmcGNuZUdtTzhscU9TdFVaUnZTU19wV3MwTC1hc2lONjFPRzdzTFJreEh2TXA?oc=5) `RSS`
