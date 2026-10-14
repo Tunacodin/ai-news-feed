@@ -3639,3 +3639,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [SentinelOne kötü amaçlı yazılım analizini haftalardan saatlere indirdi](https://openai.com/index/sentinelone) `RSS`
 - [Üçüncü An Araştırması 10.000 ajanı 36+ saat boyunca nasıl çalıştırır?](https://openai.com/index/third-moment-research) `RSS`
 - [HiRO - ACEv2: Maliyetin bir kısmı için 3 km çözünürlükte aşırı hava koşullarının simüle edilmesi](https://huggingface.co/blog/allenai/hiro-acev2) `RSS`
+
+- [Moondream, Prime Intellect'e katılıyor](https://www.primeintellect.ai/blog/moondream) `HN`
+- [Yapay Zeka Kodlama Aracıları Oluşturma Sanatı: Kendi kendini inşa eden kitap](https://github.com/waywardgeek/ensemble) `HN`
+- [Volantis – 88 Milyon $ A Serimiz: Hafıza Duvarını Fotonikle Yıkmak](https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post) `HN`
+- [Build - A - Chip - Bench: iş yükü spesifikasyonundan GDS'ye. En iyi modeller bu konuda sadece % 16 aldı.](https://chipagents.ai/research/build-a-chip-bench) `HN`
+- [8 eyalet, ChatGPT'nin çocuklar için güvenli olmadığını söyleyerek OpenAI'ye dava açtı](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) `HN`
+- [SoftBank'ın hurda tahvil satışı, CEO Son'ın hepsi bir arada yapay zeka bahsi için hisselerini artırdı](https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/) `HN`
+- [18 yaşında yapay zeka şirketim için 300 bin $ başlangıç kredisi aldım: Taktik kitabı](https://devanshranjan.medium.com/im-18-and-got-300k-in-free-startup-credits-for-my-ai-company-here-s-the-exact-playbook-0603a44abcea) `HN`
+- [Otomasyonun Ötesinde Yapay Zekaya Yön Vermek: Bir Araştırma Gündemi ve Eylem Planı](https://www.normaltech.ai/p/steering-ai-beyond-automation) `HN`
+- [Hayalperestler için deneysel özelliklerle birlikte Jev 1.14.0 'ı piyasaya sürüyoruz](https://typesafe.ai/blog/jev-1-14) `HN`
+- [Adam yapay zeka müzik dolandırıcılığı nedeniyle 18 ay hapis cezasına çarptırıldı](https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music) `HN`
+- [Veda – Sıfırdan İnşa Edilmiş Yapay Zekaya Dayalı Bir İşletim Sistemi](https://github.com/vahmoh25/Veda/commit/4ff28a2a4530799f72117057c428a4eed3392bb4) `HN`
+- [Hangi modellerin hızlandığı ve uzmanlığın hala önemli olduğu yerler](https://research.meta.ai/static/observational-research-with-muse-models) `HN`
+- [Yapay zeka işgücü kıyameti beklemede (şimdilik)](https://english.elpais.com/economy-and-business/2026-10-11/the-ai-labor-apocalypse-is-on-hold-for-now.html) `HN`
+- [Meta Oakley Yapay Zeka Gözlükleri ve Dijital Mezura ile 3D Model Yapımı [video]](https://www.youtube.com/shorts/g2mN4-uiW58) `HN`
+- [Slay the Spire ve devamında yapay zeka sistemleri hızla gelişiyor](https://epoch.ai/publications/ai-systems-are-improving-rapidly-at-slay-the-spire-and-its-sequel) `HN`
+- [GitHub Eylemleri için mühürlü yürütme ortamı](https://github.com/nolabs-ai/runseal) `HN`
+- [Akademide yapay zekayı reddetmeliyiz](https://aeporreca.org/blog/why-we-should-reject-ai-in-academia/) `HN`
+- [Show HN: Checkobot – Derin Yüzeyleri ve Yapay Zeka Görüntülerini Algıla](https://checkobot.ai) `HN`
+- [HN: OSS AI mühendislik telemetrisini komut veya kod toplamadan göster](https://github.com/ascendaone-com/ai-engineer-tools) `HN`
+- [Anthropic's Scion: Beş Ayda Dört Yıllık Bir Proje](https://secondthoughts.ai/p/anthropics-scion-software-development) `HN`
+- [Show HN: Dub Anything – Her oyuncunun kendi sesiyle dublaj videoları](https://github.com/swax/dub-anything) `HN`
+- [Epic Games, yeni mağazasının vibe kodlu olmasıyla övünüyor](https://www.destructoid.com/epic-games-store-ai-vibe-coded/) `HN`
+- [İkizler 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) `HN`
+- [Yapay zeka temsilcileri sonuçlarını abartıyor ve özerk olmaktan uzak kalıyor](https://www.renascence.io/news/104630/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-) `HN`
+- [Gerçek Örneklerle Pipedream İş Akışlarını FlowRunner'a Dönüştürme](https://flowrunner.ai/blog/pipedream-to-flowrunner-conversions) `HN`
+- [Show HN: AI Interview Index – hangi şirketler kodlama görüşmelerinde AI'ya izin veriyor](https://aiinterviewindex.com) `HN`
+- [Yapay zeka güvenlik parası siyasete akıyor](https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million) `HN`
+- [Yapay Zeka Neden Yoda Gibi Yazıyor?](https://www.oreilly.com/radar/why-does-ai-write-like-yoda/) `HN`
+- [IMF raporu yapay zeka sektörünün ortadan kalkmasının küresel finansal bulaşma riski taşıdığı uyarısında bulundu](https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans) `HN`
+- [HN'yi göster: Yapay zeka tarafından oluşturulan mantığı uygulamanızın içinde güvenle çalıştırın](https://stof.dev/) `HN`
