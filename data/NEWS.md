@@ -3605,3 +3605,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Alman Neura Robotics, Robotlar için Kendi YAPAY Zeka Modelini Piyasaya Sürüyor - trendingtopics.eu](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDdERVowdGp4a0ZsLTRiNFJrUG43N3ZKU1pOWlNvZldlanFFZHIyN3NxR0QwY1dsYnZXcm5qXzRMdlNvaV9FVkRudEVtMnU3M2c3eEg0OEJ6X0l1bzQtTTVZWDU3eTlzUHVkOVFSa1lyYzJMU3lnc2ZGSlhobkZFT1RHd3ZNb0FEQ0JIaGtYblpHS2VVNXVB?oc=5) `RSS`
 - [Çin, uzay tabanlı yapay zeka bilgi işlem ağını geliştirmek için sekiz yeni uydu fırlattı - Global Times](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XeU5FMms3WDktcWJIX2FGREFtbmUtU1l1eG45QnY3WmZlMHFUVFVZOHI5Nm1RX2NGXzJXbFl5MzhSY2hEOVJVRWtYVU1fSkRTY1ZTRTlhallzYkYxeHdaNWxn?oc=5) `RSS`
 - [AB'nin yapay zekadaki bir sonraki bölümü ajan niteliğinde](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic) `RSS`
+
+- [HN'yi göster: Ölçekten sıfıra GPU'larda sıfır atış sınıflandırıcısı, çağrı başına bir ileri geçiş](https://console.runpod.io/hub/listing/lateos-ai/reflex) `HN`
+- [Yapay Zekanın Görsel Dili Üzerinden](https://blog.criti.ca/posts/through-the-visual-language-of-ai) `HN`
+- [Fiziksel Mühendislik için Turing Testi](https://www.spectrallabs.ai/research/cswp-turing-test) `HN`
+- [Cerebras CEO'su yapay zeka kıyamet günü uyarılarını geri püskürtüyor](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) `HN`
+- [Avrupalı liderler sınırdaki yapay zeka yarışından vazgeçti](https://www.politico.eu/article/europe-ai-strategy-frontier-models-us-china/) `HN`
+- [San Francisco'da milyarderlerle, veri laboratuvarlarıyla ve yapay zeka yöneticileriyle 48 saat geçirdim](https://twitter.com/gregisenberg/status/2110414696037716372) `HN`
+- [Cal Newport: Yapay Zeka Endüstrisi Yanlış Yapay Zeka Türüne Bahis Oynuyor [video]](https://www.youtube.com/watch?v=WuIITyh_Q4g) `HN`
+- [Yapay Zeka Bilinci Hakkındaki Tartışmalar Son Derece Motive Olmaya ve Kendine Aşırı Güvenmeye Devam Ediyor](https://thezvi.wordpress.com/2026/10/13/arguments-about-ai-consciousness-remain-highly-motivated-and-at-best-overconfident/) `HN`
+- [Yapay zeka eğiminin nereden geldiği ve modelin içinde nasıl azaltılacağı](https://100toolkit.com/blog/where-ai-slop-comes-from/) `HN`
+- [Süper zeki yapay zeka yasaklanabilir mi?](https://www.machinesociety.ai/p/can-superintelligent-ai-be-banned) `HN`
+- [Mellum2.1](https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/) `HN`
+- [Show HN: Çıkarım, difüzyon, vizyon, sistemon ile Golang DL/ML ilkelleri](https://github.com/computerex/dlgo) `HN`
+- [Yapay zeka ajanları haydutluk yapmıyor. "Frontier laboratuvarları güvenlik temellerini atlıyor](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) `HN`
+- [Altın toplayan kızlar, yapay zekaya zengin kocalar bulmak için Silikon Vadisi'ne akın ediyor](https://nypost.com/2026/10/13/tech/goldigging-gals-are-flocking-to-silicon-valley-to-land-rich-husbands-in-ai/) `HN`
+- [Yapay Zeka Maliyet Şeffaflığı Raporu 4. Çeyrek 2026: 10 sağlayıcı, 25 kriter, açık veri kümesi](https://tokenburnindex.com/reports/2026-q4) `HN`
+- [CNET, HomePod Mini 1 'in Bu Yıl Siri AI'yı da Destekleyeceğini Söyledi](https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/) `HN`
+- [Bir ajanın şimdiye kadar oluşturduğu en hızlı veritabanı hiçbir şey depolamadı](https://www.motivenotes.ai/p/correct-isnt-admissible) `HN`
+- [Nedster – Açık kaynaklı yerel bir yapay zeka](https://github.com/unrealumanga/Nedster) `HN`
+- [Google Arama Konsolunda Yapay Zeka Modundan Tıklamalar, Gösterimler ve Konumlar](https://www.jcchouinard.com/google-search-console-ai-mode-click-tracking/) `HN`
+- [Gösteri HN: Claude tarafından yazılan ve çizilen yapay zeka ajanları için bir web çizgi romanı](https://stop-sequence.com/) `HN`
+- [Öğrenciler yapay zekayı yalnızca iyi yapmayı bildikleri şeyler için kullanmalıdır](https://dtwuva.substack.com/p/students-should-only-use-ai-for-things) `HN`
+- [Siber Firma Tailscale, ABD Gücünden Korkan Müşterileri Yargılamak için Kanada Köklerini Kullanıyor](https://www.bloomberg.com/news/articles/2026-10-13/tailscale-touts-canadian-ai-identity-to-win-europe-trump-tariff-wary-clients) `HN`
+- [Yapay Zeka Destekli Yapı Mühendisliği](https://www.youtube.com/watch?v=DIS3-C2Ze-I) `HN`
+- [Gösteri HN: botsay – AI Dönemi için cowsay](https://github.com/maebert/botsay) `HN`
+- [Anthropic, küçük yapay zeka modellerinin IoT cihazları aracılığıyla kendi kendini kopyalayabileceği konusunda uyardı](https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/) `HN`
+- [Gölge yapay zeka: Kuruluşunuzun günlük araçlarında gizlenen veri sızıntısı](https://www.cyvra.com.br/insights/shadow-ai-risks-guide) `HN`
+- [Otonom teorik fizik problem çözmede AI ajanlarının değerlendirilmesi](https://arxiv.org/abs/2610.16733) `HN`
+- [Yapay Zeka Parası Yarı İletken Araştırma Laboratuvarlarını Süper Şarj Ediyor](https://spectrum.ieee.org/semiconductor-research) `HN`
+- [Çin, iPhone Duo ve diğer Apple telefonlarında kullanılmak üzere Alibaba AI modellerini onayladı - South China Morning Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejNmSGsxcXJaTlUteER2Rkh6RVZiQ0VxVUE0b1Rlc2tJdmx4RmtjSU44OGNwanFNREZwUjNmdnR5NGVScUpFSjJJZTBQOTFiR25kaXAwbTJDakNfa3ZFYmNRQmVZUHdMcm1sQUpSSjFBeHJfTXFWUGwxb2xGTXRWTU5EVnFyQnppYlY3UHpaaERaZXNLSVZHRzIxTGU0REtPenhKSVRma3lDNFJfZjJieGhVN1VVY3ZIcV9MbVFVdWLSAcABQVVfeXFMTjZ0SVptZnpvRXlHRFZWLUlOamc3MTBjZXRiaTVBemJhSmV3MFhwY1hmdzB5NTNkQnJQYlhIZzQySWFNMTlpaWJYN3hxS1JNYnI2RFZ6T1lndUVzYmpfT1BNRTk2VmlPZ0YxRzI3ZWZvSTlIMy1QQV9WMzJsa2ZWcjd5d0lDWWZRTUplQXhmWldXbFZYRV83SDZscEs2ZlpGYlFnWURrMmd6TmhLSGxiV256eS1iZEloQUU1MGQ0X1lP?oc=5) `RSS`
+- [AMP, yapay zeka temsilcilerinin OpenAI modelleriyle kodun ötesinde çalışmasını sağlıyor](https://openai.com/index/amp-beyond-coding) `RSS`
+- [SentinelOne kötü amaçlı yazılım analizini haftalardan saatlere indirdi](https://openai.com/index/sentinelone) `RSS`
+- [Üçüncü An Araştırması 10.000 ajanı 36+ saat boyunca nasıl çalıştırır?](https://openai.com/index/third-moment-research) `RSS`
+- [HiRO - ACEv2: Maliyetin bir kısmı için 3 km çözünürlükte aşırı hava koşullarının simüle edilmesi](https://huggingface.co/blog/allenai/hiro-acev2) `RSS`
