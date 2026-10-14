@@ -3572,3 +3572,36 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [OCP 2026: Agentic AI, Veri Merkezini Çipten Izgaraya İtiyor](https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid) `HN`
 - [Yapay Zeka Ölçeklendirmesi ve İnsan Ölçeklendirmesi](https://www.tobyord.com/writing/ai-scaling-vs-human-scaling) `HN`
 - [Meta, Muse Wonder AI model ailesini sınır düzeyinde performansla piyasaya sürdü - Yahoo Finance](https://news.google.com/rss/articles/CBMizgFBVV95cUxQN21uMUdIRlZ3NzFkYzFKcHNCNEprVU9MUEgtQU0tYXdRVDh4TXh0XzhYZUlSTU9SejJyeUpfV2ZGRWJzQnZUcmk2a0diTmI2V2RlWjJWdzB1dVZfNDlsZVd4NTBkSjlvVzVSREJtdlYxT3VMZGhVVkRoZzZBcGlmR3Z6YnE3bjZjZEF6Z245RUltWjNHSEtONHRMTjJmazJ5Qk1Ebl9XYTl1MVQ3UmVfcndwZmU4S2VPQ1A3UzVrb3B5cmZqN2dUOXlFZTVlQQ?oc=5) `RSS`
+
+- [15 Yaşındaki MacBook Air'i Yeniden Kullanmak](https://tylersticka.com/journal/repurposing-a-15-year-old-macbook-air/) `HN`
+- [Hiçbir şey olmadı: Canlı bir işte 84 yapay zeka temsilcisi başarısız oldu, 10 'u otomatik olarak yakalandı](https://github.com/taylorancapital/nothing-threw/blob/main/TEN_OF_EIGHTY_FOUR.md) `HN`
+- [Show HN: Veduta – GenUI'li Kişisel Temsilci](https://github.com/Ic3b3rg/veduta) `HN`
+- [Yapay zeka ticaret dönemi: 7 e - ticaret lideri hala bozuk olan şey hakkında](https://thenextweb.com/news/ai-commerce-gap-ecommerce-leaders-ai-agents) `HN`
+- [İkizler 4: Yapay Zekalı Bilgisayar Korsanları İçin Yeni Bir Umut](https://www.tenzai.com/blog/gemini-4-a-new-hope) `HN`
+- [Cloudflare Clef ile yapay zeka aracı davranışı sapma analizi](https://arcjet.com/blog/how-we-built-ai-agent-behavior-drift-analysis-with-cloudflare-clef) `HN`
+- [Orijinal AIM, AOL Masaüstü ve ICQ platformlarını yeniden oluşturmak için oluşturulmuş bir hizmet](https://www.nina.chat/) `HN`
+- [Show HN: AI aracınız için gömülebilir bir docx/XLSX/PPTX düzenleyici SDK'sı](https://playground.developers.thinkfree.com/playground/editor-ai-sdk/) `HN`
+- [Yapay zeka tarafından oluşturulan Lego ejderha talimatları](https://rebrickable.com/mocs/MOC-279643/RedNifre/10698-ai-generated-dragon/#details) `HN`
+- [Yapay Zekanın Geleceği Üzerine Yapay Zeka](https://hughhowey.com/ai-on-ais-future/) `HN`
+- [Show HN: Evlat, AI ajanlarından hangilerinin seni beklediğini gör](https://evlat.kalaomer.com/) `HN`
+- [Google Gemini 4 Argon'u gönderiyor, Amex acente satın alma yetkisini başlattı, artı](https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-10-14) `HN`
+- [Jev ile 12 saatte 38 proje inşa ederken öğrendiklerimiz](https://gc.ai/blog/what-we-learned-building-38-projects-with-jev-in-12-hours) `HN`
+- [Çin, yapay zeka yarışında ABD'yi geçecek mi? (Grafiklerde)](https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html) `HN`
+- [Yapay Zeka Patlaması ABD Cari Hesabını Etkiledi mi?](https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/) `HN`
+- [DeepMind ve Singapur, dolandırıcılık tespiti için cihaz üzerinde bir Gemma modeline ince ayar yapıyor](https://deepmind.google/blog/on-device-ai-scam-detection-mddi/) `HN`
+- [Yapay Zeka CEO Röportajları](https://www.youtube.com/watch?v=DlTNN0gvkLM) `HN`
+- [Gösteri HN: Yapay zeka temsilcim tarihsiz piyasa rakamları vermeye devam etti, bu yüzden PreReason'ı oluşturdum](https://www.prereason.com/) `HN`
+- [A curl audit by Aisle](https://daniel.haxx.se/blog/2026/10/14/a-curl-audit-by-aisle/) `HN`
+- [Show HN: Busymail – AI temsilcileri için bir MCP sunucusuna sahip bir IMAP e - posta istemcisi](https://busymail.app/) `HN`
+- [Yapay zeka araştırmacıları, diğer araştırmacılara sinyal vermek için sigara içmeye başlıyor](https://twitter.com/firesidealpha/status/2109310806005596521) `HN`
+- [Humxn, Robotik Eğitimi için Nitelikli İşlem Verilerini Satın Almak İçin 50 Milyon $ Taahhüt Etti](https://markets.businessinsider.com/news/stocks/humxn-research-labs-wants-to-buy-50-million-worth-of-skilled-trades-farming-and-manufacturing-data-for-ai-robotics-training-1036622854) `HN`
+- [Şirketler yapay zekaya koştu. Şimdi bazıları geri çekiliyor](https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout) `HN`
+- [Show HN: Cenevre, HTML/CSS grafikli bir Rust FFmpeg CLI alternatifi](https://genevarender.com) `HN`
+- [Show HN: 24 şirketten 1.600 uzaktan yapay zeka eğitimi işi topladım](https://aitrainerjobs.co/) `HN`
+- [Yapay zeka tarafından üretilen proteinler için SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) `HN`
+- [Yapay Zekanın Yorumlanabilirliğinin Ölü Somonları](https://arxiv.org/abs/2512.18792) `HN`
+- [Show HN: Boostmyagents – README rozeti, kullanıcılarınızın yapay zeka kullanımınız için ödeme yapmasını sağlar](https://boostmyagents.com/) `HN`
+- [Muse Wonder AI Modellerinin Piyasaya Sürülmesiyle Meta Hisse Senedi % 3,4 Yükseldi [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMieEFVX3lxTE9tV1dpM2pyS2JOUnJ6UmRPYmtYOTRtd1hTblNBRi16eHl4d3lrNG9zS3V3YjN4MUtuUlhsMjJrTVlkOHpfM0xtYW1qbFNOc2VveUpsNVRsdmgzalFVa3pzemttS1otZnd2TFlYR0g1LThUX2xfNXdCXw?oc=5) `RSS`
+- [Alman Neura Robotics, Robotlar için Kendi YAPAY Zeka Modelini Piyasaya Sürüyor - trendingtopics.eu](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDdERVowdGp4a0ZsLTRiNFJrUG43N3ZKU1pOWlNvZldlanFFZHIyN3NxR0QwY1dsYnZXcm5qXzRMdlNvaV9FVkRudEVtMnU3M2c3eEg0OEJ6X0l1bzQtTTVZWDU3eTlzUHVkOVFSa1lyYzJMU3lnc2ZGSlhobkZFT1RHd3ZNb0FEQ0JIaGtYblpHS2VVNXVB?oc=5) `RSS`
+- [Çin, uzay tabanlı yapay zeka bilgi işlem ağını geliştirmek için sekiz yeni uydu fırlattı - Global Times](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XeU5FMms3WDktcWJIX2FGREFtbmUtU1l1eG45QnY3WmZlMHFUVFVZOHI5Nm1RX2NGXzJXbFl5MzhSY2hEOVJVRWtYVU1fSkRTY1ZTRTlhallzYkYxeHdaNWxn?oc=5) `RSS`
+- [AB'nin yapay zekadaki bir sonraki bölümü ajan niteliğinde](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic) `RSS`
