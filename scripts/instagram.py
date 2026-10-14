@@ -468,6 +468,10 @@ def _kucuk(s):
     return (s or "").replace("İ", "i").replace("I", "ı").casefold()
 
 
+def _sik(w):
+    return re.sub(r"(.)\1+", r"\1", w)  # collapse repeated letters
+
+
 def _json(p, varsayilan):
     try:
         return json.loads(p.read_text(encoding="utf-8"))
@@ -509,7 +513,9 @@ def otodm_tur(kuru=False, log=print):
                 continue
             if datetime.datetime.strptime(y["timestamp"], "%Y-%m-%dT%H:%M:%S%z").timestamp() < sinir:
                 continue
-            if kelime not in re.findall(r"\w+", _kucuk(y.get("text"))):
+            # tolerant match: "Klippp" -> "klip"; rule "esler": ["clip"] adds aliases
+            hedef = {_sik(x) for x in [kelime] + [_kucuk(e) for e in kural.get("esler", [])]}
+            if not hedef & {_sik(w) for w in re.findall(r"\w+", _kucuk(y.get("text")))}:
                 continue
             log(f"@{y.get('username')} -> {kelime}: {(y.get('text') or '')[:60]}" + (" (kuru)" if kuru else ""))
             if kuru:
