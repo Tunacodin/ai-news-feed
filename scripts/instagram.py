@@ -497,14 +497,23 @@ def otodm_tur(kuru=False, log=print):
     durum = _json(OTODM_DURUM, {"islenen": {}})
     # "baslangic" (unix ts) in otodm.json: comments older than this are never touched
     sinir, n = max(time.time() - 7 * 86400 + 600, _json(OTODM, {}).get("baslangic", 0)), 0
-    # explicit binding for posts whose CTA is only spoken in the video: "medya": ["<media id>"]
+    # rule key is a name; the comment keyword is "kelime" (default: the key), so two posts can share
+    # one keyword with different messages. "medya": ["<media id>"] binds a post to a rule explicitly.
     bagli = {mid: k for k, v in kurallar.items() for mid in v.get("medya", [])}
     for m in istek(f"{uid}/media", {"fields": "id,caption", "limit": 15, "access_token": tok}).get("data", []):
-        k = CTA_DESEN.search(m.get("caption") or "")
-        kelime = bagli.get(m["id"]) or (_kucuk(k.group(1)) if k else "")
-        kural = kurallar.get(kelime)
+        ad = bagli.get(m["id"])
+        if not ad:
+            # caption CTA only picks a rule that is not bound to specific posts, and only if unambiguous
+            k = CTA_DESEN.search(m.get("caption") or "")
+            adaylar = [a for a, v in kurallar.items() if k and not v.get("medya")
+                       and _kucuk(v.get("kelime", a)) == _kucuk(k.group(1))]
+            if len(adaylar) > 1:
+                log(f"{m['id']}: '{k.group(1)}' birden cok kurala uyuyor, kurala medya ekle")
+            ad = adaylar[0] if len(adaylar) == 1 else None
+        kural = kurallar.get(ad)
         if not kural:
             continue
+        kelime = _kucuk(kural.get("kelime", ad))
         for y in _tum(f"{m['id']}/comments", {"fields": "id,text,timestamp,username,replies{username}", "limit": 50, "access_token": tok}):
             if y["id"] in durum["islenen"] or _kucuk(y.get("username")) == ben:
                 continue
