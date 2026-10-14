@@ -3547,3 +3547,28 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Suudi Arabistan Vatandaşı, OpenAI Ofisini Dinlemekle Suçlanıyor](https://www.wsj.com/tech/ai/saudi-national-charged-with-bugging-openais-office-7e960aad) `HN`
 - [IMF, yapay zeka balonunun patlayıp küresel ekonomiyi de beraberinde götürebileceği uyarısında bulundu](https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781) `HN`
 - [Meta, kullanıcıların ödeme istekliliğinin en son testinde Muse Wonder AI modelini piyasaya sürdü - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5) `RSS`
+
+- [Show HN: Agent Identity – AI agent için kimlik ve iletişim altyapısı](https://www.agent-identity.dev/) `HN`
+- [Yapay zeka kullanırken nasıl daha hırslı olunur?](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/) `HN`
+- [Araç mı otomasyon mu? Her seferinde kararı siz verin](https://claude.ai/public/artifacts/81970b33-4697-4226-aef6-ca669d900d68) `HN`
+- [Yapay zeka fizibiliteyi neredeyse önemsiz hale getirdi. Dokunulmadı: değer, uygulanabilirlik veya kullanılabilirlik](https://www.leadinginproduct.com/p/vibe-coding-product-management) `HN`
+- [NetBSD yeni bir rol bulmuş olabilir: AI içermeyen Foss OS](https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818) `HN`
+- [Character.ai'nin İflas Belgeleri Yapay Zekanın Ekonomisinin Çalışmadığını Gösteriyor](https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/) `HN`
+- [Antropik, yapay zeka kıyamet korkularını körüklemek için henüz var olmayan bir tehdit oluşturuyor](https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866) `HN`
+- [Disney, Character.ai'nin varlıkları için 20 MİLYON $ tutarında bir anlaşma yaptı](https://www.latimes.com/business/story/2026-10-13/disney-strikes-20-million-deal-for-character-ais-assets-as-ai-startup-files-for-bankruptcy) `HN`
+- [Hipersonik Araçların Önündeki Havayı Lazerlerle Patlatmak Kilidi Açabilir (2020)](https://www.twz.com/33859/blasting-the-air-in-front-of-hypersonic-vehicles-with-lasers-could-unlock-unprecedented-speeds) `HN`
+- [Show HN: SuperLocalMemory"Asla blöf yapmayan yapay zeka beyni: Laya, Jev, Google Gemma](https://github.com/qualixar/superlocalmemory) `HN`
+- [Yapay Zeka Klonlamayı Test Ettim ve Düşündüğünüzden Daha Kötü [video]](https://www.youtube.com/watch?v=KC31K-CUC5Y) `HN`
+- [Yapay zeka vaftiz babası Geoffrey Hinton: "Uzaylı varlıklar yaratıyoruz"](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech) `HN`
+- [Linus Torvalds, "anlamsız çekme istekleri" konusunda "daha katı olmaya" başlayacak](https://www.theregister.com/oses/2026/05/25/linus-torvalds-to-start-being-more-hardnosed-about-pointless-pull-requests-some-of-which-come-from-ais/5245549) `HN`
+- [Show HN: Yapay zeka beslenme koçu Fabee, sana uygun tavsiyeler al.(iOS)](https://heyfabee.app/) `HN`
+- [Yapay zeka kodun çoğunu şimdi yazıyor. Bu durum yazılım mühendislerini nerede bırakıyor?](https://blog.msar.me/ai-writes-most-of-the-code-now-where-does-that-leave-us) `HN`
+- [Show HN:AgentGate - AI aracı araçları için hızlı yetkilendirme ağ geçidi](https://github.com/mohitdebian/AgentGate) `HN`
+- [Mano - P: Bulut Bağımlılıkları Olmadan Cihaz İçi GUI Aracısı Kurma](https://github.com/Mininglamp-AI/Mano-P) `HN`
+- [Hafıza ve rüya görme: Devin sizinle çalışmaktan nasıl öğrenir?](https://devin.ai/blog/memory-and-dreaming) `HN`
+- [Sansürsüz yapay zeka sohbet robotlarının tam listesi](https://nonrestrictive.chat/) `HN`
+- [Show HN: GenClass, Asla atmayan hataları yakalayan 10 MB tarayıcı içi model](https://www.npmjs.com/package/@genclass/runtime) `HN`
+- [İnsan Yargısını Korumak İçin Yapay Zeka Mahkemelerine İhtiyacımız Var](https://paxmachina.ai/to-keep-human-judgment-we-need-ai-courts) `HN`
+- [OCP 2026: Agentic AI, Veri Merkezini Çipten Izgaraya İtiyor](https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid) `HN`
+- [Yapay Zeka Ölçeklendirmesi ve İnsan Ölçeklendirmesi](https://www.tobyord.com/writing/ai-scaling-vs-human-scaling) `HN`
+- [Meta, Muse Wonder AI model ailesini sınır düzeyinde performansla piyasaya sürdü - Yahoo Finance](https://news.google.com/rss/articles/CBMizgFBVV95cUxQN21uMUdIRlZ3NzFkYzFKcHNCNEprVU9MUEgtQU0tYXdRVDh4TXh0XzhYZUlSTU9SejJyeUpfV2ZGRWJzQnZUcmk2a0diTmI2V2RlWjJWdzB1dVZfNDlsZVd4NTBkSjlvVzVSREJtdlYxT3VMZGhVVkRoZzZBcGlmR3Z6YnE3bjZjZEF6Z245RUltWjNHSEtONHRMTjJmazJ5Qk1Ebl9XYTl1MVQ3UmVfcndwZmU4S2VPQ1A3UzVrb3B5cmZqN2dUOXlFZTVlQQ?oc=5) `RSS`
