@@ -1,0 +1,43 @@
+name: otodm
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # her 5 dakikada (GitHub yogunken gecikebilir)
+  workflow_dispatch:
+    inputs:
+      kuru:
+        description: "Kuru tur (DM göndermeden yalnız listele)"
+        type: boolean
+        default: true
+permissions:
+  contents: read
+concurrency: otodm          # ayni yoruma iki tur birden dokunmasin
+jobs:
+  tur:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: scripts/instagram.py
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # islenen yorumlar (otodm_durum.json) turlar arasi cache'te tasinir
+      - uses: actions/cache@v4
+        with:
+          path: yerel/instagram/otodm_durum.json
+          key: otodm-${{ github.run_id }}
+          restore-keys: otodm-
+      - name: kurallar
+        run: |
+          mkdir -p yerel/instagram
+          printf '%s' "$OTODM_JSON" > yerel/instagram/otodm.json
+        env:
+          OTODM_JSON: ${{ secrets.OTODM_JSON }}
+      - run: python scripts/instagram.py otodm ${{ inputs.kuru && '--kuru' || '' }}
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_KULLANICI: ${{ secrets.IG_KULLANICI }}
+          PYTHONIOENCODING: utf-8
