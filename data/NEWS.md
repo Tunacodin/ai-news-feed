@@ -3523,3 +3523,27 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Meta, kişisel ve profesyonel acenteler için Muse Wonder AI modellerini piyasaya sürdü - Proaktif finansal haberler](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZTdGbWZjeS1UTDhTU0xTb20ySVJsb2RYbUNST2p0RGtZdHNQWHZDMzZUUWk1ZjFvWVkyY0t1VVZyRjY3SGFpTjQyZjlaZWh5bnRZYnhHelUxNGFOcGlTcGZrODl6aUJEMmhRYTQ4RVpQaENvU1JvemtlMklNeFMtTVpEM1lZZ1ZZbFZ0VzhkS3l3VENkTGpfRURhS2JGQ2tPVlRZLXJvUjdFOWMtdmRrYklkak8xY1dUdkRWNHA5UFRDZHBZamVmaUd2akoybmQ1VEdDakJ3UHQ3c2c?oc=5) `RSS`
 - [Ondas ve Palantir, Egemen Savunma Sistemleri için Regna AI'yı Başlattı - AI Insider](https://news.google.com/rss/articles/CBMipAFBVV95cUxQazhYYTBaSWl4SnNLR2h1TldJNGZDX0NJMVFLTXh1ME9BalpYdE5mcS15VnBMQm82VkhFZXlVTlJrMnk4SEJwWUZxMWR1WTFRLWtLZ1R0RXFQSHdFWkswMjBSVDJaS19xYktoSk1OZDFSWHFpOWZBczFQdVpqNWwxWHFobERPdjNZWWE2M2M2c3JIcklTLUVYTUhJbnhONEZhZnFjNA?oc=5) `RSS`
 - [Higgsfield, yapay zeka videosunu 1 dakikadan 10 dakikanın üzerine çıkarıyor](https://openai.com/index/higgsfield-longer-videos-voice) `RSS`
+
+- [Bilim Topluluğundan Yapay Zeka ve Siber Güvenlik Üzerine Açık Mektup](https://ai-security-letter.org/) `HN`
+- [HN'yi göster: Yapay zeka zihnini okuyabilir mi?](https://jeffyclassify.com/blog/mind-reader/) `HN`
+- [Show HN: AI Hub – Öğrencilere AI'yı Öğretmek için Açık Erişim Ders Planları](https://aihub.remakelearning.org/) `HN`
+- [Elmalardan Elmalara: LLM Tabanlı Kod Çevirisinde Tip Eşlemelerinin Doğru Alınması](https://www.codemetal.ai/research/apples-to-apples-getting-type-mappings-right-in-llm-based-code-translation) `HN`
+- [Yapay zeka liderlerinin ne söylediğini ve videoda görüşlerinin nasıl değiştiğini izlemek için bir araç geliştirdim](https://blumify.io/people) `HN`
+- [Character.ai, Bölüm 11 iflas başvurusunda bulunur. Disney teklif verdi](https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html) `HN`
+- [Yapay Zekanın Duygulara Sahip Olmasına Kim Karar Verdi?](https://middlelayer.substack.com/p/who-decided-ai-gets-to-have-feelings) `HN`
+- [Yapay Zeka, Aşırı Savaş ve Ahir Zaman Faşizmi](https://efturnip.substack.com/p/ai-hyperwar-and-end-times-fascism) `HN`
+- [HN'yi göster: Uygulamaların dağıtımında karşılaştırma kodlama aracıları](https://github.com/cloudishai/ai-deploy-bench) `HN`
+- [OpenAI çalışanı konferans odasına dinleme cihazı yerleştirdiği iddiasıyla tutuklandı](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) `HN`
+- [Yapay zeka insanları ne kadar iyi tahmin ediyor?](https://simulacrabench.org/) `HN`
+- [Show HN: Jevcrawl – Tarama döngüsünde LLM içermeyen AI temsilcileri için bir web tarayıcısı](https://github.com/RayenMlayeh/jevcrawl) `HN`
+- [Yapay zekanın sessiz güvenlik görevlileri ilgi odağı oluyor](https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html) `HN`
+- [Amex, yapay zeka temsilcilerinin yetkisiz satın alma işlemlerini önlemek için bir çerçeve sunuyor](https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/) `HN`
+- [Show HN: Yapay zeka modelleri makinenizde çalışan bir Mac bütçeleme uygulaması olan Pulse Local](https://pulseos.finance) `HN`
+- [Show HN: Wonderhop – Günlük bir oyun: çoğu insanın ne dediğini veya ne yapmadığını tahmin edin](https://wonderhop.io/en/) `HN`
+- [Yapay Zeka Yüz Derecelendirmesi – Yüz Derecelendirmenizi Ücretsiz Keşf](https://face-rating.app/) `HN`
+- [Google'ın yeni modeli Argon, yalnızca Antigravity'deki ultra kullanıcılara açık](https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/) `HN`
+- [Xbox, yapay zeka destekli oyun bağlantı noktalarının kaosunu resmen kucaklıyor](https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration) `HN`
+- [Kuvars web sitesi esas olarak yapay zeka destekli bir muhabir tarafından üretilmiştir](https://pressgazette.co.uk/publishers/digital-journalism/quartz-website-mainly-produced-by-one-ai-assisted-reporter-writing-50-stories-per-day/) `HN`
+- [Suudi Arabistan Vatandaşı, OpenAI Ofisini Dinlemekle Suçlanıyor](https://www.wsj.com/tech/ai/saudi-national-charged-with-bugging-openais-office-7e960aad) `HN`
+- [IMF, yapay zeka balonunun patlayıp küresel ekonomiyi de beraberinde götürebileceği uyarısında bulundu](https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781) `HN`
+- [Meta, kullanıcıların ödeme istekliliğinin en son testinde Muse Wonder AI modelini piyasaya sürdü - CNBC](https://news.google.com/rss/articles/CBMid0FVX3lxTE11QldFTGNiMGg4N0FwZHE0OGl5ZTBoZkZGdnBjZ1ZyOURmb1lxUHZScVViOXQzMzNmZnJBdlNPbE1xdkVTWEpLSXVPR1R1ajRmTElvSi1JNG5YbHk0SnlnUUhVZzR5SG16YXZyMWFQQWQ2YzRUUmpZ0gF8QVVfeXFMUFVKWjBUSUhEcDFKSk1lQ2M0dVNWMHYtZVVlbkRfS0ZTVnZIQ0E2elc1UEdSbkFKcXRncjhOVjAteDJ0Y0R2YzVhRGlOY0tOWnpuUjN0dmxHSy0zUVk3bW5RWFBlUTJ5LWd0WWMxaEpqVkoxY05pdzY4a3JzSA?oc=5) `RSS`
