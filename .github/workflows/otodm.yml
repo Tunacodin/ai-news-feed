@@ -1,20 +1,25 @@
 name: otodm
 on:
   schedule:
-    - cron: "*/5 * * * *"  # her 5 dakikada (GitHub yogunken gecikebilir)
+    - cron: "*/30 * * * *"  # yedek: zincir koparsa yeniden baslatir (GitHub geciktirebilir)
   workflow_dispatch:
     inputs:
       kuru:
         description: "Kuru tur (DM göndermeden yalnız listele)"
         type: boolean
         default: true
+      dongu:
+        description: "Dakika boyunca her dakika tara (0 = tek tur)"
+        type: string
+        default: "0"
 permissions:
   contents: read
+  actions: write            # zincir: is bitince kendini yeniden baslatir
 concurrency: otodm          # ayni yoruma iki tur birden dokunmasin
 jobs:
   tur:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
         with:
@@ -35,9 +40,25 @@ jobs:
           printf '%s' "$OTODM_JSON" > yerel/instagram/otodm.json
         env:
           OTODM_JSON: ${{ secrets.OTODM_JSON }}
-      - run: python scripts/instagram.py otodm ${{ inputs.kuru && '--kuru' || '' }}
+      # schedule: kuru degil, 330 dk dongu; dispatch: girdiler
+      - name: tara
+        run: |
+          bitis=$((SECONDS + DONGU * 60))
+          while :; do
+            python scripts/instagram.py otodm $KURU || echo "tur hatasi, devam"
+            [ "$SECONDS" -ge "$bitis" ] && break
+            sleep 60
+          done
         env:
+          KURU: ${{ inputs.kuru && '--kuru' || '' }}
+          DONGU: ${{ github.event_name == 'schedule' && '330' || inputs.dongu }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_KULLANICI: ${{ secrets.IG_KULLANICI }}
           PYTHONIOENCODING: utf-8
+      # GITHUB_TOKEN ile workflow_dispatch yeni calisma baslatabilir
+      - name: zincir
+        if: ${{ !inputs.kuru && (github.event_name == 'schedule' || inputs.dongu != '0') }}
+        run: gh workflow run otodm.yml --repo "$GITHUB_REPOSITORY" -f kuru=false -f dongu=330
+        env:
+          GH_TOKEN: ${{ github.token }}
