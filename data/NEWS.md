@@ -3799,3 +3799,37 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Apertus 1.5 Sürüm Notları](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes) `RSS`
 - [Welcome Muse Spark Open: Meta'nın açık ağırlıklı sınır multimodal uzman karışımı modeli](https://huggingface.co/blog/meta-muse-spark-open) `RSS`
 - [Difüzörlerde Hoş Geldiniz FLUX.3 Image Klein](https://huggingface.co/blog/flux-3) `RSS`
+
+- [Yapay zeka kullanımı camların kırılmasına neden oluyor (2005)](https://blog.codinghorror.com/the-broken-window-theory/) `HN`
+- [Kadar – Geliştiricilerin ne oluşturacağına karar verdiği ve yapay zekanın kodlamayı yaptığı bir iş akışı](https://until.dev/) `HN`
+- [Temsilcileriniz için Paylaşılan Alanlar](https://cua.ai/) `HN`
+- [HN'yi göster: LLM'yi tahmin et – bir cevabı oku ve hangi modelin yazdığını tahmin et](https://guessthellm.com/) `HN`
+- [Show HN: Donanım mühendisliği için 241 AI aracından oluşan dizinimizi yeniden oluşturduk](https://productflo.io/ai-tools) `HN`
+- [Yapay Zeka Oluşturma ve Yapay Zeka Satın Alma: Transatlantik Bölünme](https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-building-vs-ai-buying-the-transatlantic-split) `HN`
+- [Show HN: 9 MB'de geliştirilmiş bir kokoro damıtma](https://huggingface.co/spaces/MithrilMan/teacher-in-the-loop) `HN`
+- [Sınır modelini iki yapay zeka boru hattından ateşledik. Makbuzlar burada](https://seldon-ai.com/blog/we-fired-the-frontier-model) `HN`
+- [Yapay Zeka Araştırma Araçları – Literatür Keşfi, LaTeX ve Yeniden Üretilebilirlik](https://github.com/mahmoudsajjadi/awesome-ai-research-tools) `HN`
+- [Show HN: Drift – Sıcak hava balonu simülatörü](https://hakancn.com/drift/) `HN`
+- [Avrupa, ABD Yapay Zeka Projesini Finanse Ediyor](https://www.apollo.com/wealth/insights-news/insights/daily-spark/europe-is-financing-the-us-ai-buildout) `HN`
+- [SubQ Snap: Kurumsal Ajanlar için Uzun Bağlamlı Bir Karar Modeli](https://subq.ai/introducing-subq-snap) `HN`
+- [Show HN: Endo – Daha Yüksek Dereceli Bir Kayış Takımı](https://github.com/longsurf-ai/endo) `HN`
+- [SRE Temsilcileri için Daha İyi Bir Ölçüt Koşum Takımı](https://www.pagerduty.com/resources/ai/learn/sre-agent-benchmark-report/) `HN`
+- [AI Kodlama Araçları – Mimari, Yerel LLM'ler ve SWE - Bench](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) `HN`
+- [Character.ai, genç intiharlarıyla bağlantılı olduğu iddia edilen davaların ardından iflas başvurusunda bulundu](https://www.cnn.com/2026/10/13/tech/character-ai-bankruptcy-filing) `HN`
+- [Yapay Zeka Kriptanalizinin Geleceği](https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html) `HN`
+- [AI Maestro, bir yıl: AI ajanları ve insanlardan oluşan bir şirket işletiyor](https://github.com/23blocks-OS/ai-maestro) `HN`
+- [Sunny: Yaşlı yetişkinler için erişilebilir, gizlilik öncelikli masaüstü yapay zeka asistanı](https://github.com/MT25MB/Sunny) `HN`
+- [Show HN: Turbo Lisp – macOS ve Terminal için Ortak Bir Lisp IDE'si](https://gitlab.com/patchwork1-ai/turbolisp) `HN`
+- [NVIDIA AIStore CVSS 10.0: Konteyner Kaçışı ve Ev Sahibi Devralma](https://mauri0x00.pages.dev/posts/shadowforge-aistore/) `HN`
+- [Yönlendiriciler Yeni Bir Yapay Zeka İlkelidir](https://www.vals.ai/blogs/routers-new-ai-primitive) `HN`
+- [Yapay Zeka, Linux Desteği için Tersine Mühendislik Donanımı Potansiyelini Gösteriyor](https://www.phoronix.com/news/AI-Reverse-Engineer-Linux-HW) `HN`
+- [ModelFront, AI için Oluşturulan Açık TMS OpenLoc'u Duyurdu](https://slator.com/modelfront-announces-openloc-the-open-tms-built-for-ai/) `HN`
+- [Kedi beşikte ve silikon kaşıkta](https://workflows-of-ai.com/blog/the-cats-in-the-cradle-and-the-silicon-spoon) `HN`
+- [Bilinmeyene Doğru: Yapay zeka ajanlarını açık bilimsel araştırma problemleri üzerinde kıyaslamak](https://arxiv.org/abs/2610.19159) `HN`
+- [YAPAY Zeka Hayattaki Amacınız İçin Geldiğinde](https://www.nytimes.com/2026/10/13/podcasts/the-daily/mathematicians-problem-ai-jobs.html) `HN`
+- [Show HN: Brod – AI uygulamalarını dağıtmak için hızlı bulut](https://github.com/brodsh/brod) `HN`
+- [Taskriz – AI ajanları insanlara Smalltalk ile yazılmış küçük yerel kullanıcı arayüzleri gönderiyor](https://www.taskriz.com/developers/) `HN`
+- [Meta, Mac'lerde çalışan açık ağırlıklı bir yapay zeka modelini piyasaya sürdü - TechCrunch](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlZfb0U3cFViMUxwX19EejMxOTNmczEyTzU1YzZqZGhaTnR6dVFrVnVURUVqbGpENzRRWnViS2RrV0pLUkZxcVd6R01DRUhENmZ0azlMTmhNMEh1VnYwNzZndF9qN29GSHZDWXZQSmFrd19lS3E5STJTekhTaW9ETjhHLTg1R0tMTERPTUpNN1M?oc=5) `RSS`
+- [Google'ın 'Gemini 4 Argon' Lansmanı, Big Tech'in İkili Stratejisini Gösteriyor: Performans Rekabeti Güvenlik Kontrolüyle Buluşuyor - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE51bWZxSnpJbjhfREpEVGZTWDdfMUs0QldmM0Vtc0lQUzFNNHRjN1k0SXI5Y2kza2pyWC1TSW9oblFHZElfTy1RS0Q2bWNaaVhBX3R2ZEdyMmJaazFzMVVSdE5qZWlxd1pZYmlvS0NRdlo5dnYxUGc?oc=5) `RSS`
+- [GPT - Rosalind'in akademik araştırma laboratuvarlarına kazandırılması](https://openai.com/index/introducing-the-rosalind-academic-plan) `RSS`
+- [Granit Anahtar 4.1: Bir Uç Noktadan Sohbet, Kararlar ve Konuşma](https://huggingface.co/blog/ibm-granite/granite-switch-4-1) `RSS`
