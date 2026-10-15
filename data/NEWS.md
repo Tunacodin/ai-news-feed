@@ -3763,3 +3763,39 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Institute of Foundation Models and Inception42 Launch Jais 3: The World's Leading Arabic - Native AI for Speech, Writing and Agents - PR Newswire](https://news.google.com/rss/articles/CBMijwJBVV95cUxPaU9ITHJLdlRFUWo2bUlwYVpxOGpJbEhTZlRjLWtEYlVXTjdyTWt0blZsaGp3bUljZzl4MUVWQ1lLclVsbU96dWM4Nm9iQkhyT0NjWEtxTmNTTlgzMEJUMHQ0NWFXSnkwNTFDTmRhYnRPb3Ita0l1RmJuTzBDTV9EbTVkdkIweGd0SWR0bEVXZDZ0YVRDRXByZWRfQmtmTnloN05XbGpBZWsydUM1TlpiTlpNOGgyeUYxaEZlTEJvNnlNcHpRdmJxLVBfVXFfU1QtQzFaSnFRYjJyMTZrOFlrSUR6cHpha19naE1fWHpJVklMbEM0MmlvRUl4ZUo5cjlWQUpOb1RUQ0pFdHJMbUFj?oc=5) `RSS`
 - [Alibaba AI modelleri, iPhone Duo lansmanı için tam zamanında Çin'deki Apple Intelligence'da kullanılmak üzere onaylandı - Engadget](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTMyUDdVdG9vTUJ0V1AxTkFfSzFxVE1tNWdzRVBQOE5BbW9EdkZ3RF9zQk1DWEc1amN6NXhJbHZFT1YtZHpHWkZkamY1SXpkVU4wbjZGTFRnSUtjcG5YMkJNZjhXNWZNTVp5N0dNVXRqbjhnUWxNU2JQc0xmS2FHdDZ2dzBnUVZHS1RiQjI2QUR3OXNObjRUM2xYNXhDeUxSZEVkSGJuSUdJbTBRR1RlTi1TN2hsUFVLN25tUHQxbGVOam5sSUhBbUREWXR3VF9DSW5Z?oc=5) `RSS`
 - [Z.ai'nin GLM-5.3 modeli, araştırmacının yapay zeka güvenlik testinin sahte olabileceğine dair endişelerini artırıyor](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEdtNDRJT3FrZV9KVjBFazNPS3Y2MkQyQjhaTjdsc3dVQkZCOFBpb2szbWk1VHdKSkZrSjE2NEVNdUZwUG0zMElsWlNURDkzM3VDdW1PMjFlNXl6RWIwQ3B6U2xRS05GTDRZQjRoUllibGxPVFJ1WFBoekdxZmFZUWRwMlNlMEVZUjlYLXdvMW5fV0VEY3NYLW82UENPejVZY0tIeE5MRXQwSmY1Q2FqbXdhdmd5MTFPc2M3WXk2Z1dXRDjSAcMBQVVfeXFMUFNQclpmYzYxSVNTeThZWmdWa0NlZ0V6NXVmWjhLQlVJa01lU1duLVNXLXJmVURQb2Z3eWpwM2JmenZkWjZDZGhlZUxVcUVRekVWanlfVVYzYTM1VDVuTTJMV3FoSGlibjliSHN6aVpoc1ZEQjU0d09DRFNtLXQ0bmZ1elgtbVp3Tktld3Nyd2R2U2YxX1dmR01ualFLS0JqQnRSd2NjS0daWEtEcXVQODBxS0hURklfdV9GOFdqOE5CdnEw?oc=5) `RSS`
+
+- [Show HN: RDST – Sorgu regresyonları için Postgres/MySQL izleyen yerel bir ajan](https://github.com/readysettech/rdst) `HN`
+- [Yarı İletken Fabrikalarında "Mühendisleri Değiştirmek" Neden Yapay Zeka için Yanlış Hedeftir?](https://www.waferpilot.xyz/en/resources/fab-core-value/) `HN`
+- [Agentic AI İş Yüklerinin İçinde](https://gimletlabs.ai/blog/inside-agentic-ai-workloads) `HN`
+- [Show HN: Receptive Field – Evrişimsel Sinir Ağlarını Etkileşimli Olarak Öğrenin](https://receptive-field-flame.vercel.app/appendix/) `HN`
+- [CNN, Google ile Yapay Zeka Ortaklığını Duyurdu](https://cnnpressroom.blogs.cnn.com/2026/10/15/cnn-announces-ai-partnership-with-google/) `HN`
+- [Muse Kıvılcımı Açık](https://research.meta.ai/blog/muse-spark-open) `HN`
+- [Kling 4.0 çıktığında, yapay zeka videosunu üretimde faydalı kılan nedir?](https://kling3.io/kling-4) `HN`
+- [Linus Torvalds, yapay zeka katkı kuralları hakkında konuşuyor](https://lkml.iu.edu/2610.1/13255.html) `HN`
+- [PCEI – BitNet 1.58B, Mamba ve FastKAN'ı birleştiren cihaz içi yapılandırılmış AI](https://github.com/MtnMCG/PCEI) `HN`
+- [Araç Politikaları: Yapay zeka temsilcilerinizin çağırdığı her araç için tek bir politika motoru](https://www.stackone.com/blog/tool-policies-launch/) `HN`
+- [Decomp.dev Kapanıyor](https://decomp.dev/) `HN`
+- [Show HN: Yapay Zeka Araçlarının düzenlenmiş bir dizini](https://github.com/QAInsights/awesome-ai-tools) `HN`
+- [Google Gemma 4 Open Modelleri](https://gemma.ai/) `HN`
+- [Veri Merkezleri Ne Yapıyor? Akıllara durgunluk veren miktarda matematik](https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html) `HN`
+- [Otomasyonun Ötesinde Yapay Zekaya Yön](https://www.normaltech.ai/p/steering-ai-beyond-automation) `HN`
+- [Cam – Bilginin birleştiği yapay zeka çalışma alanı](https://ramp.com/glass) `HN`
+- [Sıvı AI D1 - Ultra](https://www.liquid.ai/blog/d1-ultra) `HN`
+- [Muse Kıvılcımı Açıkken İnşa Et](https://dev.meta.ai/resources/blog/build-with-muse-spark-open) `HN`
+- [Palantir CTO'su: Yapay Zeka Araştırmacıları Sigara İçiyor, Bahse Giren Yapay Zeka Kanseri Tedavi Edecek](https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10) `HN`
+- [Liderlik tablosunun ötesinde. Gerçek bir iş akışında karar modelleri](https://isotopes.ai/blog/decision-models) `HN`
+- [Yapay zeka bir emtia olmalı ve herkes tarafından üretilmeli](https://project507.substack.com/p/why-ai-should-be-a-commodity) `HN`
+- [Yapay zeka temsilcileri tarafından kullanılan e - posta alan adlarının listesi](https://github.com/revdoku/agent-email-domains/) `HN`
+- [Muse Spark Open, bugüne kadarki en yetenekli ABD Açık Ağırlık Modeli](https://research.meta.ai/blog/muse-spark-open) `HN`
+- [Çinli Kullanıcılar Yüzlerini Yapay Zekaya 'Satarken' Çok Az Para Buldu](https://www.sixthtone.com/news/1019126) `HN`
+- [Yapay zeka borçluları "Darwin anı" ile karşı karşıya kalırken yatırımcılar veri merkezi tahvillerini çöpe atıyor](https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc) `HN`
+- [Total War Remaster, Yapay Zeka İddialarından Sonra Steam'den Kaldırıldı, Orijinali Geri Getiriyor](https://twitter.com/SEGA/status/2110718605176287581) `HN`
+- [Yapay Zeka Güvenliği Kurumsal Bir Arsa Değildir](https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot) `HN`
+- [Zamansal ve Oodle ile Kendini Geliştiren Yapay Zeka Ajanları Oluşturun](https://blog.oodle.ai/self-improving-agent-loops/) `HN`
+- [Yapay Analiz Karar İndeksi v1.0](https://artificialanalysis.ai/articles/artificial-analysis-decision-index) `HN`
+- [Claude Haiku 5.5 4.5 'ten % 90 Daha Ucuza Piyasaya Sürüldü [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUlBOaHQ0bktROXRNaXZOM3l6V1YwLTh6YUV2UGk2S0NmclAwaFp0b3U1enY4cEg5ZVJHWm04TE5wX1prcGFjdDQ4R3BIM3ZBZkxSb2RpaERwWTV1NWJHUTdqUXRTeG93OG5lamtEcw?oc=5) `RSS`
+- [ModelBest ve OpenBMB, MiniCPM - V 4.7 'yi Başlattı ve Yaklaşık 3 GB Belleğe Sahip Telefonlara ve Tabletlere 35B Multimodal MoE Modeli Getirdi - Yahoo Finance](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkp3aG45T2RJcndkVzh5Nnc2dmQ2Sm1DYWZTN0ZXWktKcTdrVFNUdkxSeDVtN2g5TzU3VVNSV3h3NGJwcThsUUxsVEpWSVZXQjBDaXJxakRjWjE5ODZ1UlJDTU5jVG5XWWhmOWdPZDRrdDVGSWtGN002N3VBb0hOR0Z1VkdRWHlRVzVHbHBocG9ycTBER3FrMTBHdmpKbm8?oc=5) `RSS`
+- [Öğrencilere sorularla düşünmeyi ve öğrenmeyi öğretmek](https://openai.com/index/teaching-students-to-think-and-learn-through-questions) `RSS`
+- [Apertus 1.5 Sürüm Notları](https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes) `RSS`
+- [Welcome Muse Spark Open: Meta'nın açık ağırlıklı sınır multimodal uzman karışımı modeli](https://huggingface.co/blog/meta-muse-spark-open) `RSS`
+- [Difüzörlerde Hoş Geldiniz FLUX.3 Image Klein](https://huggingface.co/blog/flux-3) `RSS`
