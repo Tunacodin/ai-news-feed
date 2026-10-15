@@ -3670,3 +3670,30 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yapay Zeka Neden Yoda Gibi Yazıyor?](https://www.oreilly.com/radar/why-does-ai-write-like-yoda/) `HN`
 - [IMF raporu yapay zeka sektörünün ortadan kalkmasının küresel finansal bulaşma riski taşıdığı uyarısında bulundu](https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans) `HN`
 - [HN'yi göster: Yapay zeka tarafından oluşturulan mantığı uygulamanızın içinde güvenle çalıştırın](https://stof.dev/) `HN`
+
+- [Yapay Zeka Güvenliği Kurumsal Bir Arsa Değildir](https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot) `HN`
+- [Hesaplama krizini çözmek için yapay zeka tarafından tasarlanan çiplere yönelik Ricursive Intelligence bahisleri](https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/) `HN`
+- [Capsem – hava boşluklu Linux sanal makinelerinde yapay zeka ajanlarını kum havuzuna alan bir Rust hipervizörü](https://capsem.org/) `HN`
+- [AIVAcare](https://www.aivacare.ai) `HN`
+- [Yapay zeka patlaması, güvenilmez sayılardan oluşan bir salgın tarafından tehdit ediliyor](https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers) `HN`
+- [Mistral'dan Yeni Malzeme Alındı](https://newmaterial.ai/stories/newmaterial-joins-mistral) `HN`
+- [LFM2.5-24B-A2B: Hızlı cihaz içi ajanlar için üretilmiştir](https://www.liquid.ai/blog/lfm2-5-24b-a2b) `HN`
+- [Nvidia'nın GeForce RTX 5090 üretimini durdurduğu bildirildi](https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship) `HN`
+- [Yapay zeka görüşmecisi yapay zeka görüşmecisiyle buluştuğunda kaos ortaya çıkar](https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144) `HN`
+- [Ben Affleck yapay zeka şirketini 587 milyon $ karşılığında sattı [video]](https://www.youtube.com/watch?v=MzXEWrT3Ld8) `HN`
+- [Bank of America, yapay zekaya maruz kalan yazılım kusurlarını gidermek için 1 bin yüklenici ekledi](https://runtimewire.com/article/bank-of-america-mythos-contractors-software-patching) `HN`
+- [TezGrid: Atıl bilgisayarlarda yapay zeka çıkarımları](https://tezgrid.com/) `HN`
+- [Sınır modelleri, simüle edilmiş bir insansıyı kontrol etmek için 2/100 'ün altında puan alıyor](https://www.vals.ai/benchmarks/robo_bench) `HN`
+- [Yapay zeka sohbet temsilcisi oluşturmadan önce bilmeyi dilediğimiz şeyler](https://trigger.dev/blog/seven-tips-for-building-better-chat-agents) `HN`
+- [ICE, Tutuklu Çağrılarını ve Hareketlerini İzlemek İçin Yapay Zeka Kullanmak İstiyor](https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees) `HN`
+- [Ya Yapay Zeka Dünyanın Sonuysa?](https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/) `HN`
+- [Adobe Yazılım Mühendisi Röportajı: Süreç, Yapay Zeka Kuralları ve Nasıl Hazırlanacağı](https://nokku.payanai.com/interview-prep/adobe) `HN`
+- [Helix World: Gerçek Zamanlı Görsel İşitsel Dünya Modeli](https://noiz.ai/lp/blog/meet-helix-world) `HN`
+- [Show HN: Fantastik Kanvas](https://github.com/aisixteen/fantastic) `HN`
+- [Huawei'nin % 28 'e ulaşmasıyla Nvidia'nın Çin yapay zeka çipi payı % 34' e düştü](https://technode.com/2026/10/14/nvidias-china-ai-chip-share-falls-to-34-as-huawei-reaches-28/) `HN`
+- [Yapay zeka ile kod yazmak zanaat gibi hissettirmeyi bıraktı, ben de küçük bir masa radyosu yaptım](https://radiowaveshare.vercel.app) `HN`
+- [Atölye – Yapay Zekanın Resim Yapmayı Öğrenmesini İzleyin (Bazen Canlı)](https://atelier.randomdrake.com) `HN`
+- [Apple, Siri yapay zekasını evlere taşımak için 299 $ değerinde akıllı bir ekran olan HomeView'u duyurdu](https://www.cnn.com/2026/10/13/tech/apple-homeview-siri-ai) `HN`
+- [Indosat ve F5, 300 'den Fazla Yapay Zeka Modeline Erişime Sahip Kurumsal Yapay Zeka Platformunu Başlattı - Hızlı Mod](https://news.google.com/rss/articles/CBMixwFBVV95cUxONHUxdUluZ2N3SlB5UFh4Qkl1cUdtZVIyNGZ5bHFuUWJvMGlPdThYaTk5VUJvZ213YnVBVENkU0lZd1FhMm5rc1Vsa2JEcG81WUxSbW9qb3VxV0hYVjBhRWp2ajZzaWtpRHNsMEtqUmJFdV9DRl9JWnNWenZzb3VVTlNuSkRMUHhZSE1wUXVUNklPOTdhLVBCRjFoREpnbllVSXo1d1YwbmRnT1hzWVhfMERKM3hUZ3o0ZUIxX01OUVh6d1BCM0pn?oc=5) `RSS`
+- [Apple, Çin'de iPhone'lar için yapay zeka başlatacak ancak yetkililerin dayattığı kısıtlamaları kabul etti: Bloomberg – Украɔнські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRC1Qczc2Q3FtS01GNnZwY0ItMVI5MWFqbXhwbWFSNFByaHJkYmJBLURiTjVoMmFzQnpMQ3dDQjRpNHdGWVJiT25GLVRwbWtJdzVDRWpyelRIc1BfUWNXQ2p3RUZTOGtIZFpfd3g1d3hVUUtsVGl0U3M0bENMWGQ5Z0x2U0RwekF3b05YalVxQ1VRclB4Q2Z1Zm0xXy1jYTRnZDJqbmtZbmk1NE51WTVjOC1iaHA5SUpuemoxbUVZYUk0RTB5S0t1VmhpWl9ISW45U2twUURjeDBtS03SAdoBQVVfeXFMUDNaTkMtUHh3WmQ3RndrSTRZd3VvUHJfU3hYYmhqaTJwbExJQjJYd1ZQMnhSOVc2Zy1UUXNwYUlsMkFTOFBkUElNLWNKR2Ezd0hxQkNZRDdhRW1Cd09FQVgxWGxjYU85WDdhYU5qMWl5Y0hoSlNNdzE5Ry1IdGpyaGVnLWJQS3ZKaE53LVlXSl9BNHlRS183eUpYMUI2WWFFMkozbXRfQ19vSUJRVW1tNndQZVlXQnpsaHNBeXpqVi10Rjl0cUNVdkJ1eldrWUtGN1ItZURDTGszYmc?oc=5) `RSS`
+- [Block, OpenAI teknolojisiyle yapay zeka destekli güvenliği nasıl oluşturuyor?](https://openai.com/index/block-ai-powered-security) `RSS`
