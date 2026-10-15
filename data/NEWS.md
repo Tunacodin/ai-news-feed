@@ -3697,3 +3697,33 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Indosat ve F5, 300 'den Fazla Yapay Zeka Modeline Erişime Sahip Kurumsal Yapay Zeka Platformunu Başlattı - Hızlı Mod](https://news.google.com/rss/articles/CBMixwFBVV95cUxONHUxdUluZ2N3SlB5UFh4Qkl1cUdtZVIyNGZ5bHFuUWJvMGlPdThYaTk5VUJvZ213YnVBVENkU0lZd1FhMm5rc1Vsa2JEcG81WUxSbW9qb3VxV0hYVjBhRWp2ajZzaWtpRHNsMEtqUmJFdV9DRl9JWnNWenZzb3VVTlNuSkRMUHhZSE1wUXVUNklPOTdhLVBCRjFoREpnbllVSXo1d1YwbmRnT1hzWVhfMERKM3hUZ3o0ZUIxX01OUVh6d1BCM0pn?oc=5) `RSS`
 - [Apple, Çin'de iPhone'lar için yapay zeka başlatacak ancak yetkililerin dayattığı kısıtlamaları kabul etti: Bloomberg – Украɔнські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRC1Qczc2Q3FtS01GNnZwY0ItMVI5MWFqbXhwbWFSNFByaHJkYmJBLURiTjVoMmFzQnpMQ3dDQjRpNHdGWVJiT25GLVRwbWtJdzVDRWpyelRIc1BfUWNXQ2p3RUZTOGtIZFpfd3g1d3hVUUtsVGl0U3M0bENMWGQ5Z0x2U0RwekF3b05YalVxQ1VRclB4Q2Z1Zm0xXy1jYTRnZDJqbmtZbmk1NE51WTVjOC1iaHA5SUpuemoxbUVZYUk0RTB5S0t1VmhpWl9ISW45U2twUURjeDBtS03SAdoBQVVfeXFMUDNaTkMtUHh3WmQ3RndrSTRZd3VvUHJfU3hYYmhqaTJwbExJQjJYd1ZQMnhSOVc2Zy1UUXNwYUlsMkFTOFBkUElNLWNKR2Ezd0hxQkNZRDdhRW1Cd09FQVgxWGxjYU85WDdhYU5qMWl5Y0hoSlNNdzE5Ry1IdGpyaGVnLWJQS3ZKaE53LVlXSl9BNHlRS183eUpYMUI2WWFFMkozbXRfQ19vSUJRVW1tNndQZVlXQnpsaHNBeXpqVi10Rjl0cUNVdkJ1eldrWUtGN1ItZURDTGszYmc?oc=5) `RSS`
 - [Block, OpenAI teknolojisiyle yapay zeka destekli güvenliği nasıl oluşturuyor?](https://openai.com/index/block-ai-powered-security) `RSS`
+
+- [Yapay Zeka Şirketleri Gizli Hırsızlık Yapan Casuslarla Kedi - Fare Oynuyor](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b) `HN`
+- [Yapay Analiz AA - Robotics v0.1 Sınır Modelleri için Robotik Kıyaslaması](https://artificialanalysis.ai/articles/aa-robotics) `HN`
+- [IdeaLens: Uzun Form Yazmada Yapay Zeka Fikirlerini Algılama](https://arxiv.org/abs/2610.06778) `HN`
+- [Gösteri HN: Thinkbeside – GPT, Claude ve Gemini için Yapay Zeka Kenar Çubuğu](https://chromewebstore.google.com/detail/thinkbeside-ai-sidebar-fo/plcbbhlakibeddilmfjnkdpfcjdcliip) `HN`
+- [8 eyalet, ChatGPT'nin çocuklar için güvenli olmadığını söyleyerek OpenAI'ye dava açtı](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) `HN`
+- [Apple ve OpenAI, Yapay Zeka Ticari Sırları Konusunda Büyük Bir Hukuki Mücadelede Mahkemeye Çıktı](https://www.rswebsols.com/news/apple-and-openai-go-to-court-in-a-high-stakes-legal-battle-over-ai-trade-secrets/) `HN`
+- [Hinton: Uzaylı varlıklar yaratıyoruz. Bencil olmaya ve insanları seçmeye istekliyim](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech) `HN`
+- [Yapay zeka destekli hukuk firmaları büyük firmalardan avukatlar çekiyor](https://www.reuters.com/legal/legalindustry/ai-powered-law-firms-draw-lawyers-big-firms-2026-10-14/) `HN`
+- [İbranice ve Çince çevirilerde AI crippleware](https://fromhebrew.com) `HN`
+- [Tencent AI temsilci filosu ile "iletişim kurma" üzerine düşünceler](https://twitter.com/GruPiotr/status/2110494758976000004) `HN`
+- [Show HN: Daily image location guessing agains AI](https://mediaguesser.com/human-vs-ai) `HN`
+- [Otomasyonun Ötesinde Yapay Zekaya Yön](https://www.normaltech.ai/p/steering-ai-beyond-automation) `HN`
+- [AMD Helion, Raf Ölçeğinde Agentic AI Compute](https://newsroom.amd.com/news/open-rack-blueprint-scale-agentic-ai/) `HN`
+- [RenkuOS: AI destekli kodlama ve LLM entegrasyonları ile çatallanmış Haiku OS](https://renkuos.org/) `HN`
+- [Show HN: The Daily Ataç. Temsilcilere göre temsilciler için yapay zeka haberleri](https://wonkle.org/paperclip/) `HN`
+- [Show HN: Real Design Benchmark – Yapay zeka tasarımlarını gerçek ürünlerden ayırt edebiliyor musunuz?](https://www.realdesignbenchmark.com) `HN`
+- [Palantir CTO'su: Bazı yapay zeka araştırmacıları yapay zeka kanseri tedavi edeceği için sigara içiyor](https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10) `HN`
+- [Koruma: İşletmeniz için özel olarak tasarlanmış yapay zeka denetimleri ve korkuluklar](https://www.relyance.ai) `HN`
+- [Show HN: RevisePulse – Cad ve Revit Koordinasyonu için Yapay Zeka](https://revisepulseai.vercel.app/) `HN`
+- [Show HN: MoneySwitch – Yapay zeka temsilcileri USDC cinsinden x402 API öder (kendi kendine barındırılan)](https://github.com/dongsheng123132/moneyswitch) `HN`
+- [Meta AI, Flávio Bolsonaro için kampanya materyali oluşturuyor ve Lula içeriğini engelliyor](https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml) `HN`
+- [LLM Arama Sonuçlarına Beş Olası Arka Kapı](https://www.unite.ai/five-possible-back-doors-into-llm-search-results/) `HN`
+- [Asya çip stokları düşüyor, yapay zeka finansman endişeleri](https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html) `HN`
+- [Andrew Ng neden yapay zekanın insanlığı yok etmeyeceğine inanıyor?](https://www.economist.com/insider/inside-tech/why-one-of-the-worlds-most-influential-computer-scientists-believes-ai-wont-destroy-humanity) `HN`
+- [Adım 5 Önizleme: StepFun'un aracı işler için amiral gemisi modeli](https://huggingface.co/stepfun-ai/Step-5-Preview) `HN`
+- [Temsilciler için en iyi çıkarım bu mudur?](https://runinfra.ai) `HN`
+- [Kasım ayında 2026.3 piyasaya sürülecek olan Air, JetBrains IDE'lerinin bir parçası olarak gönderilecek](https://blog.jetbrains.com/ai/2026/10/air-in-ides-eap/) `HN`
+- [Yapay Zeka Modeli Lansmanından Sonra Meta'nın Boğa Durumunun Neden Değişebileceğini Öğrenin - Simply Wall Street](https://news.google.com/rss/articles/CBMiygFBVV95cUxPX3FpeUZUSHZsdWIzZEdxay1nYnBQeXU2dG43R3hVekItazJCczBXaWxfLTRxYUI1bFJqZTF3bWdmYXZ2cHVnR1JRZVl3UjJ6ZlByV2p3SE1qX3FzU3R3MlBzNFV0QWViVVJRWDZaU0RqUmFPTTc5YWRDXzRTM29JZkZhOEtxUno4TExXd2h0ekVYT2JwS2dxNVgyMTZtbkZWWlBlMWJUZmhod3pGc3dwbWJXaHRRM3RYSjQwUmxrTERLRU5ua184cTlB0gHPAUFVX3lxTE8zQnNibUs4VE1aMldQN2Rqb2NydmVqMm0zSU5nZWRWcGlXckUwZGJVX3ExeHN1RmNXS3BJa2hJbjJsbTdIUGRNM2dtWUxuSXhqRFhhUTJpS3ZBdWgxQ0g5OTFiN291czZROElPaS1ZTXB5a3N0U29zT1BDRktNa2NJM09yblc4bGRoUnRISVlVeDc3dzVCQjlVc1ltSzNUWnlid2MybEE4T0t1OW5LSC1ld1RYZnhxU1Zqb2xzUEl3dnBObHRGSFJCZEF3amVZVQ?oc=5) `RSS`
+- [Meta, OpenAI ve Anthropic ile rekabet etmek için yeni yapay zeka modellerini piyasaya sürdü - Anadolu Ajansı](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkR1S3ZsalZkRjlRRkxEdVVBbU5ENUdtM3AxanQ1cXdNUW40RTNWRkkyUFJ0N3dmS0Nyd1oyUlBxUktvZ29pMGdDWXA1anFzNHVsQzZtRGs2ei16Nk5LOFZfZzVUbTVHSHRDS2lTMHlsX1oweEY5NEJUa0lGWnA1R2lzTURJclBMYmxaci1xcmRYMEhnMEFNSm5LSkVOd040?oc=5) `RSS`
