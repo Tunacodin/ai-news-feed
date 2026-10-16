@@ -3960,3 +3960,35 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Meta, En İyi Teknolojisini Kapalı Tutarken Açık Yapay Zeka Modelini Yayınladı - Yahoo Finance UK](https://news.google.com/rss/articles/CBMiggFBVV95cUxObUJRbWFMM1h5UERYdnhEdmpINXVmMkNzUGpQS25ENDFwcl85dXQycHNUaEcyQUdtZFNSdWR4QS1iNmFqNm5zZ0xGNU9IM2lqLVp6NjZjRGpCREIySGZQWXFDRmx2U2VZblVuUmxYeHgyOURKT1hiemM5QVpHRWhmdU5n?oc=5) `RSS`
 - [Elorian'ın ilk yapay zeka modeli, sadece görüntülerle ilgili değil, görüntülerle de akıl yürütmek istiyor - TechCrunch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblE4NlZlMF9VNXdkcm53ejFPUjRsRWJLZU11Tm9Hc0ZnWjdvWWFXcUpndjAzQk5leGVHVlZCRWhRZDJjUnFfM2hEeW1jVnZOQk5QZUtZRXVWWV94dDNJSE1iTlZwaHZ0U0lLRUNyb1ZhS1NBRGNERVpnZTRQWl81SWNKcURnekhZZDU2OHpOZDNoRHZSVl9aN2VuRllscUpSREQ3TWYwTjBRQQ?oc=5) `RSS`
 - [Welcome Beam: Sahip olabileceğiniz, özelleştirebileceğiniz ve ölçeklendirebileceğiniz 501B açık model](https://huggingface.co/blog/reflection-beam) `RSS`
+
+- [Yapay Zeka Vibe Kodlaması Video Oyun Sektörünü Çığ Gibi Vurdu](https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366) `HN`
+- [Ross Douthat: Robot Kıyametinden Nasıl Kurtuluruz?](https://www.thefp.com/p/ross-douthat-how-to-survive-the-robot-apocalypse-ai-tech-doom) `HN`
+- [Yapay Zeka Karşısında Donma](https://precious.bearblog.dev/fear/) `HN`
+- [Kesirli CTO'lama ve AI Sandboxing [video]](https://www.youtube.com/watch?v=hzshcVNNrYg) `HN`
+- [Yapay zeka yazılımının geleceği burada – sadece eşit olarak dağıtılmıyor](https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already) `HN`
+- [Yapay zeka sıfırdan 16 yeni virüs üretti](https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages) `HN`
+- [Flux 3 Image Klein: açık ağırlıklar, 5.6B parametreleri](https://bfl.ai/blog/flux-3-image-klein) `HN`
+- [Anahatlar – LLM'ler için Yapılandırılmış Çıktılar](https://github.com/dottxt-ai/outlines) `HN`
+- [Taco Bell arabaya servis yapay zeka botu, işleri kolaylaştırarak çalışanların elde tutulmasını artırdı](https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/) `HN`
+- [Üretken Yapay Zekanın Matematiksel Temelleri, IISc Bangalore](https://nptel.ac.in/courses/106108004) `HN`
+- [Show HN: Ev videolarını yalnızca fotoğraflardan yapın – TensorPix](https://tensorpix.ai/usecases/real-estate-video-maker) `HN`
+- [Yapay Zeka Beyin Çürümesi Nasıl Önlenir](https://twitter.com/MilesCranmer/status/2111105654211608847) `HN`
+- [Başarısız Kapalı: Biliyormuş Gibi Yapmadan İnsan - Yapay Zeka Araştırması](https://www.amazon.com/dp/B0HMJWK5L8) `HN`
+- [Prisov – Kurumsal İş Akışları için Özel Yapay Zeka [video]](https://www.youtube.com/watch?v=9SyK9l8wi2A) `HN`
+- [Transformatörleri hafızanızdan icat edebilirdiniz](https://alexwang.ai/posts/associative-memory/) `HN`
+- [4 yaşındaki oğlum ve Claude ile Oyun Yapmak](https://claude.ai/artifact/BVkB3o83k2AuJhoaGqMeUy) `HN`
+- [Show HN: Stoke Money – Nakit akışı tahmini üzerine inşa edilmiş kişisel finans uygulaması](https://stoke.money) `HN`
+- [Show HN: Weatherdeck – AI kodlama aracı şeritleri için salt okunur bir durum panosu](https://github.com/Moshik21/weatherdeck) `HN`
+- [Haydut yapay zeka ajanları Hintli firmaların canlı sistemlerine girdi](https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/) `HN`
+- [Yapay zeka kodu yazdığında yeni nesil geliştiriciler ne yapacak?](https://commandline.microsoft.com/praise-preceptor-ai-accelerated-software-engineering-cmu/) `HN`
+- [IPhone 18 Pro'da çalışır: AI, iOS 27.0.1 için bağlanmamış jailbreak oluşturmaya yardımcı olur](https://www.heise.de/en/news/Works-on-iPhone-18-Pro-AI-helps-create-untethered-jailbreak-for-iOS-27-0-1-11490907.html) `HN`
+- [Anthropic'in Değerlemesi 500 Milyar $ Düştü](https://www.telegraph.co.uk/business/2026/10/16/anthropic-valuation-ipo-ai-stock-listing/) `HN`
+- [Show HN: Yapay Zeka Video İstemleri için Kamera Kontrolleri ve Hareket](https://www.kapwing.com/ai/prompt-generator/camera) `HN`
+- [Çin, ulusal güvenlik risklerini gerekçe göstererek yapay zeka da dahil olmak üzere teknoloji ihracatını engellemeye çalışıyor](https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b) `HN`
+- [San Francisco merkezli zombi nişancı oyunu internette tartışmalara yol açtı](https://www.kron4.com/news/technology-ai/zombie-shooter-game-based-in-san-francisco-sparks-online-controversy/) `HN`
+- [Açık kaynak ALANI, Bilgisayarın arkasındaki sanal alan platformu](https://www.perplexity.ai/hub/blog/open-sourcing-space) `HN`
+- [Amerikan Tabipler Birliği, ajan yapay zeka için yönetişim çerçevesini yayınladı](https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/) `HN`
+- [Citi, yapay zeka temsilcilerinin hesaplara erişimini kısıtlamak için en son ABD bankası oldu](https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91) `HN`
+- [Büyük Teknoloji Oligarklarının İnsanlık İçin Korkunç Bir Planı Var](https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/) `HN`
+- [Ondas ve Palantir, Bağımsız Yapay Zeka Yeteneklerini Genişletmek için Regna Yapay Zekasını Başlattı - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWpKcW55MnlBYmN1QllvdHFiY2RuV3NLYm9vWnN6aktiYjVyLVVCdTFMODYzUlA1MXRhUWNkcWNEWnJkT00xblFnbE9XSV9VVjhMNndNbnFDQTI4dkgwZ2RqRW5UVi1XeUV2WXpKTWZCNlNvNVViemRuRWNWZUZKczFaU3E4UV93ZXh5Mnd4ZlNYMngxem50MGdn?oc=5) `RSS`
+- [ChatGPT eklentisi ile Temsilciler için Yığın Taşması kayıtlarını üç katına çıkarır](https://openai.com/index/stack-overflow-chatgpt-plugin) `RSS`
