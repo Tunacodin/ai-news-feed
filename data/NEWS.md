@@ -3833,3 +3833,28 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Google'ın 'Gemini 4 Argon' Lansmanı, Big Tech'in İkili Stratejisini Gösteriyor: Performans Rekabeti Güvenlik Kontrolüyle Buluşuyor - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE51bWZxSnpJbjhfREpEVGZTWDdfMUs0QldmM0Vtc0lQUzFNNHRjN1k0SXI5Y2kza2pyWC1TSW9oblFHZElfTy1RS0Q2bWNaaVhBX3R2ZEdyMmJaazFzMVVSdE5qZWlxd1pZYmlvS0NRdlo5dnYxUGc?oc=5) `RSS`
 - [GPT - Rosalind'in akademik araştırma laboratuvarlarına kazandırılması](https://openai.com/index/introducing-the-rosalind-academic-plan) `RSS`
 - [Granit Anahtar 4.1: Bir Uç Noktadan Sohbet, Kararlar ve Konuşma](https://huggingface.co/blog/ibm-granite/granite-switch-4-1) `RSS`
+
+- [Yapay Zeka, Kripto ve DEI, Marc Andreessen'i Maga'ya SÜRDÜ](https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga) `HN`
+- [Yapay zeka yok. Sadece bir kitap açın, okuyun ve istediğiniz her şeyi kodlayın](https://www.youtube.com/watch?v=kCVZWZzrBB4) `HN`
+- [Nvidia'nın CEO'su Birleşik Krallık'ın yapay zeka geleceği hakkında ne düşünüyor?](https://news.sky.com/video/what-nvidias-ceo-really-thinks-about-ais-safety-13599433) `HN`
+- [Göster HN: Sjq – Jq, ancak AI Akışı için](https://github.com/vivgrid/sjq) `HN`
+- [Sivrisinek Joe FDD sökümü: % 66 ücret yükü, % 380 sonlandırma artışı](https://muse.ai/s/mosquito-joe-fdd-teardown-ch6bxnotxfxldxe) `HN`
+- [Mühendisler için yapay zeka yorgunluğuna neden olan ve zorlanmanın nasıl hafifletileceği](https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain) `HN`
+- [Argon artık ANTİ YERÇEKİMİ konusunda profesyonel kullanıcılar için mevcut](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) `HN`
+- [Zaman Çizelgesi](https://mistral.ai/news/timestral/) `HN`
+- [Ücretsiz AI araçları – Ücretsiz ve düşük maliyetli AI araçlarının özel listesi](https://github.com/ShaikhWarsi/free-ai-tools) `HN`
+- [122 sayfalık bir franchise FDD okudum, bu yüzden zorunda değilsin – O 1 Ressam yırtıldı](https://muse.ai/s/fdd-teardown-landing-page-gh6bxmdxffpxgxk) `HN`
+- [Datadog Scout 1.0: Üretim sorunlarını araştırmak için yeni SRE modeli](https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/) `HN`
+- [DeLorean, Tesla'dan önce uçan bir arabaya sahip olabilir [video]](https://electrek.co/2026/10/14/delorean-may-have-a-flying-car-in-the-air-before-tesla-does-video/) `HN`
+- [No More Heroes – Terence Tao, Numberphile ile Yapay Zeka Hakkında Konuştu [video]](https://www.youtube.com/watch?v=bAnwMdfcMVw) `HN`
+- [ChatGPT artık Chrome sekmelerinize göz atabilir](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) `HN`
+- [AA - Robotlar v0.1](https://artificialanalysis.ai/articles/aa-robotics) `HN`
+- [Show HN: My AI induced mania in embedded computer graphics engineering [video]](https://www.youtube.com/watch?v=Ig2gYmOTuug) `HN`
+- [SK Hynix, Yapay Zeka Darboğazlarını Ele Almak İçin Yeni Nesil Bellek Yol Haritasını Açıkladı](https://www.koreaittimes.com/news/articleView.html?idxno=158124) `HN`
+- [Linus Torvalds şimdi Linux çekirdek kodu geliştirmek için yapay zeka kullanıyor](https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/) `HN`
+- [Süper kalıcı yapay zeka için hazır değiliz](https://www.natesilver.net/p/were-not-ready-for-superpersistent) `HN`
+- [Yapay zeka yakında çift haneli büyümeye yol açacak mı?](https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit) `HN`
+- [Çağrı Merkezi İşleri Düşüyor, Ancak 14.000 Çağrı, İnsanların Hala Yapay Zekadan Daha İyi Performans Gösterdiğini Gösteriyor](https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai) `HN`
+- [Bugüne Kadarki En Yetenekli ABD Açık Ağırlık Modeli Muse Spark Open'ın Tanıtımı - Meta AI](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxQTR0N0dqcHl2SFlORVRDWlZ2MFg3c1l3czJ5ZF9pQVJMd1FFcTBzTjdfQ00ydURKSVpESEloR2hhVzNJTkIyNU9XalpybnFmdWlJYjhHV0k?oc=5) `RSS`
+- [Diyafram 1.5: İsviçre Yapay Zeka Modeli 262K Bağlama Ulaştı [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMickFVX3lxTE1pRTJ3SGh0MG0yNm9RVGxweXJpNmQ1YkFaRzNoVjRfV3E1eXdiNTVkNXFCeDUwYUxQNk16OU5NQUdiMm5XN0xiZHNlMk1RTTlGd3ZwbWN1dF9rZFdpUGVQR25meERlaWNJUWJrZk9xbjQtdw?oc=5) `RSS`
+- [Sullivan & Cromwell, yasal uzmanlığı sözleşme incelemesine getiriyor](https://openai.com/index/sullivan-cromwell) `RSS`
