@@ -3893,3 +3893,34 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Ondas ve Palantir, Egemen Kenar Operasyonları için Regna AI'yı Başlattı - İnsansız Sistem Teknolojisi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlVUSlhvS1lNMW5NRW1CMVlOak9oYkxpZ0pIRjNvRUhIS2lPV3VNVnI2WkhxaEVERnZhWWR3a0F4TEVGdmY3SjZNS3c1cjZmZWpXT1VmLXd5dlU1TjNvMXJKLTJZRjRwNU81Z19hc0JXZzdJb0FDamRqQUx4VWFNUVpjU3phLUNrSENEQnhBTXc1Yzk3eTlIdHYwT1ZZRzA2TXd6Y1ZUMVdQYmtVT0EySG91U3FQQQ?oc=5) `RSS`
 - [Sıvı AI LFM2.5-24B-A2B: Spesifikasyonlar, Karşılaştırmalar ve Qwen - https://tech-insider.org/](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qVWlqTXFBalVMUFlHSG5WUExaWmp4dzJ4M0IwMllzX25vRm8wek9GZVJiaFEwdzJiMG9QeE5nc19NRjFTTy1ReS1KTzRmZFdwYlZJMzU5XzQwRExHVml3VDczX1ZNYXlaTDkzclVZMA?oc=5) `RSS`
 - [Ölçeklendirme Göstergesi Ön Eğitimi: 2.8 Trilyon Token ve Açık Veri Oluşturma Hattı](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) `RSS`
+
+- [AeroSandbox: Otomatik farklılaştırma yoluyla uçakları tasarlayın ve optimize edin](https://github.com/peterdsharpe/AeroSandbox) `HN`
+- [Yapay Zeka Faturası Ucuz Bölüm](https://avivbenyosef.com/the-ai-bill-is-the-cheap-part/) `HN`
+- [Yapay zeka patlaması 1873 'teki demiryolu kazası gibi sona erecek mi? [VIDEO]](https://www.youtube.com/watch?v=dlkE5cFPj4w) `HN`
+- [Google modelleri artık Openrouter'da Sıfır Veri Saklama özelliğine sahip değil](https://openrouter.ai/sign-in?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fsettings%2Fprivacy) `HN`
+- [Show HN: Deterministic AI Agents Otokorkuluk](https://github.com/aws-safebox/aws-safebox) `HN`
+- [Show HN: Flashpapers – Interactive explainers for AI papers](https://flashpapers.ai/) `HN`
+- [Derlemenin Topluluğa Yönü Bozuldu](https://www.timeextension.com/news/2026/10/the-community-aspect-of-decompilation-has-been-broken-decomp-dev-closes-in-the-wake-of-ai-based-bad-actors) `HN`
+- [Yapay Zeka Devrimi için Ülkeler Bir Araya Geliyor](https://nymag.com/intelligencer/article/china-ai-learning-craze.html) `HN`
+- [AI Startup Character.ai İflas Dosyaları – AI Bubble Bursting [video]](https://www.youtube.com/watch?v=kcMTe1AbvjY) `HN`
+- [Yapay zekadan kaynaklanan yok olma riski konusunda ne kadar endişelenmeliyiz?](https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/) `HN`
+- [San Francisco'da milyarderlerle, veri laboratuvarlarıyla ve yapay zeka kurucularıyla 48 saat geçirdim](https://twitter.com/gregisenberg/status/2110414696037716372) `HN`
+- [Çin yanlısı modeller ne kadar Çin yanlısı?](https://www.vals.ai/blogs/china-us-analysis) `HN`
+- [AlbertCode, bina uygulamaları için bir AI yazılım mühendisliği ajanı](https://www.albertcode.dev) `HN`
+- [Gürültü Altında Bellek: Yapay Zeka Yardımcı Bellek Motorları Neden Kanıt Kaybediyor?](https://www.aai-labs.com/en/research/memory-under-noise) `HN`
+- [Çalışma: İnsan - makine etkileşimi itibarından daha iyi](https://www.mpg.de/27037803/human-learning-is-an-underestimated-factor-in-the-success-of-human-ai-teams) `HN`
+- [HN'yi gösterin: Yapay zeka temsilcinizin Keydris ile ne kadar harcayabileceğini kontrol edin](https://www.youtube.com/watch?v=fboNucIC3uU) `HN`
+- [Acente mi Akış Şeması mı? Çizimini Bitiremediğin Kutuyu Bul](https://frankdenneman.ai/2026-10-13-agent-or-flowchart-find-the-box-you-cant-finish-drawing/) `HN`
+- [Blender'ı tersine mühendislik yaptık ve açık kaynak haline getirdik. BlenderCraft ile tanışın](https://reddit.com/r/blender/comments/1x79j0p/we_did_it_we_reverseengineered_blender_with_ai/) `HN`
+- [Yapay Zeka ile Kitap Yazmak: Elle Yazılmış Kitaplar Nasıl Alakalı Kalır?](https://www.ssp.sh/brain/writing-books-with-ai-study/) `HN`
+- [Geoffrey Hinton: "Uzaylı varlıklar yaratıyoruz. İnsanları seçmeye hazırım '](https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech) `HN`
+- [Yapay Zeka Güvenliği Kurumsal Bir Arsa Değildir](https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot) `HN`
+- [LibreNT – yapay zeka atıklarının Windows temiz oda mühendisliğine nasıl bulaştığı](https://github.com/ahmedarif193/LiberNT) `HN`
+- [Video Cutter AI – uzun videoları kısa kliplere dönüştürün](https://video-cutter.ai/) `HN`
+- [Yapay zeka çağında en önemli olacak beceri: hesaplama (S.Wolfram)[video]](https://www.youtube.com/shorts/DmA01hM5B4E) `HN`
+- [Kumar söz konusu olduğunda Yapay Zeka İnsana kaybedecek](https://www.youtube.com/watch?v=19hdzsbeBHY) `HN`
+- [Show HN: WP Replai – WordPress'te yerleşik yapay zeka sohbet botu](https://wpreplai.com/) `HN`
+- [Hopper Genel Merkezi: Claude ajanlarının masa aldığı bir ofis binası](https://github.com/FairMind-Gen-AI-Studio/hopper-hq) `HN`
+- [Mistral, Timestral: SOTA zaman serisi temel modellerini duyurdu](https://mistral.ai/news/timestral/) `HN`
+- [Kern – AI tarafından oluşturulan kod için sıfır güven doğrulama ağ geçidi](https://github.com/newmathphys/kern) `HN`
+- [Apple, Alibaba AI modellerini kullanarak Çin'de Apple Intelligence AI platformunu başlatacak - Telecompaper](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWV9LOTk2Y0E3ZVFLcURMOExtb1l2d2N3Y055bzJ3a3dkcGthOWtZamhoZmlUMmNzaUtnVEYwSmpCX1NOaHo5WERTdnJNVld1S3VlVDdpSllrZnJqdHJlNmdOQy1IeHRZRVFac0RsaEl1VmMtSF9UbzJPRE1aVmZ5NEhvcmxMck9kaGRHenAteGlqTlllN0toWlJlTXBiX3dYTlhyandNLVh6SUwxS1NGWkUwazVndFlVaTAtcDh2QQ?oc=5) `RSS`
