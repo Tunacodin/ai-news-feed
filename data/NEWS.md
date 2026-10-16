@@ -3924,3 +3924,39 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Mistral, Timestral: SOTA zaman serisi temel modellerini duyurdu](https://mistral.ai/news/timestral/) `HN`
 - [Kern – AI tarafından oluşturulan kod için sıfır güven doğrulama ağ geçidi](https://github.com/newmathphys/kern) `HN`
 - [Apple, Alibaba AI modellerini kullanarak Çin'de Apple Intelligence AI platformunu başlatacak - Telecompaper](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWV9LOTk2Y0E3ZVFLcURMOExtb1l2d2N3Y055bzJ3a3dkcGthOWtZamhoZmlUMmNzaUtnVEYwSmpCX1NOaHo5WERTdnJNVld1S3VlVDdpSllrZnJqdHJlNmdOQy1IeHRZRVFac0RsaEl1VmMtSF9UbzJPRE1aVmZ5NEhvcmxMck9kaGRHenAteGlqTlllN0toWlJlTXBiX3dYTlhyandNLVh6SUwxS1NGWkUwazVndFlVaTAtcDh2QQ?oc=5) `RSS`
+
+- [Arka Kapı Açık Ağırlıklı Yapay Zeka Modelleri](https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html) `HN`
+- [Çözülme Tuzağı: Yapay zeka sonsuz bir gürültü denizinde sinyali boğduğunda](https://maevyn.codes/decoherence) `HN`
+- [Yapay zeka kıyametçileri Anthropic'in gelir rakamlarına odaklanıyor](https://www.businessinsider.com/anthropic-revenue-ipo-ai-doomer-tech-investing-2026-10) `HN`
+- [ABD çalışma saatlerinin % 90 'ı, yapay zeka ölçütleri tarafından iyi karşılanmayan görevlere harcanmaktadır](https://www.mercor.com/research/labor-index/benchmark-map/) `HN`
+- [TanStack AI ile Başlarken: Kurulum ve Temel Bilgiler](https://blog.master.dev/unlocking-ai-in-your-apps-with-tanstack-ai/) `HN`
+- [Citi, yapay zeka temsilcilerinin müşteri hesaplarına erişimini kısıtlıyor](https://cryptobriefing.com/citi-restricts-ai-agents-customer-accounts/) `HN`
+- [Adobe İsteği Başına Yasaklanan Yapay Zekayı Kullanarak Adobe Araçlarını Yeniden Oluşturma Hakkında Gönderi](https://www.reddit.com/r/Bard/comments/1wxmqpt/ive_created_open_source_100_rust_cleanroom/) `HN`
+- [Pekin, ABD rekabeti sırasında yapay zeka ihracatında daha sıkı bir kontrol istiyor](https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/) `HN`
+- [Yapay Zeka ile Üretilen Starling Masaüstü Ortamı Kendi Ofis Paketini Sunuyor](https://www.phoronix.com/news/AI-Starling-Desktop-Office) `HN`
+- [190.000 Yıldız Sistemi ve Bir Milyon Gezegen: AI Ajanları ile GalaxyAtlas İnşa Etmek](https://galaxyatlas.space/) `HN`
+- [Meta, milyonlarca AI lisans ücretinden kaçınmak için yeni ticari HK kullanabilir](https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/) `HN`
+- [Gösteri HN: Brian2 Atlas, dağıtılmış sinir simülasyonu için bir Pas motoru](https://next-brain.ai/brian2-atlas/) `HN`
+- [Matematik Durumunda Yapay Zeka Üzerine Düşünceler](https://3blue1brown.substack.com/p/theres-never-been-a-better-time-to) `HN`
+- [Intel CEO'su, Çin sınırındaki yapay zeka modelinin benimsenmesinin "hızlı" olduğunu söyledi](https://www.reuters.com/world/china/intel-ceo-says-chinese-frontier-ai-model-adoption-has-been-very-fast-2026-10-12/) `HN`
+- [Yapay zeka tarafından üretilen seksi kızlar, azgın içeriklerini artırmak için komedyenleri soyuyor](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/) `HN`
+- [Sabine Hossenfelder gibi bana da yapay zekanın bizi öldüreceğini söylemem için para teklif edildi [video]](https://www.youtube.com/watch?v=claxN4oxDuY) `HN`
+- [Edebi Dolandırıcılıkların Kazançlı Dünyası](https://www.thedial.world/articles/news/ai-book-scams) `HN`
+- [Show HN: Aegis – Yapay Zeka Güvenliği için Ağ Güvenlik Duvarı](https://aegisfw.com/) `HN`
+- [Elorian'ın ilk yapay zeka modeli, sadece görüntülerle ilgili değil, görüntülerle ilgili de akıl yürütmek istiyor](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/) `HN`
+- [Yapay zekanın eğitimle ilgili ortaya çıkardıkları, eğitimin kendisiyle ilgili yüzleşmesi gerekenler](https://vanessaandreotti.substack.com/p/in-the-digital-waters) `HN`
+- [Beam 1.0 İstihbarat, Performans ve Fiyat Analizi](https://artificialanalysis.ai/models/reflection-beam) `HN`
+- ["AI" kullanıcı arayüzlerini düzeltme](https://malerchen.com/fixing-ai-uis/) `HN`
+- [Postgres 19, yapay zeka eleştirmenlerinin insanların düzeltebileceğinden daha fazla hata bulmasının ardından ertelendi](https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471) `HN`
+- [HN: Ajan Sohbetini İndirim Notlarınızda Gösterin – Bağlamla Sohbet Edin ve Yanıtı Kaydedin](https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes) `HN`
+- [AI brainrot'tan nasıl kaçınılır – Miles Cranmer](https://www.youtube.com/watch?v=uXC7OuCas2Q) `HN`
+- [Dünyadaki her yapay zeka temsilcisinin aynı ucuz kağıt havluları satın aldığını hayal edin](https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/) `HN`
+- [Artık Kahraman Yok – Terence Tao, Numberphile ile Yapay Zeka Hakkında Konuştu](https://www.youtube.com/watch?v=bAnwMdfcMVw) `HN`
+- [Yapay zeka güvenlik yazılımını başkasına verme konusundaki kafa karışıklığı](https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software) `HN`
+- [Meta, Çin'in önde gelen oyuncularına rakip olmak için "açık" yapay zeka modelini başlattı: FashionNetwork - The World's Fashion Business News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFhsWnk4aV9SS2E3SmV0M2ZsR1dmcUlrNnB1Zl9vMnVnaGdzcVFpd1N4Q3FrSlUtbGlYZmZRZlZqaVpIdXlxMTZWN0wyRnBYZjE5YkRFa1FUWU82THZvYzdZeEl6Y29CT1l1cDI5V1I4QmVUNkh2RWhPN2JKUHJaNFBwMnJkTDl5SUN6d0ZPektsYUVvSjR0Qmh3NF9aSTU5ZGF0OUdoeFVJS1RabDAxQVEzdnN2aXRhX2xHV2NVQ2Fqb0E?oc=5) `RSS`
+- [Meta, Çin rekabetine rakip olacak yeni 'açık' yapay zeka modelini açıkladı - Tech Xplore](https://news.google.com/rss/articles/CBMiekFVX3lxTFBGQlFqcXFfZWNreHVrVFNYMi15aVdrX3M3YURxdlVmMl9laERxWTgyTFViaHFuVnhXc3JIUks0bGpJbjViUmVnSE9tY3doYkVtOFh5N1RZUDdrcEtxaFB0OWhYVmtFMS0wX3ZsWk94cm1jcTd4S0ZndXFn?oc=5) `RSS`
+- [Nvidia, Yerel Yapay Zeka Ajanları için İkisi Dahil Üç Nemotron Yapay Zeka Modelini Piyasaya Sürüyor - TechRepublic](https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2JDNDU4MHZob0stQXVaa3VhRkd1Z1VSdmxmVDdkM3ZNS0xkTVlOMUdXTEFzNzJ2eFRhTThMbzl6eXFvN0twWlF5bUNQTzlIUmx3bUo0bllKRm9wR2J1U3JBTEVPei1waFVjcS16YVZCakpqa3F1cEdOb09rT0tfdmROZWtvVGU5Q212YkcwYw?oc=5) `RSS`
+- [Jev, Vercel'in şimdiye kadarki en hızlı benimsenen yapay zeka modelidir - TechCrunch](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ00xUFYySmRIeEd4akp6azdfXzlKcUhzRGdlWlZ0cEpXcFFyNWUxb0xSdnFRYUJOdnpTdDlmSmgwRnhNS0V6ME1VSlZ1cUl5M3FPamRtMjFvc0loYUJBTmJoVHF6RkhJYkhBNDliNkFoTUlSNkJUTXJwRElKU2YzMjlvZGJZdw?oc=5) `RSS`
+- [Meta, En İyi Teknolojisini Kapalı Tutarken Açık Yapay Zeka Modelini Yayınladı - Yahoo Finance UK](https://news.google.com/rss/articles/CBMiggFBVV95cUxObUJRbWFMM1h5UERYdnhEdmpINXVmMkNzUGpQS25ENDFwcl85dXQycHNUaEcyQUdtZFNSdWR4QS1iNmFqNm5zZ0xGNU9IM2lqLVp6NjZjRGpCREIySGZQWXFDRmx2U2VZblVuUmxYeHgyOURKT1hiemM5QVpHRWhmdU5n?oc=5) `RSS`
+- [Elorian'ın ilk yapay zeka modeli, sadece görüntülerle ilgili değil, görüntülerle de akıl yürütmek istiyor - TechCrunch](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblE4NlZlMF9VNXdkcm53ejFPUjRsRWJLZU11Tm9Hc0ZnWjdvWWFXcUpndjAzQk5leGVHVlZCRWhRZDJjUnFfM2hEeW1jVnZOQk5QZUtZRXVWWV94dDNJSE1iTlZwaHZ0U0lLRUNyb1ZhS1NBRGNERVpnZTRQWl81SWNKcURnekhZZDU2OHpOZDNoRHZSVl9aN2VuRllscUpSREQ3TWYwTjBRQQ?oc=5) `RSS`
+- [Welcome Beam: Sahip olabileceğiniz, özelleştirebileceğiniz ve ölçeklendirebileceğiniz 501B açık model](https://huggingface.co/blog/reflection-beam) `RSS`
