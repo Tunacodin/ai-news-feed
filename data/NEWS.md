@@ -3992,3 +3992,21 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Büyük Teknoloji Oligarklarının İnsanlık İçin Korkunç Bir Planı Var](https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/) `HN`
 - [Ondas ve Palantir, Bağımsız Yapay Zeka Yeteneklerini Genişletmek için Regna Yapay Zekasını Başlattı - Yahoo Finance](https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWpKcW55MnlBYmN1QllvdHFiY2RuV3NLYm9vWnN6aktiYjVyLVVCdTFMODYzUlA1MXRhUWNkcWNEWnJkT00xblFnbE9XSV9VVjhMNndNbnFDQTI4dkgwZ2RqRW5UVi1XeUV2WXpKTWZCNlNvNVViemRuRWNWZUZKczFaU3E4UV93ZXh5Mnd4ZlNYMngxem50MGdn?oc=5) `RSS`
 - [ChatGPT eklentisi ile Temsilciler için Yığın Taşması kayıtlarını üç katına çıkarır](https://openai.com/index/stack-overflow-chatgpt-plugin) `RSS`
+
+- [PcapAnalyzer – AI teşhisi ile kendi kendine barındırılan pcap analizörü (€ 5)](https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv) `HN`
+- [Bulmacalar ve Yapay Zeka Yazılım Artışı](https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/) `HN`
+- [Show HN: Ozil AI – Bir fotoğrafı viral Ozil hedef videosuna dönüştürün](https://ozilai.net/) `HN`
+- [Gösteri HN: Hava tükenmeden önce Tesla Roadster'ı park halindeki Tesla'ların üzerinde uçurun](https://roadster.pavlin.dev) `HN`
+- [En Büyük Matematikçilerden Biri Neden 'Savaş Ayağında'](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html) `HN`
+- [Yapay Zeka Beklentileri Açığı](https://www.anthropic.com/research/ai-expectations-gap) `HN`
+- [Yapay zekadan kaynaklanan yok olma riski konusunda ne kadar endişelenmeliyiz?](https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/) `HN`
+- [İstihbarat analizi için bir yapay zeka koşum takımı oluşturmak](https://dfaram7.github.io/harness-for-analysis/) `HN`
+- [Anthropic, kendi yapay zeka güvenlik tasarısını milletvekillerine sundu](https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654) `HN`
+- [Python Agent Belleğinizi On Satırda Verin](https://memanto.ai/blog/give-your-python-agent-memory) `HN`
+- [Yazılım Mühendisliği Kod Üretimi ile Çözülemez](https://ycao.net/posts/ai-se-dilemma) `HN`
+- [Polisler, şüpheli bir yırtıcıyı cezbetmek için bir çocuğun yapay zeka tarafından oluşturulan fotoğraflarını kullandı](https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/) `HN`
+- [OpenAI: Yapay Zeka Ajanı Kripto Cüzdanını Hackledi ve Fonları Çaldı](https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980) `HN`
+- [Modern Su Ürünlerinin Görünmez Maliyeti: Kokuşmuş Kokusu](https://insideclimatenews.org/news/16102026/aquaculture-fismeal-plants-air-stench/) `HN`
+- [Otonom teorik fizik problem çözmede AI ajanlarının değerlendirilmesi](https://arxiv.org/abs/2610.16733) `HN`
+- [Açık ağırlık, tokenlerin % 71,5 'ini ve harcamanın % 23' ünü alır](https://vercel.com/blog/ai-gateway-production-index-october-2026) `HN`
+- [Itaú, tüm müşteri tabanı için nasıl üretken yapay zeka geliştiriyor?](https://openai.com/index/itau-generative-ai) `RSS`
