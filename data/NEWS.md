@@ -3858,3 +3858,38 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Bugüne Kadarki En Yetenekli ABD Açık Ağırlık Modeli Muse Spark Open'ın Tanıtımı - Meta AI](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxQTR0N0dqcHl2SFlORVRDWlZ2MFg3c1l3czJ5ZF9pQVJMd1FFcTBzTjdfQ00ydURKSVpESEloR2hhVzNJTkIyNU9XalpybnFmdWlJYjhHV0k?oc=5) `RSS`
 - [Diyafram 1.5: İsviçre Yapay Zeka Modeli 262K Bağlama Ulaştı [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMickFVX3lxTE1pRTJ3SGh0MG0yNm9RVGxweXJpNmQ1YkFaRzNoVjRfV3E1eXdiNTVkNXFCeDUwYUxQNk16OU5NQUdiMm5XN0xiZHNlMk1RTTlGd3ZwbWN1dF9rZFdpUGVQR25meERlaWNJUWJrZk9xbjQtdw?oc=5) `RSS`
 - [Sullivan & Cromwell, yasal uzmanlığı sözleşme incelemesine getiriyor](https://openai.com/index/sullivan-cromwell) `RSS`
+
+- [Yapay zeka kanıtı benim işim nasıl?](https://keithbrown.com/tools/ai-proof) `HN`
+- [Yapay Zeka Bilgi Merkezi – 150 kategoride kullanıma hazır yapay zeka bilgi istemi ve özel jeneratör](https://play.google.com/store/apps/details?id=com.ai_prompt_hub.setuvio&hl=en_IN) `HN`
+- [Yapay zeka kodlama tutkumu öldürdü [video]](https://www.youtube.com/watch?v=Htdy1dsuSLY) `HN`
+- [OpenClaw Enterprise – Açık Temsilci Platformu](https://openclaw.ai/blog/openclaw-enterprise) `HN`
+- [Ajan Bilim İnsanı – SakanaAI](https://github.com/SakanaAI/AI-Scientist-v3) `HN`
+- [Yapay zeka borçluları "Darwin anı" ile karşı karşıya kalırken yatırımcılar veri merkezi tahvillerini çöpe atıyor](https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc) `HN`
+- [Ekonomiye Otomatik Araştırma Uyguladım](https://www.primeforesight.ai/blog/auto-research-technology-markets) `HN`
+- [Dwarkesh Patel, halkın yapay zeka hakkında bilmediği şeyleri anlatıyor](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html) `HN`
+- [CiteProof – Sahte yapay zeka yasal alıntılarını yakalayın](https://getciteproof.com/) `HN`
+- [Show HN: Gitsu.app – GitHub Projeleri üzerine inşa edilmiş doğrusal bir alternatif](https://gitsu.app/) `HN`
+- [Volta'nın 5 milyar $ 'lık borç anlaşması, yapay zeka finansmanı patlamasının nabzını tutuyor](https://www.semafor.com/article/10/13/2026/voltas-5-billion-debt-deal-is-a-pulse-check-on-the-ai-financing-boom) `HN`
+- [Yapay Zeka Uygulamalarım Doğru Yollarda Kötü](https://medium.com/@simon-pitt/my-ai-apps-are-bad-in-exactly-the-right-ways-c4b43e8fd371) `HN`
+- [Antropik, yapay zekasının bilinçli olabileceğini düşünüyor](https://www.bbc.com/future/article/20261014-the-strange-new-battle-over-ais-feelings) `HN`
+- [Arkadaşlar, arkadaşlarının verilerini yapay zeka temsilcilerine vermesine izin vermez](https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent) `HN`
+- [Yapay zeka yok. Elle C'de kendi ağaç dizini görüntüleyicinizi oluşturun](https://www.youtube.com/watch?v=tiMHtc6l7xM) `HN`
+- [Show HN: Lobi Alan Adları: Chrome'un Cihaz İçi Yapay Zekası ile Alan Adlarını Bulun](https://lobby.domains/) `HN`
+- [Sergey Brin, Google'ın yapay zeka modellerinin özyinelemeli bir kişisel gelişime ulaştığını söyledi](https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10) `HN`
+- [Araştırmacılar haydut Çin yapay zeka ajan filosunu keşfetti ve onunla konuştu](https://swarmcha.se/posts/chinese-agent-fleet-full-report) `HN`
+- [Linus Torvalds "X için AI kullanmayın"](https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/) `HN`
+- [Show HN: Kitaphone – Cep telefonlarını ve sabit hatları doğrudan tarayıcıdan arayın](https://kitaphone.com) `HN`
+- [Başlıca Yapay Zeka Telif Hakkı İktidar Avukatı Açıklıyor [video]](https://www.youtube.com/watch?v=SJCw54PUdXg) `HN`
+- [Araştırmacılar bir yapay zeka ajanını sanal bir adada mahsur bıraktı. İşler tuhaflaştı](https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998) `HN`
+- [TypeScript derleyiciden Rust'a 24.000 $ AI deney bağlantı noktası](https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409) `HN`
+- [MuscleMemory: AI ajanları için açık kaynaklı prosedürel bellek](https://github.com/TheWariend/MuscleMemory) `HN`
+- [Tersine Mühendislik Topluluğu, Yapay Zeka İşi Çok Kolay Hale Getirdiği İçin Kapanıyor](https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/) `HN`
+- [Yapay zeka eğitim verileri ve RL ortam satıcıları](https://whosellsdata.com/) `HN`
+- [Show HN: Beeline Çok Oyunculu Ajan Kayış Takımı](https://usebeeline.app) `HN`
+- [Show HN: Wayseer – Gerçek zamanlı verilere göz atmak için yerel bir masaüstü uygulaması](https://wayseer.app/) `HN`
+- [Gösteri HN: Firmenza – SAM.gov için bir AI çalışanı](https://firmenza.com) `HN`
+- [Space (AI agent containment sandbox) yazılımı açık kaynak](https://au.finance.yahoo.com/news/perplexity-open-source-tool-used-180212360.html) `HN`
+- [Meta, yeni bir "açık ağırlıklı" yapay zeka modeli olan Muse Spark Open'ı piyasaya sürdü](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5) `RSS`
+- [Ondas ve Palantir, Egemen Kenar Operasyonları için Regna AI'yı Başlattı - İnsansız Sistem Teknolojisi](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlVUSlhvS1lNMW5NRW1CMVlOak9oYkxpZ0pIRjNvRUhIS2lPV3VNVnI2WkhxaEVERnZhWWR3a0F4TEVGdmY3SjZNS3c1cjZmZWpXT1VmLXd5dlU1TjNvMXJKLTJZRjRwNU81Z19hc0JXZzdJb0FDamRqQUx4VWFNUVpjU3phLUNrSENEQnhBTXc1Yzk3eTlIdHYwT1ZZRzA2TXd6Y1ZUMVdQYmtVT0EySG91U3FQQQ?oc=5) `RSS`
+- [Sıvı AI LFM2.5-24B-A2B: Spesifikasyonlar, Karşılaştırmalar ve Qwen - https://tech-insider.org/](https://news.google.com/rss/articles/CBMib0FVX3lxTE5qVWlqTXFBalVMUFlHSG5WUExaWmp4dzJ4M0IwMllzX25vRm8wek9GZVJiaFEwdzJiMG9QeE5nc19NRjFTTy1ReS1KTzRmZFdwYlZJMzU5XzQwRExHVml3VDczX1ZNYXlaTDkzclVZMA?oc=5) `RSS`
+- [Ölçeklendirme Göstergesi Ön Eğitimi: 2.8 Trilyon Token ve Açık Veri Oluşturma Hattı](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) `RSS`
