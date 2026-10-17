@@ -4077,3 +4077,27 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [MAGS: AI kodunda belirtilen güvenlik özelliklerine ilişkin makine tarafından kontrol edilen garantiler](https://arxiv.org/abs/2609.19391) `HN`
 - [EmbedIDS: Gömülü sistemler ve fiziksel AI için açık kaynaklı saldırı tespiti](https://embedids.linuscent.com/main/) `HN`
 - [Silinen Yapay Zeka Sohbetleri İpuçlarını Geride Bırakabilir](https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind) `HN`
+
+- [YZ - Yerel Büyük Ölçekli Çevik Yazılım Geliştirme Manifestosu](https://arxiv.org/abs/2605.07717) `HN`
+- [Alexandr Wang, Meta'nın Z Kuşağı milyarderi yapay zeka vızıltısı](https://www.economist.com/the-world-in-brief) `HN`
+- [HN: Baa'yı gösterin – AI ajanlarınızın Mac'inizde çalışır durumda bıraktıklarını bulun ve ücretsiz hale getirin](https://github.com/selviarora/baa) `HN`
+- [Show HN: AegisKernel – Tarayıcıdaki AI ajanlarına hızlı enjeksiyon saldırılarını test edin](https://adikshatriyag-crypto.github.io/aegis-kernel/) `HN`
+- [Yapay zeka laboratuvarı, yapay zeka robotlarını eğitmek için ücretsiz sıhhi tesisat ve HVAC onarımları sunuyor](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning) `HN`
+- [Amazon, Birleşik Krallık depolarındaki sendika riskini izlemek için sendika bozan yapay zeka gözetimini kullanıyor](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/) `HN`
+- [Tercümanınızı Gönderin](https://www.basis.ai/blog/ship-your-interpreters/) `HN`
+- [Meta sınırları sarsıyor, açık ve kapalı](https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open) `HN`
+- [Yapay Zeka Klonlamayı Test Ettim ve Düşündüğünüzden Daha Kötü](https://www.youtube.com/watch?v=KC31K-CUC5Y) `HN`
+- [Web siteleri kapılarını yapay zeka temsilcilerine kapatıyor](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web) `HN`
+- [Show HN: Bir yapay zeka bisiklet koçu yaptım](https://cuore.fit/) `HN`
+- [Yapay Zeka Kıyaslamasının Karanlık Bir Sanat Değil, Bir Bilim Olmasını İstiyor](https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/) `HN`
+- [Algılayıcılar AI – klinik uzmanlığı gözden geçirilmiş kurslara dönüştürmek](https://www.perceptors.ai/) `HN`
+- [Decompilations, AI, and the Chase for Clout](https://jpeisach.github.io/blog/ai/legoisland/decompilation/porting/reverse-engineering/2026/10/16/decomps-clout-consoom.html) `HN`
+- [Süper Akıllı Ajanlar için Proaktif Yapay Zeka](https://research.google/pubs/proactive-ai-for-superintelligent-agents/) `HN`
+- [Meta, Muse Spark'ın Ağırlığını Dizeleri Takılı Olarak Açar](https://ailately.com/articles/meta-muse-spark-open-weights) `HN`
+- [ConvyCanvas – Öklid Elementleri için Yapay Zeka Öğretmeni](https://convycanvas.com/elements/reader/#euclid_i/prop_001) `HN`
+- [Yapay Zeka Paradoksu](https://www.youtube.com/watch?v=dcolM6W5Odc) `HN`
+- [HN'ye sorun: Yapay zeka kodunuzun slop olmadığından nasıl emin oluyorsunuz?](https://github.com/trypando/pando) `HN`
+- [Polisler, yapay zeka CSAM'ı üreten "thegentlemanpervert" in bir NJ savcısı olduğunu söylüyor](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) `HN`
+- [Eski güvenlik mühendisi, Amazon'un Bee AI cihazlarının seyirci sorunu olduğunu söyledi](https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/) `HN`
+- [Show HN: Roadster AI – Aracınızın bir fotoğrafını kickflip videosuna dönüştürün](https://flyingcar-ai.net) `HN`
+- [Mahler varsayımının yapay zeka kanıtını göstermek](https://chessapig.github.io/Mahler) `HN`
