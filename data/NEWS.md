@@ -4057,3 +4057,23 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Gemini 4 Argon Küresel Oluyor: 1M Token Lansmanı [2026] - shattered.io](https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTk5VLVNMSzBNcmhfWWtLbEZzNENRdVBQazhKMzI4ZTk3M3h5dmZndW1WQko5Mk1Pd01OWEl3YnltazhZN1d2N2tha0NfWHZWMTNVb25DbzF1anhYbUtpQTI5S3cyMG96Q3hlTFJOVnBfMkV6?oc=5) `RSS`
 - [Sürpriz! Meta ve Apple Yeni Bir Açık Kaynak Yapay Zeka Modeli Üzerinde Birlikte Çalıştı - CNET](https://news.google.com/rss/articles/CBMidEFVX3lxTE84blhmV2dIOVExN05vaGVhalFsbk55OTdwaGdBNkFNMHVoWWxLMm1tdm5ZMDI0T3NTNk80WlVQX2x6aWM0dDQwejU1YWdTLWEyQ2ZQdVFOZnBIZ0RRSE8zRXpUWW4zLU54MGRaNzZkemtEUkFP?oc=5) `RSS`
 - [Benefit Street Partners, Codex ile soruları daha hızlı yanıtlıyor](https://openai.com/index/benefit-street-partners) `RSS`
+
+- [Microsoft yapay zeka şefi, şirketin daha az hesaplama kullanarak OpenAI modellerini yendiğini söyledi](https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10) `HN`
+- [FDE - Gym: Yapay Zeka Teslimatının Son Aşaması](https://arxiv.org/abs/2610.22350) `HN`
+- [SEO Sonrası Yaşam](https://reutersinstitute.politics.ox.ac.uk/news/life-after-seo-how-newsrooms-are-adapting-ai-search-shift) `HN`
+- [Tek tıkla yapay zeka modellerini kurtarın](https://pirateface.co/rescue) `HN`
+- [Yapay Zeka İleri Görüşü](https://developers.google.com/edge/foresight) `HN`
+- [Dijital İmzaları Yapay Zekaya Beslemeden Önce PDF'lerden Çıkarın (LinuxGuide)](https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e) `HN`
+- [Show HN: Herhangi bir şifreli bulmaca ipucu için animasyonlu adım adım ipuçları](https://crypticinkling.co.uk) `HN`
+- [Yapay zeka aklımızı okuyabildiğinde ne olur?](https://www.ft.com/content/45ea3dd0-080d-49a2-86e9-df0148929bf4) `HN`
+- [Yapay zeka bir tsunamiyi tetiklerken, bilgisayar bilimi konferansları sınırlamalar getiriyor](https://www.science.org/content/article/ai-triggers-tsunami-submissions-computer-science-conferences-impose-caps) `HN`
+- [VS Kodu / JetBrains / Visual Studio, npm için AI Mühendislik Akıcılığı Uzantısı](https://github.com/rajbos/ai-engineering-fluency) `HN`
+- [Vibe kodlu ilk silah burada](https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson) `HN`
+- [En hızlı DeepSeek v4.1 flash 1017 – Gün 0](https://runinfra.ai/inference-api/deepseek-v4-1-flash-1017) `HN`
+- [Yapay Zeka Beklentileri Açığı](https://www.anthropic.com/research/ai-expectations-gap) `HN`
+- [Yuvarlak Masa Toplantıları: Yapay Zeka Tasarımlı Virüslerin Yaratıcısı ile Bir Sohbet](https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/) `HN`
+- [Amazon cihaz şefi, yapay zeka cihazlarının uygulamaları kullanma ihtiyacının yerini aldığı bir gelecek öngörüyor](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/) `HN`
+- [Show HN: Gridmark – bir ızgara üzerinde şekilleri değiştirerek logolar oluşturun](https://gridmark.dev/) `HN`
+- [MAGS: AI kodunda belirtilen güvenlik özelliklerine ilişkin makine tarafından kontrol edilen garantiler](https://arxiv.org/abs/2609.19391) `HN`
+- [EmbedIDS: Gömülü sistemler ve fiziksel AI için açık kaynaklı saldırı tespiti](https://embedids.linuscent.com/main/) `HN`
+- [Silinen Yapay Zeka Sohbetleri İpuçlarını Geride Bırakabilir](https://news.research.gatech.edu/2026/10/13/deleted-ai-chats-may-leave-clues-behind) `HN`
