@@ -4010,3 +4010,27 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Otonom teorik fizik problem çözmede AI ajanlarının değerlendirilmesi](https://arxiv.org/abs/2610.16733) `HN`
 - [Açık ağırlık, tokenlerin % 71,5 'ini ve harcamanın % 23' ünü alır](https://vercel.com/blog/ai-gateway-production-index-october-2026) `HN`
 - [Itaú, tüm müşteri tabanı için nasıl üretken yapay zeka geliştiriyor?](https://openai.com/index/itau-generative-ai) `RSS`
+
+- [Lithos - metal: 168 token/s'de 40 çekirdekli M5 Max üzerinde Qwen3.8-27B](https://github.com/lithos-ai/lithos-metal) `HN`
+- [Yapay zeka mühendisleri sıcak bir mülk haline geldi. Şimdi baştan çıkarmanın hedefi oldular](https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr) `HN`
+- [Yapay zeka, mütevazı derecede başarılı yazılım projelerinde bir patlama yaratıyor](https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/) `HN`
+- [HN'yi göster: AI temsilcisi hiç onaylamadığınız talimatları takip eder](https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md) `HN`
+- [Teknoloji Milyarderi Marc Andreessen neden bu kadar kızgın?](https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga) `HN`
+- [Alan'ın AGI'ye muhafazakar geri sayımı: % 99](https://lifearchitect.ai/agi/) `HN`
+- [Çin Açık Ağırlıklı Model İhracatını Kısıtlayacak](https://www.reuters.com/world/asia-pacific/china-proposes-adding-40-ai-biotech-solar-technologies-export-control-list-2026-10-16/) `HN`
+- [SF Yapay Zeka Kurucusunun Zombi Nişancı Oyunu, Bonfile Sakinlerini Hedefe Dönüştürüyor](https://sfist.com/2026/10/15/sf-tech-founders-zombie-shooter-game-turns-tenderloin-residents-into-targets/) `HN`
+- [Gösteri HN: Yapay zekanın DoorDash'i benim için sipariş etmesine izin ver – benim gözetimim altında – oyun yazarı yok](https://www.wysebee.com) `HN`
+- [Yayımcıların Yapay Zeka Eğitimi için Yetkisiz Kitap Satışlarıyla Nippan Dent'e Olan Güveni](https://japannews.yomiuri.co.jp/science-nature/technology/20261014-353599/) `HN`
+- [Show HN: Twain, Meld gibi farklı bir görüntüleyici, ancak yapay zeka çağı için](https://github.com/andunieee/twain) `HN`
+- [Moss - Image: Yerel Düzen Kontrolü ile Metinden Resme Oluşturma](https://openmoss.ai/MOSS-Image/) `HN`
+- [Yapay zeka patlamasının damlama ekonomisi](https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom) `HN`
+- [Yapay Zeka Ağ Geçidi Yönetişimi](https://github.com/ddruhin/ai-gateway-governance-reference-architecture) `HN`
+- [Yapay Zeka Hizmet Göstergeleri](https://github.com/synapticcybersecurity/ai-service-indicators) `HN`
+- [Matris Gradyanları, Ağrısız](https://alexwang.ai/posts/derivatives-and-gradients/) `HN`
+- [Veri Katmanı, Yapay Zekanın Ölmeye Gittiği Yerdir](https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/) `HN`
+- [AI kodlama ajanları ile fzf kullanımı](https://junegunn.github.io/fzf/tips/using-fzf-with-ai-agents/) `HN`
+- [Android, mesajlaşma dolandırıcılıklarına, sahte aramalara karşı yapay zeka savunması aldı](https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/) `HN`
+- [Agent Cyber Sentinel: Yapay zeka ajanları için sıfır güven çalışma zamanı güvenlik kalkanı](https://github.com/BenniAlencar/agent-cyber-sentinel) `HN`
+- [Yanlış Bükücü: Yapay Zeka Duyguları Üzerine Bir Karar](https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings) `HN`
+- [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) `HN`
+- [Ericsson ve Ortakları İsveç'te Sferical One AI Süper Bilgisayarını Başlattı - HPCwire](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTBzZTEzYWduVlcwM0RRLXZiMFdORHd0OTExblpWaWx0SHFPbDQxT2tuUHFUMHpDSDk1VEYyX0haVERBSUcxbzFodlFzSXh1RkExVkI2THhvS1NHMHdpekF5dW1PWm1KQmZ4aHFOVW9nRWsxSXlyelZLeDlUZFFHamx5WXBPeUFiTUJWMnNGYWJCY1NpdGlLRGZJN2hOR3lQUTYyaHZTc2VOUQ?oc=5) `RSS`
