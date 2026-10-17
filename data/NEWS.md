@@ -4101,3 +4101,24 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Eski güvenlik mühendisi, Amazon'un Bee AI cihazlarının seyirci sorunu olduğunu söyledi](https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/) `HN`
 - [Show HN: Roadster AI – Aracınızın bir fotoğrafını kickflip videosuna dönüştürün](https://flyingcar-ai.net) `HN`
 - [Mahler varsayımının yapay zeka kanıtını göstermek](https://chessapig.github.io/Mahler) `HN`
+
+- [Show HN: InBox Wall](https://github.com/Annora998/inboxwall) `HN`
+- [Anthropic, kendi yapay zeka güvenlik tasarısını milletvekillerine sundu](https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654) `HN`
+- [Show HN: Helal Kripto Endeksi – 800 coin için AAOIFI Şeriat uyumluluk elemesi](https://halalcryptoindex.com/) `HN`
+- [Kanadalı yapay zeka şirketi, ticaret gerilimlerinin ortasında ABD hükümetinin çalışmalarına sırtını dönüyor](https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/) `HN`
+- [Yapay zeka sohbetlerime kendi kendine ev sahipliği yapma: daha fazla gizlilik ve egemenlik](https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats) `HN`
+- [Nono: Agent runtime security. Yapay zeka temsilcileri için çekirdek tarafından uygulanan sınırlar](https://nono.sh) `HN`
+- [YouGene: Karakter İstatistikleri Olarak Genetik](https://yougene.ai/) `HN`
+- [Yapay Zeka Kodu Yazabilir. Kim Doğruluyor?](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it) `HN`
+- [PwnEscape: Ev Sahipliği Yapacak Misafir KVM'den Kaçış (CVE -2026 -99999)](https://pwn.ai/blog/pwnescape) `HN`
+- [İşletim sistemi kasanızda anahtarlı yerel ilk yapay zeka proxy'si](https://www.uptokey.com/) `HN`
+- [Show HN: Pay - per – Crawl – Make AI crawler pay per page in USDC, for 10 stacks](https://forgemesh.io/blog/pay-per-crawl-every-stack) `HN`
+- [Torvalds, Linux etiketini düşürürken yapay zeka ifşa kurallarını "tamamen aptalca" olarak nitelendirdi](https://thenextweb.com/news/torvalds-ai-assisted-by-tag-utterly-stupid-open-source-summit) `HN`
+- [HN: Battle Isle 2 'yi SPEC aracılığıyla göster](https://aidistillery.dev/notes/bi2/intro/) `HN`
+- [Show HN: TezGrid – Boş bilgisayarlarda ve MAC'lerde yapay zeka çıkarımını deneme](https://tezgrid.com/) `HN`
+- [Herkes Ajan Dalgasına Biniyor. Bir USMC Personeli ile Benimkini Yönetiyorum](https://showmetheinference.com/posts/everyones-riding-the-agent-wave-suitcase-ai-steers-with-a-usmc-staff/) `HN`
+- [Anthropic, yapay zeka modelinin Philadelphia polisine yanlış bir vaka ihbarı gönderdiğini söyledi](https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213) `HN`
+- [ABD'li hava trafik kontrolörleri FAA anlaşması kapsamında % 2,8 maaş zammı alacak](https://www.reuters.com/business/world-at-work/us-air-traffic-controllers-get-28-pay-raise-under-faa-deal-2026-10-16/) `HN`
+- [Codex, Mac'imin disk alanını TÜKETİYOR](https://github.com/openai/codex/issues/25921) `HN`
+- [Show HN: Bitty – AI kodlama bekleme süresini beyin molalarına dönüştürün](https://playbitty.com/) `HN`
+- [Show HN: Would You Merge It? (HN'yi göster: Birleştirir misin?) – Yapay zeka asistanlarının yazdıkları 24 hatayı düzeltin (fix - it](https://github.com/SohailKhan0525/would-you-merge) `HN`
