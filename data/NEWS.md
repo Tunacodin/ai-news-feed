@@ -4034,3 +4034,26 @@ Saatlik yapay zeka haberleri. Basliklar Turkce, gorsel/video varsa ekli.
 - [Yanlış Bükücü: Yapay Zeka Duyguları Üzerine Bir Karar](https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings) `HN`
 - [Show HN: Fakeipedia – Wikipedia for worlds that don't exist](https://fakeipedia.org) `HN`
 - [Ericsson ve Ortakları İsveç'te Sferical One AI Süper Bilgisayarını Başlattı - HPCwire](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTBzZTEzYWduVlcwM0RRLXZiMFdORHd0OTExblpWaWx0SHFPbDQxT2tuUHFUMHpDSDk1VEYyX0haVERBSUcxbzFodlFzSXh1RkExVkI2THhvS1NHMHdpekF5dW1PWm1KQmZ4aHFOVW9nRWsxSXlyelZLeDlUZFFHamx5WXBPeUFiTUJWMnNGYWJCY1NpdGlLRGZJN2hOR3lQUTYyaHZTc2VOUQ?oc=5) `RSS`
+
+- [Show HN: CiteLadder – açık kaynaklı AI arama görünürlüğü izleyicisi](https://github.com/abhij1306/CiteLadder) `HN`
+- [Havacılık süper hayranı dairesine bir Airbus A380 süiti kuruyor](https://www.cnn.com/travel/aviation-superfan-a380-etihad-residence-suite) `HN`
+- [DeepSeek-v4.1-Flash-1017 burada](https://twitter.com/deepseek_ai/status/2111375640717033777) `HN`
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) `HN`
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) `HN`
+- [Show HN: Sys2txt – Yerel bir LLM ile CLI'deki sistem sesini metne dönüştürün](https://Joe-Heffer.github.io/sys2txt/) `HN`
+- [Model eğitimi için ticari müşterilerden içerik kazımak için meta](https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658) `HN`
+- [Araştırmacılar bir yapay zeka ajanını sanal bir adada mahsur bıraktı](https://gizmodo.com/researchers-stranded-an-ai-agent-on-a-virtual-island-things-got-very-weird-2000825998) `HN`
+- [Yapay zeka temsilcilerinin harekete geçmeden önce sordukları açık kaynaklı bir Kubernetes panosu oluşturdum](https://lumovi.dev/) `HN`
+- [Bakış: Temelde kalan görsel düşünce](https://elorian.ai/blog/introducing-glimpse) `HN`
+- [Decomp.dev, Yapay Zeka Oyunları Derlemeyi Çok Kolay Hale Getirdiği İçin Kapatıyor](https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/) `HN`
+- [Show HN: Tarayıcı tabanlı 3B araçlardan oluşan ücretsiz bir koleksiyon hazırladım](https://3dvalley.com) `HN`
+- [Aracı sohbet arayüzü nasıl bozulabilir?](https://astralbeam.ai/blog/ten-agentic-chat-interface-failures) `HN`
+- [Yapay Zekadan Kaynaklanan Varoluşsal Risk: Matematikçiler İçin Bir Açıklama](https://alkjash.github.io/ai-risk/) `HN`
+- [Claude CRISPR benzeri dizi, yayınlanmamış araştırmanın paralel bir keşfi olabilir](https://recul.ai/news/claude-viral-dna-pattern-priority-dispute/) `HN`
+- [Çin Yapay Zeka Ekosisteminin Rui Ma ile Haritalanması [video]](https://www.youtube.com/watch?v=-RDpqweadlE) `HN`
+- [Zeabur, Ağustos ayındaki güvenlik ihlalinin ardından AI Hub'ı durdurdu](https://zeabur.com/changelogs/aihub-shutdown) `HN`
+- [Meta, yeni "açık" yapay zeka modelini piyasaya sürüyor ve bu büyük bir sürprizle geliyor: The Independent](https://news.google.com/rss/articles/CBMikAFBVV95cUxOZUFqVlpvNXZTX1NWWjdQbTlXa1lkdWpndTREaHFoUDFuWWktN3oxNl9KSnJpZkNIUFVsdVQwYkFUQWR3NGpKME5PMEFMZFI0cFczOGNTSHZvNnlHTEdZWTFmeTU5ZlExRjd2bjQ2SGZRb0VzNXVmRE5MQ3RQWk9hZVpzQURhT3FFNEhCTTg2Tk8?oc=5) `RSS`
+- [Meta, Muse Spark Open ve Challenges China'yı Yayınladı - Tech.co](https://news.google.com/rss/articles/CBMifEFVX3lxTFA3Z29iZXJVY3pWNUhCUy1Nd2dDVDYxVDc5dHcydi1MU1dOTkJRbWphVGc2QU9ObFFLclhvQWhsS0t1QmVPbW5nbF9hYVcyTUVWVjFBMnJ5c3JFVkJsUEd3c05BMXVvWmZUOTRCQWZVZHJHU2RUMkNlR1d6OVY?oc=5) `RSS`
+- [Gemini 4 Argon Küresel Oluyor: 1M Token Lansmanı [2026] - shattered.io](https://news.google.com/rss/articles/CBMidEFVX3lxTFBaTk5VLVNMSzBNcmhfWWtLbEZzNENRdVBQazhKMzI4ZTk3M3h5dmZndW1WQko5Mk1Pd01OWEl3YnltazhZN1d2N2tha0NfWHZWMTNVb25DbzF1anhYbUtpQTI5S3cyMG96Q3hlTFJOVnBfMkV6?oc=5) `RSS`
+- [Sürpriz! Meta ve Apple Yeni Bir Açık Kaynak Yapay Zeka Modeli Üzerinde Birlikte Çalıştı - CNET](https://news.google.com/rss/articles/CBMidEFVX3lxTE84blhmV2dIOVExN05vaGVhalFsbk55OTdwaGdBNkFNMHVoWWxLMm1tdm5ZMDI0T3NTNk80WlVQX2x6aWM0dDQwejU1YWdTLWEyQ2ZQdVFOZnBIZ0RRSE8zRXpUWW4zLU54MGRaNzZkemtEUkFP?oc=5) `RSS`
+- [Benefit Street Partners, Codex ile soruları daha hızlı yanıtlıyor](https://openai.com/index/benefit-street-partners) `RSS`
